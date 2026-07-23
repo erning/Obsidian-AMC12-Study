@@ -40,7 +40,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2024-B
 - [x] 2023-A
 - [x] 2023-B
-- [ ] 2022-A
+- [x] 2022-A
 - [ ] 2022-B
 - [ ] 2021-A
 - [ ] 2021-B
@@ -110,4 +110,4 @@ historical collection is complete.
 
 ## Current next exam
 
-- 2022-A
+- 2022-B
