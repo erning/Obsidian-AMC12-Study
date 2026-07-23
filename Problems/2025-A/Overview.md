@@ -2,7 +2,7 @@
 year: 2025
 contest: AMC12A
 type: exam
-status: in-progress
+status: completed
 ---
 
 # 2025 AMC 12A
@@ -70,4 +70,4 @@ status: in-progress
 | Q22 | E |
 | Q23 | C |
 | Q24 | C |
-| Q25 | E (needs verification) |
+| Q25 | E (intended; literal count is 8) |

@@ -2,7 +2,7 @@
 year: 2025
 contest: AMC12B
 type: exam
-status: in-progress
+status: completed
 ---
 
 # AMC12 2025-B
@@ -69,4 +69,3 @@ status: in-progress
 - Q23: E
 - Q24: D
 - Q25: E
-
