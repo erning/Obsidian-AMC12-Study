@@ -52,7 +52,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2018-B
 - [x] 2017-A
 - [x] 2017-B
-- [ ] 2016-A
+- [x] 2016-A
 - [ ] 2016-B
 - [ ] 2015-A
 - [ ] 2015-B
@@ -108,4 +108,4 @@ historical collection is complete.
 
 ## Current next exam
 
-- 2016-A
+- 2016-B
