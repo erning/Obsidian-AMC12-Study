@@ -83,7 +83,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2002-A
 - [x] 2002-B
 - [x] 2001
-- [ ] 2000
+- [x] 2000
 
 The exact A/B split for each year will be verified from authoritative sources.
 If a year has multiple official versions, each version is treated as a
@@ -106,6 +106,6 @@ Use one English ASCII Conventional Commit for each exam. Do not combine two
 exam versions in one commit. This temporary plan file may be deleted after the
 historical collection is complete.
 
-## Current next exam
+## Status
 
-- 2000
+All planned exams from 2000 through 2025 are complete.
