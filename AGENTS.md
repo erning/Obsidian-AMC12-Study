@@ -6,6 +6,10 @@ Markdown and keep vault configuration changes scoped and intentional.
 ## Repository Layout
 
 - `.obsidian/` stores shared Obsidian settings and the Things theme.
+- `Problems/` stores exam notes. Each exam has one directory named
+  `<year>-<part>`, containing `Overview.md` and one note per problem.
+- `assets/` stores downloaded source files and generated problem or solution
+  images. Asset paths should mirror the corresponding problem directory.
 - `.agents/skills/` stores the actual skill files.
 - `.claude/skills/` and `.pi/skills/` are symlink views into `.agents/skills/`.
 - `skills-lock.json` records the installed Obsidian skill set.
@@ -19,6 +23,12 @@ Markdown and keep vault configuration changes scoped and intentional.
   callouts, embeds, properties, Canvas files, or Bases are specifically useful.
 - Use wikilinks for vault-internal note links and Markdown links for external
   URLs.
+- Use English filenames with consistent names such as `Overview.md`,
+  `Q01.md`, and `2025-A`. Keep note content in the language appropriate for
+  the study material.
+- For Obsidian math, use `$...$` for inline LaTeX and `$$...$$` for
+  display LaTeX. Use local image embeds when Markdown or LaTeX cannot clearly
+  represent a problem.
 - Keep generated docs short, practical, and readable in Obsidian.
 
 ## Git

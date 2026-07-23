@@ -1,7 +1,7 @@
-# Empty Obsidian Note
+# AMC12 Study Notes
 
-A minimal Obsidian vault with shared editor settings, the Things theme, and
-installed Obsidian-related agent skills.
+An Obsidian vault for studying AMC12 through past contests, problem-by-problem
+solutions, and topic-based review.
 
 ## What Is Included
 
@@ -12,15 +12,34 @@ installed Obsidian-related agent skills.
 - `.claude/skills/` and `.pi/skills/`: Symlinks to the shared skills in
   `.agents/skills/`.
 - `skills-lock.json`: Lockfile for the installed Obsidian skills.
+- `Problems/`: Exam overviews and individual problem notes.
+- `assets/`: Downloaded PDFs and cropped problem or solution images.
 
 ## Usage
 
-Open this directory as an Obsidian vault. Workspace state, caches, local
-environment files, dependency folders, logs, and OS/editor noise are ignored by
-Git.
+Open this directory as an Obsidian vault. Each exam is organized as
+`Problems/<year>-<part>/`, for example:
+
+```text
+Problems/
+  2025-A/
+    Overview.md
+    Q01.md
+    Q02.md
+assets/
+  problems/
+    2025-A/
+      Q01.png
+      2025-AMC12A.pdf
+```
+
+`Overview.md` provides the exam source links, a checklist of problems, and an
+answer key. Each `Q<number>.md` note contains the problem image, problem
+statement, answer, solution, knowledge points, key idea, and common mistakes.
 
 ## Notes
 
-This vault currently contains configuration and tooling, not personal note
-content. Add notes as normal Markdown files and keep reusable configuration in
-version control.
+Use English filenames and Obsidian Flavored Markdown. For mathematical
+notation, use `$...$` for inline LaTeX and `$$...$$` for display LaTeX.
+Keep downloaded materials and generated images under `assets/`, using paths
+that mirror the related problem notes.
