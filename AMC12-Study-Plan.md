@@ -48,7 +48,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2020-B
 - [x] 2019-A
 - [x] 2019-B
-- [ ] 2018-A
+- [x] 2018-A
 - [ ] 2018-B
 - [ ] 2017-A
 - [ ] 2017-B
@@ -108,4 +108,4 @@ historical collection is complete.
 
 ## Current next exam
 
-- 2018-A
+- 2018-B
