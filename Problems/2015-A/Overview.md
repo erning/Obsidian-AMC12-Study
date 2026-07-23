@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]]
-- [ ] [[Q02]]
-- [ ] [[Q03]]
-- [ ] [[Q04]]
-- [ ] [[Q05]]
-- [ ] [[Q06]]
-- [ ] [[Q07]]
-- [ ] [[Q08]]
-- [ ] [[Q09]]
-- [ ] [[Q10]]
-- [ ] [[Q11]]
-- [ ] [[Q12]]
-- [ ] [[Q13]]
-- [ ] [[Q14]]
-- [ ] [[Q15]]
-- [ ] [[Q16]]
-- [ ] [[Q17]]
-- [ ] [[Q18]]
-- [ ] [[Q19]]
-- [ ] [[Q20]]
-- [ ] [[Q21]]
-- [ ] [[Q22]]
-- [ ] [[Q23]]
-- [ ] [[Q24]]
-- [ ] [[Q25]]
+- [ ] [[Q01]] — Exponents
+- [ ] [[Q02]] — Triangle inequality
+- [ ] [[Q03]] — Averages
+- [ ] [[Q04]] — Ratios
+- [ ] [[Q05]] — Rounding inequalities
+- [ ] [[Q06]] — Ages
+- [ ] [[Q07]] — Cylinder scaling
+- [ ] [[Q08]] — Rectangle ratios
+- [ ] [[Q09]] — Probability
+- [ ] [[Q10]] — Diophantine equations
+- [ ] [[Q11]] — Circle tangents
+- [ ] [[Q12]] — Parabola geometry
+- [ ] [[Q13]] — Tournament scores
+- [ ] [[Q14]] — Logarithms
+- [ ] [[Q15]] — Terminating decimals
+- [ ] [[Q16]] — Tetrahedron volume
+- [ ] [[Q17]] — Circular arrangements
+- [ ] [[Q18]] — Vieta's formulas
+- [ ] [[Q19]] — Integer quadrilaterals
+- [ ] [[Q20]] — Isosceles triangles
+- [ ] [[Q21]] — Ellipse and circle
+- [ ] [[Q22]] — Recurrences
+- [ ] [[Q23]] — Geometric probability
+- [ ] [[Q24]] — Complex numbers
+- [ ] [[Q25]] — Tangent circles
 
 ## Answer Key
 
