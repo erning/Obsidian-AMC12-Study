@@ -20,25 +20,25 @@ status: completed
 - [ ] [[Q04]] — P1 — Ratios and linear equations
 - [ ] [[Q05]] — P1 — Fractional inequalities and monotonicity
 - [ ] [[Q06]] — P1 — Age equations and constant differences
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Cylinder volume and percentage scaling
+- [ ] [[Q07]] — XX — Cylinder volume and percentage scaling
 - [ ] [[Q08]] — P1 — Pythagorean triples and area scaling
 - [ ] [[Q09]] — S1 — Conditional probability and random-sampling symmetry
-- [ ] [[Q10]] — Outside the core 9709 syllabus — Diophantine equations and divisors
+- [ ] [[Q10]] — XX — Diophantine equations and divisors
 - [ ] [[Q11]] — P1 — Common tangents to circles and geometric cases
 - [ ] [[Q12]] — P2 — Parabolas, coordinate intercepts, and kite area
-- [ ] [[Q13]] — Outside the core 9709 syllabus — Tournament invariants and parity
+- [ ] [[Q13]] — XX — Tournament invariants and parity
 - [ ] [[Q14]] — P2 — Change of base and logarithm identities
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Terminating decimals and denominator factors
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Tetrahedron volume and perpendicular planes
+- [ ] [[Q15]] — XX — Terminating decimals and denominator factors
+- [ ] [[Q16]] — XX — Tetrahedron volume and perpendicular planes
 - [ ] [[Q17]] — S1 — Circular arrangements and independent coin flips
 - [ ] [[Q18]] — P2 — Vieta's formulas and integer factor pairs
 - [ ] [[Q19]] — P1 — Pythagoras' theorem and geometric parametrisation
 - [ ] [[Q20]] — P1 — Isosceles-triangle areas and algebraic factorisation
 - [ ] [[Q21]] — P2 — Ellipse foci and circle intersections
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Recurrences and modular periodicity
+- [ ] [[Q22]] — XX — Recurrences and modular periodicity
 - [ ] [[Q23]] — S1 — Geometric probability and square-side casework
 - [ ] [[Q24]] — P3 — Complex numbers and rational enumeration
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Tangent-circle relations and geometric series
+- [ ] [[Q25]] — XX — Tangent-circle relations and geometric series
 
 ## Answer Key
 

@@ -16,11 +16,11 @@ status: completed
 
 - [ ] [[Q01]] — P1 — Rates and relative motion
 - [ ] [[Q02]] — P1 — Linear equations, mixed numbers, and fractions
-- [ ] [[Q03]] — Outside the core 9709 syllabus — Perfect squares and divisibility
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Prime factorisation and decimal place value
+- [ ] [[Q03]] — XX — Perfect squares and divisibility
+- [ ] [[Q04]] — XX — Prime factorisation and decimal place value
 - [ ] [[Q05]] — S1 — Disjoint probabilities and stopping times
 - [ ] [[Q06]] — P2 — Logarithms, midpoints, and coordinate differences
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Digit parity and systematic casework
+- [ ] [[Q07]] — XX — Digit parity and systematic casework
 - [ ] [[Q08]] — S1 / P1 — Averages and linear equations
 - [ ] [[Q09]] — P1 — Similar figures, Pythagoras' theorem, and ratios
 - [ ] [[Q10]] — P1 — Algebraic equations, absolute value, and positivity
@@ -33,11 +33,11 @@ status: completed
 - [ ] [[Q17]] — S1 / P2 — Probability recurrences and geometric series
 - [ ] [[Q18]] — P2 — Tangent circles, coordinate geometry, and symmetry
 - [ ] [[Q19]] — P2 — Change of base, logarithmic domains, and Vieta's formulas
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Recurrences, triangular arrays, and modular arithmetic
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Graph distances, icosahedral symmetry, and counting
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Divisor sums, multiplicative functions, and prime powers
+- [ ] [[Q20]] — XX — Recurrences, triangular arrays, and modular arithmetic
+- [ ] [[Q21]] — XX — Graph distances, icosahedral symmetry, and counting
+- [ ] [[Q22]] — XX — Divisor sums, multiplicative functions, and prime powers
 - [ ] [[Q23]] — P1 — AM-GM, equality conditions, and inequalities
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Nested subsets, combinatorics, and modular arithmetic
+- [ ] [[Q24]] — XX — Nested subsets, combinatorics, and modular arithmetic
 - [ ] [[Q25]] — P3 — Multiple-angle identities, complex numbers, and the binomial theorem
 
 ## Answer Key

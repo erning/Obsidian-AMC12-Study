@@ -28,18 +28,18 @@ status: completed
 - [ ] [[Q11]] — S1 — Subset counting and inclusion-exclusion
 - [ ] [[Q12]] — P3 — Complex roots, polar form, and conjugates
 - [ ] [[Q13]] — S1 — Symmetry, equivalence classes, and casework
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Cone and frustum volumes with similarity
+- [ ] [[Q14]] — XX — Cone and frustum volumes with similarity
 - [ ] [[Q15]] — P1 — Similar-triangle areas and geometric decomposition
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Factorial prime factors and divisor counting
+- [ ] [[Q16]] — XX — Factorial prime factors and divisor counting
 - [ ] [[Q17]] — S1 — Independent events and Bernoulli probabilities
 - [ ] [[Q18]] — P1 — Similar triangles, Thales' theorem, and area ratios
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Modular arithmetic and divisibility tests
+- [ ] [[Q19]] — XX — Modular arithmetic and divisibility tests
 - [ ] [[Q20]] — P2 / S1 — Geometric series and continuous probability
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Divisibility constraints and integer averages
+- [ ] [[Q21]] — XX — Divisibility constraints and integer averages
 - [ ] [[Q22]] — S1 — Ordered outcomes, net flow, and casework
 - [ ] [[Q23]] — P2 — Vieta's formulas, cubic interpolation, and secants
 - [ ] [[Q24]] — P1 — Similar right triangles, coordinates, and area determinants
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Binomial coefficients and periodic divisibility
+- [ ] [[Q25]] — XX — Binomial coefficients and periodic divisibility
 
 ## Answer Key
 

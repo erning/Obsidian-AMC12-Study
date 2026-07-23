@@ -20,22 +20,22 @@ status: completed
 - [ ] [[Q04]] — P1 — Negating inequalities and intersecting intervals
 - [ ] [[Q05]] — P1 — Quadratic factorisation and common roots
 - [ ] [[Q06]] — S1 — Mean, median, and ordered data
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Prime exponents and integer powers
+- [ ] [[Q07]] — XX — Prime exponents and integer powers
 - [ ] [[Q08]] — P1 — Similar triangles and area scaling
 - [ ] [[Q09]] — P3 — Angle-addition identities and trigonometric ranges
 - [ ] [[Q10]] — P1 — Modulus and piecewise linear systems
 - [ ] [[Q11]] — P1 — Perpendicular bisectors and similar right triangles
-- [ ] [[Q12]] — Outside the core 9709 syllabus — Divisibility chains and extremal sets
-- [ ] [[Q13]] — Outside the core 9709 syllabus — Balanced ternary and finite-set symmetry
+- [ ] [[Q12]] — XX — Divisibility chains and extremal sets
+- [ ] [[Q13]] — XX — Balanced ternary and finite-set symmetry
 - [ ] [[Q14]] — P2 — Change of base and exponential equations
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Group actions, orbits, and symmetry counting
+- [ ] [[Q15]] — XX — Group actions, orbits, and symmetry counting
 - [ ] [[Q16]] — P2 — Curve substitution and real-root counting
 - [ ] [[Q17]] — P1 — Point-to-line distance and area ratios
 - [ ] [[Q18]] — P1 — Similarity, midpoints, and angle bisectors
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Prime factorisation and infinite geometric series
+- [ ] [[Q19]] — XX — Prime factorisation and infinite geometric series
 - [ ] [[Q20]] — P1 — Cyclic quadrilaterals, cosine rule, and quadratics
 - [ ] [[Q21]] — P2 — Polynomial monotonicity and root comparison
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Complex square roots and vector cross products
+- [ ] [[Q22]] — XX — Complex square roots and vector cross products
 - [ ] [[Q23]] — P1 — Midlines, parallelograms, and isosceles triangles
 - [ ] [[Q24]] — S1 / P2 — Continuous probability and quadratic optimisation
 - [ ] [[Q25]] — P2 — Repunit expressions and polynomial identities

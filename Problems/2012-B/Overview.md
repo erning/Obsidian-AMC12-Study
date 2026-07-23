@@ -18,26 +18,26 @@ status: completed
 - [ ] [[Q02]] — P1 — Circles, rectangles, and ratios
 - [ ] [[Q03]] — P1 — Linear equations
 - [ ] [[Q04]] — P1 — Percentages and unit conversion
-- [ ] [[Q05]] — Outside the core 9709 syllabus — Parity and integer casework
+- [ ] [[Q05]] — XX — Parity and integer casework
 - [ ] [[Q06]] — P1 — Estimation, rounding, and inequalities
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Periodic patterns and unit conversion
+- [ ] [[Q07]] — XX — Periodic patterns and unit conversion
 - [ ] [[Q08]] — S1 — Restricted arrangements and the multiplication principle
 - [ ] [[Q09]] — P1 — Rates and simultaneous equations
 - [ ] [[Q10]] — P1 — Simultaneous equations, curve intersections, and triangle area
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Number bases and quadratic equations
+- [ ] [[Q11]] — XX — Number bases and quadratic equations
 - [ ] [[Q12]] — S1 — Inclusion-exclusion and combinations
 - [ ] [[Q13]] — S1 — Complementary counting and discrete probability
 - [ ] [[Q14]] — P1 — Reverse processes, exponential growth, and inequalities
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Cones, three-dimensional volume, and Pythagoras' theorem
+- [ ] [[Q15]] — XX — Cones, three-dimensional volume, and Pythagoras' theorem
 - [ ] [[Q16]] — S1 — Casework and the multiplication principle
 - [ ] [[Q17]] — P1 — Coordinate geometry, slopes, and simultaneous equations
 - [ ] [[Q18]] — S1 — Combinations, bijections, and ordered selections
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Cube geometry, symmetry, and three-dimensional coordinates
+- [ ] [[Q19]] — XX — Cube geometry, symmetry, and three-dimensional coordinates
 - [ ] [[Q20]] — P1 — Trapezia, Heron's formula, and geometric casework
 - [ ] [[Q21]] — P1 — Equiangular polygons, congruence, and Pythagoras' theorem
 - [ ] [[Q22]] — S1 — Restricted lattice paths and counting by cases
 - [ ] [[Q23]] — P3 — Complex numbers, roots of unity, and triangle inequalities
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Prime factorisation, divisibility, and recurrences
+- [ ] [[Q24]] — XX — Prime factorisation, divisibility, and recurrences
 - [ ] [[Q25]] — P2 — Trigonometric identities, telescoping products, and symmetry
 
 ## Answer Key

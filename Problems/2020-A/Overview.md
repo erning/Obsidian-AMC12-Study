@@ -17,10 +17,10 @@ status: completed
 - [ ] [[Q01]] — P1 — Percentages and successive operations on a remainder
 - [ ] [[Q02]] — P1 — Distance formula and grid coordinates
 - [ ] [[Q03]] — P1 — Rates, unit conversion, and net earnings
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Divisibility rules and multiplication principle
+- [ ] [[Q04]] — XX — Divisibility rules and multiplication principle
 - [ ] [[Q05]] — P1 — Arithmetic means of consecutive integers and magic-square totals
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Reflection symmetry and transformation orbits
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Cube surface area and projections
+- [ ] [[Q06]] — XX — Reflection symmetry and transformation orbits
+- [ ] [[Q07]] — XX — Cube surface area and projections
 - [ ] [[Q08]] — S1 — Median of an even-sized data set and duplicates
 - [ ] [[Q09]] — P3 — Tangent period, asymptotes, and intersections
 - [ ] [[Q10]] — P2 — Change of base and logarithmic equations
@@ -29,16 +29,16 @@ status: completed
 - [ ] [[Q13]] — P1 — Nested radicals, indices, and rational equations
 - [ ] [[Q14]] — P1 — Regular polygons, cyclic quadrilaterals, and diagonals
 - [ ] [[Q15]] — P3 — Roots of unity, factorisation, and complex-plane distance
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Lattice periodicity and area probability
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Shoelace formula, logarithms, and consecutive integers
+- [ ] [[Q16]] — XX — Lattice periodicity and area probability
+- [ ] [[Q17]] — XX — Shoelace formula, logarithms, and consecutive integers
 - [ ] [[Q18]] — P1 — Coordinates, Thales' theorem, and triangle area
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Geometric-series factorisation and binary representation
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Isometry groups and ordered-choice counting
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Prime exponents, LCM, and GCD
+- [ ] [[Q19]] — XX — Geometric-series factorisation and binary representation
+- [ ] [[Q20]] — XX — Isometry groups and ordered-choice counting
+- [ ] [[Q21]] — XX — Prime exponents, LCM, and GCD
 - [ ] [[Q22]] — P3 / P2 — Complex numbers and infinite geometric series
 - [ ] [[Q23]] — S1 — Conditional optimisation and dice probabilities
 - [ ] [[Q24]] — P1 — Equilateral-triangle coordinates and distance equations
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Floor functions and piecewise quadratics
+- [ ] [[Q25]] — XX — Floor functions and piecewise quadratics
 
 ## Answer Key
 

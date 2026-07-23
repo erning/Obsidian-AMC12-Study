@@ -32,10 +32,10 @@ status: completed
 - [ ] [[Q16]] — P3 — Complex conjugates and loci
 - [ ] [[Q17]] — P2 — Vieta's formulas and logarithms
 - [ ] [[Q18]] — P1 — Parabolas, midpoints, and distance formula
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Cone-sphere tangency in three dimensions
+- [ ] [[Q19]] — XX — Cone-sphere tangency in three dimensions
 - [ ] [[Q20]] — S1 — Cube colourings, symmetry, and probability
 - [ ] [[Q21]] — P1 / P2 — Ellipses, tangents from the origin, and quadratic roots
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Multiplicative magic squares and divisibility
+- [ ] [[Q22]] — XX — Multiplicative magic squares and divisibility
 - [ ] [[Q23]] — P2 / S1 — Vieta's formulas and integer-root counting
 - [ ] [[Q24]] — P1 / P2 — Trigonometric ratios and arithmetic-geometric sequences
 - [ ] [[Q25]] — P2 — Logarithms, leading digits, and exponential intervals

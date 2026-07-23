@@ -23,21 +23,21 @@ status: completed
 - [ ] [[Q07]] — P2 — Change of base and telescoping products
 - [ ] [[Q08]] — P1 — Centroids as affine averages and circle area
 - [ ] [[Q09]] — P2 — Double sums and arithmetic series
-- [ ] [[Q10]] — Outside the core 9709 syllabus — Pigeonhole principle and extremal counting
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Net geometry and $45^\circ$ right triangles
+- [ ] [[Q10]] — XX — Pigeonhole principle and extremal counting
+- [ ] [[Q11]] — XX — Net geometry and $45^\circ$ right triangles
 - [ ] [[Q12]] — P1 — Angle bisectors and triangle inequalities
 - [ ] [[Q13]] — P1 — Coordinate centroids and area from diagonals
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Divisor-count function and age equations
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Digit divisibility and counting
+- [ ] [[Q14]] — XX — Divisor-count function and age equations
+- [ ] [[Q15]] — XX — Digit divisibility and counting
 - [ ] [[Q16]] — P3 — Roots of unity and regular polygon geometry
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Rational approximation and Farey inequalities
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Recurrences and periodic reduction
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Divisibility, GCD, and factor bounds
+- [ ] [[Q17]] — XX — Rational approximation and Farey inequalities
+- [ ] [[Q18]] — XX — Recurrences and periodic reduction
+- [ ] [[Q19]] — XX — Divisibility, GCD, and factor bounds
 - [ ] [[Q20]] — P1 — Regular-hexagon area, similarity, and midpoint scaling
 - [ ] [[Q21]] — P1 — Right triangles, tangency, and coordinate area
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Coefficient equations and stars-and-bars counting
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Spherical coordinates and dot products
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Floor and fractional-part functions
+- [ ] [[Q22]] — XX — Coefficient equations and stars-and-bars counting
+- [ ] [[Q23]] — XX — Spherical coordinates and dot products
+- [ ] [[Q24]] — XX — Floor and fractional-part functions
 - [ ] [[Q25]] — P1 — Tangent circles and exact triangle geometry
 
 ## Answer Key

@@ -29,16 +29,16 @@ status: completed
 - [ ] [[Q13]] — S1 — Geometric probability
 - [ ] [[Q14]] — P1 — Area decomposition and equilateral triangles
 - [ ] [[Q15]] — P2 — Geometric sequences and series
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Burnside's lemma and symmetry
+- [ ] [[Q16]] — XX — Burnside's lemma and symmetry
 - [ ] [[Q17]] — P2 / S1 — Logarithms, inequalities, and median
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Perfect squares, place value, and divisibility
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Cylinders, rhombi, and trigonometry
+- [ ] [[Q18]] — XX — Perfect squares, place value, and divisibility
+- [ ] [[Q19]] — XX — Cylinders, rhombi, and trigonometry
 - [ ] [[Q20]] — P1 — Coordinate geometry, parallelograms, and optimisation
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Number bases, palindromes, and casework
+- [ ] [[Q21]] — XX — Number bases, palindromes, and casework
 - [ ] [[Q22]] — P1 — Similarity, area ratios, and centroids
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Diophantine triples and factorisation
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Divisibility, greatest common divisors, and casework
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Three-dimensional coordinates and triangle areas
+- [ ] [[Q23]] — XX — Diophantine triples and factorisation
+- [ ] [[Q24]] — XX — Divisibility, greatest common divisors, and casework
+- [ ] [[Q25]] — XX — Three-dimensional coordinates and triangle areas
 
 ## Answer Key
 

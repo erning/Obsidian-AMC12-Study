@@ -20,21 +20,21 @@ status: completed
 - [ ] [[Q04]] — P1 — Pythagoras' theorem and percentage decrease
 - [ ] [[Q05]] — S1 — Double counting and combinatorial counting
 - [ ] [[Q06]] — P1 — Polygon inequalities and integer intervals
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Recurrences and induction patterns
-- [ ] [[Q08]] — Outside the core 9709 syllabus — Volumes of cylinders and spheres
+- [ ] [[Q07]] — XX — Recurrences and induction patterns
+- [ ] [[Q08]] — XX — Volumes of cylinders and spheres
 - [ ] [[Q09]] — P1 — Piecewise geometric conditions and coordinate geometry
 - [ ] [[Q10]] — S1 — Continuous probability and conditioning
 - [ ] [[Q11]] — P1 — Polygon angle sums and integer bounds
-- [ ] [[Q12]] — Outside the core 9709 syllabus — LCM and divisibility counting
+- [ ] [[Q12]] — XX — LCM and divisibility counting
 - [ ] [[Q13]] — P1 — Rates, time, and fractional distances
 - [ ] [[Q14]] — S1 — Inclusion-exclusion and block arrangements
 - [ ] [[Q15]] — P3 — Trigonometric signs and the intermediate value theorem
 - [ ] [[Q16]] — P1 — Circle tangency and coordinate geometry
 - [ ] [[Q17]] — P3 — Roots of unity and complex arguments
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Decimal digit sums and carrying
+- [ ] [[Q18]] — XX — Decimal digit sums and carrying
 - [ ] [[Q19]] — P1 — Similar triangles and inscribed squares
 - [ ] [[Q20]] — P2 — Logarithms and odd/even powers
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Rational Root Theorem and closure processes
+- [ ] [[Q21]] — XX — Rational Root Theorem and closure processes
 - [ ] [[Q22]] — S1 — Symmetry reduction and probability equations
 - [ ] [[Q23]] — P2 — Polynomial factorisation and coefficient comparison
 - [ ] [[Q24]] — P1 — Similar triangles, power of a point, and cyclic quadrilaterals

@@ -15,7 +15,7 @@ status: completed
 ## Problems
 
 - [ ] [[Q01]] — P1 — Percentages, prices, and money calculations
-- [ ] [[Q02]] — Outside the core 9709 syllabus — Rectangular-prism volume and spatial reasoning
+- [ ] [[Q02]] — XX — Rectangular-prism volume and spatial reasoning
 - [ ] [[Q03]] — P1 — Linear equations
 - [ ] [[Q04]] — P1 — Uniform motion, distance, rate, and time
 - [ ] [[Q05]] — P1 — Percentages and reverse calculations
@@ -24,21 +24,21 @@ status: completed
 - [ ] [[Q08]] — P1 — Inscribed angles and arcs
 - [ ] [[Q09]] — P1 — Uniform motion, ratios, and proportions
 - [ ] [[Q10]] — P1 — Right triangles, circumcircles, and triangle areas
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Place value and divisibility
+- [ ] [[Q11]] — XX — Place value and divisibility
 - [ ] [[Q12]] — S1 — Parity and elementary probability
 - [ ] [[Q13]] — P1 — Coordinate geometry and gradients
 - [ ] [[Q14]] — P1 — Factorisation and bounding arguments
 - [ ] [[Q15]] — S1 — Mean, median, and case analysis
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Digit sequences and casework
+- [ ] [[Q16]] — XX — Digit sequences and casework
 - [ ] [[Q17]] — P1 — Trigonometric identities and algebraic simplification
 - [ ] [[Q18]] — P3 — Complex numbers and polynomials
 - [ ] [[Q19]] — P1 — Coordinate geometry and triangle area
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Cube geometry and volume
+- [ ] [[Q20]] — XX — Cube geometry and volume
 - [ ] [[Q21]] — P2 — Quadratics and Vieta's formulas
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Digits, modular arithmetic, and bounds
+- [ ] [[Q22]] — XX — Digits, modular arithmetic, and bounds
 - [ ] [[Q23]] — P2 / P1 — Logarithms, coordinates, and square geometry
 - [ ] [[Q24]] — P1 — Trigonometry, line intersections, and summation
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Recursive counting and subsets
+- [ ] [[Q25]] — XX — Recursive counting and subsets
 
 ## Answer Key
 

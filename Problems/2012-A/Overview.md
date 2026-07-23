@@ -16,13 +16,13 @@ status: completed
 
 - [ ] [[Q01]] — P1 — Absolute values and distance on a number line
 - [ ] [[Q02]] — P1 — Rates and unit conversion
-- [ ] [[Q03]] — Outside the core 9709 syllabus — Three-dimensional volume scaling and ratios
+- [ ] [[Q03]] — XX — Three-dimensional volume scaling and ratios
 - [ ] [[Q04]] — P1 — Fractions, ratios, and proportions
 - [ ] [[Q05]] — P1 — Ratios and simultaneous linear equations
 - [ ] [[Q06]] — P1 — Simultaneous equations and symmetric sums
 - [ ] [[Q07]] — P2 — Arithmetic sequences, angle sums, and integer optimisation
 - [ ] [[Q08]] — S1 — Weighted averages and optimisation
-- [ ] [[Q09]] — Outside the core 9709 syllabus — Calendar counting and modular arithmetic
+- [ ] [[Q09]] — XX — Calendar counting and modular arithmetic
 - [ ] [[Q10]] — P1 — Triangle medians, areas, and trigonometry
 - [ ] [[Q11]] — S1 — Independent events, multinomial probability, and permutations
 - [ ] [[Q12]] — P2 — Coordinate geometry, symmetry, and quadratic equations
@@ -30,15 +30,15 @@ status: completed
 - [ ] [[Q14]] — P1 — Circular sectors, areas, and regular hexagons
 - [ ] [[Q15]] — S1 — Independent probability, cyclic symmetry, and casework
 - [ ] [[Q16]] — P2 — Equal chords, the cosine rule, and circle geometry
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Modular arithmetic and residue-class counting
+- [ ] [[Q17]] — XX — Modular arithmetic and residue-class counting
 - [ ] [[Q18]] — P1 — Incircles, Heron's formula, and Pythagoras' theorem
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Regular graphs, cycles, and matchings
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Binary representation and polynomial products
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Diophantine equations and sums of squares
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Cube cross-sections and three-dimensional casework
+- [ ] [[Q19]] — XX — Regular graphs, cycles, and matchings
+- [ ] [[Q20]] — XX — Binary representation and polynomial products
+- [ ] [[Q21]] — XX — Diophantine equations and sums of squares
+- [ ] [[Q22]] — XX — Cube cross-sections and three-dimensional casework
 - [ ] [[Q23]] — S1 — Geometric probability, lattice translations, and overlap areas
 - [ ] [[Q24]] — P2 — Exponential inequalities, monotonicity, and fixed points
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Fractional-part functions and periodic intersection counts
+- [ ] [[Q25]] — XX — Fractional-part functions and periodic intersection counts
 
 ## Answer Key
 

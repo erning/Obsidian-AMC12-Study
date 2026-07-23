@@ -35,7 +35,7 @@ status: completed
 - [ ] [[Q17]] — P3 — Complex roots, polynomials, and area
 - [ ] [[Q18]] — S1 — Symmetry, combinations, and permutations
 - [ ] [[Q19]] — P2 / P3 — Vieta's formulas and symmetric polynomials
-- [ ] [[Q20]] — Outside the core 9709 syllabus — 3D geometry and prismatoid volume
+- [ ] [[Q20]] — XX — 3D geometry and prismatoid volume
 - [ ] [[Q21]] — P2 — Finite geometric series and exponential factorization
 - [ ] [[Q22]] — S1 / P3 — Geometric probability, symmetry, and triple integrals
 - [ ] [[Q23]] — S1 — Restricted permutations and the binomial theorem

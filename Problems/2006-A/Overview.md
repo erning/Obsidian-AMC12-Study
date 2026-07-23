@@ -17,23 +17,23 @@ status: completed
 - [ ] [[Q01]] — P1 — Ratios, price changes, and proportional reasoning
 - [ ] [[Q02]] — P1 — Defined operations, substitution, and algebraic simplification
 - [ ] [[Q03]] — P1 — Ratios, proportions, and age problems
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Digit constraints and clock arithmetic
+- [ ] [[Q04]] — XX — Digit constraints and clock arithmetic
 - [ ] [[Q05]] — P1 — Fractions, prices, and proportional relationships
 - [ ] [[Q06]] — P1 — Square geometry and area comparison
 - [ ] [[Q07]] — P1 — Percentages and linear equations
 - [ ] [[Q08]] — P2 — Arithmetic sequences and case analysis
-- [ ] [[Q09]] — Outside the core 9709 syllabus — Diophantine equations and divisibility
+- [ ] [[Q09]] — XX — Diophantine equations and divisibility
 - [ ] [[Q10]] — P1 — Surds, inequalities, and integer intervals
 - [ ] [[Q11]] — P1 — Algebraic manipulation and factorisation
 - [ ] [[Q12]] — P2 — Arithmetic series and summation
 - [ ] [[Q13]] — P1 — Tangent circles, simultaneous equations, and areas
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Greatest common divisors and Diophantine equations
+- [ ] [[Q14]] — XX — Greatest common divisors and Diophantine equations
 - [ ] [[Q15]] — P1 — Trigonometric ratios and identities
 - [ ] [[Q16]] — P1 — Similarity, tangents, and Pythagoras
 - [ ] [[Q17]] — P1 — Power of a point, tangents, and coordinate geometry
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Functional equations and strategic substitution
+- [ ] [[Q18]] — XX — Functional equations and strategic substitution
 - [ ] [[Q19]] — P1 — Tangent lines, trigonometric identities, and coordinates
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Graph theory, probability, and casework
+- [ ] [[Q20]] — XX — Graph theory, probability, and casework
 - [ ] [[Q21]] — P2 / P1 — Logarithms, completing the square, and circle areas
 - [ ] [[Q22]] — S1 / P1 — Geometric probability, regular polygons, and trigonometry
 - [ ] [[Q23]] — P2 — Binomial expansions and recurrences

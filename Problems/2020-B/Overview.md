@@ -17,27 +17,27 @@ status: completed
 - [ ] [[Q01]] — P1 — Consecutive odd-number sums and radical simplification
 - [ ] [[Q02]] — P1 — Difference of squares and algebraic cancellation
 - [ ] [[Q03]] — P1 — Chained ratios and variable scaling
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Triangle angles and prime-number testing
+- [ ] [[Q04]] — XX — Triangle angles and prime-number testing
 - [ ] [[Q05]] — P1 — Fractions of totals and simultaneous linear equations
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Factorials and algebraic factorisation
+- [ ] [[Q06]] — XX — Factorials and algebraic factorisation
 - [ ] [[Q07]] — P1 — Angles between lines, slopes, and quadratics
 - [ ] [[Q08]] — P2 — Completing the square and integer constraints
-- [ ] [[Q09]] — Outside the core 9709 syllabus — Arc length, cone volume, and Pythagoras' theorem
+- [ ] [[Q09]] — XX — Arc length, cone volume, and Pythagoras' theorem
 - [ ] [[Q10]] — P2 — Circle equations and line-circle intersections
 - [ ] [[Q11]] — P1 / S1 — Regular-hexagon area, circular segments, and inclusion-exclusion
 - [ ] [[Q12]] — P2 — Circle coordinates, chord parametrisation, and Vieta's formulas
 - [ ] [[Q13]] — P2 — Change of base and perfect-square recognition
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Symmetry invariants and game theory
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Perfect matchings, casework, and symmetry
+- [ ] [[Q14]] — XX — Symmetry invariants and game theory
+- [ ] [[Q15]] — XX — Perfect matchings, casework, and symmetry
 - [ ] [[Q16]] — S1 — Conditional probability and urn-process sequences
 - [ ] [[Q17]] — P3 — Polynomial roots, complex numbers, and Vieta's formulas
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Coordinate area, point-to-line distance, and shoelace formula
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Symmetry groups, recurrences, and state counting
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Group actions, rotational orbits, and case counting
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Floor functions and quadratic inequalities
+- [ ] [[Q18]] — XX — Coordinate area, point-to-line distance, and shoelace formula
+- [ ] [[Q19]] — XX — Symmetry groups, recurrences, and state counting
+- [ ] [[Q20]] — XX — Group actions, rotational orbits, and case counting
+- [ ] [[Q21]] — XX — Floor functions and quadratic inequalities
 - [ ] [[Q22]] — P2 — Algebraic substitution and quadratic optimisation
 - [ ] [[Q23]] — P3 — Complex numbers as vectors and unit-circle geometry
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Multiplicative partitions and divisor recurrences
+- [ ] [[Q24]] — XX — Multiplicative partitions and divisor recurrences
 - [ ] [[Q25]] — P3 / S1 — Piecewise trigonometric probability and calculus optimisation
 
 ## Answer Key

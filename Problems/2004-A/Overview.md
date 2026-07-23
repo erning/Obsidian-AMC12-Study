@@ -20,9 +20,9 @@ status: completed
 - [ ] [[Q04]] — S1 — Basic counting and family-tree constraints
 - [ ] [[Q05]] — P1 — Gradients, intercepts, and coordinate geometry
 - [ ] [[Q06]] — P2 — Factorization and laws of indices
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Process simulation and invariants
+- [ ] [[Q07]] — XX — Process simulation and invariants
 - [ ] [[Q08]] — P1 — Triangle areas and area decomposition
-- [ ] [[Q09]] — Outside the core 9709 syllabus — Cylinder volume scaling and percentages
+- [ ] [[Q09]] — XX — Cylinder volume scaling and percentages
 - [ ] [[Q10]] — P1 — Arithmetic sequences and averages
 - [ ] [[Q11]] — P1 — Means and linear equations
 - [ ] [[Q12]] — P1 — Coordinate geometry and distance formula
@@ -35,10 +35,10 @@ status: completed
 - [ ] [[Q19]] — P1 — Tangent circles and systems of equations
 - [ ] [[Q20]] — S1 / P1 — Continuous geometric probability and rounding
 - [ ] [[Q21]] — P1 / P2 — Trigonometric identities and infinite geometric series
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Tangent spheres and three-dimensional geometry
+- [ ] [[Q22]] — XX — Tangent spheres and three-dimensional geometry
 - [ ] [[Q23]] — P2 / P3 — Complex roots, conjugates, and polynomial coefficients
 - [ ] [[Q24]] — P1 — Loci, circles, and composite areas
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Positional bases, recurring expansions, and telescoping products
+- [ ] [[Q25]] — XX — Positional bases, recurring expansions, and telescoping products
 
 ## Answer Key
 

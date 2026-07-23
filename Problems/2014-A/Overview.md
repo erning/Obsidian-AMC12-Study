@@ -19,7 +19,7 @@ status: completed
 - [ ] [[Q03]] — S1 — Restricted permutations, adjacency, and casework
 - [ ] [[Q04]] — P1 — Rates and proportional reasoning
 - [ ] [[Q05]] — S1 — Weighted means and medians
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Place value, digit equations, and integer constraints
+- [ ] [[Q06]] — XX — Place value, digit equations, and integer constraints
 - [ ] [[Q07]] — P2 — Geometric progressions and index laws
 - [ ] [[Q08]] — P1 — Piecewise linear inequalities and percentage discounts
 - [ ] [[Q09]] — P2 — Arithmetic sequences and averages
@@ -28,15 +28,15 @@ status: completed
 - [ ] [[Q12]] — P1 — Chords, central angles, and trigonometric identities
 - [ ] [[Q13]] — S1 — Partitions, group permutations, and casework
 - [ ] [[Q14]] — P2 — Arithmetic progressions, geometric progressions, and parametrisation
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Place value, digit sums, and counting
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Carries in multiplication and digit sums
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Sphere tangency and three-dimensional coordinates
+- [ ] [[Q15]] — XX — Place value, digit sums, and counting
+- [ ] [[Q16]] — XX — Carries in multiplication and digit sums
+- [ ] [[Q17]] — XX — Sphere tangency and three-dimensional coordinates
 - [ ] [[Q18]] — P2 — Logarithm domains and inequalities for bases below one
 - [ ] [[Q19]] — P2 — Polynomial roots, integer bounds, and injectivity
 - [ ] [[Q20]] — P1 — Reflections, shortest paths, and the cosine rule
 - [ ] [[Q21]] — P2 — Floor functions, logarithmic inequalities, and telescoping products
 - [ ] [[Q22]] — P2 — Exponential inequalities and counting powers in intervals
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Repeating decimals, base 100, and digit sums
+- [ ] [[Q23]] — XX — Repeating decimals, base 100, and digit sums
 - [ ] [[Q24]] — P1 — Absolute values, piecewise linear functions, and preimages
 - [ ] [[Q25]] — P2 — Parabolas, directrices, and lattice-point parametrisation
 

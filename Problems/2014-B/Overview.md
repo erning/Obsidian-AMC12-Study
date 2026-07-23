@@ -20,23 +20,23 @@ status: completed
 - [ ] [[Q04]] — P1 — Linear equations and ratios
 - [ ] [[Q05]] — P1 — Ratios, linear equations, and geometric dimensions
 - [ ] [[Q06]] — P1 — Percentages, algebraic modelling, and conservation
-- [ ] [[Q07]] — Outside the core 9709 syllabus — Divisibility and positive-integer constraints
-- [ ] [[Q08]] — Outside the core 9709 syllabus — Column addition, carries, and digit constraints
+- [ ] [[Q07]] — XX — Divisibility and positive-integer constraints
+- [ ] [[Q08]] — XX — Column addition, carries, and digit constraints
 - [ ] [[Q09]] — P1 — Pythagoras' theorem and decomposing quadrilaterals
-- [ ] [[Q10]] — Outside the core 9709 syllabus — Place value, digit reversal, and divisibility
+- [ ] [[Q10]] — XX — Place value, digit reversal, and divisibility
 - [ ] [[Q11]] — S1 — Mean, median, mode, and extremal data sets
 - [ ] [[Q12]] — P1 — Triangle inequalities, similarity, and enumeration
 - [ ] [[Q13]] — P1 — Triangle inequalities, optimisation, and quadratics
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Surface area, space diagonals, and symmetric identities
+- [ ] [[Q14]] — XX — Surface area, space diagonals, and symmetric identities
 - [ ] [[Q15]] — P2 — Logarithmic and exponential identities and prime exponents
 - [ ] [[Q16]] — P2 — Polynomial coefficients and even-odd symmetry
 - [ ] [[Q17]] — P2 — Quadratic discriminants and Vieta's formulas
 - [ ] [[Q18]] — S1 — Circular arrangements, consecutive sums, and symmetry
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Frustum volume, tangency geometry, and quadratics
+- [ ] [[Q19]] — XX — Frustum volume, tangency geometry, and quadratics
 - [ ] [[Q20]] — P2 — Logarithmic domains and quadratic inequalities
 - [ ] [[Q21]] — P1 — Similar triangles, trigonometry, and geometric decomposition
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Absorbing Markov chains and recurrences
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Modular arithmetic and binomial coefficients modulo primes
+- [ ] [[Q22]] — XX — Absorbing Markov chains and recurrences
+- [ ] [[Q23]] — XX — Modular arithmetic and binomial coefficients modulo primes
 - [ ] [[Q24]] — P1 — Cyclic quadrilaterals, Ptolemy's theorem, and simplification
 - [ ] [[Q25]] — P2 — Trigonometric identities and integer phase conditions
 

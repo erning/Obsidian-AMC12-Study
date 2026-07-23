@@ -21,18 +21,18 @@ status: completed
 - [ ] [[Q05]] — P1 — Algebraic manipulation and parity
 - [ ] [[Q06]] — P1 — Percentages and linear equations
 - [ ] [[Q07]] — P1 — Rates and unit conversion
-- [ ] [[Q08]] — Outside the core 9709 syllabus — Cube geometry, surface area, and volume
+- [ ] [[Q08]] — XX — Cube geometry, surface area, and volume
 - [ ] [[Q09]] — P1 — Pythagoras and proportional lengths
 - [ ] [[Q10]] — P1 — Rates and linear equations
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Cube geometry and optimisation
+- [ ] [[Q11]] — XX — Cube geometry and optimisation
 - [ ] [[Q12]] — P1 — Functions and substitution
 - [ ] [[Q13]] — P1 — Tangent circles, special triangles, and area ratios
 - [ ] [[Q14]] — P1 — Absolute values, rhombi, and areas
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Units digits and modular exponentiation
+- [ ] [[Q15]] — XX — Units digits and modular exponentiation
 - [ ] [[Q16]] — P2 — Arithmetic sequences and logarithms
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Recurrences, modular arithmetic, and casework
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Three-dimensional geometry, equations, and volume
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Generating functions and integer partitions
+- [ ] [[Q17]] — XX — Recurrences, modular arithmetic, and casework
+- [ ] [[Q18]] — XX — Three-dimensional geometry, equations, and volume
+- [ ] [[Q19]] — XX — Generating functions and integer partitions
 - [ ] [[Q20]] — P1 — Angle bisectors, incircles, and area ratios
 - [ ] [[Q21]] — S1 — Permutations, symmetry, and complementary counting
 - [ ] [[Q22]] — P1 — Circles, isosceles triangles, and Pythagoras

@@ -17,14 +17,14 @@ status: completed
 - [ ] [[Q01]] — P1 — Distributive property and algebraic decomposition
 - [ ] [[Q02]] — P1 — Simultaneous linear equations and modelling
 - [ ] [[Q03]] — P1 — Bounds, constructive proof, and optimisation
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Prime factorisation and factorial divisibility
+- [ ] [[Q04]] — XX — Prime factorisation and factorial divisibility
 - [ ] [[Q05]] — S1 / P1 — Arithmetic mean and linear modelling
 - [ ] [[Q06]] — P1 — Factorisation, sign analysis, and finite casework
 - [ ] [[Q07]] — P1 — Vectors, symmetry, midpoints, and medians
 - [ ] [[Q08]] — P2 — Logarithm laws, domains, and trigonometric bounds
 - [ ] [[Q09]] — P1 — Difference of squares, factor pairs, and optimisation
 - [ ] [[Q10]] — P1 — Right-triangle tangent and double-angle identities
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Number bases, modular arithmetic, and arithmetic-progressions counting
+- [ ] [[Q11]] — XX — Number bases, modular arithmetic, and arithmetic-progressions counting
 - [ ] [[Q12]] — P2 — Geometric sequences, divisors, and optimisation
 - [ ] [[Q13]] — P1 — Axes of symmetry, exponentials, and reflections
 - [ ] [[Q14]] — P1 — Arithmetic progressions, bilinear expressions, and linear systems
@@ -35,10 +35,10 @@ status: completed
 - [ ] [[Q19]] — P1 — Cyclic quadrilaterals, the cosine rule, and Ptolemy's theorem
 - [ ] [[Q20]] — S1 / P3 — Geometric probability, area ratios, and integration
 - [ ] [[Q21]] — P2 — Recurrences, induction, sum of squares, and bounds
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Graph theory, non-intersecting paths, and transfer matrices
+- [ ] [[Q22]] — XX — Graph theory, non-intersecting paths, and transfer matrices
 - [ ] [[Q23]] — P1 — Factorisation, tangent identities, and special angles
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Acute triangles, Heron's formula, and three-dimensional geometry
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Fractional linear transformations, inverse functions, and symmetry counting
+- [ ] [[Q24]] — XX — Acute triangles, Heron's formula, and three-dimensional geometry
+- [ ] [[Q25]] — XX — Fractional linear transformations, inverse functions, and symmetry counting
 
 ## Answer Key
 

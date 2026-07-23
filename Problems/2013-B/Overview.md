@@ -22,23 +22,23 @@ status: completed
 - [ ] [[Q06]] — P1 — Completing the square and non-negative sums
 - [ ] [[Q07]] — P2 — Triangular numbers and sequence indexing
 - [ ] [[Q08]] — P1 — Coordinate geometry, gradients, and triangle areas
-- [ ] [[Q09]] — Outside the core 9709 syllabus — Prime factorisation, factorials, and perfect squares
-- [ ] [[Q10]] — Outside the core 9709 syllabus — Invariants and integer optimisation
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Three-dimensional coordinates and periodic motion
-- [ ] [[Q12]] — Outside the core 9709 syllabus — Euler trails and graph counting
+- [ ] [[Q09]] — XX — Prime factorisation, factorials, and perfect squares
+- [ ] [[Q10]] — XX — Invariants and integer optimisation
+- [ ] [[Q11]] — XX — Three-dimensional coordinates and periodic motion
+- [ ] [[Q12]] — XX — Euler trails and graph counting
 - [ ] [[Q13]] — P1 — Angle progressions, similar triangles, and casework
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Fibonacci recurrences and Diophantine equations
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Factorials, divisibility, and minimality
+- [ ] [[Q14]] — XX — Fibonacci recurrences and Diophantine equations
+- [ ] [[Q15]] — XX — Factorials, divisibility, and minimality
 - [ ] [[Q16]] — P1 — Equiangular polygons, isosceles triangles, and perimeter invariants
 - [ ] [[Q17]] — P2 — Quadratic inequalities, Cauchy-Schwarz, and extremal values
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Combinatorial games and modular invariants
+- [ ] [[Q18]] — XX — Combinatorial games and modular invariants
 - [ ] [[Q19]] — P1 — Similar triangles and cyclic quadrilaterals
 - [ ] [[Q20]] — P2 — Parabolas, trigonometric identities, and parallel lines
 - [ ] [[Q21]] — P2 / S1 — Parabola geometry, combinations, and complementary counting
 - [ ] [[Q22]] — P2 — Logarithms, Vieta's formulas, and exponent minimisation
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Number bases and modular arithmetic
+- [ ] [[Q23]] — XX — Number bases and modular arithmetic
 - [ ] [[Q24]] — P1 — Angle bisectors, similar triangles, and the cosine rule
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Complex polynomial factors and lattice points
+- [ ] [[Q25]] — XX — Complex polynomial factors and lattice points
 
 ## Answer Key
 

@@ -16,28 +16,28 @@ status: completed
 
 - [ ] [[Q01]] — P1 — Circle area, percentage increase, and ratios
 - [ ] [[Q02]] — P1 — Percentages, ratios, and proportional reasoning
-- [ ] [[Q03]] — Outside the core 9709 syllabus — Pigeonhole principle and worst-case counting
+- [ ] [[Q03]] — XX — Pigeonhole principle and worst-case counting
 - [ ] [[Q04]] — P2 — Arithmetic sequences and bounds from averages
-- [ ] [[Q05]] — Outside the core 9709 syllabus — Linear systems and the shoelace formula
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Rigid motions and periodic symmetry patterns
+- [ ] [[Q05]] — XX — Linear systems and the shoelace formula
+- [ ] [[Q06]] — XX — Rigid motions and periodic symmetry patterns
 - [ ] [[Q07]] — S1 — Mean, median, mode, and frequency data
 - [ ] [[Q08]] — P1 — Line intersections and geometric case analysis
-- [ ] [[Q09]] — Outside the core 9709 syllabus — Reciprocal substitutions and linear recurrences
+- [ ] [[Q09]] — XX — Reciprocal substitutions and linear recurrences
 - [ ] [[Q10]] — P1 — Tangent circles, regular hexagons, and area subtraction
 - [ ] [[Q11]] — P2 — Geometric series, positional representation, and quadratics
 - [ ] [[Q12]] — P2 — Logarithm identities and change of base
-- [ ] [[Q13]] — Outside the core 9709 syllabus — Graph colouring and divisibility casework
+- [ ] [[Q13]] — XX — Graph colouring and divisibility casework
 - [ ] [[Q14]] — P3 — Complex quadratic roots and Vieta's formulas
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Logarithms with Diophantine constraints
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Parity and grid combinatorics
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Polynomial power sums and recurrences
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Sphere-plane intersections and triangle geometry
+- [ ] [[Q15]] — XX — Logarithms with Diophantine constraints
+- [ ] [[Q16]] — XX — Parity and grid combinatorics
+- [ ] [[Q17]] — XX — Polynomial power sums and recurrences
+- [ ] [[Q18]] — XX — Sphere-plane intersections and triangle geometry
 - [ ] [[Q19]] — P1 — Trigonometric identities, sine rule, and triangle inequalities
 - [ ] [[Q20]] — S1 — Total probability and uniform geometric probability
 - [ ] [[Q21]] — P3 — Polar complex numbers and roots of unity
 - [ ] [[Q22]] — P1 — Equilateral triangles, coordinates, and point-to-line distance
 - [ ] [[Q23]] — P2 — Logarithm laws and telescoping products
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Prime valuations and Legendre's formula
+- [ ] [[Q24]] — XX — Prime valuations and Legendre's formula
 - [ ] [[Q25]] — P1 / P3 — Orthic triangles, angle chasing, and exponential growth
 
 ## Answer Key

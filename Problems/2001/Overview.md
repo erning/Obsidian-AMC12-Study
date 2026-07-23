@@ -15,11 +15,11 @@ status: completed
 ## Problems
 
 - [ ] [[Q01]] — P1 — Algebraic manipulation and linear expressions
-- [ ] [[Q02]] — Outside the core 9709 syllabus — Place value and digit equations
+- [ ] [[Q02]] — XX — Place value and digit equations
 - [ ] [[Q03]] — P1 — Percentage rates and linear equations
 - [ ] [[Q04]] — S1 / P1 — Mean, median, and linear constraints
-- [ ] [[Q05]] — Outside the core 9709 syllabus — Factorials and product manipulation
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Digit constraints and finite casework
+- [ ] [[Q05]] — XX — Factorials and product manipulation
+- [ ] [[Q06]] — XX — Digit constraints and finite casework
 - [ ] [[Q07]] — P1 — Simultaneous linear equations and integer constraints
 - [ ] [[Q08]] — P1 — Circular measure, sector arcs, and cone nets
 - [ ] [[Q09]] — P1 — Functional equations and substitution
@@ -28,7 +28,7 @@ status: completed
 - [ ] [[Q12]] — S1 — Inclusion-exclusion and counting multiples
 - [ ] [[Q13]] — P1 — Parabola transformations and vertex form
 - [ ] [[Q14]] — P1 / S1 — Regular polygons, equilateral triangles, and counting
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Tetrahedron nets and shortest surface paths
+- [ ] [[Q15]] — XX — Tetrahedron nets and shortest surface paths
 - [ ] [[Q16]] — S1 — Restricted permutations and ordering constraints
 - [ ] [[Q17]] — S1 / P1 — Geometric probability, inscribed angles, and area
 - [ ] [[Q18]] — P1 — Tangent circles and Pythagorean geometry

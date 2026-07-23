@@ -15,7 +15,7 @@ status: completed
 ## Problems
 
 - [ ] [[Q01]] — P1 — Triangle areas, bases, and heights
-- [ ] [[Q02]] — Outside the core 9709 syllabus — Parity and sums of consecutive integers
+- [ ] [[Q02]] — XX — Parity and sums of consecutive integers
 - [ ] [[Q03]] — P1 — Percentages and complementary fractions
 - [ ] [[Q04]] — P1 — Indices, factorisation, and rational simplification
 - [ ] [[Q05]] — S1 — Averages, equal sharing, and linear arithmetic
@@ -30,14 +30,14 @@ status: completed
 - [ ] [[Q14]] — P2 — Logarithms, arithmetic progressions, and geometric progressions
 - [ ] [[Q15]] — S1 — Restricted counting, casework, and the multiplication principle
 - [ ] [[Q16]] — S1 — Weighted averages, integer ratios, and optimisation
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Divisibility, factorials, and reverse recurrences
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Sphere tangency and three-dimensional geometry
+- [ ] [[Q17]] — XX — Divisibility, factorials, and reverse recurrences
+- [ ] [[Q18]] — XX — Sphere tangency and three-dimensional geometry
 - [ ] [[Q19]] — P1 — Power of a point, factorisation, and triangle inequalities
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Modular arithmetic and bounded compositions
+- [ ] [[Q20]] — XX — Modular arithmetic and bounded compositions
 - [ ] [[Q21]] — P2 — Nested logarithms, bounds, and monotonicity
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Palindromes, carries, and digit counting
+- [ ] [[Q22]] — XX — Palindromes, carries, and digit counting
 - [ ] [[Q23]] — P1 — Rotations, circular sectors, and area decomposition
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Regular polygon chords and multiplicity counting
+- [ ] [[Q24]] — XX — Regular polygon chords and multiplicity counting
 - [ ] [[Q25]] — P3 — Complex numbers, injective functions, and lattice-point counting
 
 ## Answer Key

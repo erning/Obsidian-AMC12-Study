@@ -21,24 +21,24 @@ status: completed
 - [ ] [[Q05]] — P1 — Weighted means and averages
 - [ ] [[Q06]] — P1 — Uniform motion and proportional reasoning
 - [ ] [[Q07]] — P1 — Similar squares, rotations, and area
-- [ ] [[Q08]] — Outside the core 9709 syllabus — Digit equations and prime factorization
+- [ ] [[Q08]] — XX — Digit equations and prime factorization
 - [ ] [[Q09]] — P1 — Quadratic discriminants and repeated roots
-- [ ] [[Q10]] — Outside the core 9709 syllabus — Painted-cube surface counting
+- [ ] [[Q10]] — XX — Painted-cube surface counting
 - [ ] [[Q11]] — P1 — Digit averages and arithmetic sequences
 - [ ] [[Q12]] — P1 — Coordinate lines and lattice points
 - [ ] [[Q13]] — P1 — Arithmetic sequences and finite casework
 - [ ] [[Q14]] — S1 — Conditional probability and random outcomes
 - [ ] [[Q15]] — P1 — Circle diameters, midpoints, and area ratios
 - [ ] [[Q16]] — P1 — Coordinate geometry and tangent circles
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Three-dimensional dissections and prism volumes
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Primes, inclusion-exclusion, and counting integers
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Non-decimal bases and positional systems
+- [ ] [[Q17]] — XX — Three-dimensional dissections and prism volumes
+- [ ] [[Q18]] — XX — Primes, inclusion-exclusion, and counting integers
+- [ ] [[Q19]] — XX — Non-decimal bases and positional systems
 - [ ] [[Q20]] — P1 / P2 — Iterated functions, preimages, and binary branching
 - [ ] [[Q21]] — P2 — Logarithms, integer exponents, and Diophantine constraints
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Rectangular boxes, spheres, and three-dimensional geometry
+- [ ] [[Q22]] — XX — Rectangular boxes, spheres, and three-dimensional geometry
 - [ ] [[Q23]] — S1 / P2 — Probability, logarithms, and divisibility
 - [ ] [[Q24]] — P2 — Polynomial composition and roots
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Three-dimensional coordinates and equilateral triangles
+- [ ] [[Q25]] — XX — Three-dimensional coordinates and equilateral triangles
 
 ## Answer Key
 

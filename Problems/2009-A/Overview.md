@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Outside the core 9709 syllabus — Calendar arithmetic and clock reasoning
-- [ ] [[Q02]] — Outside the core 9709 syllabus — Continued fractions and rational approximations
+- [ ] [[Q01]] — XX — Calendar arithmetic and clock reasoning
+- [ ] [[Q02]] — XX — Continued fractions and rational approximations
 - [ ] [[Q03]] — P1 — Fractions, ratios, and proportions
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Multiples, money, and casework
-- [ ] [[Q05]] — Outside the core 9709 syllabus — Volume and difference-of-squares reasoning
+- [ ] [[Q04]] — XX — Multiples, money, and casework
+- [ ] [[Q05]] — XX — Volume and difference-of-squares reasoning
 - [ ] [[Q06]] — P2 — Exponents and substitution
 - [ ] [[Q07]] — P2 — Arithmetic sequences
 - [ ] [[Q08]] — P1 — Area ratios, squares, and simultaneous equations
 - [ ] [[Q09]] — P1 — Functions and substitution
 - [ ] [[Q10]] — P1 — Triangle inequality and extremal bounds
 - [ ] [[Q11]] — P2 — Arithmetic series and summation
-- [ ] [[Q12]] — Outside the core 9709 syllabus — Digit constraints, bounds, and casework
+- [ ] [[Q12]] — XX — Digit constraints, bounds, and casework
 - [ ] [[Q13]] — P1 — Cosine rule and bounding arguments
 - [ ] [[Q14]] — P2 / P1 — Coordinate geometry, medians, and Vieta's formulas
 - [ ] [[Q15]] — P3 — Complex arithmetic and algebraic grouping
 - [ ] [[Q16]] — P1 / P2 — Tangent circles, coordinates, and Vieta's formulas
 - [ ] [[Q17]] — P2 — Geometric sequences and Vieta's formulas
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Prime factorisation and cubic identities
+- [ ] [[Q18]] — XX — Prime factorisation and cubic identities
 - [ ] [[Q19]] — P1 — Regular polygons, Pythagoras, and circle areas
 - [ ] [[Q20]] — P1 — Parallel lines, similarity, and area ratios
 - [ ] [[Q21]] — P3 — Complex polynomials and roots of unity
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Three-dimensional geometry and polygon areas
+- [ ] [[Q22]] — XX — Three-dimensional geometry and polygon areas
 - [ ] [[Q23]] — P1 — Quadratics, parabolas, and symmetry
 - [ ] [[Q24]] — P2 — Recurrences, logarithms, and exponents
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Trigonometric recurrences and modular arithmetic
+- [ ] [[Q25]] — XX — Trigonometric recurrences and modular arithmetic
 
 ## Answer Key
 

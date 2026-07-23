@@ -16,10 +16,10 @@ status: completed
 
 - [ ] [[Q01]] — P1 — Absolute value and non-associative operations
 - [ ] [[Q02]] — P1 — Rhombi, Pythagoras' theorem, and parallelogram area
-- [ ] [[Q03]] — Outside the core 9709 syllabus — Repunits, factorisation, and compositeness
+- [ ] [[Q03]] — XX — Repunits, factorisation, and compositeness
 - [ ] [[Q04]] — P2 — Vieta's formulas, factor pairs, and distinct roots
 - [ ] [[Q05]] — P1 — Coordinate rotations and translations
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Floor functions, block counting, and divisibility
+- [ ] [[Q06]] — XX — Floor functions, block counting, and divisibility
 - [ ] [[Q07]] — S1 — Mean, median, mode, and ordering constraints
 - [ ] [[Q08]] — P2 — Quartic factorisation and standard conics
 - [ ] [[Q09]] — P1 — Arithmetic sequences, exponentials, and integer constraints
@@ -28,17 +28,17 @@ status: completed
 - [ ] [[Q12]] — S1 — Complementary events, inclusion-exclusion, and uniform categories
 - [ ] [[Q13]] — P1 — Coordinate geometry and triangle area
 - [ ] [[Q14]] — P1 — Quadratic factorisation, vectors, and tangent of an angle
-- [ ] [[Q15]] — Outside the core 9709 syllabus — Modular arithmetic and periodic powers modulo a prime
+- [ ] [[Q15]] — XX — Modular arithmetic and periodic powers modulo a prime
 - [ ] [[Q16]] — P2 — Logarithmic substitutions, exponentials, and quadratics
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Binary matrices and structured counting
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Cellular automata, casework, and symmetry
+- [ ] [[Q17]] — XX — Binary matrices and structured counting
+- [ ] [[Q18]] — XX — Cellular automata, casework, and symmetry
 - [ ] [[Q19]] — P1 — Centroids, medians, and the cosine rule
 - [ ] [[Q20]] — P2 — Polynomial remainders and congruences
 - [ ] [[Q21]] — P2 — Tangent circles, concentric circles, and centre distances
 - [ ] [[Q22]] — S1 — Independence, uniform distributions, and geometric probability
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Modular inverses, binary expansions, and periodic sequences
+- [ ] [[Q23]] — XX — Modular inverses, binary expansions, and periodic sequences
 - [ ] [[Q24]] — P3 — Regular polygons, chord lengths, and roots-of-unity sums
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Regular-hexagon geometry and shoelace area
+- [ ] [[Q25]] — XX — Regular-hexagon geometry and shoelace area
 
 ## Answer Key
 

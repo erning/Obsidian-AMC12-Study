@@ -14,12 +14,12 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Outside the core 9709 syllabus — Factorial notation and algebraic simplification
+- [ ] [[Q01]] — XX — Factorial notation and algebraic simplification
 - [ ] [[Q02]] — P1 — Index laws and powers with a common base
-- [ ] [[Q03]] — Outside the core 9709 syllabus — Floor functions and negative remainders
+- [ ] [[Q03]] — XX — Floor functions and negative remainders
 - [ ] [[Q04]] — S1 / P1 — Mean, median, mode, and linear equations
 - [ ] [[Q05]] — P1 — Logical implication and counterexamples
-- [ ] [[Q06]] — Outside the core 9709 syllabus — Triangular numbers and consecutive-integer factorisation
+- [ ] [[Q06]] — XX — Triangular numbers and consecutive-integer factorisation
 - [ ] [[Q07]] — P1 — Algebraic factorisation and intersections of lines
 - [ ] [[Q08]] — P1 — Triangle area and composite regions
 - [ ] [[Q09]] — P1 — Similarity and rationalising surds
@@ -27,18 +27,18 @@ status: completed
 - [ ] [[Q11]] — S1 — Inclusion-exclusion and multiplicity counting
 - [ ] [[Q12]] — P1 — Angle bisectors and subtriangle areas
 - [ ] [[Q13]] — S1 — Position counting and rational inequalities
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Rotational symmetry and invariant counting
+- [ ] [[Q14]] — XX — Rotational symmetry and invariant counting
 - [ ] [[Q15]] — P1 — Tangent circles and coordinate area
 - [ ] [[Q16]] — P2 — Logarithmic transformations and curve intersections
 - [ ] [[Q17]] — P1 — Equilateral triangles and area ratios
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Prime factorisation and divisor-count formula
+- [ ] [[Q18]] — XX — Prime factorisation and divisor-count formula
 - [ ] [[Q19]] — S1 — Random walks and binomial path counting
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Binary operations and functional identities
+- [ ] [[Q20]] — XX — Binary operations and functional identities
 - [ ] [[Q21]] — P1 — Chords, central angles, and trigonometric identities
-- [ ] [[Q22]] — Outside the core 9709 syllabus — LCM prime exponents and case counting
+- [ ] [[Q22]] — XX — LCM prime exponents and case counting
 - [ ] [[Q23]] — S1 — Geometric probability and triangle inequalities
 - [ ] [[Q24]] — P2 — Vieta's formulas and AM-GM inequality
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Floor functions and digit-pattern sums
+- [ ] [[Q25]] — XX — Floor functions and digit-pattern sums
 
 ## Answer Key
 

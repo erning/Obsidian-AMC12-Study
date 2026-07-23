@@ -27,18 +27,18 @@ status: completed
 - [ ] [[Q11]] — P1 — Mixtures, ratios, and proportions
 - [ ] [[Q12]] — P1 — Quadratics, parabolas, and vertex properties
 - [ ] [[Q13]] — P1 — Rhombi, equilateral triangles, and area decomposition
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Diophantine equations, prime factors, and casework
+- [ ] [[Q14]] — XX — Diophantine equations, prime factors, and casework
 - [ ] [[Q15]] — P1 — Tangent circles, trapezoids, and Pythagoras
 - [ ] [[Q16]] — P1 — Regular polygons, coordinate distance, and area
 - [ ] [[Q17]] — S1 — Equally likely dice outcomes and probability
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Lattice points, parity, and counting
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Divisibility, digit constraints, and casework
-- [ ] [[Q20]] — Outside the core 9709 syllabus — Floor and ceiling functions with geometric probability
+- [ ] [[Q18]] — XX — Lattice points, parity, and counting
+- [ ] [[Q19]] — XX — Divisibility, digit constraints, and casework
+- [ ] [[Q20]] — XX — Floor and ceiling functions with geometric probability
 - [ ] [[Q21]] — P1 — Ellipses and algebraic manipulation
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Prime exponents, trailing zeros, and optimisation
+- [ ] [[Q22]] — XX — Prime exponents, trailing zeros, and optimisation
 - [ ] [[Q23]] — P1 — Transformations, cosine rule, and Pythagoras
 - [ ] [[Q24]] — P2 / P1 — Trigonometric identities, quadratics, and area
-- [ ] [[Q25]] — Outside the core 9709 syllabus — Greatest common divisors, parity, and inclusion-exclusion
+- [ ] [[Q25]] — XX — Greatest common divisors, parity, and inclusion-exclusion
 
 ## Answer Key
 

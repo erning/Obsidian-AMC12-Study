@@ -15,9 +15,9 @@ status: completed
 ## Problems
 
 - [ ] [[Q01]] — P1 — Counting positions from opposite directions
-- [ ] [[Q02]] — Outside the core 9709 syllabus — Factorials and consecutive-factor recognition
+- [ ] [[Q02]] — XX — Factorials and consecutive-factor recognition
 - [ ] [[Q03]] — P1 — Absolute-value inequalities and consecutive integers
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Triangular numbers, modular cycles, and interval bounds
+- [ ] [[Q04]] — XX — Triangular numbers, modular cycles, and interval bounds
 - [ ] [[Q05]] — P1 — Arithmetic sequences, optimisation, and sign changes
 - [ ] [[Q06]] — P2 — Change of base, logarithms, and digits in a base
 - [ ] [[Q07]] — P1 — Coordinate geometry, vectors, and triangle area
@@ -27,16 +27,16 @@ status: completed
 - [ ] [[Q11]] — P1 — Trigonometric identities, symmetric sums, and arithmetic mean
 - [ ] [[Q12]] — P3 — Complex-plane coordinates, conjugates, powers, and area
 - [ ] [[Q13]] — P2 — Completing the square and quadratic optimisation
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Euler's theorem, prime powers, and modular arithmetic
+- [ ] [[Q14]] — XX — Euler's theorem, prime powers, and modular arithmetic
 - [ ] [[Q15]] — P2 — Logarithm simplification, coordinate geometry, and area
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Multinomial counting, indistinguishable groups, and Legendre's formula
+- [ ] [[Q16]] — XX — Multinomial counting, indistinguishable groups, and Legendre's formula
 - [ ] [[Q17]] — P2 / S1 — Vieta's formulas, integer factorisation, and ordered probability
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Fibonacci and Lucas identities and summation
+- [ ] [[Q18]] — XX — Fibonacci and Lucas identities and summation
 - [ ] [[Q19]] — P3 / P1 — Rotations, cyclic-polygon area, and sum-to-product identities
 - [ ] [[Q20]] — P1 — Median formulas, triangle inequalities, and area optimisation
 - [ ] [[Q21]] — P1 — Tangent addition, complementary angles, and Pythagorean triples
 - [ ] [[Q22]] — P1 — The sine rule, double-angle geometry, and integer side constraints
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Regular polygons, right pyramids, and chord lengths
+- [ ] [[Q23]] — XX — Regular polygons, right pyramids, and chord lengths
 - [ ] [[Q24]] — P1 — Altitudes, inradii, triangle inequalities, and area
 - [ ] [[Q25]] — S1 — Independent events, multinomial counting, and casework
 

@@ -30,7 +30,7 @@ status: completed
 - [ ] [[Q14]] — P2 — Logarithm laws and exponent comparison
 - [ ] [[Q15]] — S1 — Mean, median, mode, range, and extremal data
 - [ ] [[Q16]] — S1 — Sample spaces and discrete probability
-- [ ] [[Q17]] — Outside the core 9709 syllabus — Digit partitions, primality, and optimization
+- [ ] [[Q17]] — XX — Digit partitions, primality, and optimization
 - [ ] [[Q18]] — P1 — Tangents, similar triangles, and circle coordinates
 - [ ] [[Q19]] — P1 — Composite functions and graph interpretation
 - [ ] [[Q20]] — P1 — Recurring decimals and equivalent fractions

@@ -14,17 +14,17 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Outside the core 9709 syllabus — Place value, digit patterns, and averages
+- [ ] [[Q01]] — XX — Place value, digit patterns, and averages
 - [ ] [[Q02]] — P1 — Algebraic simplification and factorization
 - [ ] [[Q03]] — P2 — Factoring quadratics and prime values
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Divisibility of fractions and integer constraints
+- [ ] [[Q04]] — XX — Divisibility of fractions and integer constraints
 - [ ] [[Q05]] — P1 — Polygon angle sums and arithmetic sequences
 - [ ] [[Q06]] — P2 — Quadratic roots and Vieta's formulas
 - [ ] [[Q07]] — P2 — Consecutive integers and quadratic equations
-- [ ] [[Q08]] — Outside the core 9709 syllabus — Calendar arithmetic and modular cycles
+- [ ] [[Q08]] — XX — Calendar arithmetic and modular cycles
 - [ ] [[Q09]] — P1 — Arithmetic and geometric sequences
 - [ ] [[Q10]] — S1 — Counting distinct sums from a finite set
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Prime numbers and parity
+- [ ] [[Q11]] — XX — Prime numbers and parity
 - [ ] [[Q12]] — P1 — Rational equations and perfect squares
 - [ ] [[Q13]] — P1 — Arithmetic sequences and square numbers
 - [ ] [[Q14]] — P1 — Circle intersections and maximum counting
@@ -34,7 +34,7 @@ status: completed
 - [ ] [[Q18]] — S1 / P1 — Geometric probability and perpendicular bisectors
 - [ ] [[Q19]] — P1 — Symmetric systems of equations
 - [ ] [[Q20]] — P1 — Right triangles, medians, and Pythagoras
-- [ ] [[Q21]] — Outside the core 9709 syllabus — Divisibility, least common multiples, and weighted sums
+- [ ] [[Q21]] — XX — Divisibility, least common multiples, and weighted sums
 - [ ] [[Q22]] — P2 — Change of base and logarithm laws
 - [ ] [[Q23]] — P1 — Medians and the cosine rule
 - [ ] [[Q24]] — P1 — Quadrilateral area and Pythagorean bounds

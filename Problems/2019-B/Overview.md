@@ -15,29 +15,29 @@ status: completed
 ## Problems
 
 - [ ] [[Q01]] — P1 — Ratios, proportions, and conservation of quantity
-- [ ] [[Q02]] — Outside the core 9709 syllabus — Prime and composite numbers with counterexamples
+- [ ] [[Q02]] — XX — Prime and composite numbers with counterexamples
 - [ ] [[Q03]] — P1 — Coordinate transformations and rotations about the origin
-- [ ] [[Q04]] — Outside the core 9709 syllabus — Factorials and quadratic equations
-- [ ] [[Q05]] — Outside the core 9709 syllabus — LCM and divisibility
+- [ ] [[Q04]] — XX — Factorials and quadratic equations
+- [ ] [[Q05]] — XX — LCM and divisibility
 - [ ] [[Q06]] — P1 — Ellipses and triangle area
 - [ ] [[Q07]] — S1 — Mean, median, and piecewise case analysis
 - [ ] [[Q08]] — P1 — Symmetry and alternating sums
 - [ ] [[Q09]] — P2 — Change of base and triangle inequalities
-- [ ] [[Q10]] — Outside the core 9709 syllabus — Graph degree parity and Euler trails
-- [ ] [[Q11]] — Outside the core 9709 syllabus — Spatial geometry and combinations
+- [ ] [[Q10]] — XX — Graph degree parity and Euler trails
+- [ ] [[Q11]] — XX — Spatial geometry and combinations
 - [ ] [[Q12]] — P1 — Right triangles and double-angle identities
 - [ ] [[Q13]] — P2 / S1 — Infinite geometric series and complementary events
-- [ ] [[Q14]] — Outside the core 9709 syllabus — Prime factorisation and divisor exponents
+- [ ] [[Q14]] — XX — Prime factorisation and divisor exponents
 - [ ] [[Q15]] — P1 — Circle areas, overlaps, and symmetry
-- [ ] [[Q16]] — Outside the core 9709 syllabus — Recurrences and conditional path counting
+- [ ] [[Q16]] — XX — Recurrences and conditional path counting
 - [ ] [[Q17]] — P3 — Polar complex numbers, modulus, and equilateral triangles
-- [ ] [[Q18]] — Outside the core 9709 syllabus — Three-dimensional coordinates and cross products
-- [ ] [[Q19]] — Outside the core 9709 syllabus — Finite-state probability and state classification
+- [ ] [[Q18]] — XX — Three-dimensional coordinates and cross products
+- [ ] [[Q19]] — XX — Finite-state probability and state classification
 - [ ] [[Q20]] — P1 — Tangent-radius perpendicularity and coordinate geometry
 - [ ] [[Q21]] — P2 — Vieta's formulas and set casework
-- [ ] [[Q22]] — Outside the core 9709 syllabus — Recurrence transformations and exponential bounds
-- [ ] [[Q23]] — Outside the core 9709 syllabus — Binary strings and block counting
-- [ ] [[Q24]] — Outside the core 9709 syllabus — Complex vectors, Minkowski sums, and cross products
+- [ ] [[Q22]] — XX — Recurrence transformations and exponential bounds
+- [ ] [[Q23]] — XX — Binary strings and block counting
+- [ ] [[Q24]] — XX — Complex vectors, Minkowski sums, and cross products
 - [ ] [[Q25]] — P3 — Centroids, vectors, cosine rule, and trigonometric optimisation
 
 ## Answer Key
