@@ -75,7 +75,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2006-A
 - [x] 2006-B
 - [x] 2005-A
-- [ ] 2005-B
+- [x] 2005-B
 - [ ] 2004-A
 - [ ] 2004-B
 - [ ] 2003-A
@@ -108,4 +108,4 @@ historical collection is complete.
 
 ## Current next exam
 
-- 2005-B
+- 2004-A
