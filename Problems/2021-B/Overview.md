@@ -1,3 +1,10 @@
+---
+year: 2021
+contest: AMC12B
+type: exam
+status: completed
+---
+
 # AMC12 2021-B
 
 - Date: February 10, 2021
