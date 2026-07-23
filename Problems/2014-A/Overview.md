@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]]
-- [ ] [[Q02]]
-- [ ] [[Q03]]
-- [ ] [[Q04]]
-- [ ] [[Q05]]
-- [ ] [[Q06]]
-- [ ] [[Q07]]
-- [ ] [[Q08]]
-- [ ] [[Q09]]
-- [ ] [[Q10]]
-- [ ] [[Q11]]
-- [ ] [[Q12]]
-- [ ] [[Q13]]
-- [ ] [[Q14]]
-- [ ] [[Q15]]
-- [ ] [[Q16]]
-- [ ] [[Q17]]
-- [ ] [[Q18]]
-- [ ] [[Q19]]
-- [ ] [[Q20]]
-- [ ] [[Q21]]
-- [ ] [[Q22]]
-- [ ] [[Q23]]
-- [ ] [[Q24]]
-- [ ] [[Q25]]
+- [ ] [[Q01]] — Fractions and reciprocals
+- [ ] [[Q02]] — Ratios and unit prices
+- [ ] [[Q03]] — Permutations and restrictions
+- [ ] [[Q04]] — Rates and proportions
+- [ ] [[Q05]] — Weighted mean and median
+- [ ] [[Q06]] — Place value equations
+- [ ] [[Q07]] — Geometric progressions
+- [ ] [[Q08]] — Piecewise inequalities
+- [ ] [[Q09]] — Arithmetic sequences
+- [ ] [[Q10]] — Equilateral triangle geometry
+- [ ] [[Q11]] — Rates and time
+- [ ] [[Q12]] — Chords and central angles
+- [ ] [[Q13]] — Counting partitions
+- [ ] [[Q14]] — Arithmetic and geometric progressions
+- [ ] [[Q15]] — Digit sums and counting
+- [ ] [[Q16]] — Multiplication with carries
+- [ ] [[Q17]] — Sphere tangency
+- [ ] [[Q18]] — Nested logarithms
+- [ ] [[Q19]] — Polynomial roots
+- [ ] [[Q20]] — Reflection and shortest paths
+- [ ] [[Q21]] — Floor functions
+- [ ] [[Q22]] — Exponential inequalities
+- [ ] [[Q23]] — Repeating decimals
+- [ ] [[Q24]] — Absolute-value functions
+- [ ] [[Q25]] — Parabolas and lattice points
 
 ## Answer Key
 
