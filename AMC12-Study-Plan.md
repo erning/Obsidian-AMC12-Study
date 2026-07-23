@@ -82,7 +82,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2003-B
 - [x] 2002-A
 - [x] 2002-B
-- [ ] 2001
+- [x] 2001
 - [ ] 2000
 
 The exact A/B split for each year will be verified from authoritative sources.
@@ -108,4 +108,4 @@ historical collection is complete.
 
 ## Current next exam
 
-- 2001
+- 2000
