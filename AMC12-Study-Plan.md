@@ -45,7 +45,7 @@ syntax. File names remain English and use the established capitalization.
 - [x] 2021-A
 - [x] 2021-B
 - [x] 2020-A
-- [ ] 2020-B
+- [x] 2020-B
 - [ ] 2019-A
 - [ ] 2019-B
 - [ ] 2018-A
