@@ -12,31 +12,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Absolute value inequalities and Counting consecutive integers
-- [ ] [[Q02]] — Pairing and conservation of counts and Complementary counting
-- [ ] [[Q03]] — Nested fractions and Solving rational equations
-- [ ] [[Q04]] — Weighted averages and Ratios
-- [ ] [[Q05]] — Coordinate transformations and Rotation and reflection formulas
-- [ ] [[Q06]] — Volumes of cones and cylinders and Conservation of volume
-- [ ] [[Q07]] — Prime factorization and Sum-of-divisors function and Separating odd and even divisors
-- [ ] [[Q08]] — Chord length and distance from center and Symmetry of a circle
-- [ ] [[Q09]] — Change of base for logarithms and Algebraic cancellation
-- [ ] [[Q10]] — Arithmetic series and Symmetric factorization
-- [ ] [[Q11]] — Coordinate geometry and Law of cosines / distance formula and Parallel lines
-- [ ] [[Q12]] — Averages as total divided by count and Translating removals into equations
-- [ ] [[Q13]] — Periodic trigonometric functions and Intermediate value theorem and Root counting by sign and monotonicity
-- [ ] [[Q14]] — Three-dimensional Pythagorean theorem and Pyramid volume and Integer constraints
-- [ ] [[Q15]] — Equilateral triangles and rhombi and Symmetry and Shoelace formula
-- [ ] [[Q16]] — Vieta's formulas and Reciprocal roots and Polynomial evaluation
-- [ ] [[Q17]] — Area ratios in a trapezoid and Isosceles trapezoid symmetry and Algebraic equations involving ratios
-- [ ] [[Q18]] — Complex modulus and conjugates and Sum of squares and Completing the square
-- [ ] [[Q19]] — Counting outcomes of sums of two dice and Probability ratios and Minimality checking
-- [ ] [[Q20]] — Polynomial division remainders and Modular polynomial arithmetic
-- [ ] [[Q21]] — Exponential and logarithmic equations and Root counting with calculus
-- [ ] [[Q22]] — Sprague-Grundy theory and Nim-sum / bitwise xor
-- [ ] [[Q23]] — Infinite geometric series and Counting permutations and Independent probability
-- [ ] [[Q24]] — Diagonals of a parallelogram and Orthogonal projection and Area using diagonals
-- [ ] [[Q25]] — Lattice-point counting and Floor functions and Boundary analysis
+- [ ] [[Q01]] — P1 — Absolute-value inequalities and consecutive integers
+- [ ] [[Q02]] — S1 — Pairing, complementary counting, and conservation of counts
+- [ ] [[Q03]] — P1 — Nested fractions and rational equations
+- [ ] [[Q04]] — S1 / P1 — Weighted averages and ratios
+- [ ] [[Q05]] — P1 — Coordinate transformations, rotations, and reflections
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Cone and cylinder volumes and volume conservation
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Prime factorisation and divisor sums
+- [ ] [[Q08]] — P1 — Chords, centre distances, and circle symmetry
+- [ ] [[Q09]] — P2 — Change of base and logarithmic simplification
+- [ ] [[Q10]] — P1 — Arithmetic series and symmetric factorisation
+- [ ] [[Q11]] — P1 — Coordinate geometry, cosine rule, and parallel lines
+- [ ] [[Q12]] — S1 / P1 — Averages and linear equations from removals
+- [ ] [[Q13]] — P3 — Periodic trigonometric functions and calculus-based root counting
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Three-dimensional Pythagoras and pyramid volume
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Symmetry, rhombi, and shoelace area
+- [ ] [[Q16]] — P2 — Vieta's formulas, reciprocal roots, and polynomial evaluation
+- [ ] [[Q17]] — P1 — Trapezoid area ratios, symmetry, and algebraic ratios
+- [ ] [[Q18]] — P3 — Complex modulus, conjugates, and completing the square
+- [ ] [[Q19]] — S1 — Dice probabilities and outcome counting
+- [ ] [[Q20]] — P2 — Polynomial division and remainder arithmetic
+- [ ] [[Q21]] — P3 / P2 — Exponential and logarithmic equations with root counting
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Sprague-Grundy theory and Nim-sums
+- [ ] [[Q23]] — P2 / S1 — Infinite geometric series, permutations, and independent probability
+- [ ] [[Q24]] — P1 — Parallelogram diagonals, projections, and area
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Lattice points, floor functions, and boundaries
 
 ## Answers
 

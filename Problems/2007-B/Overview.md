@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Perimeter and Area
-- [ ] [[Q02]] — Distance, rate, and time and Harmonic mean
-- [ ] [[Q03]] — Inscribed angle and Angle sum
-- [ ] [[Q04]] — Ratio and proportion and Unit conversion
-- [ ] [[Q05]] — Inequality
-- [ ] [[Q06]] — Relative speed and Perimeter
-- [ ] [[Q07]] — Equilateral triangle and Square geometry and Angle sum
-- [ ] [[Q08]] — Ages and Linear equation
-- [ ] [[Q09]] — Function and Substitution
-- [ ] [[Q10]] — Percentage and Invariant
-- [ ] [[Q11]] — Angle sum and Ratio and proportion
-- [ ] [[Q12]] — Mean and Percentage
-- [ ] [[Q13]] — Geometric probability
-- [ ] [[Q14]] — Area decomposition and Equilateral triangle and Triangle area
-- [ ] [[Q15]] — Geometric sequence
-- [ ] [[Q16]] — Burnside's lemma and Symmetry
-- [ ] [[Q17]] — Logarithm and Inequality and Median (data)
-- [ ] [[Q18]] — Perfect square and Place value and Divisibility
-- [ ] [[Q19]] — Cylinder and Rhombus and Trigonometry
-- [ ] [[Q20]] — Coordinate geometry and Parallelogram and Optimization
-- [ ] [[Q21]] — Number base and Palindrome and Casework
-- [ ] [[Q22]] — Similarity and Area ratio and Centroid
-- [ ] [[Q23]] — Right triangle and Diophantine equation and Simon's Favorite Factoring Trick
-- [ ] [[Q24]] — Divisibility and Greatest common divisor and Casework
-- [ ] [[Q25]] — 3D geometry and Coordinate geometry and Triangle area
+- [ ] [[Q01]] — P1 — Perimeters and composite areas
+- [ ] [[Q02]] — P1 — Uniform motion and harmonic mean
+- [ ] [[Q03]] — P1 — Inscribed angles and angle sums
+- [ ] [[Q04]] — P1 — Ratios, proportions, and unit conversion
+- [ ] [[Q05]] — P1 — Inequalities and bounds
+- [ ] [[Q06]] — P1 — Relative speed and perimeter
+- [ ] [[Q07]] — P1 — Equilateral triangles, squares, and angle sums
+- [ ] [[Q08]] — P1 — Age problems and linear equations
+- [ ] [[Q09]] — P1 — Functions and substitution
+- [ ] [[Q10]] — P1 — Percentages and invariants
+- [ ] [[Q11]] — P1 — Angle sums, ratios, and proportions
+- [ ] [[Q12]] — S1 — Means and percentages
+- [ ] [[Q13]] — S1 — Geometric probability
+- [ ] [[Q14]] — P1 — Area decomposition and equilateral triangles
+- [ ] [[Q15]] — P2 — Geometric sequences and series
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Burnside's lemma and symmetry
+- [ ] [[Q17]] — P2 / S1 — Logarithms, inequalities, and median
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Perfect squares, place value, and divisibility
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Cylinders, rhombi, and trigonometry
+- [ ] [[Q20]] — P1 — Coordinate geometry, parallelograms, and optimisation
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Number bases, palindromes, and casework
+- [ ] [[Q22]] — P1 — Similarity, area ratios, and centroids
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Diophantine triples and factorisation
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Divisibility, greatest common divisors, and casework
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Three-dimensional coordinates and triangle areas
 
 ## Answer Key
 

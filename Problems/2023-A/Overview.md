@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Rates and Relative motion
-- [ ] [[Q02]] — Linear equations and Mixed numbers and Fractions
-- [ ] [[Q03]] — Perfect squares and Divisibility
-- [ ] [[Q04]] — Prime factorization and Decimal place value
-- [ ] [[Q05]] — Probability and Disjoint cases and Stopping times
-- [ ] [[Q06]] — Logarithms and Midpoints and Coordinate differences
-- [ ] [[Q07]] — Digit parity and Systematic casework
-- [ ] [[Q08]] — Averages and Linear equations
-- [ ] [[Q09]] — Similar figures and Pythagorean theorem and Ratios
-- [ ] [[Q10]] — Algebraic equations and Absolute values and Positivity
-- [ ] [[Q11]] — Slopes and Angle between lines and Tangent
-- [ ] [[Q12]] — Summation and Polynomial identities
-- [ ] [[Q13]] — Combinations and Percentages and Tournament counting
-- [ ] [[Q14]] — Complex numbers and Modulus and Roots of unity
-- [ ] [[Q15]] — Trigonometry and Right triangles and Distance
-- [ ] [[Q16]] — Complex loci and Modulus and Optimization
-- [ ] [[Q17]] — Probability and Recurrence and Geometric series
-- [ ] [[Q18]] — Tangent circles and Coordinate geometry and Symmetry
-- [ ] [[Q19]] — Change of base and Logarithmic domains and Vieta's formulas
-- [ ] [[Q20]] — Recurrence and Triangular arrays and Modular arithmetic
-- [ ] [[Q21]] — Graph distance and Icosahedron symmetry and Counting
-- [ ] [[Q22]] — Divisor sums and Multiplicative functions and Prime powers
-- [ ] [[Q23]] — AM-GM and Equality conditions and Inequalities
-- [ ] [[Q24]] — Nested subsets and Combinatorics and Modular arithmetic
-- [ ] [[Q25]] — Multiple-angle identities and Complex numbers and Binomial theorem
+- [ ] [[Q01]] — P1 — Rates and relative motion
+- [ ] [[Q02]] — P1 — Linear equations, mixed numbers, and fractions
+- [ ] [[Q03]] — Outside the core 9709 syllabus — Perfect squares and divisibility
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Prime factorisation and decimal place value
+- [ ] [[Q05]] — S1 — Disjoint probabilities and stopping times
+- [ ] [[Q06]] — P2 — Logarithms, midpoints, and coordinate differences
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Digit parity and systematic casework
+- [ ] [[Q08]] — S1 / P1 — Averages and linear equations
+- [ ] [[Q09]] — P1 — Similar figures, Pythagoras' theorem, and ratios
+- [ ] [[Q10]] — P1 — Algebraic equations, absolute value, and positivity
+- [ ] [[Q11]] — P1 — Slopes, angles between lines, and tangent
+- [ ] [[Q12]] — P2 — Summation and polynomial identities
+- [ ] [[Q13]] — S1 — Combinations, percentages, and tournament counting
+- [ ] [[Q14]] — P3 — Complex numbers, modulus, and roots of unity
+- [ ] [[Q15]] — P1 — Trigonometry, right triangles, and distance
+- [ ] [[Q16]] — P3 — Complex loci, modulus, and optimisation
+- [ ] [[Q17]] — S1 / P2 — Probability recurrences and geometric series
+- [ ] [[Q18]] — P2 — Tangent circles, coordinate geometry, and symmetry
+- [ ] [[Q19]] — P2 — Change of base, logarithmic domains, and Vieta's formulas
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Recurrences, triangular arrays, and modular arithmetic
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Graph distances, icosahedral symmetry, and counting
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Divisor sums, multiplicative functions, and prime powers
+- [ ] [[Q23]] — P1 — AM-GM, equality conditions, and inequalities
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Nested subsets, combinatorics, and modular arithmetic
+- [ ] [[Q25]] — P3 — Multiple-angle identities, complex numbers, and the binomial theorem
 
 ## Answer Key
 

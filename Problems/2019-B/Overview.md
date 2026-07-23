@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Ratios and proportions and Conservation of quantity
-- [ ] [[Q02]] — Prime and composite numbers and Counterexamples to conditional statements
-- [ ] [[Q03]] — Coordinate transformations and Rotations about the origin
-- [ ] [[Q04]] — Factorials and Quadratic equations
-- [ ] [[Q05]] — Least common multiples and Divisibility
-- [ ] [[Q06]] — Ellipses and Triangle area
-- [ ] [[Q07]] — Mean and median and Piecewise case analysis
-- [ ] [[Q08]] — Symmetry and Alternating sums
-- [ ] [[Q09]] — Logarithm change of base and Triangle inequalities
-- [ ] [[Q10]] — Graph degree parity and Euler trails
-- [ ] [[Q11]] — Spatial geometry and Combinations
-- [ ] [[Q12]] — Right triangles and Double-angle identities
-- [ ] [[Q13]] — Infinite geometric series and Symmetry and complementary events
-- [ ] [[Q14]] — Prime factorization and Divisor exponents
-- [ ] [[Q15]] — Circle areas and overlaps and Symmetry
-- [ ] [[Q16]] — Recurrence relations and Conditional path counting
-- [ ] [[Q17]] — Complex numbers in polar form and Modulus and equilateral triangles
-- [ ] [[Q18]] — Coordinates in three dimensions and Cross products and triangle area
-- [ ] [[Q19]] — Finite-state probability and Symmetry and state classification
-- [ ] [[Q20]] — Tangent-radius perpendicularity and Coordinate geometry
-- [ ] [[Q21]] — Vieta’s formulas and Case analysis with sets
-- [ ] [[Q22]] — Recurrence transformations and Exponential bounds
-- [ ] [[Q23]] — Binary strings and Stars-and-bars style block counting
-- [ ] [[Q24]] — Complex numbers as vectors and Minkowski sums and cross products
-- [ ] [[Q25]] — Centroids and vectors and Law of cosines and Trigonometric optimization
+- [ ] [[Q01]] — P1 — Ratios, proportions, and conservation of quantity
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Prime and composite numbers with counterexamples
+- [ ] [[Q03]] — P1 — Coordinate transformations and rotations about the origin
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Factorials and quadratic equations
+- [ ] [[Q05]] — Outside the core 9709 syllabus — LCM and divisibility
+- [ ] [[Q06]] — P1 — Ellipses and triangle area
+- [ ] [[Q07]] — S1 — Mean, median, and piecewise case analysis
+- [ ] [[Q08]] — P1 — Symmetry and alternating sums
+- [ ] [[Q09]] — P2 — Change of base and triangle inequalities
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Graph degree parity and Euler trails
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Spatial geometry and combinations
+- [ ] [[Q12]] — P1 — Right triangles and double-angle identities
+- [ ] [[Q13]] — P2 / S1 — Infinite geometric series and complementary events
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Prime factorisation and divisor exponents
+- [ ] [[Q15]] — P1 — Circle areas, overlaps, and symmetry
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Recurrences and conditional path counting
+- [ ] [[Q17]] — P3 — Polar complex numbers, modulus, and equilateral triangles
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Three-dimensional coordinates and cross products
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Finite-state probability and state classification
+- [ ] [[Q20]] — P1 — Tangent-radius perpendicularity and coordinate geometry
+- [ ] [[Q21]] — P2 — Vieta's formulas and set casework
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Recurrence transformations and exponential bounds
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Binary strings and block counting
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Complex vectors, Minkowski sums, and cross products
+- [ ] [[Q25]] — P3 — Centroids, vectors, cosine rule, and trigonometric optimisation
 
 ## Answer Key
 
@@ -67,4 +67,3 @@ status: completed
 - Q23 — C: $65$
 - Q24 — C: $\frac{3\sqrt3}{2}$
 - Q25 — C: $12+10\sqrt3$
-

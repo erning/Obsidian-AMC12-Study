@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Prime factorization; Optimization
-- [ ] [[Q02]] — Exponent
-- [ ] [[Q03]] — Percentage; Work backwards
-- [ ] [[Q04]] — Fibonacci; Units digit; Systematic listing
-- [ ] [[Q05]] — Absolute value
-- [ ] [[Q06]] — Prime; Parity; Factoring
-- [ ] [[Q07]] — Logarithm; Factor counting; Perfect power
-- [ ] [[Q08]] — Pattern recognition; Perfect square
-- [ ] [[Q09]] — Divisibility; Modular arithmetic; Mean
-- [ ] [[Q10]] — Transformation; 3d geometry; Coordinate geometry
-- [ ] [[Q11]] — Algebraic manipulation; Substitution
-- [ ] [[Q12]] — Factoring; Am-gm inequality; Optimization
-- [ ] [[Q13]] — Fraction; Linear equation; Bounding to limit cases
-- [ ] [[Q14]] — Mean; Median (data); Mode; Casework
-- [ ] [[Q15]] — Function; Substitution; Vieta formulas
-- [ ] [[Q16]] — Diophantine equation; Systematic listing
-- [ ] [[Q17]] — Angle bisector theorem; Tangent line; Trigonometry
-- [ ] [[Q18]] — Date and time; Modular arithmetic
-- [ ] [[Q19]] — Heron’s formula; Angle bisector theorem; Triangle area
-- [ ] [[Q20]] — System of equations; Algebraic manipulation; Symmetry (algebra)
-- [ ] [[Q21]] — Similarity; Area ratio
-- [ ] [[Q22]] — Polynomial; Vieta formulas; Complex number
-- [ ] [[Q23]] — Logarithm; Prime factorization; Basic probability
-- [ ] [[Q24]] — Power of a point; Tangent circles; Arc
-- [ ] [[Q25]] — Burnside’s lemma; Permutations; Symmetry
+- [ ] [[Q01]] — Outside the core 9709 syllabus — Prime factorization and extremal product constraints
+- [ ] [[Q02]] — P1 — Laws of indices and exponential notation
+- [ ] [[Q03]] — P1 — Repeated percentages and reverse calculation
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Fibonacci recurrences and units-digit cycles
+- [ ] [[Q05]] — P1 — Absolute-value equations and linear rearrangement
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Prime numbers, parity, and factorization
+- [ ] [[Q07]] — P2 — Logarithms, prime powers, and integer bases
+- [ ] [[Q08]] — P1 — Quadratic patterns and finite differences
+- [ ] [[Q09]] — S1 — Means, divisibility, and ordering constraints
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Three-dimensional transformations and coordinates
+- [ ] [[Q11]] — P1 — Algebraic fractions and substitution
+- [ ] [[Q12]] — P1 — Symmetric algebraic optimization and AM–GM
+- [ ] [[Q13]] — P1 — Ratios, mixtures, and linear constraints
+- [ ] [[Q14]] — S1 — Mean, median, mode, and casework
+- [ ] [[Q15]] — P1 — Composite functions and quadratic equations
+- [ ] [[Q16]] — P1 — Linear Diophantine equations and grid indexing
+- [ ] [[Q17]] — P1 — Tangents, angle bisectors, and trigonometry
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Calendar arithmetic and modular cycles
+- [ ] [[Q19]] — P1 — Angle bisectors, Heron's formula, and triangle area
+- [ ] [[Q20]] — P1 — Systems of equations and symmetric products
+- [ ] [[Q21]] — P1 — Similar triangles and area ratios
+- [ ] [[Q22]] — P2 / P3 — Polynomial roots, Vieta's formulas, and complex zeros
+- [ ] [[Q23]] — S1 / P2 — Logarithms, products, and probability
+- [ ] [[Q24]] — P1 — Circular arcs, tangent circles, and circumference
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Rotational symmetry and Burnside's lemma
 
 ## Answer Key
 

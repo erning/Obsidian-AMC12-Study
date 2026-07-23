@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Distributive property and Recognizing convenient decompositions
-- [ ] [[Q02]] — Systems of linear equations and Linear modeling and Substitution
-- [ ] [[Q03]] — Upper bounds and Constructive proof and Optimization
-- [ ] [[Q04]] — Prime factorization and Divisibility of factorials
-- [ ] [[Q05]] — Arithmetic mean and Translating word conditions into equations
-- [ ] [[Q06]] — Factorization and Sign analysis and Finite casework
-- [ ] [[Q07]] — Vector sums and Symmetry and midpoint pairing and Median of a right triangle
-- [ ] [[Q08]] — Logarithm laws and Domain restrictions and Trigonometric bounds
-- [ ] [[Q09]] — Difference of squares and Factor pairs and Optimization
-- [ ] [[Q10]] — Tangent in right triangles and Double-angle identity and Complementary angles
-- [ ] [[Q11]] — Base notation and Modular arithmetic and Counting arithmetic progressions
-- [ ] [[Q12]] — Geometric sequences and Divisors and Optimization
-- [ ] [[Q13]] — Axis of symmetry and Exponential functions and Reflection across a vertical line
-- [ ] [[Q14]] — Arithmetic progressions and Bilinear expressions and Linear systems
-- [ ] [[Q15]] — Polynomial evaluation and Complex conjugates and Roots and factorization
-- [ ] [[Q16]] — Multinomial counting and Combinations and Simplifying rational probabilities
-- [ ] [[Q17]] — Subtracting nonlinear equations and Factorization and Integer casework
-- [ ] [[Q18]] — Special-angle identities and Rotations and Chords of a circle
-- [ ] [[Q19]] — Cyclic quadrilaterals and Law of Cosines and Ptolemy's theorem
-- [ ] [[Q20]] — Geometric probability and Area ratios and Integration
-- [ ] [[Q21]] — Recurrence relations and Mathematical induction and Sum of squares and Bounding infinite-type remainders
-- [ ] [[Q22]] — Graph theory and Non-self-intersecting paths and Transfer-matrix counting
-- [ ] [[Q23]] — Factoring and Complementary-angle tangent identities and Special-angle trigonometry
-- [ ] [[Q24]] — Acute-triangle condition and Heron's formula and Three-dimensional geometry
-- [ ] [[Q25]] — Fractional linear transformations and Inverse functions and Symmetry and finite counting
+- [ ] [[Q01]] — P1 — Distributive property and algebraic decomposition
+- [ ] [[Q02]] — P1 — Simultaneous linear equations and modelling
+- [ ] [[Q03]] — P1 — Bounds, constructive proof, and optimisation
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Prime factorisation and factorial divisibility
+- [ ] [[Q05]] — S1 / P1 — Arithmetic mean and linear modelling
+- [ ] [[Q06]] — P1 — Factorisation, sign analysis, and finite casework
+- [ ] [[Q07]] — P1 — Vectors, symmetry, midpoints, and medians
+- [ ] [[Q08]] — P2 — Logarithm laws, domains, and trigonometric bounds
+- [ ] [[Q09]] — P1 — Difference of squares, factor pairs, and optimisation
+- [ ] [[Q10]] — P1 — Right-triangle tangent and double-angle identities
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Number bases, modular arithmetic, and arithmetic-progressions counting
+- [ ] [[Q12]] — P2 — Geometric sequences, divisors, and optimisation
+- [ ] [[Q13]] — P1 — Axes of symmetry, exponentials, and reflections
+- [ ] [[Q14]] — P1 — Arithmetic progressions, bilinear expressions, and linear systems
+- [ ] [[Q15]] — P3 / P2 — Polynomial roots, complex conjugates, and factorisation
+- [ ] [[Q16]] — S1 — Multinomial counting, combinations, and probability
+- [ ] [[Q17]] — P2 — Nonlinear equations, factorisation, and integer casework
+- [ ] [[Q18]] — P1 — Special-angle identities, rotations, and circle chords
+- [ ] [[Q19]] — P1 — Cyclic quadrilaterals, the cosine rule, and Ptolemy's theorem
+- [ ] [[Q20]] — S1 / P3 — Geometric probability, area ratios, and integration
+- [ ] [[Q21]] — P2 — Recurrences, induction, sum of squares, and bounds
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Graph theory, non-intersecting paths, and transfer matrices
+- [ ] [[Q23]] — P1 — Factorisation, tangent identities, and special angles
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Acute triangles, Heron's formula, and three-dimensional geometry
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Fractional linear transformations, inverse functions, and symmetry counting
 
 ## Answer Key
 

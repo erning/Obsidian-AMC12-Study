@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Area and Unit conversion within a grid
-- [ ] [[Q02]] — Average speed and Distance, rate, and time
-- [ ] [[Q03]] — Point-slope form and Intercepts
-- [ ] [[Q04]] — Chords and perpendicular bisectors and Pythagorean theorem
-- [ ] [[Q05]] — Complementary counting and Subsets
-- [ ] [[Q06]] — Unit conversion and Rates and proportions
-- [ ] [[Q07]] — Change of base and Telescoping products
-- [ ] [[Q08]] — Centroids as affine averages and Circle area
-- [ ] [[Q09]] — Double sums and Arithmetic series
-- [ ] [[Q10]] — Pigeonhole principle and Extremal counting
-- [ ] [[Q11]] — Net geometry and $45^\circ$ right triangles
-- [ ] [[Q12]] — Angle Bisector Theorem and Triangle inequalities
-- [ ] [[Q13]] — Centroids in coordinates and Area from diagonals
-- [ ] [[Q14]] — Divisor-count function and Age equations
-- [ ] [[Q15]] — Divisibility by 3 and Digit counting
-- [ ] [[Q16]] — Roots of unity and Regular polygon geometry
-- [ ] [[Q17]] — Rational approximation and Farey-style inequalities
-- [ ] [[Q18]] — Recurrence relations and Periodic reduction
-- [ ] [[Q19]] — Divisibility and GCD and factor bounds
-- [ ] [[Q20]] — Regular hexagon area and Similarity and midpoint scaling
-- [ ] [[Q21]] — Right triangles and centers and Internal tangency and Coordinate area
-- [ ] [[Q22]] — Coefficient equations and Stars and bars
-- [ ] [[Q23]] — Spherical coordinates and Dot products
-- [ ] [[Q24]] — Floor and fractional-part functions and Interval counting
-- [ ] [[Q25]] — Tangent circles and $30$-$60$-$90$ triangles and Equilateral-triangle area
+- [ ] [[Q01]] — P1 — Area and unit conversion on a grid
+- [ ] [[Q02]] — P1 — Average speed and distance-rate-time
+- [ ] [[Q03]] — P1 — Point-slope form and intercepts
+- [ ] [[Q04]] — P1 — Chords, perpendicular bisectors, and Pythagoras' theorem
+- [ ] [[Q05]] — S1 — Complementary counting and subsets
+- [ ] [[Q06]] — P1 — Unit conversion, rates, and proportions
+- [ ] [[Q07]] — P2 — Change of base and telescoping products
+- [ ] [[Q08]] — P1 — Centroids as affine averages and circle area
+- [ ] [[Q09]] — P2 — Double sums and arithmetic series
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Pigeonhole principle and extremal counting
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Net geometry and $45^\circ$ right triangles
+- [ ] [[Q12]] — P1 — Angle bisectors and triangle inequalities
+- [ ] [[Q13]] — P1 — Coordinate centroids and area from diagonals
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Divisor-count function and age equations
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Digit divisibility and counting
+- [ ] [[Q16]] — P3 — Roots of unity and regular polygon geometry
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Rational approximation and Farey inequalities
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Recurrences and periodic reduction
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Divisibility, GCD, and factor bounds
+- [ ] [[Q20]] — P1 — Regular-hexagon area, similarity, and midpoint scaling
+- [ ] [[Q21]] — P1 — Right triangles, tangency, and coordinate area
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Coefficient equations and stars-and-bars counting
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Spherical coordinates and dot products
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Floor and fractional-part functions
+- [ ] [[Q25]] — P1 — Tangent circles and exact triangle geometry
 
 ## Answer Key
 
@@ -67,4 +67,3 @@ status: completed
 - Q23 — C: $120^\circ$
 - Q24 — C: $199$
 - Q25 — D: $552$
-

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Whole number operations
-- [ ] [[Q02]] — Circle and Rectangle
-- [ ] [[Q03]] — Linear equation
-- [ ] [[Q04]] — Percentage and Unit conversion
-- [ ] [[Q05]] — Parity
-- [ ] [[Q06]] — Estimation and Inequality
-- [ ] [[Q07]] — Pattern recognition and Unit conversion
-- [ ] [[Q08]] — Multiplication principle and Arrangements with restrictions
-- [ ] [[Q09]] — Rate and System of equations
-- [ ] [[Q10]] — System of equations and Substitution and Triangle area
-- [ ] [[Q11]] — Number base and Quadratic
-- [ ] [[Q12]] — Inclusion-exclusion and Combinations
-- [ ] [[Q13]] — Basic probability and Complementary counting and Dice (probability)
-- [ ] [[Q14]] — Work backwards and Inequality
-- [ ] [[Q15]] — Cone and Volume and Pythagorean theorem
-- [ ] [[Q16]] — Casework and Multiplication principle
-- [ ] [[Q17]] — Coordinate geometry and Slope and System of equations
-- [ ] [[Q18]] — Bijection and Combinations
-- [ ] [[Q19]] — Cube geometry and Pythagorean theorem and Symmetry
-- [ ] [[Q20]] — Trapezoid and Heron’s formula and Casework
-- [ ] [[Q21]] — Equiangular polygon and Congruence (geometry) and Pythagorean theorem
-- [ ] [[Q22]] — Casework and Multiplication principle
-- [ ] [[Q23]] — Roots of unity and Complex number and Triangle inequality
-- [ ] [[Q24]] — Prime factorization and Divisibility and Recursion
-- [ ] [[Q25]] — Trigonometry and Telescoping and Symmetry
+- [ ] [[Q01]] — P1 — Arithmetic operations and linear scaling
+- [ ] [[Q02]] — P1 — Circles, rectangles, and ratios
+- [ ] [[Q03]] — P1 — Linear equations
+- [ ] [[Q04]] — P1 — Percentages and unit conversion
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Parity and integer casework
+- [ ] [[Q06]] — P1 — Estimation, rounding, and inequalities
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Periodic patterns and unit conversion
+- [ ] [[Q08]] — S1 — Restricted arrangements and the multiplication principle
+- [ ] [[Q09]] — P1 — Rates and simultaneous equations
+- [ ] [[Q10]] — P1 — Simultaneous equations, curve intersections, and triangle area
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Number bases and quadratic equations
+- [ ] [[Q12]] — S1 — Inclusion-exclusion and combinations
+- [ ] [[Q13]] — S1 — Complementary counting and discrete probability
+- [ ] [[Q14]] — P1 — Reverse processes, exponential growth, and inequalities
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Cones, three-dimensional volume, and Pythagoras' theorem
+- [ ] [[Q16]] — S1 — Casework and the multiplication principle
+- [ ] [[Q17]] — P1 — Coordinate geometry, slopes, and simultaneous equations
+- [ ] [[Q18]] — S1 — Combinations, bijections, and ordered selections
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Cube geometry, symmetry, and three-dimensional coordinates
+- [ ] [[Q20]] — P1 — Trapezia, Heron's formula, and geometric casework
+- [ ] [[Q21]] — P1 — Equiangular polygons, congruence, and Pythagoras' theorem
+- [ ] [[Q22]] — S1 — Restricted lattice paths and counting by cases
+- [ ] [[Q23]] — P3 — Complex numbers, roots of unity, and triangle inequalities
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Prime factorisation, divisibility, and recurrences
+- [ ] [[Q25]] — P2 — Trigonometric identities, telescoping products, and symmetry
 
 ## Answer Key
 

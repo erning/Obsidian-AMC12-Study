@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Linear equations and Counting coins and Place value
-- [ ] [[Q02]] — Fractions and Unit-price comparisons
-- [ ] [[Q03]] — Fractions of a whole and Proportional reasoning
-- [ ] [[Q04]] — Linear equations and Ratios
-- [ ] [[Q05]] — Ratios and Linear equations and Geometric dimensions
-- [ ] [[Q06]] — Percentages and Algebraic modeling and Conservation of quantity
-- [ ] [[Q07]] — Divisibility and Positive-integer constraints
-- [ ] [[Q08]] — Column addition and Carry analysis and Digit constraints
-- [ ] [[Q09]] — Pythagorean theorem and Decomposing quadrilaterals
-- [ ] [[Q10]] — Place value and Digit reversal and Divisibility
-- [ ] [[Q11]] — Mean and median and Mode constraints and Extremal construction
-- [ ] [[Q12]] — Triangle inequalities and Similarity classes and Systematic enumeration
-- [ ] [[Q13]] — Triangle inequality and Optimization and Quadratic equations
-- [ ] [[Q14]] — Surface area and Symmetric identities and Space diagonals
-- [ ] [[Q15]] — Logarithm and exponential identities and Prime exponents
-- [ ] [[Q16]] — Polynomial coefficients and Symmetry of $P(x)+P(-x)$
-- [ ] [[Q17]] — Quadratic discriminants and Vieta's formulas
-- [ ] [[Q18]] — Circular arrangements and Consecutive sums and Symmetry reduction
-- [ ] [[Q19]] — Frustum volume and Tangency geometry and Quadratic equations
-- [ ] [[Q20]] — Logarithmic inequalities and Domain restrictions and Quadratic inequalities
-- [ ] [[Q21]] — Similar triangles and Trigonometric identities and Geometric decomposition
-- [ ] [[Q22]] — Absorbing Markov chains and Recurrences and Boundary conditions
-- [ ] [[Q23]] — Modular arithmetic and Binomial coefficients and Prime moduli
-- [ ] [[Q24]] — Cyclic quadrilaterals and Ptolemy's theorem and Rational simplification
-- [ ] [[Q25]] — Trigonometric identities and Integer phase conditions and Divisor enumeration
+- [ ] [[Q01]] — P1 — Linear equations, coin counting, and place value
+- [ ] [[Q02]] — P1 — Fractions and unit-price comparisons
+- [ ] [[Q03]] — P1 — Fractions of a whole and proportional reasoning
+- [ ] [[Q04]] — P1 — Linear equations and ratios
+- [ ] [[Q05]] — P1 — Ratios, linear equations, and geometric dimensions
+- [ ] [[Q06]] — P1 — Percentages, algebraic modelling, and conservation
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Divisibility and positive-integer constraints
+- [ ] [[Q08]] — Outside the core 9709 syllabus — Column addition, carries, and digit constraints
+- [ ] [[Q09]] — P1 — Pythagoras' theorem and decomposing quadrilaterals
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Place value, digit reversal, and divisibility
+- [ ] [[Q11]] — S1 — Mean, median, mode, and extremal data sets
+- [ ] [[Q12]] — P1 — Triangle inequalities, similarity, and enumeration
+- [ ] [[Q13]] — P1 — Triangle inequalities, optimisation, and quadratics
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Surface area, space diagonals, and symmetric identities
+- [ ] [[Q15]] — P2 — Logarithmic and exponential identities and prime exponents
+- [ ] [[Q16]] — P2 — Polynomial coefficients and even-odd symmetry
+- [ ] [[Q17]] — P2 — Quadratic discriminants and Vieta's formulas
+- [ ] [[Q18]] — S1 — Circular arrangements, consecutive sums, and symmetry
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Frustum volume, tangency geometry, and quadratics
+- [ ] [[Q20]] — P2 — Logarithmic domains and quadratic inequalities
+- [ ] [[Q21]] — P1 — Similar triangles, trigonometry, and geometric decomposition
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Absorbing Markov chains and recurrences
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Modular arithmetic and binomial coefficients modulo primes
+- [ ] [[Q24]] — P1 — Cyclic quadrilaterals, Ptolemy's theorem, and simplification
+- [ ] [[Q25]] — P2 — Trigonometric identities and integer phase conditions
 
 ## Answer Key
 

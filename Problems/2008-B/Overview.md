@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Counting integers in a range
-- [ ] [[Q02]] — Arithmetic sequence and Pattern recognition
-- [ ] [[Q03]] — Optimization and Extremal argument
-- [ ] [[Q04]] — Sector and Angle sum
-- [ ] [[Q05]] — Diophantine equation and Parity
-- [ ] [[Q06]] — Place value and Estimation and Unit conversion
-- [ ] [[Q07]] — Custom operation and Symmetry
-- [ ] [[Q08]] — Ratio and proportion
-- [ ] [[Q09]] — Chord and Perpendicular bisector and Pythagorean theorem
-- [ ] [[Q10]] — Rate and Linear equation
-- [ ] [[Q11]] — Cone and Similarity and Power scaling of length, area, and volume
-- [ ] [[Q12]] — Mean and Summation
-- [ ] [[Q13]] — Coordinate geometry and Equilateral triangle and Calculus
-- [ ] [[Q14]] — Logarithm and Circumference
-- [ ] [[Q15]] — Triangle area and Angle chasing and Trigonometry
-- [ ] [[Q16]] — Area and Simon's Favorite Factoring Trick and Factor
-- [ ] [[Q17]] — Parabola and Slope and Triangle area and Digits
-- [ ] [[Q18]] — Pyramid and Volume and Heron's formula
-- [ ] [[Q19]] — Complex number and Optimization
-- [ ] [[Q20]] — Relative speed and Distance rate and time and Process simulation
-- [ ] [[Q21]] — Geometric probability and Distance formula
-- [ ] [[Q22]] — Complementary counting and Combinations and Arrangements with restrictions
-- [ ] [[Q23]] — Logarithm and Factor counting
-- [ ] [[Q24]] — Recursion and Equilateral triangle and Summation
-- [ ] [[Q25]] — Trapezoid and Angle bisector and Law of cosines
+- [ ] [[Q01]] — P1 — Integer intervals and inequalities
+- [ ] [[Q02]] — P2 — Arithmetic sequences and pattern recognition
+- [ ] [[Q03]] — P1 — Optimisation and extremal bounds
+- [ ] [[Q04]] — P1 — Sectors, circular measure, and angle sums
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Diophantine equations and parity
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Place value, estimation, and unit conversion
+- [ ] [[Q07]] — P1 — Defined operations and algebraic symmetry
+- [ ] [[Q08]] — P1 — Ratios and proportions
+- [ ] [[Q09]] — P1 — Circle chords, perpendicular bisectors, and Pythagoras
+- [ ] [[Q10]] — P1 — Rates and linear equations
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Cones, similarity, and three-dimensional scaling
+- [ ] [[Q12]] — S1 — Means and summation
+- [ ] [[Q13]] — P1 — Coordinate geometry, equilateral triangles, and differentiation
+- [ ] [[Q14]] — P2 — Logarithms and circle circumference
+- [ ] [[Q15]] — P1 — Triangle areas, angle chasing, and trigonometry
+- [ ] [[Q16]] — P1 — Area, factorisation, and algebraic identities
+- [ ] [[Q17]] — P1 — Parabolas, gradients, and coordinate areas
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Pyramids, volume, and Heron's formula
+- [ ] [[Q19]] — P3 — Complex numbers and optimisation
+- [ ] [[Q20]] — P1 — Relative speed, distance, rate, and time
+- [ ] [[Q21]] — S1 / P1 — Geometric probability and coordinate distance
+- [ ] [[Q22]] — S1 — Complementary counting, combinations, and restrictions
+- [ ] [[Q23]] — P2 — Logarithms and factor counting
+- [ ] [[Q24]] — P2 / P1 — Recurrences, equilateral triangles, and summation
+- [ ] [[Q25]] — P1 — Trapezoids, angle bisectors, and cosine rule
 
 ## Answer Key
 

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Date and time and Clock
-- [ ] [[Q02]] — Continued fraction and Fraction
-- [ ] [[Q03]] — Fraction and Ratio and proportion
-- [ ] [[Q04]] — Money and Multiple and Casework
-- [ ] [[Q05]] — Volume and Difference of squares
-- [ ] [[Q06]] — Exponent and Substitution
-- [ ] [[Q07]] — Arithmetic sequence
-- [ ] [[Q08]] — Area ratio and Square (geometry) and System of equations
-- [ ] [[Q09]] — Function and Substitution
-- [ ] [[Q10]] — Triangle inequality and Bounding to limit cases
-- [ ] [[Q11]] — Arithmetic sequence and Summation
-- [ ] [[Q12]] — Digits and Bounding to limit cases and Casework
-- [ ] [[Q13]] — Law of cosines and Bounding to limit cases
-- [ ] [[Q14]] — Coordinate geometry and Median (geometry) and Vieta’s formulas
-- [ ] [[Q15]] — Complex number and Pairing and grouping
-- [ ] [[Q16]] — Tangent circles and Coordinate geometry and Vieta’s formulas
-- [ ] [[Q17]] — Geometric sequence and Vieta’s formulas
-- [ ] [[Q18]] — Prime factorization and Sum and difference of cubes
-- [ ] [[Q19]] — Regular polygon and Pythagorean theorem and Circle area
-- [ ] [[Q20]] — Parallel lines and Similarity and Area ratio
-- [ ] [[Q21]] — Polynomial and Complex number and Roots of unity
-- [ ] [[Q22]] — 3d geometry and Regular polygon and Area
-- [ ] [[Q23]] — Quadratic and Parabola and Symmetry
-- [ ] [[Q24]] — Recursion and Logarithm and Exponent
-- [ ] [[Q25]] — Trigonometric identity and Recursion and Modular arithmetic
+- [ ] [[Q01]] — Outside the core 9709 syllabus — Calendar arithmetic and clock reasoning
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Continued fractions and rational approximations
+- [ ] [[Q03]] — P1 — Fractions, ratios, and proportions
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Multiples, money, and casework
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Volume and difference-of-squares reasoning
+- [ ] [[Q06]] — P2 — Exponents and substitution
+- [ ] [[Q07]] — P2 — Arithmetic sequences
+- [ ] [[Q08]] — P1 — Area ratios, squares, and simultaneous equations
+- [ ] [[Q09]] — P1 — Functions and substitution
+- [ ] [[Q10]] — P1 — Triangle inequality and extremal bounds
+- [ ] [[Q11]] — P2 — Arithmetic series and summation
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Digit constraints, bounds, and casework
+- [ ] [[Q13]] — P1 — Cosine rule and bounding arguments
+- [ ] [[Q14]] — P2 / P1 — Coordinate geometry, medians, and Vieta's formulas
+- [ ] [[Q15]] — P3 — Complex arithmetic and algebraic grouping
+- [ ] [[Q16]] — P1 / P2 — Tangent circles, coordinates, and Vieta's formulas
+- [ ] [[Q17]] — P2 — Geometric sequences and Vieta's formulas
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Prime factorisation and cubic identities
+- [ ] [[Q19]] — P1 — Regular polygons, Pythagoras, and circle areas
+- [ ] [[Q20]] — P1 — Parallel lines, similarity, and area ratios
+- [ ] [[Q21]] — P3 — Complex polynomials and roots of unity
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Three-dimensional geometry and polygon areas
+- [ ] [[Q23]] — P1 — Quadratics, parabolas, and symmetry
+- [ ] [[Q24]] — P2 — Recurrences, logarithms, and exponents
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Trigonometric recurrences and modular arithmetic
 
 ## Answer Key
 

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Fractions and Reciprocals and Order of operations
-- [ ] [[Q02]] — Ratios and Unit prices and Linear scaling
-- [ ] [[Q03]] — Permutations and Casework and Adjacency restrictions
-- [ ] [[Q04]] — Rates and Proportional reasoning
-- [ ] [[Q05]] — Weighted mean and Median
-- [ ] [[Q06]] — Place value and Digit equations and Integer constraints
-- [ ] [[Q07]] — Geometric progressions and Exponent arithmetic
-- [ ] [[Q08]] — Piecewise linear inequalities and Percent discounts
-- [ ] [[Q09]] — Arithmetic sequences and Averages
-- [ ] [[Q10]] — Equilateral-triangle area and Isosceles-triangle geometry and Pythagorean theorem
-- [ ] [[Q11]] — Rates and time and Linear equations
-- [ ] [[Q12]] — Chord length and Central angles and Trigonometric identities
-- [ ] [[Q13]] — Counting partitions and Permutations of groups and Casework
-- [ ] [[Q14]] — Arithmetic progressions and Geometric progressions and Integer parametrization
-- [ ] [[Q15]] — Place value and Digit sums and Counting
-- [ ] [[Q16]] — Multiplication with carries and Digit sums
-- [ ] [[Q17]] — Three-dimensional distance and Sphere tangency and Coordinate geometry
-- [ ] [[Q18]] — Domains of nested logarithms and Reversing inequalities for bases below $1$
-- [ ] [[Q19]] — Vieta-style root substitution and Integer bounds and Injectivity
-- [ ] [[Q20]] — Reflection and shortest paths and Law of cosines
-- [ ] [[Q21]] — Floor functions and Logarithmic inequalities and Telescoping products
-- [ ] [[Q22]] — Exponential inequalities and Counting powers in intervals and Linear systems
-- [ ] [[Q23]] — Repeating decimals and Base-$100$ representation and Digit sums
-- [ ] [[Q24]] — Absolute values and Piecewise-linear functions and Preimage counting
-- [ ] [[Q25]] — Parabolas and directrices and Lattice-point parametrization and Absolute values
+- [ ] [[Q01]] — P1 — Fractions, reciprocals, and order of operations
+- [ ] [[Q02]] — P1 — Ratios, unit prices, and linear scaling
+- [ ] [[Q03]] — S1 — Restricted permutations, adjacency, and casework
+- [ ] [[Q04]] — P1 — Rates and proportional reasoning
+- [ ] [[Q05]] — S1 — Weighted means and medians
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Place value, digit equations, and integer constraints
+- [ ] [[Q07]] — P2 — Geometric progressions and index laws
+- [ ] [[Q08]] — P1 — Piecewise linear inequalities and percentage discounts
+- [ ] [[Q09]] — P2 — Arithmetic sequences and averages
+- [ ] [[Q10]] — P1 — Equilateral and isosceles triangles and Pythagoras' theorem
+- [ ] [[Q11]] — P1 — Rates, time, and linear equations
+- [ ] [[Q12]] — P1 — Chords, central angles, and trigonometric identities
+- [ ] [[Q13]] — S1 — Partitions, group permutations, and casework
+- [ ] [[Q14]] — P2 — Arithmetic progressions, geometric progressions, and parametrisation
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Place value, digit sums, and counting
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Carries in multiplication and digit sums
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Sphere tangency and three-dimensional coordinates
+- [ ] [[Q18]] — P2 — Logarithm domains and inequalities for bases below one
+- [ ] [[Q19]] — P2 — Polynomial roots, integer bounds, and injectivity
+- [ ] [[Q20]] — P1 — Reflections, shortest paths, and the cosine rule
+- [ ] [[Q21]] — P2 — Floor functions, logarithmic inequalities, and telescoping products
+- [ ] [[Q22]] — P2 — Exponential inequalities and counting powers in intervals
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Repeating decimals, base 100, and digit sums
+- [ ] [[Q24]] — P1 — Absolute values, piecewise linear functions, and preimages
+- [ ] [[Q25]] — P2 — Parabolas, directrices, and lattice-point parametrisation
 
 ## Answer Key
 

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Ratio and proportion and Money
-- [ ] [[Q02]] — Percentage and Quadratic
-- [ ] [[Q03]] — Fraction and Ratio and proportion
-- [ ] [[Q04]] — Percentage
-- [ ] [[Q05]] — Circle area and Area
-- [ ] [[Q06]] — Isosceles triangle and Altitude and Pythagorean theorem
-- [ ] [[Q07]] — Absolute value and Rhombus
-- [ ] [[Q08]] — Parabola and Quadratic
-- [ ] [[Q09]] — Mean and Median (data)
-- [ ] [[Q10]] — Digits and Recursion and Pattern recognition
-- [ ] [[Q11]] — Basic probability and Combinations and Casework
-- [ ] [[Q12]] — Vieta's formulas and Quadratic
-- [ ] [[Q13]] — Logarithm and Telescoping
-- [ ] [[Q14]] — Circle and Tangent line and Coordinate geometry
-- [ ] [[Q15]] — Digits and Place value and Casework
-- [ ] [[Q16]] — 3D geometry and Sphere and Distance formula
-- [ ] [[Q17]] — Logarithm and Prime factorization
-- [ ] [[Q18]] — Coordinate geometry and Circle and Area decomposition
-- [ ] [[Q19]] — Digits and Difference of squares and Perfect square
-- [ ] [[Q20]] — Optimization and Completing the square
-- [ ] [[Q21]] — Factor counting and Prime factorization
-- [ ] [[Q22]] — Complex number and Roots of unity and Recursion
-- [ ] [[Q23]] — Sum and difference of cubes and Logarithm and Symmetry (algebra)
-- [ ] [[Q24]] — Parabola and Trigonometric identity and Equilateral triangle
-- [ ] [[Q25]] — Basic probability and Arrangements with restrictions and Casework
+- [ ] [[Q01]] — P1 — Ratios, unit prices, and profit
+- [ ] [[Q02]] — P1 — Percentages and quadratic equations
+- [ ] [[Q03]] — P1 — Fractions and proportional spending
+- [ ] [[Q04]] — P1 — Percentages and inequality constraints
+- [ ] [[Q05]] — P1 — Circle sectors and composite areas
+- [ ] [[Q06]] — P1 — Isosceles triangles and Pythagoras
+- [ ] [[Q07]] — P1 — Absolute values, lines, and coordinate geometry
+- [ ] [[Q08]] — P1 — Parabolas, lines, and vertex conditions
+- [ ] [[Q09]] — S1 — Mean, median, and frequency distributions
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Digit iterations and recurrent cycles
+- [ ] [[Q11]] — S1 — Sampling without replacement and combinations
+- [ ] [[Q12]] — P2 — Quadratics, Vieta's formulas, and root scaling
+- [ ] [[Q13]] — P2 — Logarithms and telescoping products
+- [ ] [[Q14]] — P1 — Coordinate geometry, tangent lines, and circles
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Digit constraints and finite casework
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Spheres, octants, and three-dimensional distance
+- [ ] [[Q17]] — P2 — Logarithms and linear relations
+- [ ] [[Q18]] — P1 — Coordinate geometry, acute triangles, and locus areas
+- [ ] [[Q19]] — P1 — Difference of squares and digit reversal
+- [ ] [[Q20]] — P1 — Completing the square and partition optimization
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Divisor functions and prime exponents
+- [ ] [[Q22]] — P3 — Complex conjugates and recurrence
+- [ ] [[Q23]] — P2 — Logarithms and symmetric polynomials
+- [ ] [[Q24]] — P1 — Parabolas, exact trigonometry, and equilateral triangles
+- [ ] [[Q25]] — S1 — Restricted arrangements and probability on an octahedron
 
 ## Answer Key
 

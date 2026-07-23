@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Money
-- [ ] [[Q02]] — Custom operation and Substitution
-- [ ] [[Q03]] — Ratio and proportion and Ages
-- [ ] [[Q04]] — Digits and Clock
-- [ ] [[Q05]] — Fraction and Money
-- [ ] [[Q06]] — Area and Square geometry
-- [ ] [[Q07]] — Percentage and Linear equation
-- [ ] [[Q08]] — Arithmetic sequence and Casework
-- [ ] [[Q09]] — Diophantine equation and Divisibility
-- [ ] [[Q10]] — Radical and Counting integers in a range
-- [ ] [[Q11]] — Algebraic manipulation and Factoring
-- [ ] [[Q12]] — Arithmetic sequence and Summation
-- [ ] [[Q13]] — Tangent circles and System of equations and Circle area
-- [ ] [[Q14]] — Greatest common divisor and Diophantine equation
-- [ ] [[Q15]] — Trigonometry
-- [ ] [[Q16]] — Similarity and Tangent line and Pythagorean theorem
-- [ ] [[Q17]] — Power of a point and Tangent line and Coordinate geometry
-- [ ] [[Q18]] — Functional equation and Substitution
-- [ ] [[Q19]] — Tangent line and Trigonometric identity and Coordinate geometry
-- [ ] [[Q20]] — Basic probability and Graph theory and Casework
-- [ ] [[Q21]] — Logarithm and Completing the square and Circle area
-- [ ] [[Q22]] — Geometric probability and Regular polygon and Trigonometry
-- [ ] [[Q23]] — Binomial theorem and Recursion
-- [ ] [[Q24]] — Binomial theorem and Parity and Basic counting
-- [ ] [[Q25]] — Subsets and Bijection and Combinations
+- [ ] [[Q01]] — P1 — Ratios, price changes, and proportional reasoning
+- [ ] [[Q02]] — P1 — Defined operations, substitution, and algebraic simplification
+- [ ] [[Q03]] — P1 — Ratios, proportions, and age problems
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Digit constraints and clock arithmetic
+- [ ] [[Q05]] — P1 — Fractions, prices, and proportional relationships
+- [ ] [[Q06]] — P1 — Square geometry and area comparison
+- [ ] [[Q07]] — P1 — Percentages and linear equations
+- [ ] [[Q08]] — P2 — Arithmetic sequences and case analysis
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Diophantine equations and divisibility
+- [ ] [[Q10]] — P1 — Surds, inequalities, and integer intervals
+- [ ] [[Q11]] — P1 — Algebraic manipulation and factorisation
+- [ ] [[Q12]] — P2 — Arithmetic series and summation
+- [ ] [[Q13]] — P1 — Tangent circles, simultaneous equations, and areas
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Greatest common divisors and Diophantine equations
+- [ ] [[Q15]] — P1 — Trigonometric ratios and identities
+- [ ] [[Q16]] — P1 — Similarity, tangents, and Pythagoras
+- [ ] [[Q17]] — P1 — Power of a point, tangents, and coordinate geometry
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Functional equations and strategic substitution
+- [ ] [[Q19]] — P1 — Tangent lines, trigonometric identities, and coordinates
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Graph theory, probability, and casework
+- [ ] [[Q21]] — P2 / P1 — Logarithms, completing the square, and circle areas
+- [ ] [[Q22]] — S1 / P1 — Geometric probability, regular polygons, and trigonometry
+- [ ] [[Q23]] — P2 — Binomial expansions and recurrences
+- [ ] [[Q24]] — P2 / S1 — Binomial coefficients, parity, and counting
+- [ ] [[Q25]] — S1 — Subsets, bijections, and combinations
 
 ## Answer Key
 

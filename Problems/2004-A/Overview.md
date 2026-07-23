@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentage and Unit conversion
-- [ ] [[Q02]] — Inequality and Floor and ceiling functions
-- [ ] [[Q03]] — Diophantine equation and Counting integers in a range
-- [ ] [[Q04]] — Basic counting
-- [ ] [[Q05]] — Slope and Coordinate geometry
-- [ ] [[Q06]] — Factoring and Exponent
-- [ ] [[Q07]] — Process simulation and Invariant
-- [ ] [[Q08]] — Triangle area and Area decomposition
-- [ ] [[Q09]] — Cylinder and Power scaling of length, area, and volume and Percentage
-- [ ] [[Q10]] — Arithmetic sequence and Mean
-- [ ] [[Q11]] — Mean and Linear equation
-- [ ] [[Q12]] — Coordinate geometry and Distance formula
-- [ ] [[Q13]] — Lattice point and Combinations
-- [ ] [[Q14]] — Arithmetic sequence and Geometric sequence and Quadratic
-- [ ] [[Q15]] — Relative speed and Distance rate and time and Ratio and proportion
-- [ ] [[Q16]] — Logarithm and Inequality
-- [ ] [[Q17]] — Functional equation and Recursion and Summation
-- [ ] [[Q18]] — Tangent line and Power of a point and Pythagorean theorem
-- [ ] [[Q19]] — Tangent circles and Pythagorean theorem and System of equations
-- [ ] [[Q20]] — Geometric probability and Casework
-- [ ] [[Q21]] — Geometric sequence and Trigonometric identity
-- [ ] [[Q22]] — Sphere and Centroid and Pythagorean theorem
-- [ ] [[Q23]] — Complex number and Vieta's formulas and Polynomial
-- [ ] [[Q24]] — Area decomposition and Sector and Circle
-- [ ] [[Q25]] — Number base and Telescoping and Sum and difference of cubes
+- [ ] [[Q01]] — P1 — Percentages and currency units
+- [ ] [[Q02]] — P1 — Scoring inequalities and integer constraints
+- [ ] [[Q03]] — P1 — Linear Diophantine equations and positive pairs
+- [ ] [[Q04]] — S1 — Basic counting and family-tree constraints
+- [ ] [[Q05]] — P1 — Gradients, intercepts, and coordinate geometry
+- [ ] [[Q06]] — P2 — Factorization and laws of indices
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Process simulation and invariants
+- [ ] [[Q08]] — P1 — Triangle areas and area decomposition
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Cylinder volume scaling and percentages
+- [ ] [[Q10]] — P1 — Arithmetic sequences and averages
+- [ ] [[Q11]] — P1 — Means and linear equations
+- [ ] [[Q12]] — P1 — Coordinate geometry and distance formula
+- [ ] [[Q13]] — P1 / S1 — Lattice configurations and counting lines
+- [ ] [[Q14]] — P1 — Arithmetic and geometric sequences with quadratics
+- [ ] [[Q15]] — P1 — Relative speed on a circular track
+- [ ] [[Q16]] — P2 — Nested logarithms and domains
+- [ ] [[Q17]] — P2 — Functional recurrences and exponential sums
+- [ ] [[Q18]] — P1 — Tangents, power of a point, and Pythagoras
+- [ ] [[Q19]] — P1 — Tangent circles and systems of equations
+- [ ] [[Q20]] — S1 / P1 — Continuous geometric probability and rounding
+- [ ] [[Q21]] — P1 / P2 — Trigonometric identities and infinite geometric series
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Tangent spheres and three-dimensional geometry
+- [ ] [[Q23]] — P2 / P3 — Complex roots, conjugates, and polynomial coefficients
+- [ ] [[Q24]] — P1 — Loci, circles, and composite areas
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Positional bases, recurring expansions, and telescoping products
 
 ## Answer Key
 

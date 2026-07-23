@@ -16,31 +16,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Uniform motion: $\text{distance}=\text{speed}\times\text{time}$ and Translating a time delay into an initial distance difference and Setting two linear distance expressions equal and Relative speed
-- [ ] [[Q02]] — Converting percentages into component amounts and Mixture equations and Weighted averages and Linear equations
-- [ ] [[Q03]] — Average as total divided by number and Translating average changes into total-sum equations and Systems of linear equations
-- [ ] [[Q04]] — Translating verbal conditions into inequalities and Self-referential logic and Consistency checking by casework
-- [ ] [[Q05]] — Similar figures and area scaling and Infinite geometric series and Alternating sums of nested regions
-- [ ] [[Q06]] — Counting combinations and Circular adjacency and Favourable outcomes divided by total outcomes
-- [ ] [[Q07]] — Logarithm rules and Matching coefficients in functional identities and Exponential models
-- [ ] [[Q08]] — Inscribed angles and arcs and Angle Bisector Theorem and Law of Cosines and Segment division
-- [ ] [[Q09]] — Complex numbers as points in the plane and Complex multiplication and Collinearity through equal slopes
-- [ ] [[Q10]] — Arc length $s=r\theta$ and Major and minor central angles and Concentric circles and Solving an algebraic equation
-- [ ] [[Q11]] — Slope of a line and Perpendicular slopes and Orthocenter as the intersection of altitudes
-- [ ] [[Q12]] — Harmonic mean and Vieta's formulas and Reciprocal sums of roots
-- [ ] [[Q13]] — Extremal reasoning and Complement counting and Combinations and Probability
-- [ ] [[Q14]] — Ellipse area and Eccentricity $e=c/a$ and Similar scaling and Internal tangency
-- [ ] [[Q15]] — Extremal combinatorics and Sum-free sets and Constructing a lower bound and Proving an upper bound
-- [ ] [[Q16]] — Law of Cosines and Half-angle identities and Angle bisector geometry and Projection of a segment
-- [ ] [[Q17]] — Translating complex variables and Factoring polynomials and Complex roots as Cartesian points and Triangle area
-- [ ] [[Q18]] — Symmetry in inequalities and Reducing ordered counting to subset counting and Permutations
-- [ ] [[Q19]] — Vieta's formulas and Symmetric expressions and Factoring by grouping
-- [ ] [[Q20]] — Cross-sections of polyhedra and Linear scaling with height and Prismatoid volume formula and Three-dimensional Pythagorean theorem
-- [ ] [[Q21]] — Finite geometric series and Factoring $x^2-1$ and Powers of two and Integer constraints
-- [ ] [[Q22]] — Symmetry in continuous probability and Volume as probability and Setting up a triple integral and Ordering random variables
-- [ ] [[Q23]] — Restricted permutations and Binomial theorem and Constructive counting and Greedy insertion
-- [ ] [[Q24]] — Regular polygons and Chords and central angles and Exact trigonometric values and Rationalizing radicals
-- [ ] [[Q25]] — Sign charts for rational functions and Root multiplicity and Poles and removable discontinuities and Casework and function identity
+- [ ] [[Q01]] — P1 — Uniform motion, distance, and linear equations
+- [ ] [[Q02]] — P1 — Percentages, mixtures, and linear equations
+- [ ] [[Q03]] — P1 — Averages and systems of linear equations
+- [ ] [[Q04]] — P1 — Inequalities, logic, and casework
+- [ ] [[Q05]] — P1 / P2 — Similarity, area ratios, and geometric series
+- [ ] [[Q06]] — S1 — Combinations, circular adjacency, and probability
+- [ ] [[Q07]] — P2 — Logarithms, exponential models, and coefficient matching
+- [ ] [[Q08]] — P1 — Inscribed angles, the cosine rule, and angle bisectors
+- [ ] [[Q09]] — P3 — Complex plane and complex arithmetic
+- [ ] [[Q10]] — P1 — Arc length, central angles, and circle geometry
+- [ ] [[Q11]] — P1 — Slopes, perpendicular lines, and coordinate geometry
+- [ ] [[Q12]] — P2 — Vieta's formulas and reciprocal sums of roots
+- [ ] [[Q13]] — S1 — Combinations, complementary counting, and probability
+- [ ] [[Q14]] — P1 — Ellipses, eccentricity, and similar scaling
+- [ ] [[Q15]] — S1 — Extremal combinatorics and sum-free sets
+- [ ] [[Q16]] — P1 — Cosine rule, half-angle identities, and projection
+- [ ] [[Q17]] — P3 — Complex roots, polynomials, and area
+- [ ] [[Q18]] — S1 — Symmetry, combinations, and permutations
+- [ ] [[Q19]] — P2 / P3 — Vieta's formulas and symmetric polynomials
+- [ ] [[Q20]] — Outside the core 9709 syllabus — 3D geometry and prismatoid volume
+- [ ] [[Q21]] — P2 — Finite geometric series and exponential factorization
+- [ ] [[Q22]] — S1 / P3 — Geometric probability, symmetry, and triple integrals
+- [ ] [[Q23]] — S1 — Restricted permutations and the binomial theorem
+- [ ] [[Q24]] — P1 — Regular polygons, chords, and exact trigonometric values
+- [ ] [[Q25]] — P2 — Polynomial roots, rational functions, and sign analysis
 
 ## Answer Key
 

@@ -15,31 +15,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Linear equations and Translating a rate problem into algebra
-- [ ] [[Q02]] — Inequalities and Strict bounds
-- [ ] [[Q03]] — Rational equations and Homogeneous expressions
-- [ ] [[Q04]] — Distance-rate-time and Weighted average speed
-- [ ] [[Q05]] — Quartiles and Interquartile range and outliers
-- [ ] [[Q06]] — Circle equations and Midpoint and distance formulas
-- [ ] [[Q07]] — Periodic functions and Even and odd function properties
-- [ ] [[Q08]] — Pythagorean theorem and Algebraic equations involving ratios
-- [ ] [[Q09]] — Equations of circles and Radical axis of two circles
-- [ ] [[Q10]] — Conditional probability and Two-way classification
-- [ ] [[Q11]] — Counting by subsets and Inclusion-exclusion
-- [ ] [[Q12]] — Complex roots and Polar form and conjugate pairs
-- [ ] [[Q13]] — Symmetry and equivalence classes and Casework
-- [ ] [[Q14]] — Volumes of cones and frustums and Similar triangles
-- [ ] [[Q15]] — Areas of similar triangles and Geometric decomposition
-- [ ] [[Q16]] — Prime factorization of factorials and Uniform counting of divisors
-- [ ] [[Q17]] — Independent events and Bernoulli probabilities
-- [ ] [[Q18]] — Similar triangles and Thales' theorem and Area ratios
-- [ ] [[Q19]] — Modular arithmetic and Divisibility by $5$ and $9$
-- [ ] [[Q20]] — Geometric series and Continuous probability and interval lengths
-- [ ] [[Q21]] — Divisibility constraints and Integer averages
-- [ ] [[Q22]] — Counting ordered outcomes and Net flow and casework
-- [ ] [[Q23]] — Vieta's formulas and Cubic interpolation and secant lines
-- [ ] [[Q24]] — Similar right triangles and Coordinate geometry and Area by determinants
-- [ ] [[Q25]] — Double counting and Binomial coefficients and Periodic divisibility conditions
+- [ ] [[Q01]] — P1 — Linear equations and rate problems
+- [ ] [[Q02]] — P1 — Inequalities and strict bounds
+- [ ] [[Q03]] — P1 — Rational equations and homogeneous expressions
+- [ ] [[Q04]] — P1 — Distance, rate, time, and weighted average speed
+- [ ] [[Q05]] — S1 — Quartiles, interquartile range, and outliers
+- [ ] [[Q06]] — P1 — Circle equations, midpoints, and distances
+- [ ] [[Q07]] — P2 — Periodic functions and even/odd functions
+- [ ] [[Q08]] — P1 — Pythagoras' theorem and ratio equations
+- [ ] [[Q09]] — P2 — Circle equations and radical axes
+- [ ] [[Q10]] — S1 — Conditional probability and two-way classification
+- [ ] [[Q11]] — S1 — Subset counting and inclusion-exclusion
+- [ ] [[Q12]] — P3 — Complex roots, polar form, and conjugates
+- [ ] [[Q13]] — S1 — Symmetry, equivalence classes, and casework
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Cone and frustum volumes with similarity
+- [ ] [[Q15]] — P1 — Similar-triangle areas and geometric decomposition
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Factorial prime factors and divisor counting
+- [ ] [[Q17]] — S1 — Independent events and Bernoulli probabilities
+- [ ] [[Q18]] — P1 — Similar triangles, Thales' theorem, and area ratios
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Modular arithmetic and divisibility tests
+- [ ] [[Q20]] — P2 / S1 — Geometric series and continuous probability
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Divisibility constraints and integer averages
+- [ ] [[Q22]] — S1 — Ordered outcomes, net flow, and casework
+- [ ] [[Q23]] — P2 — Vieta's formulas, cubic interpolation, and secants
+- [ ] [[Q24]] — P1 — Similar right triangles, coordinates, and area determinants
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Binomial coefficients and periodic divisibility
 
 ## Answer Key
 

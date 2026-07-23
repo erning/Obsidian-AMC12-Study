@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Nested fractions and Fraction arithmetic
-- [ ] [[Q02]] — Linear equations and Translation of relationships
-- [ ] [[Q03]] — Rectangle areas and perimeters and Geometric decomposition and Diagram-based deduction
-- [ ] [[Q04]] — Prime factorization and Greatest common divisor and Least common multiple
-- [ ] [[Q05]] — Taxicab distance and Lattice-point counting and Arithmetic series
-- [ ] [[Q06]] — Averages and Linear equations and Casework
-- [ ] [[Q07]] — Graph coloring and Multiplication principle and Case-free counting
-- [ ] [[Q08]] — Infinite geometric series and Exponent rules and Infinite products
-- [ ] [[Q09]] — Logic and Truth tables and Counting by types
-- [ ] [[Q10]] — Matching and Greedy casework and Multiplication principle
-- [ ] [[Q11]] — Logarithms and Absolute value and Distance on a number line
-- [ ] [[Q12]] — Regular tetrahedra and Equilateral triangles and Law of Cosines
-- [ ] [[Q13]] — Complex-plane geometry and Minkowski sums and Areas of stadiums
-- [ ] [[Q14]] — Logarithm identities and Cubic identities and Algebraic simplification
-- [ ] [[Q15]] — Vieta's formulas and Symmetric expressions and Polynomial roots
-- [ ] [[Q16]] — Triangular numbers and Pell equations and Recurrences
-- [ ] [[Q17]] — Trigonometric identities and Factoring and Solution counting
-- [ ] [[Q18]] — Composition of transformations and Rotations and reflections and Modular angles
-- [ ] [[Q19]] — Permutations and Descents and Eulerian numbers
-- [ ] [[Q20]] — Coordinate geometry and Isosceles trapezoids and Difference of squared distances
-- [ ] [[Q21]] — Roots of unity and Polynomial factors and Modular exponents
-- [ ] [[Q22]] — Complex conjugates and Vieta's formulas and Geometric area
-- [ ] [[Q23]] — Harmonic numbers and Least common multiples and Prime valuations
-- [ ] [[Q24]] — Combinatorics and Sorting and inequalities and Parking functions
-- [ ] [[Q25]] — Tangent lines and Right triangles and Integer solutions
+- [ ] [[Q01]] — P1 — Nested fractions and fraction arithmetic
+- [ ] [[Q02]] — P1 — Linear equations and translated relationships
+- [ ] [[Q03]] — P1 — Rectangle area, perimeter, and geometric decomposition
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Prime factors, greatest common divisors, and least common multiples
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Taxicab distance, lattice points, and arithmetic series
+- [ ] [[Q06]] — S1 / P1 — Averages, linear equations, and casework
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Graph colouring and counting principles
+- [ ] [[Q08]] — P2 — Infinite geometric series, exponents, and products
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Logic, truth tables, and classification counting
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Matchings, greedy casework, and counting
+- [ ] [[Q11]] — P2 — Logarithms, absolute value, and distance on a number line
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Regular tetrahedra, equilateral triangles, and the cosine rule
+- [ ] [[Q13]] — Outside the core 9709 syllabus — Complex-plane geometry, Minkowski sums, and stadium areas
+- [ ] [[Q14]] — P2 — Logarithm laws, cubic identities, and algebraic simplification
+- [ ] [[Q15]] — P2 — Vieta's formulas, symmetric expressions, and polynomial roots
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Pell equations, triangular numbers, and recurrences
+- [ ] [[Q17]] — P3 — Trigonometric identities, factorisation, and solution counting
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Composed transformations, rotations, and modular angles
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Permutations, descents, and Eulerian numbers
+- [ ] [[Q20]] — P1 — Coordinate geometry, isosceles trapezoids, and squared distances
+- [ ] [[Q21]] — P3 — Roots of unity, polynomial factors, and modular exponents
+- [ ] [[Q22]] — P3 / P2 — Complex conjugates, Vieta's formulas, and geometric area
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Harmonic numbers, least common multiples, and prime valuations
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Sorting, inequalities, and parking functions
+- [ ] [[Q25]] — P1 — Tangent lines, right triangles, and integer solutions
 
 ## Answer Key
 

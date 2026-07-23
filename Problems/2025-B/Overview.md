@@ -16,31 +16,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Unit rate and Floor function and Interpreting “greatest number” as a whole-number count
-- [ ] [[Q02]] — Periodic patterns and Units digits of powers and Block summation
-- [ ] [[Q03]] — Complex number arithmetic and Using $i^2=-1$ and Factoring a product for simpler expansion
-- [ ] [[Q04]] — Positional notation and Converting numbers between bases and Linear equations with digit constraints
-- [ ] [[Q05]] — Linear Diophantine equations and Modular inverses and Bounding positive integer solutions
-- [ ] [[Q06]] — Place value and Divisibility by 36 and Modular arithmetic
-- [ ] [[Q07]] — Logarithm quotient rule and Telescoping sums and Change of variables
-- [ ] [[Q08]] — Conjugate roots and Vieta's formulas and Factoring polynomials
-- [ ] [[Q09]] — Modular exponentiation and Cycles of last digits and Congruences
-- [ ] [[Q10]] — $30^\circ$-$60^\circ$-$90^\circ$ triangles and Coordinate geometry and Medians and altitudes and Ratios along a line
-- [ ] [[Q11]] — Sequential probability and Symmetry and Conditional probability
-- [ ] [[Q12]] — Area of a swept region and Trigonometric coordinates and Cavalieri's principle
-- [ ] [[Q13]] — Circular arrangements and Perfect matchings of a cycle and Multiplication principle
-- [ ] [[Q14]] — Arithmetic means and Partial sums and Constructing and bounding integer sequences
-- [ ] [[Q15]] — Volume by cross-sections and Similarity and Constant-rate proportionality
-- [ ] [[Q16]] — Clock angles and Continuous motion of the hour hand and Half-angle trigonometric identities
-- [ ] [[Q17]] — Burnside's lemma and Grid casework and Symmetry
-- [ ] [[Q18]] — Expected value and Geometric distribution and Conditioning
-- [ ] [[Q19]] — Coordinate indexing and Diophantine equations and Modular arithmetic
-- [ ] [[Q20]] — Recursive probability and Random walks with absorption and Systems of linear equations
-- [ ] [[Q21]] — Area formula with two sides and an included angle and Law of Cosines and Triangle inequality
-- [ ] [[Q22]] — Complex-plane geometry and Similarity and area scaling and Optimization on a circle
-- [ ] [[Q23]] — Modular powers and Divisibility and Sum of divisors
-- [ ] [[Q24]] — Range restrictions and Logarithmic functions and Counting intersections of periodic and monotone functions
-- [ ] [[Q25]] — Equilateral triangle geometry and Distances from a common center and Algebraic identities
+- [ ] [[Q01]] — P1 — Unit rates and whole-number counts
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Units digits, periodic patterns, and block summation
+- [ ] [[Q03]] — P3 — Complex arithmetic and algebraic factorisation
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Number bases, place value, and digit equations
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Linear Diophantine equations, modular inverses, and integer bounds
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Place value, divisibility, and modular arithmetic
+- [ ] [[Q07]] — P2 — Logarithm laws, telescoping sums, and substitution
+- [ ] [[Q08]] — P2 — Conjugate roots, Vieta's formulas, and polynomial factorisation
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Modular exponentiation, last-digit cycles, and congruences
+- [ ] [[Q10]] — P1 — Special right triangles, coordinates, medians, and ratios
+- [ ] [[Q11]] — S1 — Sequential and conditional probability with symmetry
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Swept areas, trigonometric coordinates, and Cavalieri's principle
+- [ ] [[Q13]] — S1 — Circular arrangements, cycle matchings, and counting
+- [ ] [[Q14]] — P1 — Arithmetic means, partial sums, and integer sequences
+- [ ] [[Q15]] — P3 — Similar solids, cross-sectional volume, and integration
+- [ ] [[Q16]] — P1 — Clock angles and half-angle trigonometric identities
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Burnside's lemma, grid casework, and symmetry
+- [ ] [[Q18]] — S1 — Expected value, geometric distributions, and conditioning
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Grid indexing, Diophantine equations, and modular arithmetic
+- [ ] [[Q20]] — S1 / P1 — Random-walk probabilities and simultaneous equations
+- [ ] [[Q21]] — P1 — Area with two sides and an angle, cosine rule, and triangle inequalities
+- [ ] [[Q22]] — P3 — Complex-plane geometry, similarity, and circle optimisation
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Modular powers, divisibility, and divisor sums
+- [ ] [[Q24]] — P3 / P2 — Logarithmic and trigonometric functions and intersection counting
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Concentric circles, equilateral triangles, and Gram determinants
 
 ## Answer Key
 

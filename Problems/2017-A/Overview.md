@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Integer optimization and Unit price comparison
-- [ ] [[Q02]] — Algebraic manipulation and Reciprocals
-- [ ] [[Q03]] — Logic and Contrapositives
-- [ ] [[Q04]] — Pythagorean theorem and Percentage decrease
-- [ ] [[Q05]] — Double counting and Combinatorial counting
-- [ ] [[Q06]] — Polygon inequality and Integer intervals
-- [ ] [[Q07]] — Recurrences and Mathematical induction pattern
-- [ ] [[Q08]] — Volumes of solids and Cylinder and sphere decomposition
-- [ ] [[Q09]] — Piecewise geometric conditions and Coordinate geometry
-- [ ] [[Q10]] — Continuous probability and Conditioning
-- [ ] [[Q11]] — Polygon angle sums and Integer bounds
-- [ ] [[Q12]] — Least common multiples and Divisibility counting
-- [ ] [[Q13]] — Rates and time and Fractional distance
-- [ ] [[Q14]] — Inclusion-exclusion and Block arrangements
-- [ ] [[Q15]] — Trigonometric signs and Intermediate Value Theorem
-- [ ] [[Q16]] — Circle tangency and Coordinate geometry
-- [ ] [[Q17]] — Roots of unity and Complex arguments
-- [ ] [[Q18]] — Decimal digit sums and Carrying in base 10
-- [ ] [[Q19]] — Similar triangles and Inscribed squares
-- [ ] [[Q20]] — Logarithms and Odd/even powers
-- [ ] [[Q21]] — Rational Root Theorem and Closure processes
-- [ ] [[Q22]] — Symmetry reduction and Systems of probability equations
-- [ ] [[Q23]] — Polynomial factorization and Coefficient comparison
-- [ ] [[Q24]] — Similar triangles and Power of a point and Cyclic quadrilaterals
-- [ ] [[Q25]] — Complex modulus and arguments and Binomial probability
+- [ ] [[Q01]] — P1 — Integer optimisation and unit-price comparison
+- [ ] [[Q02]] — P1 — Algebraic manipulation and reciprocals
+- [ ] [[Q03]] — P1 — Logical contrapositives
+- [ ] [[Q04]] — P1 — Pythagoras' theorem and percentage decrease
+- [ ] [[Q05]] — S1 — Double counting and combinatorial counting
+- [ ] [[Q06]] — P1 — Polygon inequalities and integer intervals
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Recurrences and induction patterns
+- [ ] [[Q08]] — Outside the core 9709 syllabus — Volumes of cylinders and spheres
+- [ ] [[Q09]] — P1 — Piecewise geometric conditions and coordinate geometry
+- [ ] [[Q10]] — S1 — Continuous probability and conditioning
+- [ ] [[Q11]] — P1 — Polygon angle sums and integer bounds
+- [ ] [[Q12]] — Outside the core 9709 syllabus — LCM and divisibility counting
+- [ ] [[Q13]] — P1 — Rates, time, and fractional distances
+- [ ] [[Q14]] — S1 — Inclusion-exclusion and block arrangements
+- [ ] [[Q15]] — P3 — Trigonometric signs and the intermediate value theorem
+- [ ] [[Q16]] — P1 — Circle tangency and coordinate geometry
+- [ ] [[Q17]] — P3 — Roots of unity and complex arguments
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Decimal digit sums and carrying
+- [ ] [[Q19]] — P1 — Similar triangles and inscribed squares
+- [ ] [[Q20]] — P2 — Logarithms and odd/even powers
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Rational Root Theorem and closure processes
+- [ ] [[Q22]] — S1 — Symmetry reduction and probability equations
+- [ ] [[Q23]] — P2 — Polynomial factorisation and coefficient comparison
+- [ ] [[Q24]] — P1 — Similar triangles, power of a point, and cyclic quadrilaterals
+- [ ] [[Q25]] — P3 / S1 — Complex modulus, arguments, and binomial probability
 
 ## Answer Key
 
@@ -67,4 +67,3 @@ status: completed
 - Q23 — C: $-7007$
 - Q24 — A: $17$
 - Q25 — E: $\frac{2^2\cdot5\cdot11}{3^{10}}$
-

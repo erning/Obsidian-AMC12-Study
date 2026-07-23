@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Fractions and Equal sharing
-- [ ] [[Q02]] — Percentages and Reverse calculations
-- [ ] [[Q03]] — Right triangles and Circumcircles and Area ratios
-- [ ] [[Q04]] — Unit conversion and Area
-- [ ] [[Q05]] — Extremal combinatorics and Grid graphs and Complementary counting
-- [ ] [[Q06]] — Polynomial sign and Root multiplicity and Parity
-- [ ] [[Q07]] — Logarithms and Sign analysis and Inequalities
-- [ ] [[Q08]] — Combinations and Least-element casework
-- [ ] [[Q09]] — Absolute value and Coordinate geometry and Symmetry
-- [ ] [[Q10]] — Circle equations and Radical axis and Slope
-- [ ] [[Q11]] — Isosceles trapezoids and Optimization and Pythagorean theorem
-- [ ] [[Q12]] — Complex numbers and Real and imaginary parts and Systems of equations
-- [ ] [[Q13]] — Rectangular prisms and Symmetric polynomials and Distance formula
-- [ ] [[Q14]] — Vieta's formulas and Integer factorization and Systematic listing
-- [ ] [[Q15]] — Greatest common divisors and Modular arithmetic and Logical implications
-- [ ] [[Q16]] — Linear combinations and Coin problems and Inductive coverage
-- [ ] [[Q17]] — Arithmetic progressions and Law of Cosines and Triangle area
-- [ ] [[Q18]] — Weighted averages and Bounds and Logical deduction
-- [ ] [[Q19]] — Basic probability and Parity and Inclusion-exclusion filters
-- [ ] [[Q20]] — Geometric probability and Law of Cosines and Uniform angles
-- [ ] [[Q21]] — Cone frustums and Developable surfaces and Tangent lengths
-- [ ] [[Q22]] — Functional equations and Bounding and Special substitutions
-- [ ] [[Q23]] — Prime factorization and Exponent vectors and Systematic counting
-- [ ] [[Q24]] — Prime exponents and Least common multiples and Greatest common divisors
-- [ ] [[Q25]] — Regular polygons and Apothem and Area ratios
+- [ ] [[Q01]] — P1 — Fractions and equal sharing
+- [ ] [[Q02]] — P1 — Percentages and reverse calculations
+- [ ] [[Q03]] — P1 — Right triangles, circumcircles, and area ratios
+- [ ] [[Q04]] — P1 — Unit conversion and area
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Extremal combinatorics, grid graphs, and complementary counting
+- [ ] [[Q06]] — P2 — Polynomial signs, root multiplicity, and parity
+- [ ] [[Q07]] — P2 — Logarithms, sign analysis, and inequalities
+- [ ] [[Q08]] — S1 — Combinations and least-element casework
+- [ ] [[Q09]] — P1 — Absolute value, coordinate geometry, and symmetry
+- [ ] [[Q10]] — P2 — Circle equations, radical axes, and slopes
+- [ ] [[Q11]] — P1 — Isosceles trapezoids, optimisation, and Pythagoras' theorem
+- [ ] [[Q12]] — P3 — Complex numbers, real and imaginary parts, and simultaneous equations
+- [ ] [[Q13]] — Outside the core 9709 syllabus — Rectangular prisms, symmetric polynomials, and distance
+- [ ] [[Q14]] — P2 — Vieta's formulas, integer factorisation, and systematic listing
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Greatest common divisors, modular arithmetic, and logical implications
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Linear combinations, coin problems, and induction
+- [ ] [[Q17]] — P1 — Arithmetic progressions, the cosine rule, and triangle area
+- [ ] [[Q18]] — S1 — Weighted averages, bounds, and logical deduction
+- [ ] [[Q19]] — S1 — Basic probability, parity, and inclusion-exclusion
+- [ ] [[Q20]] — S1 / P1 — Geometric probability, the cosine rule, and uniform angles
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Cone frustums, developable surfaces, and tangent lengths
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Functional equations, bounds, and special substitutions
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Prime factors, exponent vectors, and systematic counting
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Prime exponents, least common multiples, and greatest common divisors
+- [ ] [[Q25]] — P1 — Regular polygons, apothems, and area ratios
 
 ## Answer Key
 

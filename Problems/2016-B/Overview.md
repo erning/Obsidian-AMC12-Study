@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Negative exponents and Fraction simplification
-- [ ] [[Q02]] — Harmonic mean and Estimation
-- [ ] [[Q03]] — Absolute values and Order of operations
-- [ ] [[Q04]] — Complementary angles and Ratios
-- [ ] [[Q05]] — Modular arithmetic with weekdays and Periodicity
-- [ ] [[Q06]] — Parabola symmetry and Triangle area
-- [ ] [[Q07]] — Iterative elimination and Powers of two
-- [ ] [[Q08]] — Similar figures and Area scaling
-- [ ] [[Q09]] — Counting posts on a rectangle and Translating spacing into length
-- [ ] [[Q10]] — Coordinate geometry and Difference of squares
-- [ ] [[Q11]] — Integer-coordinate counting and Geometric inequalities
-- [ ] [[Q12]] — Checkerboard coloring and Parity
-- [ ] [[Q13]] — Right-triangle trigonometry and Pythagorean theorem
-- [ ] [[Q14]] — Infinite geometric series and Quadratic optimization
-- [ ] [[Q15]] — Opposite-face pairing and AM-GM
-- [ ] [[Q16]] — Consecutive sums and Divisors and parity
-- [ ] [[Q17]] — Altitude in a triangle and Angle Bisector Theorem
-- [ ] [[Q18]] — Absolute-value symmetry and Completing the square
-- [ ] [[Q19]] — Geometric series and Independent events
-- [ ] [[Q20]] — Tournament counting and Complementary casework
-- [ ] [[Q21]] — Coordinate geometry and Telescoping series
-- [ ] [[Q22]] — Repeating decimals and Divisibility by $10^m-1$
-- [ ] [[Q23]] — Three-dimensional geometry and Volume scaling
-- [ ] [[Q24]] — gcd/lcm prime exponents and Multiplicative counting
-- [ ] [[Q25]] — Recursive sequences and Modular order
+- [ ] [[Q01]] — P1 — Negative indices and fraction simplification
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Harmonic mean and estimation
+- [ ] [[Q03]] — P1 — Modulus and order of operations
+- [ ] [[Q04]] — P1 — Complementary angles and ratios
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Modular arithmetic and periodicity
+- [ ] [[Q06]] — P2 — Parabola symmetry and triangle area
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Iterative elimination and powers of two
+- [ ] [[Q08]] — P1 — Similar figures and area scaling
+- [ ] [[Q09]] — P1 — Coordinate geometry and equal spacing
+- [ ] [[Q10]] — P1 — Coordinate geometry and difference of squares
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Lattice-point counting and geometric inequalities
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Checkerboard colouring and parity
+- [ ] [[Q13]] — P1 — Right-triangle trigonometry and Pythagoras' theorem
+- [ ] [[Q14]] — P2 — Infinite geometric series and quadratic optimisation
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Cube-face pairing and AM-GM inequality
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Consecutive sums, divisors, and parity
+- [ ] [[Q17]] — P1 — Triangle altitudes and angle bisectors
+- [ ] [[Q18]] — P2 — Modulus symmetry and completing the square
+- [ ] [[Q19]] — P2 / S1 — Geometric series and independent events
+- [ ] [[Q20]] — S1 — Tournament counting and complementary cases
+- [ ] [[Q21]] — P2 — Coordinate geometry and telescoping series
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Repeating decimals and divisibility
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Three-dimensional geometry and volume scaling
+- [ ] [[Q24]] — Outside the core 9709 syllabus — GCD/LCM prime exponents and multiplicative counting
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Recursive sequences and modular order
 
 ## Answer Key
 
@@ -67,4 +67,3 @@ status: completed
 - Q23 — A
 - Q24 — D
 - Q25 — A
-

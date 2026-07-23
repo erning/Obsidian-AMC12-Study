@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Factoring; Vieta formulas
-- [ ] [[Q02]] — Work backwards; Linear equation
-- [ ] [[Q03]] — Order of operations; Exponent; Casework
-- [ ] [[Q04]] — Angle sum; Linear equation
-- [ ] [[Q05]] — Circle area; Tangent circles
-- [ ] [[Q06]] — Inequality; Small cases
-- [ ] [[Q07]] — Arc; Circle area; Ratio and proportion
-- [ ] [[Q08]] — Area decomposition; Congruence (geometry)
-- [ ] [[Q09]] — Optimization; Bounding to limit cases
-- [ ] [[Q10]] — Mixture; Fraction
-- [ ] [[Q11]] — Distance rate and time; System of equations
-- [ ] [[Q12]] — Vieta formulas; Prime; Parity
-- [ ] [[Q13]] — Rational equation; Quadratic
-- [ ] [[Q14]] — Logarithm
-- [ ] [[Q15]] — Mean; Range; Extremal argument
-- [ ] [[Q16]] — Basic probability; Casework
-- [ ] [[Q17]] — Prime; Digits; Optimization
-- [ ] [[Q18]] — Tangent line; Similarity; Pythagorean theorem
-- [ ] [[Q19]] — Function; Data and graph interpretation
-- [ ] [[Q20]] — Repeating decimal; Factor
-- [ ] [[Q21]] — Units digit; Summation; Pattern recognition
-- [ ] [[Q22]] — Geometric probability; Area ratio; Special right triangle
-- [ ] [[Q23]] — Angle bisector theorem; Perpendicular bisector; Law of cosines; Heron’s formula
-- [ ] [[Q24]] — Complex number; Roots of unity
-- [ ] [[Q25]] — Polynomial; Data and graph interpretation
+- [ ] [[Q01]] — P2 — Factoring quadratics and Vieta's formulas
+- [ ] [[Q02]] — P1 — Reverse operations and linear equations
+- [ ] [[Q03]] — P2 — Laws of indices and operation order
+- [ ] [[Q04]] — P1 — Complementary angles, percentages, and linear equations
+- [ ] [[Q05]] — P1 — Tangent circles and area of circles
+- [ ] [[Q06]] — P1 — Inequalities, factorization, and integer bounds
+- [ ] [[Q07]] — P1 — Arc lengths, circle areas, and ratios
+- [ ] [[Q08]] — P1 — Area decomposition and congruent shapes
+- [ ] [[Q09]] — P1 — Capacity constraints and extremal packing
+- [ ] [[Q10]] — P1 — Mixtures, fractions, and conservation
+- [ ] [[Q11]] — P1 — Uniform motion and simultaneous equations
+- [ ] [[Q12]] — P2 — Quadratic roots, Vieta's formulas, and primes
+- [ ] [[Q13]] — P2 — Reciprocal equations and quadratics
+- [ ] [[Q14]] — P2 — Logarithm laws and exponent comparison
+- [ ] [[Q15]] — S1 — Mean, median, mode, range, and extremal data
+- [ ] [[Q16]] — S1 — Sample spaces and discrete probability
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Digit partitions, primality, and optimization
+- [ ] [[Q18]] — P1 — Tangents, similar triangles, and circle coordinates
+- [ ] [[Q19]] — P1 — Composite functions and graph interpretation
+- [ ] [[Q20]] — P1 — Recurring decimals and equivalent fractions
+- [ ] [[Q21]] — P1 — Recurrences, periodicity, and partial sums
+- [ ] [[Q22]] — S1 / P1 — Geometric probability and 30–60–90 triangles
+- [ ] [[Q23]] — P1 — Angle bisectors, cosine rule, and triangle area
+- [ ] [[Q24]] — P3 — Complex numbers and roots of unity
+- [ ] [[Q25]] — P2 — Polynomial coefficients and graph behaviour
 
 ## Answer Key
 

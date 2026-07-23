@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Fraction
-- [ ] [[Q02]] — Mean
-- [ ] [[Q03]] — Algebraic manipulation
-- [ ] [[Q04]] — Prime factorization and Digits
-- [ ] [[Q05]] — Least common multiple and Digits
-- [ ] [[Q06]] — Tangent line and Arc and Angle chasing
-- [ ] [[Q07]] — Optimization and Bounding to limit cases
-- [ ] [[Q08]] — Circumference and Distance rate and time
-- [ ] [[Q09]] — Geometric probability and Independent events
-- [ ] [[Q10]] — Parallel lines and Isosceles triangle and Special right triangle
-- [ ] [[Q11]] — Lattice point and Distance formula
-- [ ] [[Q12]] — Geometric probability and Area decomposition and Regular polygon
-- [ ] [[Q13]] — System of equations and Casework
-- [ ] [[Q14]] — Parabola and Trigonometric identity and Pythagorean theorem
-- [ ] [[Q15]] — Difference of squares and Prime factorization and Factor
-- [ ] [[Q16]] — Perpendicular bisector and Rhombus and Area
-- [ ] [[Q17]] — Logarithm and Recursion and Digits
-- [ ] [[Q18]] — Pyramid and Cube geometry and 3d geometry
-- [ ] [[Q19]] — Lattice point and Slope
-- [ ] [[Q20]] — Circumcircle, circumcenter, and circumradius and Inscribed angle and Heron’s formula
-- [ ] [[Q21]] — Difference of squares and Perfect square and Digits
-- [ ] [[Q22]] — Incircle, incenter, and inradius and Recursion and Triangle inequality
-- [ ] [[Q23]] — Lattice point and Casework and Symmetry
-- [ ] [[Q24]] — Complex number and Roots of unity and Factoring
-- [ ] [[Q25]] — Modular arithmetic and Floor and ceiling functions and Basic probability
+- [ ] [[Q01]] — P1 — Fractions and algebraic simplification
+- [ ] [[Q02]] — S1 — Means and extremal averages
+- [ ] [[Q03]] — P1 — Linear equations and cost sharing
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Digit reversal and integer factorisation
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Least common multiples and digit properties
+- [ ] [[Q06]] — P1 — Tangents, arcs, and angle chasing
+- [ ] [[Q07]] — P1 — Linear inequalities and optimisation
+- [ ] [[Q08]] — P1 — Circumference, distance, rate, and time
+- [ ] [[Q09]] — S1 — Geometric probability and inequalities
+- [ ] [[Q10]] — P1 — Parallel lines, isosceles triangles, and special triangles
+- [ ] [[Q11]] — P1 — Coordinate geometry and distance between lattice points
+- [ ] [[Q12]] — P1 — Areas and regular-polygon geometry
+- [ ] [[Q13]] — P1 — Simultaneous equations and integer casework
+- [ ] [[Q14]] — P2 — Parabolas, focus-directrix geometry, and trigonometry
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Integer factorisation and two-digit divisors
+- [ ] [[Q16]] — P1 — Perpendicular bisectors, rhombi, and areas
+- [ ] [[Q17]] — P2 — Logarithms, recurrences, and decimal digits
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Pyramids, cubes, and three-dimensional geometry
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Lattice points and rational slopes
+- [ ] [[Q20]] — P1 — Circumcircles, inscribed angles, and Heron's formula
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Perfect squares, digit constraints, and factorisation
+- [ ] [[Q22]] — P1 — Incircles, triangle inequalities, and recurrences
+- [ ] [[Q23]] — S1 — Lattice paths, symmetry, and complementary counting
+- [ ] [[Q24]] — P3 — Complex numbers, roots of unity, and factorisation
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Modular arithmetic, floor functions, and probability
 
 ## Answer Key
 

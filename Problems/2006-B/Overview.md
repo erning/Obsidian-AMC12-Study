@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Exponent and Pairing and grouping
-- [ ] [[Q02]] — Custom operation and Difference of squares
-- [ ] [[Q03]] — System of equations
-- [ ] [[Q04]] — Estimation and Percentage
-- [ ] [[Q05]] — Relative speed and Distance rate and time
-- [ ] [[Q06]] — Ratio and proportion
-- [ ] [[Q07]] — Multiplication principle and Arrangements with restrictions
-- [ ] [[Q08]] — System of equations and Substitution
-- [ ] [[Q09]] — Digits and Combinations and Casework
-- [ ] [[Q10]] — Triangle inequality and Optimization
-- [ ] [[Q11]] — Mixture and Ratio and proportion
-- [ ] [[Q12]] — Parabola and Quadratic
-- [ ] [[Q13]] — Rhombus and Equilateral triangle and Area decomposition
-- [ ] [[Q14]] — Diophantine equation and Prime factorization and Casework
-- [ ] [[Q15]] — Tangent circles and Trapezoid and Pythagorean theorem
-- [ ] [[Q16]] — Regular polygon and Distance formula and Area
-- [ ] [[Q17]] — Dice probability and Basic probability
-- [ ] [[Q18]] — Lattice point and Parity and Basic counting
-- [ ] [[Q19]] — Divisibility and Digits and Casework
-- [ ] [[Q20]] — Floor and ceiling functions and Logarithm and Geometric probability
-- [ ] [[Q21]] — Ellipse and Algebraic manipulation
-- [ ] [[Q22]] — Legendre's formula and Trailing zeros and Optimization
-- [ ] [[Q23]] — Transformation and Law of cosines and Pythagorean theorem
-- [ ] [[Q24]] — Trigonometric identity and Quadratic and Area
-- [ ] [[Q25]] — Greatest common divisor and Parity and Inclusion-exclusion
+- [ ] [[Q01]] — P2 — Exponents, reciprocal terms, and algebraic grouping
+- [ ] [[Q02]] — P1 — Defined operations and difference of squares
+- [ ] [[Q03]] — P1 — Simultaneous linear equations
+- [ ] [[Q04]] — P1 — Estimation, bounds, and percentages
+- [ ] [[Q05]] — P1 — Relative speed and uniform motion
+- [ ] [[Q06]] — P1 — Ratios and proportions
+- [ ] [[Q07]] — S1 — Multiplication principle and restricted arrangements
+- [ ] [[Q08]] — P1 — Simultaneous equations and substitution
+- [ ] [[Q09]] — S1 — Digit selection, combinations, and casework
+- [ ] [[Q10]] — P1 — Triangle inequality and optimisation
+- [ ] [[Q11]] — P1 — Mixtures, ratios, and proportions
+- [ ] [[Q12]] — P1 — Quadratics, parabolas, and vertex properties
+- [ ] [[Q13]] — P1 — Rhombi, equilateral triangles, and area decomposition
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Diophantine equations, prime factors, and casework
+- [ ] [[Q15]] — P1 — Tangent circles, trapezoids, and Pythagoras
+- [ ] [[Q16]] — P1 — Regular polygons, coordinate distance, and area
+- [ ] [[Q17]] — S1 — Equally likely dice outcomes and probability
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Lattice points, parity, and counting
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Divisibility, digit constraints, and casework
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Floor and ceiling functions with geometric probability
+- [ ] [[Q21]] — P1 — Ellipses and algebraic manipulation
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Prime exponents, trailing zeros, and optimisation
+- [ ] [[Q23]] — P1 — Transformations, cosine rule, and Pythagoras
+- [ ] [[Q24]] — P2 / P1 — Trigonometric identities, quadratics, and area
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Greatest common divisors, parity, and inclusion-exclusion
 
 ## Answer Key
 

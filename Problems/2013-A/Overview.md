@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Area and similarity
-- [ ] [[Q02]] — Parity and casework
-- [ ] [[Q03]] — Percentages
-- [ ] [[Q04]] — Exponents
-- [ ] [[Q05]] — Averages
-- [ ] [[Q06]] — Expected value
-- [ ] [[Q07]] — Recurrences
-- [ ] [[Q08]] — Algebraic factoring
-- [ ] [[Q09]] — Similar triangles
-- [ ] [[Q10]] — Repeating decimals
-- [ ] [[Q11]] — Equilateral triangle geometry
-- [ ] [[Q12]] — Law of cosines
-- [ ] [[Q13]] — Coordinate geometry
-- [ ] [[Q14]] — Logarithms and geometric sequences
-- [ ] [[Q15]] — Counting with restrictions
-- [ ] [[Q16]] — Weighted averages
-- [ ] [[Q17]] — Divisibility and sequences
-- [ ] [[Q18]] — Spheres and tangency
-- [ ] [[Q19]] — Power of a point
-- [ ] [[Q20]] — Modular counting
-- [ ] [[Q21]] — Nested logarithms
-- [ ] [[Q22]] — Palindromes and counting
-- [ ] [[Q23]] — Rotation and sector area
-- [ ] [[Q24]] — Chords and triangle inequality
-- [ ] [[Q25]] — Complex numbers
+- [ ] [[Q01]] — P1 — Triangle areas, bases, and heights
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Parity and sums of consecutive integers
+- [ ] [[Q03]] — P1 — Percentages and complementary fractions
+- [ ] [[Q04]] — P1 — Indices, factorisation, and rational simplification
+- [ ] [[Q05]] — S1 — Averages, equal sharing, and linear arithmetic
+- [ ] [[Q06]] — S1 — Percentages, weighted averages, and expected values
+- [ ] [[Q07]] — P2 — Linear recurrences and backward substitution
+- [ ] [[Q08]] — P1 — Algebraic manipulation, factorisation, and non-zero denominators
+- [ ] [[Q09]] — P1 — Similar triangles, parallelograms, and isosceles triangles
+- [ ] [[Q10]] — P1 — Repeating decimals and fraction representations
+- [ ] [[Q11]] — P1 — Equilateral triangles, similarity, and linear equations
+- [ ] [[Q12]] — P2 — Arithmetic progressions, the cosine rule, and quadratics
+- [ ] [[Q13]] — P1 — Coordinate geometry and triangle areas
+- [ ] [[Q14]] — P2 — Logarithms, arithmetic progressions, and geometric progressions
+- [ ] [[Q15]] — S1 — Restricted counting, casework, and the multiplication principle
+- [ ] [[Q16]] — S1 — Weighted averages, integer ratios, and optimisation
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Divisibility, factorials, and reverse recurrences
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Sphere tangency and three-dimensional geometry
+- [ ] [[Q19]] — P1 — Power of a point, factorisation, and triangle inequalities
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Modular arithmetic and bounded compositions
+- [ ] [[Q21]] — P2 — Nested logarithms, bounds, and monotonicity
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Palindromes, carries, and digit counting
+- [ ] [[Q23]] — P1 — Rotations, circular sectors, and area decomposition
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Regular polygon chords and multiplicity counting
+- [ ] [[Q25]] — P3 — Complex numbers, injective functions, and lattice-point counting
 
 ## Answer Key
 

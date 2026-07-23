@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Exponent rules and Arithmetic order of operations
-- [ ] [[Q02]] — Principal square root and Squaring equations and Necessary and sufficient conditions
-- [ ] [[Q03]] — Place value and Linear equations
-- [ ] [[Q04]] — Implication chains and Logical negation and Set disjointness
-- [ ] [[Q05]] — Repeating decimals and Place value and Linear equations
-- [ ] [[Q06]] — Basic probability and Systems of equations
-- [ ] [[Q07]] — Algebraic identities and Nonnegative expressions
-- [ ] [[Q08]] — Recurrence relations and Modular arithmetic and Periodicity
-- [ ] [[Q09]] — Difference of squares and Telescoping products
-- [ ] [[Q10]] — Similarity and Cone volume and Scaling laws
-- [ ] [[Q11]] — Reflection method and Distance formula
-- [ ] [[Q12]] — Vieta's formulas and Integer partitions and Polynomial expansion
-- [ ] [[Q13]] — Polar form of complex numbers and Arguments and powers
-- [ ] [[Q14]] — Change of base and Logarithm identities and Arithmetic series
-- [ ] [[Q15]] — Binomial counting and Congruence conditions and Roots-of-unity filter
-- [ ] [[Q16]] — Median of an ordered list and Triangular numbers
-- [ ] [[Q17]] — Isosceles triangles and Trapezoid diagonals and Similar triangles and Pythagorean theorem
-- [ ] [[Q18]] — Completely additive functions and Prime factorization and Rational exponents
-- [ ] [[Q19]] — Sine equality cases and Trigonometric ranges and Periodic equations
-- [ ] [[Q20]] — Focus-directrix definition and Coordinate geometry and Vieta's formulas
-- [ ] [[Q21]] — Complex roots and Conic equations and Ellipse eccentricity
-- [ ] [[Q22]] — Trigonometric multiple-angle identities and Polynomial roots and Coefficient comparison
-- [ ] [[Q23]] — State classification and Conditional probability and Recurrence relations
-- [ ] [[Q24]] — Chord geometry and Circle equations and Triangle area
-- [ ] [[Q25]] — Divisor function and Prime factorization and Multiplicative optimization
+- [ ] [[Q01]] — P1 — Exponent rules and order of operations
+- [ ] [[Q02]] — P1 — Square roots, equations, and equivalence
+- [ ] [[Q03]] — P1 — Place value and linear equations
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Logical implications, negation, and disjoint sets
+- [ ] [[Q05]] — P1 — Repeating decimals, place value, and linear equations
+- [ ] [[Q06]] — S1 / P1 — Basic probability and simultaneous equations
+- [ ] [[Q07]] — P1 — Algebraic identities and non-negative expressions
+- [ ] [[Q08]] — Outside the core 9709 syllabus — Recurrences, modular arithmetic, and periodicity
+- [ ] [[Q09]] — P1 — Difference of squares and telescoping products
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Similarity, cone volume, and scaling laws
+- [ ] [[Q11]] — P1 — Reflection and the distance formula
+- [ ] [[Q12]] — P2 — Vieta's formulas, factorisation, and polynomial roots
+- [ ] [[Q13]] — P3 — Polar complex numbers, arguments, and powers
+- [ ] [[Q14]] — P2 — Logarithm laws, change of base, and arithmetic series
+- [ ] [[Q15]] — P3 / S1 — Roots of unity, binomial counting, and congruence classes
+- [ ] [[Q16]] — S1 / P1 — Median and triangular-number sequences
+- [ ] [[Q17]] — P1 — Similar triangles, trapezoids, and Pythagoras' theorem
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Additive functions, prime factorisation, and rational exponents
+- [ ] [[Q19]] — P3 — Trigonometric ranges, identities, and periodic equations
+- [ ] [[Q20]] — P2 — Parabolas, coordinate geometry, and Vieta's formulas
+- [ ] [[Q21]] — P3 / P2 — Complex roots, conics, and ellipse eccentricity
+- [ ] [[Q22]] — P3 — Multiple-angle identities, polynomial roots, and coefficients
+- [ ] [[Q23]] — S1 — Conditional probability and random-walk recurrences
+- [ ] [[Q24]] — P1 — Chords, circle geometry, and triangle area
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Divisor functions, prime factors, and multiplicative optimisation
 
 ## Answer Key
 

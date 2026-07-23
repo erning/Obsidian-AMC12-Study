@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Exponents and Negative powers
-- [ ] [[Q02]] — Triangle Inequality and Bounds
-- [ ] [[Q03]] — Averages as totals and Linear subtraction
-- [ ] [[Q04]] — Ratios and Linear equations
-- [ ] [[Q05]] — Monotonicity of fractions and Inequality direction
-- [ ] [[Q06]] — Age equations and Constant age difference
-- [ ] [[Q07]] — Cylinder volume and Percent scaling
-- [ ] [[Q08]] — Pythagorean triples and Area scaling
-- [ ] [[Q09]] — Symmetry in random sampling and Conditional probability
-- [ ] [[Q10]] — Factoring Diophantine equations and Divisors
-- [ ] [[Q11]] — Common tangents to circles and Geometric cases
-- [ ] [[Q12]] — Parabola intercepts and Kite area
-- [ ] [[Q13]] — Tournament score invariants and Parity
-- [ ] [[Q14]] — Change of base and Logarithm identities
-- [ ] [[Q15]] — Terminating decimals and Prime factors of denominators
-- [ ] [[Q16]] — Tetrahedron volume and Right triangles and perpendicular planes
-- [ ] [[Q17]] — Circular combinatorics and Independent coin flips
-- [ ] [[Q18]] — Vieta's formulas and Integer factor pairs
-- [ ] [[Q19]] — Pythagorean theorem and Parametrization
-- [ ] [[Q20]] — Isosceles triangle area and Algebraic factorization
-- [ ] [[Q21]] — Ellipse foci and Circle intersections
-- [ ] [[Q22]] — Recurrence relations and Modular periodicity
-- [ ] [[Q23]] — Geometric probability and Casework on square sides
-- [ ] [[Q24]] — Rational enumeration and Complex-number realness
-- [ ] [[Q25]] — Descartes-style tangent-circle relation and Geometric series
+- [ ] [[Q01]] — P1 — Index laws and negative powers
+- [ ] [[Q02]] — P1 — Triangle inequalities and bounds
+- [ ] [[Q03]] — S1 — Averages, totals, and linear subtraction
+- [ ] [[Q04]] — P1 — Ratios and linear equations
+- [ ] [[Q05]] — P1 — Fractional inequalities and monotonicity
+- [ ] [[Q06]] — P1 — Age equations and constant differences
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Cylinder volume and percentage scaling
+- [ ] [[Q08]] — P1 — Pythagorean triples and area scaling
+- [ ] [[Q09]] — S1 — Conditional probability and random-sampling symmetry
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Diophantine equations and divisors
+- [ ] [[Q11]] — P1 — Common tangents to circles and geometric cases
+- [ ] [[Q12]] — P2 — Parabolas, coordinate intercepts, and kite area
+- [ ] [[Q13]] — Outside the core 9709 syllabus — Tournament invariants and parity
+- [ ] [[Q14]] — P2 — Change of base and logarithm identities
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Terminating decimals and denominator factors
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Tetrahedron volume and perpendicular planes
+- [ ] [[Q17]] — S1 — Circular arrangements and independent coin flips
+- [ ] [[Q18]] — P2 — Vieta's formulas and integer factor pairs
+- [ ] [[Q19]] — P1 — Pythagoras' theorem and geometric parametrisation
+- [ ] [[Q20]] — P1 — Isosceles-triangle areas and algebraic factorisation
+- [ ] [[Q21]] — P2 — Ellipse foci and circle intersections
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Recurrences and modular periodicity
+- [ ] [[Q23]] — S1 — Geometric probability and square-side casework
+- [ ] [[Q24]] — P3 — Complex numbers and rational enumeration
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Tangent-circle relations and geometric series
 
 ## Answer Key
 

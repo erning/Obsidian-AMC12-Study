@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Sum of consecutive odd integers and Simplifying radicals
-- [ ] [[Q02]] — Difference of squares and Algebraic cancellation
-- [ ] [[Q03]] — Chained ratios and Scaling variables
-- [ ] [[Q04]] — Triangle angle sum and Prime-number testing
-- [ ] [[Q05]] — Fractions of totals and Systems of linear equations
-- [ ] [[Q06]] — Factorials and Algebraic factorization
-- [ ] [[Q07]] — Angle between lines and Slopes and quadratic equations
-- [ ] [[Q08]] — Completing the square and Integer constraints
-- [ ] [[Q09]] — Sector arc length and Cone volume and Pythagorean theorem
-- [ ] [[Q10]] — Coordinate geometry and Circle equations and Line-circle intersections
-- [ ] [[Q11]] — Regular hexagon area and Circular-segment and lens area and Inclusion-exclusion
-- [ ] [[Q12]] — Coordinate geometry of a circle and Parametrizing a chord and Vieta's formulas
-- [ ] [[Q13]] — Change of base for logarithms and Perfect-square recognition
-- [ ] [[Q14]] — Symmetry and reflection and Invariant strategy and Game theory
-- [ ] [[Q15]] — Perfect matchings on a cycle and Casework and symmetry and Counting pairings
-- [ ] [[Q16]] — Conditional probability and Counting sequences and Pólya urn process
-- [ ] [[Q17]] — Roots of polynomials and Complex numbers and cube roots of unity and Conjugate roots and Viète's formulas
-- [ ] [[Q18]] — Area decomposition and Coordinate geometry and Distance from a point to a line and Shoelace formula
-- [ ] [[Q19]] — Symmetry group of a square and Recurrence and state counting and Composition of transformations
-- [ ] [[Q20]] — Symmetry and group actions and Orbits under rotations and Counting by cases
-- [ ] [[Q21]] — Floor functions and Quadratic inequalities and Bounding by consecutive squares
-- [ ] [[Q22]] — Algebraic substitution and Quadratic optimization and Completing the square or vertex form
-- [ ] [[Q23]] — Complex numbers as vectors and Unit-circle geometry and Counterexamples
-- [ ] [[Q24]] — Ordered multiplicative partitions and Divisor recurrence and Recursive counting
-- [ ] [[Q25]] — Probability as area or interval length and Trigonometric identities and Piecewise functions and Calculus optimization
+- [ ] [[Q01]] — P1 — Consecutive odd-number sums and radical simplification
+- [ ] [[Q02]] — P1 — Difference of squares and algebraic cancellation
+- [ ] [[Q03]] — P1 — Chained ratios and variable scaling
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Triangle angles and prime-number testing
+- [ ] [[Q05]] — P1 — Fractions of totals and simultaneous linear equations
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Factorials and algebraic factorisation
+- [ ] [[Q07]] — P1 — Angles between lines, slopes, and quadratics
+- [ ] [[Q08]] — P2 — Completing the square and integer constraints
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Arc length, cone volume, and Pythagoras' theorem
+- [ ] [[Q10]] — P2 — Circle equations and line-circle intersections
+- [ ] [[Q11]] — P1 / S1 — Regular-hexagon area, circular segments, and inclusion-exclusion
+- [ ] [[Q12]] — P2 — Circle coordinates, chord parametrisation, and Vieta's formulas
+- [ ] [[Q13]] — P2 — Change of base and perfect-square recognition
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Symmetry invariants and game theory
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Perfect matchings, casework, and symmetry
+- [ ] [[Q16]] — S1 — Conditional probability and urn-process sequences
+- [ ] [[Q17]] — P3 — Polynomial roots, complex numbers, and Vieta's formulas
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Coordinate area, point-to-line distance, and shoelace formula
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Symmetry groups, recurrences, and state counting
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Group actions, rotational orbits, and case counting
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Floor functions and quadratic inequalities
+- [ ] [[Q22]] — P2 — Algebraic substitution and quadratic optimisation
+- [ ] [[Q23]] — P3 — Complex numbers as vectors and unit-circle geometry
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Multiplicative partitions and divisor recurrences
+- [ ] [[Q25]] — P3 / S1 — Piecewise trigonometric probability and calculus optimisation
 
 ## Answer Key
 

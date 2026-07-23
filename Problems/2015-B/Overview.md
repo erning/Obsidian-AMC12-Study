@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Negative exponents and Order of operations
-- [ ] [[Q02]] — Rates and time and Converting hours to minutes
-- [ ] [[Q03]] — Linear Diophantine equations and Divisibility
-- [ ] [[Q04]] — Relative positions and Translating verbal constraints into equations
-- [ ] [[Q05]] — Percentages and Inequalities and Extremal reasoning
-- [ ] [[Q06]] — Parity and Counting by complementary conditions
-- [ ] [[Q07]] — Symmetry of regular polygons and Rotational angles
-- [ ] [[Q08]] — Logarithm identities and Exponent laws
-- [ ] [[Q09]] — Infinite geometric processes and Recurrence equations and Probability
-- [ ] [[Q10]] — Triangle inequality and Systematic enumeration and Pythagorean triples
-- [ ] [[Q11]] — Coordinate intercepts and Right-triangle geometry and Area and altitude
-- [ ] [[Q12]] — Factoring and Quadratic roots and Optimization with distinct digits
-- [ ] [[Q13]] — Inscribed angles and Cyclic quadrilaterals and Isosceles triangles
-- [ ] [[Q14]] — Areas of circles and equilateral triangles and Inclusion-exclusion cancellation
-- [ ] [[Q15]] — Complementary probability and Independent events and Case enumeration
-- [ ] [[Q16]] — Regular hexagon area and Pythagorean theorem and Pyramid volume
-- [ ] [[Q17]] — Binomial probability and Combinations and Algebraic simplification
-- [ ] [[Q18]] — Prime factorization and Range construction and Parity cases
-- [ ] [[Q19]] — Pythagorean theorem and Circumcenter of a right triangle and Coordinate geometry
-- [ ] [[Q20]] — Recursive definitions and Modular arithmetic and Stabilization
-- [ ] [[Q21]] — Ceiling functions and Integer inequalities and Finite case checking
-- [ ] [[Q22]] — Permutations with forbidden positions and Circular arrangements and Casework
-- [ ] [[Q23]] — Surface area and volume and Factoring Diophantine equations and Ordered constraints
-- [ ] [[Q24]] — Chord geometry and Right triangles and Algebraic equations from ratio conditions
-- [ ] [[Q25]] — Complex numbers as rotations and Geometric series and differentiation and Exact radical simplification
+- [ ] [[Q01]] — P1 — Negative indices and order of operations
+- [ ] [[Q02]] — P1 — Rates, time, and unit conversion
+- [ ] [[Q03]] — Outside the core 9709 syllabus — Linear Diophantine equations and divisibility
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Relative positions and logical constraints
+- [ ] [[Q05]] — P1 — Percentages, inequalities, and extremal reasoning
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Parity and complementary counting
+- [ ] [[Q07]] — P1 — Regular polygons, reflection symmetry, and rotations
+- [ ] [[Q08]] — P2 — Logarithm identities and index laws
+- [ ] [[Q09]] — S1 — Infinite probability processes and recurrences
+- [ ] [[Q10]] — P1 — Triangle inequalities, enumeration, and Pythagorean triples
+- [ ] [[Q11]] — P1 — Coordinate intercepts, right triangles, and areas
+- [ ] [[Q12]] — P2 — Factorisation, quadratic roots, and optimisation
+- [ ] [[Q13]] — P1 — Inscribed angles, cyclic quadrilaterals, and isosceles triangles
+- [ ] [[Q14]] — P1 — Circle and equilateral-triangle areas and inclusion-exclusion
+- [ ] [[Q15]] — S1 — Complementary probability, independent events, and casework
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Regular hexagons, pyramids, and three-dimensional volume
+- [ ] [[Q17]] — S1 — Binomial probability, combinations, and algebraic simplification
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Prime factorisation, parity, and range construction
+- [ ] [[Q19]] — P1 — Pythagoras' theorem, circumcentres, and coordinate geometry
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Recursive definitions and modular stabilisation
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Ceiling functions, integer inequalities, and case checking
+- [ ] [[Q22]] — S1 — Restricted permutations, circular arrangements, and casework
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Cuboid dimensions, volume, and Diophantine equations
+- [ ] [[Q24]] — P1 — Chords, right triangles, and ratio equations
+- [ ] [[Q25]] — P3 — Complex rotations, geometric series, and exact radicals
 
 ## Answer Key
 

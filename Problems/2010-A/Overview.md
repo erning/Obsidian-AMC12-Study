@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Whole number operations and Order of operations
-- [ ] [[Q02]] — Arithmetic sequence and Summation
-- [ ] [[Q03]] — Area ratio and Percentage
-- [ ] [[Q04]] — Inequality and Exponent and Absolute value
-- [ ] [[Q05]] — Inequality and Bounding to limit cases
-- [ ] [[Q06]] — Palindrome and Digits and Bounding to limit cases
-- [ ] [[Q07]] — Power scaling of length, area, and volume and Volume
-- [ ] [[Q08]] — Angle chasing and Equilateral triangle and Special right triangle
-- [ ] [[Q09]] — Volume and Inclusion-exclusion and Cube geometry
-- [ ] [[Q10]] — Arithmetic sequence and System of equations
-- [ ] [[Q11]] — Logarithm and Exponent
-- [ ] [[Q12]] — Truth-tellers and liars and Logical deduction
-- [ ] [[Q13]] — Circle and Hyperbola and Casework
-- [ ] [[Q14]] — Angle bisector theorem and Triangle inequality and Optimization
-- [ ] [[Q15]] — Binomial probability and Quadratic
-- [ ] [[Q16]] — Basic probability and Casework and Symmetry
-- [ ] [[Q17]] — Equiangular polygon and Law of cosines and Vieta’s formulas
-- [ ] [[Q18]] — Lattice paths and Combinations and Symmetry
-- [ ] [[Q19]] — Telescoping and Basic probability and Inequality
-- [ ] [[Q20]] — Arithmetic sequence and Divisibility and Greatest common divisor
-- [ ] [[Q21]] — Polynomial and Factoring and Completing the square
-- [ ] [[Q22]] — Absolute value and Optimization and Summation
-- [ ] [[Q23]] — Modular arithmetic and Chinese remainder theorem and Trailing zeros
-- [ ] [[Q24]] — Trigonometry and Symmetry and Casework
-- [ ] [[Q25]] — Burnside’s lemma and Stars and bars and Cyclic quadrilateral
+- [ ] [[Q01]] — P1 — Arithmetic operations and order of operations
+- [ ] [[Q02]] — P2 — Arithmetic sequences and summation
+- [ ] [[Q03]] — P1 — Area ratios and percentages
+- [ ] [[Q04]] — P1 — Inequalities, exponents, and absolute values
+- [ ] [[Q05]] — P1 — Inequalities and extremal bounds
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Palindromes, digit constraints, and bounds
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Three-dimensional scaling and volume
+- [ ] [[Q08]] — P1 — Angle chasing, equilateral triangles, and special triangles
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Cube volume and inclusion-exclusion
+- [ ] [[Q10]] — P2 — Arithmetic sequences and simultaneous equations
+- [ ] [[Q11]] — P2 — Logarithms and exponents
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Truth-tellers, liars, and logical deduction
+- [ ] [[Q13]] — Outside the core 9709 syllabus — Circle-hyperbola intersections and casework
+- [ ] [[Q14]] — P1 — Angle bisectors, triangle inequality, and optimisation
+- [ ] [[Q15]] — S1 / P1 — Binomial probability and quadratic equations
+- [ ] [[Q16]] — S1 — Probability, symmetry, and casework
+- [ ] [[Q17]] — P1 / P2 — Equiangular polygons, cosine rule, and Vieta's formulas
+- [ ] [[Q18]] — S1 — Lattice paths, combinations, and symmetry
+- [ ] [[Q19]] — S1 / P2 — Telescoping, probability, and inequalities
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Arithmetic sequences, divisibility, and greatest common divisors
+- [ ] [[Q21]] — P2 — Polynomials, factorisation, and completing the square
+- [ ] [[Q22]] — P1 — Absolute values, optimisation, and summation
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Modular arithmetic, Chinese remainders, and trailing zeros
+- [ ] [[Q24]] — P1 — Trigonometry, symmetry, and casework
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Burnside's lemma, stars and bars, and cyclic quadrilaterals
 
 ## Answer Key
 

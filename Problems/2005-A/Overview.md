@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentage and Linear equation
-- [ ] [[Q02]] — Linear equation and Substitution
-- [ ] [[Q03]] — Rectangle and Pythagorean theorem and Area
-- [ ] [[Q04]] — Basic counting
-- [ ] [[Q05]] — Mean
-- [ ] [[Q06]] — Distance rate and time and Ratio and proportion
-- [ ] [[Q07]] — Square geometry and Pythagorean theorem and Congruence geometry
-- [ ] [[Q08]] — Prime factorization and Digits and Bounding to limit cases
-- [ ] [[Q09]] — Quadratic and Vieta's formulas
-- [ ] [[Q10]] — Cube geometry and Surface area and Ratio and proportion
-- [ ] [[Q11]] — Digits and Parity and Basic counting
-- [ ] [[Q12]] — Lattice point and Greatest common divisor and Slope
-- [ ] [[Q13]] — Arithmetic sequence and Double counting
-- [ ] [[Q14]] — Dice probability and Conditional probability and Parity
-- [ ] [[Q15]] — Circle and Area ratio and Midpoint
-- [ ] [[Q16]] — Tangent circles and Coordinate geometry and Pythagorean theorem
-- [ ] [[Q17]] — Pyramid and Volume and 3D geometry
-- [ ] [[Q18]] — Inclusion-exclusion and Prime and Counting integers in a range
-- [ ] [[Q19]] — Number base
-- [ ] [[Q20]] — Function and Recursion
-- [ ] [[Q21]] — Logarithm and Diophantine Equation and Bounding to limit cases
-- [ ] [[Q22]] — Rectangular prism and Sphere and Algebraic manipulation
-- [ ] [[Q23]] — Divisibility and Floor and ceiling functions and Basic probability
-- [ ] [[Q24]] — Polynomial and Casework
-- [ ] [[Q25]] — Equilateral triangle and 3D geometry and Casework
+- [ ] [[Q01]] — P1 — Percentages and linear equations
+- [ ] [[Q02]] — P1 — Linear equations and substitution
+- [ ] [[Q03]] — P1 — Rectangles, Pythagoras, and area
+- [ ] [[Q04]] — P1 — Counting offers and unit-price savings
+- [ ] [[Q05]] — P1 — Weighted means and averages
+- [ ] [[Q06]] — P1 — Uniform motion and proportional reasoning
+- [ ] [[Q07]] — P1 — Similar squares, rotations, and area
+- [ ] [[Q08]] — Outside the core 9709 syllabus — Digit equations and prime factorization
+- [ ] [[Q09]] — P1 — Quadratic discriminants and repeated roots
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Painted-cube surface counting
+- [ ] [[Q11]] — P1 — Digit averages and arithmetic sequences
+- [ ] [[Q12]] — P1 — Coordinate lines and lattice points
+- [ ] [[Q13]] — P1 — Arithmetic sequences and finite casework
+- [ ] [[Q14]] — S1 — Conditional probability and random outcomes
+- [ ] [[Q15]] — P1 — Circle diameters, midpoints, and area ratios
+- [ ] [[Q16]] — P1 — Coordinate geometry and tangent circles
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Three-dimensional dissections and prism volumes
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Primes, inclusion-exclusion, and counting integers
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Non-decimal bases and positional systems
+- [ ] [[Q20]] — P1 / P2 — Iterated functions, preimages, and binary branching
+- [ ] [[Q21]] — P2 — Logarithms, integer exponents, and Diophantine constraints
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Rectangular boxes, spheres, and three-dimensional geometry
+- [ ] [[Q23]] — S1 / P2 — Probability, logarithms, and divisibility
+- [ ] [[Q24]] — P2 — Polynomial composition and roots
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Three-dimensional coordinates and equilateral triangles
 
 ## Answer Key
 

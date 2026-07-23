@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Mean and linear equations
-- [ ] [[Q02]] — Unit conversion and area
-- [ ] [[Q03]] — Counting integers in a range
-- [ ] [[Q04]] — Rates and proportions
-- [ ] [[Q05]] — Weighted averages
-- [ ] [[Q06]] — Completing the square
-- [ ] [[Q07]] — Triangular numbers
-- [ ] [[Q08]] — Coordinate geometry
-- [ ] [[Q09]] — Prime factorization
-- [ ] [[Q10]] — Invariants and token exchanges
-- [ ] [[Q11]] — Three-dimensional distance
-- [ ] [[Q12]] — Euler trails
-- [ ] [[Q13]] — Arithmetic angles
-- [ ] [[Q14]] — Fibonacci sequences
-- [ ] [[Q15]] — Factorials and divisibility
-- [ ] [[Q16]] — Equiangular pentagons
-- [ ] [[Q17]] — Quadratic inequalities
-- [ ] [[Q18]] — Combinatorial games
-- [ ] [[Q19]] — Cyclic quadrilaterals
-- [ ] [[Q20]] — Parabolas and trigonometry
-- [ ] [[Q21]] — Parabola intersections
-- [ ] [[Q22]] — Logarithms and Vieta's formulas
-- [ ] [[Q23]] — Number bases
-- [ ] [[Q24]] — Angle bisectors
-- [ ] [[Q25]] — Polynomial factorization
+- [ ] [[Q01]] — S1 — Means and linear equations
+- [ ] [[Q02]] — P1 — Unit conversion, rectangle areas, and rates
+- [ ] [[Q03]] — P2 — Arithmetic sequences and index counting
+- [ ] [[Q04]] — P1 — Rates, proportions, and average rates
+- [ ] [[Q05]] — S1 — Weighted averages and totals
+- [ ] [[Q06]] — P1 — Completing the square and non-negative sums
+- [ ] [[Q07]] — P2 — Triangular numbers and sequence indexing
+- [ ] [[Q08]] — P1 — Coordinate geometry, gradients, and triangle areas
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Prime factorisation, factorials, and perfect squares
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Invariants and integer optimisation
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Three-dimensional coordinates and periodic motion
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Euler trails and graph counting
+- [ ] [[Q13]] — P1 — Angle progressions, similar triangles, and casework
+- [ ] [[Q14]] — Outside the core 9709 syllabus — Fibonacci recurrences and Diophantine equations
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Factorials, divisibility, and minimality
+- [ ] [[Q16]] — P1 — Equiangular polygons, isosceles triangles, and perimeter invariants
+- [ ] [[Q17]] — P2 — Quadratic inequalities, Cauchy-Schwarz, and extremal values
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Combinatorial games and modular invariants
+- [ ] [[Q19]] — P1 — Similar triangles and cyclic quadrilaterals
+- [ ] [[Q20]] — P2 — Parabolas, trigonometric identities, and parallel lines
+- [ ] [[Q21]] — P2 / S1 — Parabola geometry, combinations, and complementary counting
+- [ ] [[Q22]] — P2 — Logarithms, Vieta's formulas, and exponent minimisation
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Number bases and modular arithmetic
+- [ ] [[Q24]] — P1 — Angle bisectors, similar triangles, and the cosine rule
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Complex polynomial factors and lattice points
 
 ## Answer Key
 

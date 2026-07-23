@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Money and Unit conversion
-- [ ] [[Q02]] — Logical deduction
-- [ ] [[Q03]] — Floor and ceiling functions and Estimation
-- [ ] [[Q04]] — Weighted mean and Ratio and proportion
-- [ ] [[Q05]] — Percentage and Conditional probability
-- [ ] [[Q06]] — System of equations and Substitution
-- [ ] [[Q07]] — Prime factorization and Divisibility and Bounding to limit cases
-- [ ] [[Q08]] — Pattern recognition and Algebraic manipulation
-- [ ] [[Q09]] — Counting pairs and Casework
-- [ ] [[Q10]] — Dice (probability) and Circle and Inequality
-- [ ] [[Q11]] — Circle area and Tangent circles and Area decomposition
-- [ ] [[Q12]] — Relative speed and Distance rate and time and Symmetry
-- [ ] [[Q13]] — Incircle, incenter, and inradius and Parallel lines and Isosceles triangle
-- [ ] [[Q14]] — Parabola and Basic probability and Casework
-- [ ] [[Q15]] — 3d geometry and Pyramid and Distance formula
-- [ ] [[Q16]] — Graph theory and Inclusion-exclusion
-- [ ] [[Q17]] — Tangent circles and Coordinate geometry and Shoelace formula
-- [ ] [[Q18]] — Absolute value and Optimization and Square (geometry)
-- [ ] [[Q19]] — Floor and ceiling functions and Power of 2 and Casework
-- [ ] [[Q20]] — Quadratic and System of equations and Bounding to limit cases
-- [ ] [[Q21]] — Function and Radical and Recursion
-- [ ] [[Q22]] — Area and Lattice point and Complementary counting
-- [ ] [[Q23]] — Complex number and Matrix and Roots of unity
-- [ ] [[Q24]] — Incircle, incenter, and inradius and Brahmagupta’s formula and Cyclic quadrilateral and Optimization
-- [ ] [[Q25]] — Circumcircle, circumcenter, and circumradius and Optimization and Trigonometry
+- [ ] [[Q01]] — P1 — Arithmetic operations, unit conversion, and linear costs
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Logical deduction and visual ordering
+- [ ] [[Q03]] — Outside the core 9709 syllabus — Ceiling functions and estimation
+- [ ] [[Q04]] — S1 — Weighted means, ratios, and averages
+- [ ] [[Q05]] — S1 — Conditional probability and percentages
+- [ ] [[Q06]] — P1 — Simultaneous linear equations and substitution
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Divisibility, prime factors, and integer bounds
+- [ ] [[Q08]] — P1 — Algebraic manipulation and pattern relationships
+- [ ] [[Q09]] — S1 — Combinatorial counting and casework
+- [ ] [[Q10]] — S1 / P1 — Discrete probability, circle geometry, and perfect squares
+- [ ] [[Q11]] — P1 — Tangent circles, areas, and geometric decomposition
+- [ ] [[Q12]] — P1 — Rates, relative motion, and symmetry
+- [ ] [[Q13]] — P1 — Incircles, parallel lines, and isosceles triangles
+- [ ] [[Q14]] — S1 / P2 — Quadratic roots, digit casework, and probability
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Three-dimensional coordinate geometry and pyramids
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Graph colouring and inclusion-exclusion
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Tangent circles, coordinates, and the shoelace formula
+- [ ] [[Q18]] — P1 — Absolute values, optimisation, and square geometry
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Floor functions, powers of two, and casework
+- [ ] [[Q20]] — P2 — Quadratic roots, simultaneous equations, and integer bounds
+- [ ] [[Q21]] — P2 — Trigonometric identities and recursive radicals
+- [ ] [[Q22]] — S1 — Lattice points, areas, and complementary counting
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Complex matrices and roots of unity
+- [ ] [[Q24]] — Outside the core 9709 syllabus — Incircles, cyclic quadrilaterals, and Brahmagupta's formula
+- [ ] [[Q25]] — P1 — Circumcircles, trigonometry, and optimisation
 
 ## Answer Key
 

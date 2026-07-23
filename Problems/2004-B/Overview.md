@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Geometric sequence and Work backwards
-- [ ] [[Q02]] — Optimization and Casework
-- [ ] [[Q03]] — Prime factorization and Exponent
-- [ ] [[Q04]] — Inclusion-exclusion and Digits and Basic probability
-- [ ] [[Q05]] — Ratio and proportion and Linear equation
-- [ ] [[Q06]] — Pythagorean theorem and Estimation
-- [ ] [[Q07]] — Circle area and Area decomposition
-- [ ] [[Q08]] — Sum of first $n$ odd numbers
-- [ ] [[Q09]] — Transformation and Coordinate geometry
-- [ ] [[Q10]] — Annulus and Tangent line and Pythagorean theorem
-- [ ] [[Q11]] — Mean and Bounding to limit cases
-- [ ] [[Q12]] — Recursion and Arithmetic sequence and Pattern recognition
-- [ ] [[Q13]] — Function and System of equations
-- [ ] [[Q14]] — Similarity and Right triangle and Area decomposition
-- [ ] [[Q15]] — Ages and Place value and Linear equation
-- [ ] [[Q16]] — Complex number and Coordinate geometry
-- [ ] [[Q17]] — Vieta's formulas and Logarithm
-- [ ] [[Q18]] — Parabola and Midpoint and Distance formula
-- [ ] [[Q19]] — Cone and Sphere and Tangent line
-- [ ] [[Q20]] — Cube geometry and Casework and Basic probability
-- [ ] [[Q21]] — Ellipse and Tangent line and Vieta's formulas
-- [ ] [[Q22]] — Magic square and System of equations and Divisibility
-- [ ] [[Q23]] — Vieta's formulas and Polynomial and Counting integers in a range
-- [ ] [[Q24]] — Trigonometric identity and Geometric sequence and Isosceles triangle
-- [ ] [[Q25]] — Digits and Pattern recognition
+- [ ] [[Q01]] — P1 — Geometric sequences and reverse calculation
+- [ ] [[Q02]] — P1 — Laws of indices, operation order, and optimization
+- [ ] [[Q03]] — P2 — Prime factorization and exponential equations
+- [ ] [[Q04]] — S1 — Complementary probability and digit positions
+- [ ] [[Q05]] — P1 — Currency ratios and linear equations
+- [ ] [[Q06]] — P1 — Coordinate directions and Pythagoras
+- [ ] [[Q07]] — P1 — Circle areas and area decomposition
+- [ ] [[Q08]] — P1 — Odd-number sums and square patterns
+- [ ] [[Q09]] — P1 — Coordinate transformations and rotations
+- [ ] [[Q10]] — P1 — Tangent geometry and annulus area
+- [ ] [[Q11]] — S1 — Means and extremal bounds
+- [ ] [[Q12]] — P1 — Linear recurrences and periodic sequences
+- [ ] [[Q13]] — P1 — Inverse functions and linear equations
+- [ ] [[Q14]] — P1 — Similar triangles and area ratios
+- [ ] [[Q15]] — P1 — Digit equations and age problems
+- [ ] [[Q16]] — P3 — Complex conjugates and loci
+- [ ] [[Q17]] — P2 — Vieta's formulas and logarithms
+- [ ] [[Q18]] — P1 — Parabolas, midpoints, and distance formula
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Cone-sphere tangency in three dimensions
+- [ ] [[Q20]] — S1 — Cube colourings, symmetry, and probability
+- [ ] [[Q21]] — P1 / P2 — Ellipses, tangents from the origin, and quadratic roots
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Multiplicative magic squares and divisibility
+- [ ] [[Q23]] — P2 / S1 — Vieta's formulas and integer-root counting
+- [ ] [[Q24]] — P1 / P2 — Trigonometric ratios and arithmetic-geometric sequences
+- [ ] [[Q25]] — P2 — Logarithms, leading digits, and exponential intervals
 
 ## Answer Key
 

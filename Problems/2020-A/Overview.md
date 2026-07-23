@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentages and Successive operations on a remainder
-- [ ] [[Q02]] — Distance formula and Reading a grid diagram
-- [ ] [[Q03]] — Rate, distance, and time and Unit conversion and net earnings
-- [ ] [[Q04]] — Divisibility rules and Multiplication principle
-- [ ] [[Q05]] — Arithmetic mean of consecutive integers and Magic-square totals
-- [ ] [[Q06]] — Reflection symmetry and Counting orbits under transformations
-- [ ] [[Q07]] — Surface area of cubes and Projection and non-overlapping stacked areas
-- [ ] [[Q08]] — Median of an even-sized list and Counting duplicate values
-- [ ] [[Q09]] — Period and asymptotes of tangent and Intersection counting
-- [ ] [[Q10]] — Change of base for logarithms and Solving logarithmic equations
-- [ ] [[Q11]] — Random walks and Harmonic averaging and symmetry
-- [ ] [[Q12]] — Slope under rotation and Point-slope form of a line
-- [ ] [[Q13]] — Exponents of nested radicals and Rational equations and integer constraints
-- [ ] [[Q14]] — Regular polygon area and Cyclic quadrilaterals and diagonals
-- [ ] [[Q15]] — Roots of unity and Factoring by grouping and Distance in the complex plane
-- [ ] [[Q16]] — Periodicity in lattice problems and Area probability
-- [ ] [[Q17]] — Shoelace formula and Logarithm identities and Consecutive integers
-- [ ] [[Q18]] — Coordinate geometry and Thales' theorem and circle with a diameter and Triangle area
-- [ ] [[Q19]] — Geometric-series factorization and Binary representation
-- [ ] [[Q20]] — Isometries and composition and Finite symmetry groups and Counting ordered choices
-- [ ] [[Q21]] — Prime-exponent comparison and LCM and GCD and Fundamental theorem of arithmetic
-- [ ] [[Q22]] — Complex numbers and real/imaginary parts and Infinite geometric series
-- [ ] [[Q23]] — Conditional optimization and Counting ordered dice outcomes and Comparing expected winning probabilities
-- [ ] [[Q24]] — Coordinate geometry and Equilateral-triangle coordinates and Solving distance equations
-- [ ] [[Q25]] — Floor and fractional-part functions and Piecewise quadratic equations and Rational parameter recovery
+- [ ] [[Q01]] — P1 — Percentages and successive operations on a remainder
+- [ ] [[Q02]] — P1 — Distance formula and grid coordinates
+- [ ] [[Q03]] — P1 — Rates, unit conversion, and net earnings
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Divisibility rules and multiplication principle
+- [ ] [[Q05]] — P1 — Arithmetic means of consecutive integers and magic-square totals
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Reflection symmetry and transformation orbits
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Cube surface area and projections
+- [ ] [[Q08]] — S1 — Median of an even-sized data set and duplicates
+- [ ] [[Q09]] — P3 — Tangent period, asymptotes, and intersections
+- [ ] [[Q10]] — P2 — Change of base and logarithmic equations
+- [ ] [[Q11]] — S1 — Random walks, harmonic averaging, and symmetry
+- [ ] [[Q12]] — P1 — Slopes under rotation and point-slope form
+- [ ] [[Q13]] — P1 — Nested radicals, indices, and rational equations
+- [ ] [[Q14]] — P1 — Regular polygons, cyclic quadrilaterals, and diagonals
+- [ ] [[Q15]] — P3 — Roots of unity, factorisation, and complex-plane distance
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Lattice periodicity and area probability
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Shoelace formula, logarithms, and consecutive integers
+- [ ] [[Q18]] — P1 — Coordinates, Thales' theorem, and triangle area
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Geometric-series factorisation and binary representation
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Isometry groups and ordered-choice counting
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Prime exponents, LCM, and GCD
+- [ ] [[Q22]] — P3 / P2 — Complex numbers and infinite geometric series
+- [ ] [[Q23]] — S1 — Conditional optimisation and dice probabilities
+- [ ] [[Q24]] — P1 — Equilateral-triangle coordinates and distance equations
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Floor functions and piecewise quadratics
 
 ## Answer Key
 

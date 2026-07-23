@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Parity and Money and Casework
-- [ ] [[Q02]] — Ratio and proportion
-- [ ] [[Q03]] — Percentage and Fraction and Linear equation
-- [ ] [[Q04]] — Area ratio and Triangle area and Trapezoid
-- [ ] [[Q05]] — Prime factorization and Power of 2
-- [ ] [[Q06]] — Order of operations and Systematic listing
-- [ ] [[Q07]] — Percentage
-- [ ] [[Q08]] — System of equations and Substitution
-- [ ] [[Q09]] — Coordinate geometry and Triangle area and Parallel lines
-- [ ] [[Q10]] — Digits and Complementary counting and Fraction
-- [ ] [[Q11]] — Geometric sequence and Recursion and Inequality
-- [ ] [[Q12]] — Geometric sequence and Factorial
-- [ ] [[Q13]] — Pythagorean theorem and Altitude and Casework
-- [ ] [[Q14]] — Triangle area and Area decomposition and Coordinate geometry
-- [ ] [[Q15]] — Logarithm and Inequality
-- [ ] [[Q16]] — Angle bisector theorem and Trapezoid and Parallel lines
-- [ ] [[Q17]] — Basic probability and Cube geometry and Casework
-- [ ] [[Q18]] — Geometric probability and Distance rate and time
-- [ ] [[Q19]] — Difference of squares and Factoring and Prime
-- [ ] [[Q20]] — Polyhedron and Double counting
-- [ ] [[Q21]] — Recursion and Fibonacci
-- [ ] [[Q22]] — Lattice point and Stars and bars and Prime factorization
-- [ ] [[Q23]] — Complex number and Geometric probability and Area
-- [ ] [[Q24]] — Trigonometry and Casework
-- [ ] [[Q25]] — Lattice point and Bijection and Counting shapes in figures
+- [ ] [[Q01]] — Outside the core 9709 syllabus — Parity, money, and casework
+- [ ] [[Q02]] — P1 — Ratios and proportions
+- [ ] [[Q03]] — P1 — Percentages, fractions, and linear equations
+- [ ] [[Q04]] — P1 — Area ratios, triangles, and trapezoids
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Prime factorisation and powers of two
+- [ ] [[Q06]] — P1 — Arithmetic operations and systematic listing
+- [ ] [[Q07]] — P1 — Percentages
+- [ ] [[Q08]] — P1 — Simultaneous equations and substitution
+- [ ] [[Q09]] — P1 — Coordinate geometry, triangle areas, and parallel lines
+- [ ] [[Q10]] — Outside the core 9709 syllabus — Digit constraints, complementary counting, and fractions
+- [ ] [[Q11]] — P2 — Geometric sequences, recurrences, and inequalities
+- [ ] [[Q12]] — P2 — Geometric sequences and factorial expressions
+- [ ] [[Q13]] — P1 — Pythagoras, altitudes, and case analysis
+- [ ] [[Q14]] — P1 — Triangle areas, decomposition, and coordinates
+- [ ] [[Q15]] — P2 — Logarithms and inequalities
+- [ ] [[Q16]] — P1 — Angle bisectors, trapezoids, and parallel lines
+- [ ] [[Q17]] — Outside the core 9709 syllabus — Probability on a cube and casework
+- [ ] [[Q18]] — S1 / P1 — Geometric probability and uniform motion
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Difference of squares and prime factorisation
+- [ ] [[Q20]] — Outside the core 9709 syllabus — Polyhedra and double counting
+- [ ] [[Q21]] — P2 — Recurrences and Fibonacci sequences
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Lattice points, stars and bars, and prime factors
+- [ ] [[Q23]] — P3 / S1 — Complex numbers, geometric probability, and area
+- [ ] [[Q24]] — P1 — Trigonometric equations and casework
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Lattice points, bijections, and figure counting
 
 ## Answer Key
 

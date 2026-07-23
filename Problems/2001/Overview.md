@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Algebraic manipulation; Distributive property
-- [ ] [[Q02]] — Digits; Place value
-- [ ] [[Q03]] — Percentage; Linear equation
-- [ ] [[Q04]] — Mean; Median (data); Linear equation
-- [ ] [[Q05]] — Factorial; Algebraic manipulation
-- [ ] [[Q06]] — Digits; Logical deduction; Casework
-- [ ] [[Q07]] — Diophantine equation; Prime factorization; Bounding to limit cases
-- [ ] [[Q08]] — Cone; Arc; Circumference
-- [ ] [[Q09]] — Functional equation; Substitution
-- [ ] [[Q10]] — Tiling; Area; Percentage
-- [ ] [[Q11]] — Sampling without replacement; Basic probability; Symmetry
-- [ ] [[Q12]] — Inclusion-exclusion; Counting integers in a range; Multiple
-- [ ] [[Q13]] — Parabola; Transformation
-- [ ] [[Q14]] — Counting shapes in figures; Regular polygon; Double counting
-- [ ] [[Q15]] — Net (3d geometry); 3d geometry; Rhombus
-- [ ] [[Q16]] — Arrangements with restrictions; Permutations
-- [ ] [[Q17]] — Geometric probability; Inscribed angle; Area
-- [ ] [[Q18]] — Tangent circles; Pythagorean theorem
-- [ ] [[Q19]] — Vieta formulas; Polynomial
-- [ ] [[Q20]] — Coordinate geometry; Midpoint; Vector
-- [ ] [[Q21]] — Simon’s favorite factoring trick; Divisibility; System of equations
-- [ ] [[Q22]] — Similarity; Area ratio
-- [ ] [[Q23]] — Polynomial; Complex number; Quadratic
-- [ ] [[Q24]] — Angle chasing; Isosceles triangle; Special right triangle
-- [ ] [[Q25]] — Recursion; Casework
+- [ ] [[Q01]] — P1 — Algebraic manipulation and linear expressions
+- [ ] [[Q02]] — Outside the core 9709 syllabus — Place value and digit equations
+- [ ] [[Q03]] — P1 — Percentage rates and linear equations
+- [ ] [[Q04]] — S1 / P1 — Mean, median, and linear constraints
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Factorials and product manipulation
+- [ ] [[Q06]] — Outside the core 9709 syllabus — Digit constraints and finite casework
+- [ ] [[Q07]] — P1 — Simultaneous linear equations and integer constraints
+- [ ] [[Q08]] — P1 — Circular measure, sector arcs, and cone nets
+- [ ] [[Q09]] — P1 — Functional equations and substitution
+- [ ] [[Q10]] — P1 — Tiling, polygon areas, and percentages
+- [ ] [[Q11]] — S1 — Sampling without replacement and probability
+- [ ] [[Q12]] — S1 — Inclusion-exclusion and counting multiples
+- [ ] [[Q13]] — P1 — Parabola transformations and vertex form
+- [ ] [[Q14]] — P1 / S1 — Regular polygons, equilateral triangles, and counting
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Tetrahedron nets and shortest surface paths
+- [ ] [[Q16]] — S1 — Restricted permutations and ordering constraints
+- [ ] [[Q17]] — S1 / P1 — Geometric probability, inscribed angles, and area
+- [ ] [[Q18]] — P1 — Tangent circles and Pythagorean geometry
+- [ ] [[Q19]] — P2 — Cubic polynomials and Vieta's formulas
+- [ ] [[Q20]] — P1 — Coordinate geometry, midpoints, and vectors
+- [ ] [[Q21]] — P2 — Algebraic factorization and integer systems
+- [ ] [[Q22]] — P1 — Similar triangles and area ratios
+- [ ] [[Q23]] — P3 / P2 — Complex roots and polynomial coefficients
+- [ ] [[Q24]] — P1 — Angle chasing and exact trigonometry
+- [ ] [[Q25]] — P2 — Recursive sequences, quadratic relations, and casework
 
 ## Answer Key
 

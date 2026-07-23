@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentages and Equations with a fixed numerator
-- [ ] [[Q02]] — Integer optimization and Value density
-- [ ] [[Q03]] — Combinations and Permutations
-- [ ] [[Q04]] — Negation of inequalities and Intersections of intervals
-- [ ] [[Q05]] — Factoring quadratics and Common roots
-- [ ] [[Q06]] — Mean and median and Ordered data
-- [ ] [[Q07]] — Prime exponents and Integer powers
-- [ ] [[Q08]] — Similar triangles and Area scaling
-- [ ] [[Q09]] — Angle addition identities and Sign and range analysis
-- [ ] [[Q10]] — Absolute values and Piecewise linear systems
-- [ ] [[Q11]] — Perpendicular bisectors and Similar right triangles
-- [ ] [[Q12]] — Divisibility chains and Extremal set construction
-- [ ] [[Q13]] — Balanced ternary and Symmetry of finite sets
-- [ ] [[Q14]] — Change of base for logarithms and Exponential equations
-- [ ] [[Q15]] — Group actions and orbits and Symmetry counting
-- [ ] [[Q16]] — Substitution of curves and Counting real roots
-- [ ] [[Q17]] — Distance from a point to a line and Area ratios
-- [ ] [[Q18]] — Similarity and midpoints and Angle Bisector Theorem
-- [ ] [[Q19]] — Unique prime factorization and Infinite geometric series
-- [ ] [[Q20]] — Cyclic quadrilaterals and Law of cosines and Quadratic equations
-- [ ] [[Q21]] — Monotonicity of polynomials and Comparing roots without solving them
-- [ ] [[Q22]] — Complex square roots and Vector cross products
-- [ ] [[Q23]] — Midline theorem and Parallelograms and isosceles triangles
-- [ ] [[Q24]] — Continuous probability and Quadratic optimization
-- [ ] [[Q25]] — Repunit notation and Polynomial identity in $10^n$
+- [ ] [[Q01]] — P1 — Percentages and equations with a fixed numerator
+- [ ] [[Q02]] — P1 — Integer optimisation and value density
+- [ ] [[Q03]] — S1 — Combinations and permutations
+- [ ] [[Q04]] — P1 — Negating inequalities and intersecting intervals
+- [ ] [[Q05]] — P1 — Quadratic factorisation and common roots
+- [ ] [[Q06]] — S1 — Mean, median, and ordered data
+- [ ] [[Q07]] — Outside the core 9709 syllabus — Prime exponents and integer powers
+- [ ] [[Q08]] — P1 — Similar triangles and area scaling
+- [ ] [[Q09]] — P3 — Angle-addition identities and trigonometric ranges
+- [ ] [[Q10]] — P1 — Modulus and piecewise linear systems
+- [ ] [[Q11]] — P1 — Perpendicular bisectors and similar right triangles
+- [ ] [[Q12]] — Outside the core 9709 syllabus — Divisibility chains and extremal sets
+- [ ] [[Q13]] — Outside the core 9709 syllabus — Balanced ternary and finite-set symmetry
+- [ ] [[Q14]] — P2 — Change of base and exponential equations
+- [ ] [[Q15]] — Outside the core 9709 syllabus — Group actions, orbits, and symmetry counting
+- [ ] [[Q16]] — P2 — Curve substitution and real-root counting
+- [ ] [[Q17]] — P1 — Point-to-line distance and area ratios
+- [ ] [[Q18]] — P1 — Similarity, midpoints, and angle bisectors
+- [ ] [[Q19]] — Outside the core 9709 syllabus — Prime factorisation and infinite geometric series
+- [ ] [[Q20]] — P1 — Cyclic quadrilaterals, cosine rule, and quadratics
+- [ ] [[Q21]] — P2 — Polynomial monotonicity and root comparison
+- [ ] [[Q22]] — Outside the core 9709 syllabus — Complex square roots and vector cross products
+- [ ] [[Q23]] — P1 — Midlines, parallelograms, and isosceles triangles
+- [ ] [[Q24]] — S1 / P2 — Continuous probability and quadratic optimisation
+- [ ] [[Q25]] — P2 — Repunit expressions and polynomial identities
 
 ## Answer Key
 
@@ -67,4 +67,3 @@ status: completed
 - Q23 — E: $80^\circ$
 - Q24 — B: $\frac{13}{24}$
 - Q25 — D: $18$
-

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentage and Unit conversion
-- [ ] [[Q02]] — Area decomposition and Rectangle
-- [ ] [[Q03]] — Greatest common divisor and Factor counting
-- [ ] [[Q04]] — Date and time and Casework
-- [ ] [[Q05]] — Order of operations and Linear equation
-- [ ] [[Q06]] — Percentage and Extremal argument
-- [ ] [[Q07]] — Distance rate and time and Linear equation
-- [ ] [[Q08]] — Median (data) and Parity and Inequality
-- [ ] [[Q09]] — Prime factorization and Perfect power and Least common multiple
-- [ ] [[Q10]] — Mean and Summation and Linear equation
-- [ ] [[Q11]] — Palindrome and Divisibility and Basic probability
-- [ ] [[Q12]] — Logarithm
-- [ ] [[Q13]] — Trigonometry and Special right triangle and Bounding to limit cases
-- [ ] [[Q14]] — Optimization and Inequality and Extremal argument
-- [ ] [[Q15]] — Complex number and Casework and Basic counting
-- [ ] [[Q16]] — Modular arithmetic and Basic probability and Casework
-- [ ] [[Q17]] — Arrangements with restrictions and Casework
-- [ ] [[Q18]] — Geometric probability and Random walk
-- [ ] [[Q19]] — Geometric sequence and Arithmetic sequence and Bounding to limit cases
-- [ ] [[Q20]] — Geometric sequence and Trigonometric identity
-- [ ] [[Q21]] — Polynomial and Divisibility and Least common multiple
-- [ ] [[Q22]] — Cyclic quadrilateral and Ptolemy’s theorem and Optimization
-- [ ] [[Q23]] — Polynomial and Completing the square and Symmetry (algebra)
-- [ ] [[Q24]] — Rational equation and Inequality and Vieta’s formulas
-- [ ] [[Q25]] — Prime factorization and Prime and Counting integers in a range
+- [ ] [[Q01]] — P1 — Percentages and unit conversion
+- [ ] [[Q02]] — P1 — Area decomposition and rectangles
+- [ ] [[Q03]] — Outside the core 9709 syllabus — Greatest common divisors and factor counting
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Calendar arithmetic and casework
+- [ ] [[Q05]] — P1 — Algebraic operations and linear equations
+- [ ] [[Q06]] — P1 — Percentages and extremal bounds
+- [ ] [[Q07]] — P1 — Uniform motion and linear equations
+- [ ] [[Q08]] — S1 — Median, parity, and inequalities
+- [ ] [[Q09]] — Outside the core 9709 syllabus — Prime factorisation, perfect powers, and least common multiples
+- [ ] [[Q10]] — S1 / P1 — Means, summation, and linear equations
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Palindromes, divisibility, and probability
+- [ ] [[Q12]] — P2 — Logarithms
+- [ ] [[Q13]] — P1 — Trigonometry, special triangles, and bounds
+- [ ] [[Q14]] — P1 — Optimisation, inequalities, and extremal arguments
+- [ ] [[Q15]] — P3 / S1 — Complex numbers, counting, and casework
+- [ ] [[Q16]] — Outside the core 9709 syllabus — Modular arithmetic, probability, and casework
+- [ ] [[Q17]] — S1 — Restricted arrangements and casework
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Geometric probability and random walks
+- [ ] [[Q19]] — P2 — Geometric and arithmetic sequences with bounds
+- [ ] [[Q20]] — P2 — Geometric sequences and trigonometric identities
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Polynomial divisibility and least common multiples
+- [ ] [[Q22]] — P1 — Cyclic quadrilaterals, Ptolemy's theorem, and optimisation
+- [ ] [[Q23]] — P2 — Polynomials, completing the square, and symmetry
+- [ ] [[Q24]] — P2 — Rational equations, inequalities, and Vieta's formulas
+- [ ] [[Q25]] — Outside the core 9709 syllabus — Prime factorisation and integer counting
 
 ## Answer Key
 

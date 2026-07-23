@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Place value; Digits
-- [ ] [[Q02]] — Algebraic manipulation; Factoring
-- [ ] [[Q03]] — Factoring; Prime
-- [ ] [[Q04]] — Fraction; Divisibility; Bounding to limit cases
-- [ ] [[Q05]] — Angle sum; Arithmetic sequence
-- [ ] [[Q06]] — Vieta formulas; Quadratic
-- [ ] [[Q07]] — Quadratic; Algebraic manipulation
-- [ ] [[Q08]] — Date and time; Modular arithmetic; Casework
-- [ ] [[Q09]] — Arithmetic sequence; Geometric sequence
-- [ ] [[Q10]] — Modular arithmetic; Counting integers in a range
-- [ ] [[Q11]] — Parity; Prime
-- [ ] [[Q12]] — Perfect square; Divisibility
-- [ ] [[Q13]] — Perfect square; Arithmetic sequence
-- [ ] [[Q14]] — Counting intersections; Counting pairs
-- [ ] [[Q15]] — Place value; Digits
-- [ ] [[Q16]] — Complementary probability; Dice (probability)
-- [ ] [[Q17]] — Rate; Ratio and proportion
-- [ ] [[Q18]] — Geometric probability; Perpendicular bisector; Trapezoid
-- [ ] [[Q19]] — System of equations; Symmetry (algebra)
-- [ ] [[Q20]] — Right triangle; Median (geometry); Pythagorean theorem
-- [ ] [[Q21]] — Divisibility; Least common multiple; Multiple
-- [ ] [[Q22]] — Logarithm
-- [ ] [[Q23]] — Median (geometry); Law of cosines
-- [ ] [[Q24]] — Area; Diagonal; Pythagorean theorem; Bounding to limit cases
-- [ ] [[Q25]] — Completing the square; Circle; Area
+- [ ] [[Q01]] — Outside the core 9709 syllabus — Place value, digit patterns, and averages
+- [ ] [[Q02]] — P1 — Algebraic simplification and factorization
+- [ ] [[Q03]] — P2 — Factoring quadratics and prime values
+- [ ] [[Q04]] — Outside the core 9709 syllabus — Divisibility of fractions and integer constraints
+- [ ] [[Q05]] — P1 — Polygon angle sums and arithmetic sequences
+- [ ] [[Q06]] — P2 — Quadratic roots and Vieta's formulas
+- [ ] [[Q07]] — P2 — Consecutive integers and quadratic equations
+- [ ] [[Q08]] — Outside the core 9709 syllabus — Calendar arithmetic and modular cycles
+- [ ] [[Q09]] — P1 — Arithmetic and geometric sequences
+- [ ] [[Q10]] — S1 — Counting distinct sums from a finite set
+- [ ] [[Q11]] — Outside the core 9709 syllabus — Prime numbers and parity
+- [ ] [[Q12]] — P1 — Rational equations and perfect squares
+- [ ] [[Q13]] — P1 — Arithmetic sequences and square numbers
+- [ ] [[Q14]] — P1 — Circle intersections and maximum counting
+- [ ] [[Q15]] — P1 — Place value and linear equations
+- [ ] [[Q16]] — S1 — Complementary probability with dice
+- [ ] [[Q17]] — P1 — Rates, areas, and proportional reasoning
+- [ ] [[Q18]] — S1 / P1 — Geometric probability and perpendicular bisectors
+- [ ] [[Q19]] — P1 — Symmetric systems of equations
+- [ ] [[Q20]] — P1 — Right triangles, medians, and Pythagoras
+- [ ] [[Q21]] — Outside the core 9709 syllabus — Divisibility, least common multiples, and weighted sums
+- [ ] [[Q22]] — P2 — Change of base and logarithm laws
+- [ ] [[Q23]] — P1 — Medians and the cosine rule
+- [ ] [[Q24]] — P1 — Quadrilateral area and Pythagorean bounds
+- [ ] [[Q25]] — P1 — Completing the square and regions in the plane
 
 ## Answer Key
 

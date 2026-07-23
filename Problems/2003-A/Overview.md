@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Summation; Pairing and grouping
-- [ ] [[Q02]] — Money; Linear equation
-- [ ] [[Q03]] — Volume; Percentage
-- [ ] [[Q04]] — Distance rate and time; Unit conversion; Harmonic mean
-- [ ] [[Q05]] — Place value; Cryptarithm
-- [ ] [[Q06]] — Absolute value; Counterexample
-- [ ] [[Q07]] — Triangle inequality; Partitions and compositions
-- [ ] [[Q08]] — Factor counting; Basic probability
-- [ ] [[Q09]] — Transformation; Symmetry
-- [ ] [[Q10]] — Fraction; Ratio and proportion
-- [ ] [[Q11]] — Circumcircle, circumcenter, and circumradius; Area ratio
-- [ ] [[Q12]] — Divisibility; Logical deduction
-- [ ] [[Q13]] — Net (3d geometry); Cube geometry
-- [ ] [[Q14]] — Equilateral triangle; Square (geometry); Symmetry
-- [ ] [[Q15]] — Sector; Area decomposition; Equilateral triangle
-- [ ] [[Q16]] — Geometric probability; Triangle area; Symmetry
-- [ ] [[Q17]] — Coordinate geometry; Circle
-- [ ] [[Q18]] — Modular arithmetic; Multiple
-- [ ] [[Q19]] — Parabola; Transformation; Function
-- [ ] [[Q20]] — Multiset permutations; Combinations; Casework
-- [ ] [[Q21]] — Vieta formulas; Polynomial
-- [ ] [[Q22]] — Lattice paths; Random walk; Bijection
-- [ ] [[Q23]] — Prime factorization; Perfect square; Factor counting
-- [ ] [[Q24]] — Logarithm; Am-gm inequality
-- [ ] [[Q25]] — Function; Radical; Casework
+- [ ] [[Q01]] — P1 — Arithmetic sums and pairing terms
+- [ ] [[Q02]] — P1 — Costs and linear equations
+- [ ] [[Q03]] — Outside the core 9709 syllabus — Three-dimensional volume and percentages
+- [ ] [[Q04]] — P1 — Average speed, unit conversion, and harmonic means
+- [ ] [[Q05]] — Outside the core 9709 syllabus — Place value and cryptarithms
+- [ ] [[Q06]] — P1 — Absolute values and counterexamples
+- [ ] [[Q07]] — S1 / P1 — Triangle inequalities and integer partitions
+- [ ] [[Q08]] — S1 — Factor counting and discrete probability
+- [ ] [[Q09]] — P1 — Coordinate symmetry and transformations
+- [ ] [[Q10]] — P1 — Ratios, fractions, and sequential shares
+- [ ] [[Q11]] — P1 — Circumcircles, similar scaling, and area ratios
+- [ ] [[Q12]] — S1 — Restricted arrangements and divisibility constraints
+- [ ] [[Q13]] — Outside the core 9709 syllabus — Cube nets and spatial visualization
+- [ ] [[Q14]] — P1 — Equilateral triangles, squares, and symmetry
+- [ ] [[Q15]] — P1 — Circle sectors, area decomposition, and equilateral triangles
+- [ ] [[Q16]] — S1 / P1 — Geometric probability and triangle areas
+- [ ] [[Q17]] — P1 — Coordinate geometry and intersecting circles
+- [ ] [[Q18]] — Outside the core 9709 syllabus — Quotients, remainders, and modular arithmetic
+- [ ] [[Q19]] — P1 — Parabola transformations and functions
+- [ ] [[Q20]] — S1 — Multiset permutations and restricted arrangements
+- [ ] [[Q21]] — P2 — Polynomial roots and Vieta's formulas
+- [ ] [[Q22]] — S1 — Lattice paths, random walks, and bijections
+- [ ] [[Q23]] — Outside the core 9709 syllabus — Prime exponents and square divisors
+- [ ] [[Q24]] — P2 — Logarithms and algebraic optimization
+- [ ] [[Q25]] — P1 / P2 — Radical functions, domains, and ranges
 
 ## Answer Key
 
