@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Fractions and equal sharing
-- [ ] [[Q02]] — Percentages
-- [ ] [[Q03]] — Right triangles and circle areas
-- [ ] [[Q04]] — Unit conversion and area
-- [ ] [[Q05]] — Combinatorial search
-- [ ] [[Q06]] — Polynomial signs
-- [ ] [[Q07]] — Logarithmic inequalities
-- [ ] [[Q08]] — Combinations
-- [ ] [[Q09]] — Absolute value and area
-- [ ] [[Q10]] — Radical axis
-- [ ] [[Q11]] — Optimization
-- [ ] [[Q12]] — Complex numbers and custom operations
-- [ ] [[Q13]] — Symmetric polynomials
-- [ ] [[Q14]] — Vieta's formulas
-- [ ] [[Q15]] — Greatest common divisors
-- [ ] [[Q16]] — Coin problems
-- [ ] [[Q17]] — Law of cosines
-- [ ] [[Q18]] — Weighted averages
-- [ ] [[Q19]] — Probability and parity
-- [ ] [[Q20]] — Geometric probability
-- [ ] [[Q21]] — Cone frustums and shortest paths
-- [ ] [[Q22]] — Functional equations
-- [ ] [[Q23]] — Prime exponent vectors
-- [ ] [[Q24]] — Least common multiples
-- [ ] [[Q25]] — Regular pentagons and folding
+- [ ] [[Q01]] — Fractions and Equal sharing
+- [ ] [[Q02]] — Percentages and Reverse calculations
+- [ ] [[Q03]] — Right triangles and Circumcircles and Area ratios
+- [ ] [[Q04]] — Unit conversion and Area
+- [ ] [[Q05]] — Extremal combinatorics and Grid graphs and Complementary counting
+- [ ] [[Q06]] — Polynomial sign and Root multiplicity and Parity
+- [ ] [[Q07]] — Logarithms and Sign analysis and Inequalities
+- [ ] [[Q08]] — Combinations and Least-element casework
+- [ ] [[Q09]] — Absolute value and Coordinate geometry and Symmetry
+- [ ] [[Q10]] — Circle equations and Radical axis and Slope
+- [ ] [[Q11]] — Isosceles trapezoids and Optimization and Pythagorean theorem
+- [ ] [[Q12]] — Complex numbers and Real and imaginary parts and Systems of equations
+- [ ] [[Q13]] — Rectangular prisms and Symmetric polynomials and Distance formula
+- [ ] [[Q14]] — Vieta's formulas and Integer factorization and Systematic listing
+- [ ] [[Q15]] — Greatest common divisors and Modular arithmetic and Logical implications
+- [ ] [[Q16]] — Linear combinations and Coin problems and Inductive coverage
+- [ ] [[Q17]] — Arithmetic progressions and Law of Cosines and Triangle area
+- [ ] [[Q18]] — Weighted averages and Bounds and Logical deduction
+- [ ] [[Q19]] — Basic probability and Parity and Inclusion-exclusion filters
+- [ ] [[Q20]] — Geometric probability and Law of Cosines and Uniform angles
+- [ ] [[Q21]] — Cone frustums and Developable surfaces and Tangent lengths
+- [ ] [[Q22]] — Functional equations and Bounding and Special substitutions
+- [ ] [[Q23]] — Prime factorization and Exponent vectors and Systematic counting
+- [ ] [[Q24]] — Prime exponents and Least common multiples and Greatest common divisors
+- [ ] [[Q25]] — Regular polygons and Apothem and Area ratios
 
 ## Answer Key
 

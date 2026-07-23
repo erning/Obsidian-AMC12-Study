@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Integer optimization
-- [ ] [[Q02]] — Reciprocal identities
-- [ ] [[Q03]] — Logical contrapositives
-- [ ] [[Q04]] — Distance comparison
-- [ ] [[Q05]] — Double counting
-- [ ] [[Q06]] — Quadrilateral inequality
-- [ ] [[Q07]] — Recurrences
-- [ ] [[Q08]] — Solid volumes
-- [ ] [[Q09]] — Coordinate rays
-- [ ] [[Q10]] — Continuous probability
-- [ ] [[Q11]] — Polygon angle sums
-- [ ] [[Q12]] — Divisibility and LCM
-- [ ] [[Q13]] — Rates and time
-- [ ] [[Q14]] — Inclusion-exclusion
-- [ ] [[Q15]] — Trigonometric roots
-- [ ] [[Q16]] — Circle tangency
-- [ ] [[Q17]] — Roots of unity
-- [ ] [[Q18]] — Digit sums
-- [ ] [[Q19]] — Inscribed squares
-- [ ] [[Q20]] — Logarithmic equations
-- [ ] [[Q21]] — Rational Root Theorem
-- [ ] [[Q22]] — Random walks
-- [ ] [[Q23]] — Polynomial factorization
-- [ ] [[Q24]] — Cyclic quadrilaterals
-- [ ] [[Q25]] — Complex probability
+- [ ] [[Q01]] — Integer optimization and Unit price comparison
+- [ ] [[Q02]] — Algebraic manipulation and Reciprocals
+- [ ] [[Q03]] — Logic and Contrapositives
+- [ ] [[Q04]] — Pythagorean theorem and Percentage decrease
+- [ ] [[Q05]] — Double counting and Combinatorial counting
+- [ ] [[Q06]] — Polygon inequality and Integer intervals
+- [ ] [[Q07]] — Recurrences and Mathematical induction pattern
+- [ ] [[Q08]] — Volumes of solids and Cylinder and sphere decomposition
+- [ ] [[Q09]] — Piecewise geometric conditions and Coordinate geometry
+- [ ] [[Q10]] — Continuous probability and Conditioning
+- [ ] [[Q11]] — Polygon angle sums and Integer bounds
+- [ ] [[Q12]] — Least common multiples and Divisibility counting
+- [ ] [[Q13]] — Rates and time and Fractional distance
+- [ ] [[Q14]] — Inclusion-exclusion and Block arrangements
+- [ ] [[Q15]] — Trigonometric signs and Intermediate Value Theorem
+- [ ] [[Q16]] — Circle tangency and Coordinate geometry
+- [ ] [[Q17]] — Roots of unity and Complex arguments
+- [ ] [[Q18]] — Decimal digit sums and Carrying in base 10
+- [ ] [[Q19]] — Similar triangles and Inscribed squares
+- [ ] [[Q20]] — Logarithms and Odd/even powers
+- [ ] [[Q21]] — Rational Root Theorem and Closure processes
+- [ ] [[Q22]] — Symmetry reduction and Systems of probability equations
+- [ ] [[Q23]] — Polynomial factorization and Coefficient comparison
+- [ ] [[Q24]] — Similar triangles and Power of a point and Cyclic quadrilaterals
+- [ ] [[Q25]] — Complex modulus and arguments and Binomial probability
 
 ## Answer Key
 

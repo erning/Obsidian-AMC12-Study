@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Negative exponents
-- [ ] [[Q02]] — Rates and time
-- [ ] [[Q03]] — Linear Diophantine equations
-- [ ] [[Q04]] — Relative positions
-- [ ] [[Q05]] — Percentages and inequalities
-- [ ] [[Q06]] — Parity
-- [ ] [[Q07]] — Polygon symmetry
-- [ ] [[Q08]] — Logarithms and exponents
-- [ ] [[Q09]] — Probability
-- [ ] [[Q10]] — Triangle enumeration
-- [ ] [[Q11]] — Coordinate geometry
-- [ ] [[Q12]] — Factoring and roots
-- [ ] [[Q13]] — Cyclic quadrilaterals
-- [ ] [[Q14]] — Circle and triangle areas
-- [ ] [[Q15]] — Independent probability
-- [ ] [[Q16]] — Pyramid volume
-- [ ] [[Q17]] — Binomial probability
-- [ ] [[Q18]] — Prime factorization
-- [ ] [[Q19]] — Right-triangle geometry
-- [ ] [[Q20]] — Recursive functions
-- [ ] [[Q21]] — Ceiling functions
-- [ ] [[Q22]] — Permutations
-- [ ] [[Q23]] — Diophantine equations
-- [ ] [[Q24]] — Circle geometry
-- [ ] [[Q25]] — Complex numbers
+- [ ] [[Q01]] — Negative exponents and Order of operations
+- [ ] [[Q02]] — Rates and time and Converting hours to minutes
+- [ ] [[Q03]] — Linear Diophantine equations and Divisibility
+- [ ] [[Q04]] — Relative positions and Translating verbal constraints into equations
+- [ ] [[Q05]] — Percentages and Inequalities and Extremal reasoning
+- [ ] [[Q06]] — Parity and Counting by complementary conditions
+- [ ] [[Q07]] — Symmetry of regular polygons and Rotational angles
+- [ ] [[Q08]] — Logarithm identities and Exponent laws
+- [ ] [[Q09]] — Infinite geometric processes and Recurrence equations and Probability
+- [ ] [[Q10]] — Triangle inequality and Systematic enumeration and Pythagorean triples
+- [ ] [[Q11]] — Coordinate intercepts and Right-triangle geometry and Area and altitude
+- [ ] [[Q12]] — Factoring and Quadratic roots and Optimization with distinct digits
+- [ ] [[Q13]] — Inscribed angles and Cyclic quadrilaterals and Isosceles triangles
+- [ ] [[Q14]] — Areas of circles and equilateral triangles and Inclusion-exclusion cancellation
+- [ ] [[Q15]] — Complementary probability and Independent events and Case enumeration
+- [ ] [[Q16]] — Regular hexagon area and Pythagorean theorem and Pyramid volume
+- [ ] [[Q17]] — Binomial probability and Combinations and Algebraic simplification
+- [ ] [[Q18]] — Prime factorization and Range construction and Parity cases
+- [ ] [[Q19]] — Pythagorean theorem and Circumcenter of a right triangle and Coordinate geometry
+- [ ] [[Q20]] — Recursive definitions and Modular arithmetic and Stabilization
+- [ ] [[Q21]] — Ceiling functions and Integer inequalities and Finite case checking
+- [ ] [[Q22]] — Permutations with forbidden positions and Circular arrangements and Casework
+- [ ] [[Q23]] — Surface area and volume and Factoring Diophantine equations and Ordered constraints
+- [ ] [[Q24]] — Chord geometry and Right triangles and Algebraic equations from ratio conditions
+- [ ] [[Q25]] — Complex numbers as rotations and Geometric series and differentiation and Exact radical simplification
 
 ## Answer Key
 

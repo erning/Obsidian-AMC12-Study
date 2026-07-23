@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Nested fractions
-- [ ] [[Q02]] — Linear equations
-- [ ] [[Q03]] — Rectangle arrangements
-- [ ] [[Q04]] — Prime factorization and lcm
-- [ ] [[Q05]] — Taxicab distance
-- [ ] [[Q06]] — Averages
-- [ ] [[Q07]] — Graph coloring
-- [ ] [[Q08]] — Infinite products
-- [ ] [[Q09]] — Logic and counting
-- [ ] [[Q10]] — Matching
-- [ ] [[Q11]] — Logarithms and distance
-- [ ] [[Q12]] — Regular tetrahedra
-- [ ] [[Q13]] — Complex numbers and area
-- [ ] [[Q14]] — Logarithms
-- [ ] [[Q15]] — Vieta's formulas
-- [ ] [[Q16]] — Square triangular numbers
-- [ ] [[Q17]] — Trigonometric equations
-- [ ] [[Q18]] — Plane transformations
-- [ ] [[Q19]] — Permutations and descents
-- [ ] [[Q20]] — Isosceles trapezoids
-- [ ] [[Q21]] — Polynomial factors
-- [ ] [[Q22]] — Complex quadrilaterals
-- [ ] [[Q23]] — Harmonic numbers
-- [ ] [[Q24]] — Parking functions
-- [ ] [[Q25]] — Tangent line segments
+- [ ] [[Q01]] — Nested fractions and Fraction arithmetic
+- [ ] [[Q02]] — Linear equations and Translation of relationships
+- [ ] [[Q03]] — Rectangle areas and perimeters and Geometric decomposition and Diagram-based deduction
+- [ ] [[Q04]] — Prime factorization and Greatest common divisor and Least common multiple
+- [ ] [[Q05]] — Taxicab distance and Lattice-point counting and Arithmetic series
+- [ ] [[Q06]] — Averages and Linear equations and Casework
+- [ ] [[Q07]] — Graph coloring and Multiplication principle and Case-free counting
+- [ ] [[Q08]] — Infinite geometric series and Exponent rules and Infinite products
+- [ ] [[Q09]] — Logic and Truth tables and Counting by types
+- [ ] [[Q10]] — Matching and Greedy casework and Multiplication principle
+- [ ] [[Q11]] — Logarithms and Absolute value and Distance on a number line
+- [ ] [[Q12]] — Regular tetrahedra and Equilateral triangles and Law of Cosines
+- [ ] [[Q13]] — Complex-plane geometry and Minkowski sums and Areas of stadiums
+- [ ] [[Q14]] — Logarithm identities and Cubic identities and Algebraic simplification
+- [ ] [[Q15]] — Vieta's formulas and Symmetric expressions and Polynomial roots
+- [ ] [[Q16]] — Triangular numbers and Pell equations and Recurrences
+- [ ] [[Q17]] — Trigonometric identities and Factoring and Solution counting
+- [ ] [[Q18]] — Composition of transformations and Rotations and reflections and Modular angles
+- [ ] [[Q19]] — Permutations and Descents and Eulerian numbers
+- [ ] [[Q20]] — Coordinate geometry and Isosceles trapezoids and Difference of squared distances
+- [ ] [[Q21]] — Roots of unity and Polynomial factors and Modular exponents
+- [ ] [[Q22]] — Complex conjugates and Vieta's formulas and Geometric area
+- [ ] [[Q23]] — Harmonic numbers and Least common multiples and Prime valuations
+- [ ] [[Q24]] — Combinatorics and Sorting and inequalities and Parking functions
+- [ ] [[Q25]] — Tangent lines and Right triangles and Integer solutions
 
 ## Answer Key
 

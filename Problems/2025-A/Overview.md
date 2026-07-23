@@ -16,31 +16,31 @@ status: in-progress
 
 ## Problems
 
-- [ ] [[Problems/2025-A/Q01|Q01]] — Rates, Distance
-- [ ] [[Problems/2025-A/Q02|Q02]] — Mixtures, Percentages
-- [ ] [[Problems/2025-A/Q03|Q03]] — Averages, Ages
-- [ ] [[Problems/2025-A/Q04|Q04]] — Logic, Casework
-- [ ] [[Problems/2025-A/Q05|Q05]] — Geometric Series, Area
-- [ ] [[Problems/2025-A/Q06|Q06]] — Probability, Combinatorics
-- [ ] [[Problems/2025-A/Q07|Q07]] — Logarithms, Exponents
-- [ ] [[Problems/2025-A/Q08|Q08]] — Cyclic Geometry, Angle Bisectors
-- [ ] [[Problems/2025-A/Q09|Q09]] — Complex Numbers, Slope
-- [ ] [[Problems/2025-A/Q10|Q10]] — Arc Length, Circle Geometry
-- [ ] [[Problems/2025-A/Q11|Q11]] — Coordinate Geometry, Orthocenter
-- [ ] [[Problems/2025-A/Q12|Q12]] — Harmonic Mean, Vieta
-- [ ] [[Problems/2025-A/Q13|Q13]] — Combinatorics, Probability
-- [ ] [[Problems/2025-A/Q14|Q14]] — Ellipses, Eccentricity
-- [ ] [[Problems/2025-A/Q15|Q15]] — Sum-Free Sets, Extremal Arguments
-- [ ] [[Problems/2025-A/Q16|Q16]] — Law of Cosines, Angle Bisectors
-- [ ] [[Problems/2025-A/Q17|Q17]] — Complex Numbers, Polynomials
-- [ ] [[Problems/2025-A/Q18|Q18]] — Inequalities, Counting
-- [ ] [[Problems/2025-A/Q19|Q19]] — Vieta, Symmetric Polynomials
-- [ ] [[Problems/2025-A/Q20|Q20]] — 3D Geometry, Volume
-- [ ] [[Problems/2025-A/Q21|Q21]] — Geometric Series, Exponents
-- [ ] [[Problems/2025-A/Q22|Q22]] — Geometric Probability, Calculus
-- [ ] [[Problems/2025-A/Q23|Q23]] — Combinatorics, Permutations
-- [ ] [[Problems/2025-A/Q24|Q24]] — Circle Geometry, Trigonometry
-- [ ] [[Problems/2025-A/Q25|Q25]] — Polynomials, Rational Functions
+- [ ] [[Q01]] — Uniform motion: $\text{distance}=\text{speed}\times\text{time}$ and Translating a time delay into an initial distance difference and Setting two linear distance expressions equal and Relative speed
+- [ ] [[Q02]] — Converting percentages into component amounts and Mixture equations and Weighted averages and Linear equations
+- [ ] [[Q03]] — Average as total divided by number and Translating average changes into total-sum equations and Systems of linear equations
+- [ ] [[Q04]] — Translating verbal conditions into inequalities and Self-referential logic and Consistency checking by casework
+- [ ] [[Q05]] — Similar figures and area scaling and Infinite geometric series and Alternating sums of nested regions
+- [ ] [[Q06]] — Counting combinations and Circular adjacency and Favourable outcomes divided by total outcomes
+- [ ] [[Q07]] — Logarithm rules and Matching coefficients in functional identities and Exponential models
+- [ ] [[Q08]] — Inscribed angles and arcs and Angle Bisector Theorem and Law of Cosines and Segment division
+- [ ] [[Q09]] — Complex numbers as points in the plane and Complex multiplication and Collinearity through equal slopes
+- [ ] [[Q10]] — Arc length $s=r\theta$ and Major and minor central angles and Concentric circles and Solving an algebraic equation
+- [ ] [[Q11]] — Slope of a line and Perpendicular slopes and Orthocenter as the intersection of altitudes
+- [ ] [[Q12]] — Harmonic mean and Vieta's formulas and Reciprocal sums of roots
+- [ ] [[Q13]] — Extremal reasoning and Complement counting and Combinations and Probability
+- [ ] [[Q14]] — Ellipse area and Eccentricity $e=c/a$ and Similar scaling and Internal tangency
+- [ ] [[Q15]] — Extremal combinatorics and Sum-free sets and Constructing a lower bound and Proving an upper bound
+- [ ] [[Q16]] — Law of Cosines and Half-angle identities and Angle bisector geometry and Projection of a segment
+- [ ] [[Q17]] — Translating complex variables and Factoring polynomials and Complex roots as Cartesian points and Triangle area
+- [ ] [[Q18]] — Symmetry in inequalities and Reducing ordered counting to subset counting and Permutations
+- [ ] [[Q19]] — Vieta's formulas and Symmetric expressions and Factoring by grouping
+- [ ] [[Q20]] — Cross-sections of polyhedra and Linear scaling with height and Prismatoid volume formula and Three-dimensional Pythagorean theorem
+- [ ] [[Q21]] — Finite geometric series and Factoring $x^2-1$ and Powers of two and Integer constraints
+- [ ] [[Q22]] — Symmetry in continuous probability and Volume as probability and Setting up a triple integral and Ordering random variables
+- [ ] [[Q23]] — Restricted permutations and Binomial theorem and Constructive counting and Greedy insertion
+- [ ] [[Q24]] — Regular polygons and Chords and central angles and Exact trigonometric values and Rationalizing radicals
+- [ ] [[Q25]] — Sign charts for rational functions and Root multiplicity and Poles and removable discontinuities and Casework and function identity
 
 ## Answer Key
 

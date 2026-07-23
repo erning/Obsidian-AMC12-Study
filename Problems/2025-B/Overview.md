@@ -16,31 +16,31 @@ status: in-progress
 
 ## Problems
 
-- [ ] [[Problems/2025-B/Q01|Q01]] — Rates, Rounding
-- [ ] [[Problems/2025-B/Q02|Q02]] — Patterns, Summation
-- [ ] [[Problems/2025-B/Q03|Q03]] — Complex Numbers
-- [ ] [[Problems/2025-B/Q04|Q04]] — Number Bases
-- [ ] [[Problems/2025-B/Q05|Q05]] — Diophantine Equations
-- [ ] [[Problems/2025-B/Q06|Q06]] — Divisibility, Modular Arithmetic
-- [ ] [[Problems/2025-B/Q07|Q07]] — Telescoping, Logarithms
-- [ ] [[Problems/2025-B/Q08|Q08]] — Polynomials, Vieta
-- [ ] [[Problems/2025-B/Q09|Q09]] — Modular Exponentiation
-- [ ] [[Problems/2025-B/Q10|Q10]] — Coordinate Geometry, Medians
-- [ ] [[Problems/2025-B/Q11|Q11]] — Probability, Symmetry
-- [ ] [[Problems/2025-B/Q12|Q12]] — Area, Arc Length
-- [ ] [[Problems/2025-B/Q13|Q13]] — Graph Theory, Matchings
-- [ ] [[Problems/2025-B/Q14|Q14]] — Averages, Sequences
-- [ ] [[Problems/2025-B/Q15|Q15]] — Volume, Similarity
-- [ ] [[Problems/2025-B/Q16|Q16]] — Clock Angles, Trigonometry
-- [ ] [[Problems/2025-B/Q17|Q17]] — Burnside's Lemma, Casework
-- [ ] [[Problems/2025-B/Q18|Q18]] — Expected Value, Geometric Distribution
-- [ ] [[Problems/2025-B/Q19|Q19]] — Diophantine Equations, Modular Arithmetic
-- [ ] [[Problems/2025-B/Q20|Q20]] — Random Walks, Recursion
-- [ ] [[Problems/2025-B/Q21|Q21]] — Law of Cosines, Triangle Area
-- [ ] [[Problems/2025-B/Q22|Q22]] — Complex Numbers, Optimization
-- [ ] [[Problems/2025-B/Q23|Q23]] — Modular Arithmetic, Divisors
-- [ ] [[Problems/2025-B/Q24|Q24]] — Trigonometry, Logarithms
-- [ ] [[Problems/2025-B/Q25|Q25]] — Equilateral Triangles, Circles
+- [ ] [[Q01]] — Unit rate and Floor function and Interpreting “greatest number” as a whole-number count
+- [ ] [[Q02]] — Periodic patterns and Units digits of powers and Block summation
+- [ ] [[Q03]] — Complex number arithmetic and Using $i^2=-1$ and Factoring a product for simpler expansion
+- [ ] [[Q04]] — Positional notation and Converting numbers between bases and Linear equations with digit constraints
+- [ ] [[Q05]] — Linear Diophantine equations and Modular inverses and Bounding positive integer solutions
+- [ ] [[Q06]] — Place value and Divisibility by 36 and Modular arithmetic
+- [ ] [[Q07]] — Logarithm quotient rule and Telescoping sums and Change of variables
+- [ ] [[Q08]] — Conjugate roots and Vieta's formulas and Factoring polynomials
+- [ ] [[Q09]] — Modular exponentiation and Cycles of last digits and Congruences
+- [ ] [[Q10]] — $30^\circ$-$60^\circ$-$90^\circ$ triangles and Coordinate geometry and Medians and altitudes and Ratios along a line
+- [ ] [[Q11]] — Sequential probability and Symmetry and Conditional probability
+- [ ] [[Q12]] — Area of a swept region and Trigonometric coordinates and Cavalieri's principle
+- [ ] [[Q13]] — Circular arrangements and Perfect matchings of a cycle and Multiplication principle
+- [ ] [[Q14]] — Arithmetic means and Partial sums and Constructing and bounding integer sequences
+- [ ] [[Q15]] — Volume by cross-sections and Similarity and Constant-rate proportionality
+- [ ] [[Q16]] — Clock angles and Continuous motion of the hour hand and Half-angle trigonometric identities
+- [ ] [[Q17]] — Burnside's lemma and Grid casework and Symmetry
+- [ ] [[Q18]] — Expected value and Geometric distribution and Conditioning
+- [ ] [[Q19]] — Coordinate indexing and Diophantine equations and Modular arithmetic
+- [ ] [[Q20]] — Recursive probability and Random walks with absorption and Systems of linear equations
+- [ ] [[Q21]] — Area formula with two sides and an included angle and Law of Cosines and Triangle inequality
+- [ ] [[Q22]] — Complex-plane geometry and Similarity and area scaling and Optimization on a circle
+- [ ] [[Q23]] — Modular powers and Divisibility and Sum of divisors
+- [ ] [[Q24]] — Range restrictions and Logarithmic functions and Counting intersections of periodic and monotone functions
+- [ ] [[Q25]] — Equilateral triangle geometry and Distances from a common center and Algebraic identities
 
 ## Answer Key
 

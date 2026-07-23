@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Fractions and reciprocals
-- [ ] [[Q02]] — Ratios and unit prices
-- [ ] [[Q03]] — Permutations and restrictions
-- [ ] [[Q04]] — Rates and proportions
-- [ ] [[Q05]] — Weighted mean and median
-- [ ] [[Q06]] — Place value equations
-- [ ] [[Q07]] — Geometric progressions
-- [ ] [[Q08]] — Piecewise inequalities
-- [ ] [[Q09]] — Arithmetic sequences
-- [ ] [[Q10]] — Equilateral triangle geometry
-- [ ] [[Q11]] — Rates and time
-- [ ] [[Q12]] — Chords and central angles
-- [ ] [[Q13]] — Counting partitions
-- [ ] [[Q14]] — Arithmetic and geometric progressions
-- [ ] [[Q15]] — Digit sums and counting
-- [ ] [[Q16]] — Multiplication with carries
-- [ ] [[Q17]] — Sphere tangency
-- [ ] [[Q18]] — Nested logarithms
-- [ ] [[Q19]] — Polynomial roots
-- [ ] [[Q20]] — Reflection and shortest paths
-- [ ] [[Q21]] — Floor functions
-- [ ] [[Q22]] — Exponential inequalities
-- [ ] [[Q23]] — Repeating decimals
-- [ ] [[Q24]] — Absolute-value functions
-- [ ] [[Q25]] — Parabolas and lattice points
+- [ ] [[Q01]] — Fractions and Reciprocals and Order of operations
+- [ ] [[Q02]] — Ratios and Unit prices and Linear scaling
+- [ ] [[Q03]] — Permutations and Casework and Adjacency restrictions
+- [ ] [[Q04]] — Rates and Proportional reasoning
+- [ ] [[Q05]] — Weighted mean and Median
+- [ ] [[Q06]] — Place value and Digit equations and Integer constraints
+- [ ] [[Q07]] — Geometric progressions and Exponent arithmetic
+- [ ] [[Q08]] — Piecewise linear inequalities and Percent discounts
+- [ ] [[Q09]] — Arithmetic sequences and Averages
+- [ ] [[Q10]] — Equilateral-triangle area and Isosceles-triangle geometry and Pythagorean theorem
+- [ ] [[Q11]] — Rates and time and Linear equations
+- [ ] [[Q12]] — Chord length and Central angles and Trigonometric identities
+- [ ] [[Q13]] — Counting partitions and Permutations of groups and Casework
+- [ ] [[Q14]] — Arithmetic progressions and Geometric progressions and Integer parametrization
+- [ ] [[Q15]] — Place value and Digit sums and Counting
+- [ ] [[Q16]] — Multiplication with carries and Digit sums
+- [ ] [[Q17]] — Three-dimensional distance and Sphere tangency and Coordinate geometry
+- [ ] [[Q18]] — Domains of nested logarithms and Reversing inequalities for bases below $1$
+- [ ] [[Q19]] — Vieta-style root substitution and Integer bounds and Injectivity
+- [ ] [[Q20]] — Reflection and shortest paths and Law of cosines
+- [ ] [[Q21]] — Floor functions and Logarithmic inequalities and Telescoping products
+- [ ] [[Q22]] — Exponential inequalities and Counting powers in intervals and Linear systems
+- [ ] [[Q23]] — Repeating decimals and Base-$100$ representation and Digit sums
+- [ ] [[Q24]] — Absolute values and Piecewise-linear functions and Preimage counting
+- [ ] [[Q25]] — Parabolas and directrices and Lattice-point parametrization and Absolute values
 
 ## Answer Key
 

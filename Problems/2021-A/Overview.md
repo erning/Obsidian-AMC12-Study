@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Exponents
-- [ ] [[Q02]] — Square roots
-- [ ] [[Q03]] — Place value
-- [ ] [[Q04]] — Logical deduction
-- [ ] [[Q05]] — Repeating decimals
-- [ ] [[Q06]] — Probability
-- [ ] [[Q07]] — Algebraic inequality
-- [ ] [[Q08]] — Recurrence parity
-- [ ] [[Q09]] — Telescoping products
-- [ ] [[Q10]] — Similar cones
-- [ ] [[Q11]] — Reflection
-- [ ] [[Q12]] — Vieta's formulas
-- [ ] [[Q13]] — Complex numbers
-- [ ] [[Q14]] — Logarithms
-- [ ] [[Q15]] — Roots of unity filter
-- [ ] [[Q16]] — Median
-- [ ] [[Q17]] — Trapezoid geometry
-- [ ] [[Q18]] — Completely additive functions
-- [ ] [[Q19]] — Trigonometric equations
-- [ ] [[Q20]] — Parabolas
-- [ ] [[Q21]] — Ellipses
-- [ ] [[Q22]] — Trigonometric roots
-- [ ] [[Q23]] — Random walks
-- [ ] [[Q24]] — Circle geometry
-- [ ] [[Q25]] — Divisor function
+- [ ] [[Q01]] — Exponent rules and Arithmetic order of operations
+- [ ] [[Q02]] — Principal square root and Squaring equations and Necessary and sufficient conditions
+- [ ] [[Q03]] — Place value and Linear equations
+- [ ] [[Q04]] — Implication chains and Logical negation and Set disjointness
+- [ ] [[Q05]] — Repeating decimals and Place value and Linear equations
+- [ ] [[Q06]] — Basic probability and Systems of equations
+- [ ] [[Q07]] — Algebraic identities and Nonnegative expressions
+- [ ] [[Q08]] — Recurrence relations and Modular arithmetic and Periodicity
+- [ ] [[Q09]] — Difference of squares and Telescoping products
+- [ ] [[Q10]] — Similarity and Cone volume and Scaling laws
+- [ ] [[Q11]] — Reflection method and Distance formula
+- [ ] [[Q12]] — Vieta's formulas and Integer partitions and Polynomial expansion
+- [ ] [[Q13]] — Polar form of complex numbers and Arguments and powers
+- [ ] [[Q14]] — Change of base and Logarithm identities and Arithmetic series
+- [ ] [[Q15]] — Binomial counting and Congruence conditions and Roots-of-unity filter
+- [ ] [[Q16]] — Median of an ordered list and Triangular numbers
+- [ ] [[Q17]] — Isosceles triangles and Trapezoid diagonals and Similar triangles and Pythagorean theorem
+- [ ] [[Q18]] — Completely additive functions and Prime factorization and Rational exponents
+- [ ] [[Q19]] — Sine equality cases and Trigonometric ranges and Periodic equations
+- [ ] [[Q20]] — Focus-directrix definition and Coordinate geometry and Vieta's formulas
+- [ ] [[Q21]] — Complex roots and Conic equations and Ellipse eccentricity
+- [ ] [[Q22]] — Trigonometric multiple-angle identities and Polynomial roots and Coefficient comparison
+- [ ] [[Q23]] — State classification and Conditional probability and Recurrence relations
+- [ ] [[Q24]] — Chord geometry and Circle equations and Triangle area
+- [ ] [[Q25]] — Divisor function and Prime factorization and Multiplicative optimization
 
 ## Answer Key
 

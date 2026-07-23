@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Algebraic manipulation
-- [ ] [[Q02]] — Linear equations
-- [ ] [[Q03]] — Bounds and optimization
-- [ ] [[Q04]] — Prime factorization
-- [ ] [[Q05]] — Mean
-- [ ] [[Q06]] — Integer factorization
-- [ ] [[Q07]] — Vectors and symmetry
-- [ ] [[Q08]] — Logarithms and trigonometry
-- [ ] [[Q09]] — Difference of squares
-- [ ] [[Q10]] — Trigonometric identities
-- [ ] [[Q11]] — Number bases
-- [ ] [[Q12]] — Geometric sequences
-- [ ] [[Q13]] — Functions and symmetry
-- [ ] [[Q14]] — Arithmetic progressions
-- [ ] [[Q15]] — Polynomials and complex numbers
-- [ ] [[Q16]] — Probability
-- [ ] [[Q17]] — Systems of equations
-- [ ] [[Q18]] — Transformations
-- [ ] [[Q19]] — Cyclic quadrilaterals
-- [ ] [[Q20]] — Geometric probability
-- [ ] [[Q21]] — Recurrences
-- [ ] [[Q22]] — Graph theory
-- [ ] [[Q23]] — Trigonometric identities
-- [ ] [[Q24]] — Three-dimensional geometry
-- [ ] [[Q25]] — Rational functions and symmetry
+- [ ] [[Q01]] — Distributive property and Recognizing convenient decompositions
+- [ ] [[Q02]] — Systems of linear equations and Linear modeling and Substitution
+- [ ] [[Q03]] — Upper bounds and Constructive proof and Optimization
+- [ ] [[Q04]] — Prime factorization and Divisibility of factorials
+- [ ] [[Q05]] — Arithmetic mean and Translating word conditions into equations
+- [ ] [[Q06]] — Factorization and Sign analysis and Finite casework
+- [ ] [[Q07]] — Vector sums and Symmetry and midpoint pairing and Median of a right triangle
+- [ ] [[Q08]] — Logarithm laws and Domain restrictions and Trigonometric bounds
+- [ ] [[Q09]] — Difference of squares and Factor pairs and Optimization
+- [ ] [[Q10]] — Tangent in right triangles and Double-angle identity and Complementary angles
+- [ ] [[Q11]] — Base notation and Modular arithmetic and Counting arithmetic progressions
+- [ ] [[Q12]] — Geometric sequences and Divisors and Optimization
+- [ ] [[Q13]] — Axis of symmetry and Exponential functions and Reflection across a vertical line
+- [ ] [[Q14]] — Arithmetic progressions and Bilinear expressions and Linear systems
+- [ ] [[Q15]] — Polynomial evaluation and Complex conjugates and Roots and factorization
+- [ ] [[Q16]] — Multinomial counting and Combinations and Simplifying rational probabilities
+- [ ] [[Q17]] — Subtracting nonlinear equations and Factorization and Integer casework
+- [ ] [[Q18]] — Special-angle identities and Rotations and Chords of a circle
+- [ ] [[Q19]] — Cyclic quadrilaterals and Law of Cosines and Ptolemy's theorem
+- [ ] [[Q20]] — Geometric probability and Area ratios and Integration
+- [ ] [[Q21]] — Recurrence relations and Mathematical induction and Sum of squares and Bounding infinite-type remainders
+- [ ] [[Q22]] — Graph theory and Non-self-intersecting paths and Transfer-matrix counting
+- [ ] [[Q23]] — Factoring and Complementary-angle tangent identities and Special-angle trigonometry
+- [ ] [[Q24]] — Acute-triangle condition and Heron's formula and Three-dimensional geometry
+- [ ] [[Q25]] — Fractional linear transformations and Inverse functions and Symmetry and finite counting
 
 ## Answer Key
 

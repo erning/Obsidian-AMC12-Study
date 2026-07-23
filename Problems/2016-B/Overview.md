@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Exponents
-- [ ] [[Q02]] — Harmonic mean
-- [ ] [[Q03]] — Absolute values
-- [ ] [[Q04]] — Angle ratios
-- [ ] [[Q05]] — Calendar arithmetic
-- [ ] [[Q06]] — Parabola geometry
-- [ ] [[Q07]] — Elimination
-- [ ] [[Q08]] — Similar areas
-- [ ] [[Q09]] — Rectangular fencing
-- [ ] [[Q10]] — Coordinate geometry
-- [ ] [[Q11]] — Integer-coordinate squares
-- [ ] [[Q12]] — Parity
-- [ ] [[Q13]] — Trigonometry
-- [ ] [[Q14]] — Geometric series
-- [ ] [[Q15]] — Cube optimization
-- [ ] [[Q16]] — Consecutive sums
-- [ ] [[Q17]] — Angle bisectors
-- [ ] [[Q18]] — Absolute-value geometry
-- [ ] [[Q19]] — Geometric probability
-- [ ] [[Q20]] — Tournament counting
-- [ ] [[Q21]] — Telescoping series
-- [ ] [[Q22]] — Repeating decimals
-- [ ] [[Q23]] — Octahedron volume
-- [ ] [[Q24]] — gcd and lcm
-- [ ] [[Q25]] — Recurrences
+- [ ] [[Q01]] — Negative exponents and Fraction simplification
+- [ ] [[Q02]] — Harmonic mean and Estimation
+- [ ] [[Q03]] — Absolute values and Order of operations
+- [ ] [[Q04]] — Complementary angles and Ratios
+- [ ] [[Q05]] — Modular arithmetic with weekdays and Periodicity
+- [ ] [[Q06]] — Parabola symmetry and Triangle area
+- [ ] [[Q07]] — Iterative elimination and Powers of two
+- [ ] [[Q08]] — Similar figures and Area scaling
+- [ ] [[Q09]] — Counting posts on a rectangle and Translating spacing into length
+- [ ] [[Q10]] — Coordinate geometry and Difference of squares
+- [ ] [[Q11]] — Integer-coordinate counting and Geometric inequalities
+- [ ] [[Q12]] — Checkerboard coloring and Parity
+- [ ] [[Q13]] — Right-triangle trigonometry and Pythagorean theorem
+- [ ] [[Q14]] — Infinite geometric series and Quadratic optimization
+- [ ] [[Q15]] — Opposite-face pairing and AM-GM
+- [ ] [[Q16]] — Consecutive sums and Divisors and parity
+- [ ] [[Q17]] — Altitude in a triangle and Angle Bisector Theorem
+- [ ] [[Q18]] — Absolute-value symmetry and Completing the square
+- [ ] [[Q19]] — Geometric series and Independent events
+- [ ] [[Q20]] — Tournament counting and Complementary casework
+- [ ] [[Q21]] — Coordinate geometry and Telescoping series
+- [ ] [[Q22]] — Repeating decimals and Divisibility by $10^m-1$
+- [ ] [[Q23]] — Three-dimensional geometry and Volume scaling
+- [ ] [[Q24]] — gcd/lcm prime exponents and Multiplicative counting
+- [ ] [[Q25]] — Recursive sequences and Modular order
 
 ## Answer Key
 

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Area and subdivision
-- [ ] [[Q02]] — Average speed
-- [ ] [[Q03]] — Line intercepts
-- [ ] [[Q04]] — Chords and radius
-- [ ] [[Q05]] — Complementary subset counting
-- [ ] [[Q06]] — Unit conversion
-- [ ] [[Q07]] — Telescoping logarithms
-- [ ] [[Q08]] — Centroids and circles
-- [ ] [[Q09]] — Double sums
-- [ ] [[Q10]] — Mode and pigeonhole principle
-- [ ] [[Q11]] — Folding a square box
-- [ ] [[Q12]] — Angle bisectors and triangle inequalities
-- [ ] [[Q13]] — Centroid quadrilateral
-- [ ] [[Q14]] — Divisor counts
-- [ ] [[Q15]] — Digit divisibility
-- [ ] [[Q16]] — Regular octagon area
-- [ ] [[Q17]] — Rational approximation
-- [ ] [[Q18]] — Recurrences
-- [ ] [[Q19]] — Consecutive divisors
-- [ ] [[Q20]] — Regular hexagon intersections
-- [ ] [[Q21]] — Triangle centers and tangency
-- [ ] [[Q22]] — Stars and bars
-- [ ] [[Q23]] — Spherical coordinates
-- [ ] [[Q24]] — Floor functions
-- [ ] [[Q25]] — Tangent circles
+- [ ] [[Q01]] — Area and Unit conversion within a grid
+- [ ] [[Q02]] — Average speed and Distance, rate, and time
+- [ ] [[Q03]] — Point-slope form and Intercepts
+- [ ] [[Q04]] — Chords and perpendicular bisectors and Pythagorean theorem
+- [ ] [[Q05]] — Complementary counting and Subsets
+- [ ] [[Q06]] — Unit conversion and Rates and proportions
+- [ ] [[Q07]] — Change of base and Telescoping products
+- [ ] [[Q08]] — Centroids as affine averages and Circle area
+- [ ] [[Q09]] — Double sums and Arithmetic series
+- [ ] [[Q10]] — Pigeonhole principle and Extremal counting
+- [ ] [[Q11]] — Net geometry and $45^\circ$ right triangles
+- [ ] [[Q12]] — Angle Bisector Theorem and Triangle inequalities
+- [ ] [[Q13]] — Centroids in coordinates and Area from diagonals
+- [ ] [[Q14]] — Divisor-count function and Age equations
+- [ ] [[Q15]] — Divisibility by 3 and Digit counting
+- [ ] [[Q16]] — Roots of unity and Regular polygon geometry
+- [ ] [[Q17]] — Rational approximation and Farey-style inequalities
+- [ ] [[Q18]] — Recurrence relations and Periodic reduction
+- [ ] [[Q19]] — Divisibility and GCD and factor bounds
+- [ ] [[Q20]] — Regular hexagon area and Similarity and midpoint scaling
+- [ ] [[Q21]] — Right triangles and centers and Internal tangency and Coordinate area
+- [ ] [[Q22]] — Coefficient equations and Stars and bars
+- [ ] [[Q23]] — Spherical coordinates and Dot products
+- [ ] [[Q24]] — Floor and fractional-part functions and Interval counting
+- [ ] [[Q25]] — Tangent circles and $30$-$60$-$90$ triangles and Equilateral-triangle area
 
 ## Answer Key
 

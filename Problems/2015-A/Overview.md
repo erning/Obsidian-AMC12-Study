@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Exponents
-- [ ] [[Q02]] — Triangle inequality
-- [ ] [[Q03]] — Averages
-- [ ] [[Q04]] — Ratios
-- [ ] [[Q05]] — Rounding inequalities
-- [ ] [[Q06]] — Ages
-- [ ] [[Q07]] — Cylinder scaling
-- [ ] [[Q08]] — Rectangle ratios
-- [ ] [[Q09]] — Probability
-- [ ] [[Q10]] — Diophantine equations
-- [ ] [[Q11]] — Circle tangents
-- [ ] [[Q12]] — Parabola geometry
-- [ ] [[Q13]] — Tournament scores
-- [ ] [[Q14]] — Logarithms
-- [ ] [[Q15]] — Terminating decimals
-- [ ] [[Q16]] — Tetrahedron volume
-- [ ] [[Q17]] — Circular arrangements
-- [ ] [[Q18]] — Vieta's formulas
-- [ ] [[Q19]] — Integer quadrilaterals
-- [ ] [[Q20]] — Isosceles triangles
-- [ ] [[Q21]] — Ellipse and circle
-- [ ] [[Q22]] — Recurrences
-- [ ] [[Q23]] — Geometric probability
-- [ ] [[Q24]] — Complex numbers
-- [ ] [[Q25]] — Tangent circles
+- [ ] [[Q01]] — Exponents and Negative powers
+- [ ] [[Q02]] — Triangle Inequality and Bounds
+- [ ] [[Q03]] — Averages as totals and Linear subtraction
+- [ ] [[Q04]] — Ratios and Linear equations
+- [ ] [[Q05]] — Monotonicity of fractions and Inequality direction
+- [ ] [[Q06]] — Age equations and Constant age difference
+- [ ] [[Q07]] — Cylinder volume and Percent scaling
+- [ ] [[Q08]] — Pythagorean triples and Area scaling
+- [ ] [[Q09]] — Symmetry in random sampling and Conditional probability
+- [ ] [[Q10]] — Factoring Diophantine equations and Divisors
+- [ ] [[Q11]] — Common tangents to circles and Geometric cases
+- [ ] [[Q12]] — Parabola intercepts and Kite area
+- [ ] [[Q13]] — Tournament score invariants and Parity
+- [ ] [[Q14]] — Change of base and Logarithm identities
+- [ ] [[Q15]] — Terminating decimals and Prime factors of denominators
+- [ ] [[Q16]] — Tetrahedron volume and Right triangles and perpendicular planes
+- [ ] [[Q17]] — Circular combinatorics and Independent coin flips
+- [ ] [[Q18]] — Vieta's formulas and Integer factor pairs
+- [ ] [[Q19]] — Pythagorean theorem and Parametrization
+- [ ] [[Q20]] — Isosceles triangle area and Algebraic factorization
+- [ ] [[Q21]] — Ellipse foci and Circle intersections
+- [ ] [[Q22]] — Recurrence relations and Modular periodicity
+- [ ] [[Q23]] — Geometric probability and Casework on square sides
+- [ ] [[Q24]] — Rational enumeration and Complex-number realness
+- [ ] [[Q25]] — Descartes-style tangent-circle relation and Geometric series
 
 ## Answer Key
 

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Absolute-value operation
-- [ ] [[Q02]] — Rhombus area
-- [ ] [[Q03]] — Factorization
-- [ ] [[Q04]] — Integer roots
-- [ ] [[Q05]] — Coordinate rotation
-- [ ] [[Q06]] — Multiples in intervals
-- [ ] [[Q07]] — Mean, median, and mode
-- [ ] [[Q08]] — Conic sections
-- [ ] [[Q09]] — Arithmetic sequences
-- [ ] [[Q10]] — Regular hexagon
-- [ ] [[Q11]] — Roots of unity
-- [ ] [[Q12]] — Probability
-- [ ] [[Q13]] — Area of an intersection
-- [ ] [[Q14]] — Tangent of an angle
-- [ ] [[Q15]] — Modular arithmetic
-- [ ] [[Q16]] — Exponents and logarithms
-- [ ] [[Q17]] — Binary arrays
-- [ ] [[Q18]] — Cellular automata
-- [ ] [[Q19]] — Medians and cosine
-- [ ] [[Q20]] — Polynomial remainders
-- [ ] [[Q21]] — Tangent circles
-- [ ] [[Q22]] — Continuous probability
-- [ ] [[Q23]] — 2-adic binary digits
-- [ ] [[Q24]] — Chords of a regular heptagon
-- [ ] [[Q25]] — Regular hexagons and area
+- [ ] [[Q01]] — Absolute value and Nonassociative operations
+- [ ] [[Q02]] — Rhombus properties and Pythagorean theorem and Area of a parallelogram
+- [ ] [[Q03]] — Repunits and Algebraic factorization and Proving compositeness
+- [ ] [[Q04]] — Vieta's formulas and Factor pairs and Distinct roots
+- [ ] [[Q05]] — Rotation rules and Translation of coordinates
+- [ ] [[Q06]] — Floor functions and Counting by blocks and Divisibility
+- [ ] [[Q07]] — Mean, median, and mode and Ordering constraints and Minimum values
+- [ ] [[Q08]] — Factoring a fourth-degree equation and Standard conics
+- [ ] [[Q09]] — Arithmetic sequences and Exponential equations and Integer constraints
+- [ ] [[Q10]] — Regular hexagon coordinates and Distance formula and Symmetry
+- [ ] [[Q11]] — Complex numbers in polar form and Roots of unity and Periodicity
+- [ ] [[Q12]] — Complementary events and Inclusion-exclusion and Equally likely categories
+- [ ] [[Q13]] — Coordinate geometry and Triangle area and Area subtraction
+- [ ] [[Q14]] — Factoring quadratics and Dot and cross products and Tangent of an angle
+- [ ] [[Q15]] — Modular arithmetic and Periodic powers modulo a prime
+- [ ] [[Q16]] — Change of variables with logarithms and Exponential equations and Quadratic equations
+- [ ] [[Q17]] — Binary matrices and Row and column sums and Structured counting
+- [ ] [[Q18]] — Local-neighbor rules and Systematic casework and Symmetry and configurations
+- [ ] [[Q19]] — Centroid ratios and Median-length formulas and Law of cosines
+- [ ] [[Q20]] — Polynomial remainders and Modular polynomial arithmetic and Interpolation by congruences
+- [ ] [[Q21]] — Tangent circles and Concentric circles and Distance between centers
+- [ ] [[Q22]] — Independence and Uniform distributions and Volume in a unit cube
+- [ ] [[Q23]] — Modular inverses and Binary expansions and Periodic sequences
+- [ ] [[Q24]] — Chord lengths and Regular polygons and Roots-of-unity trigonometric sums
+- [ ] [[Q25]] — Regular hexagon geometry and Coordinate geometry and Shoelace formula
 
 ## Answer Key
 

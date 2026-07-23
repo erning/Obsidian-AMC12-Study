@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentages
-- [ ] [[Q02]] — Integer optimization
-- [ ] [[Q03]] — Permutations and nonconsecutive selections
-- [ ] [[Q04]] — Negating inequalities
-- [ ] [[Q05]] — Common roots of polynomials
-- [ ] [[Q06]] — Mean and median
-- [ ] [[Q07]] — Prime exponents
-- [ ] [[Q08]] — Similar triangles and area
-- [ ] [[Q09]] — Trigonometric inequalities
-- [ ] [[Q10]] — Absolute-value systems
-- [ ] [[Q11]] — Folding and similar triangles
-- [ ] [[Q12]] — Divisibility chains
-- [ ] [[Q13]] — Balanced ternary
-- [ ] [[Q14]] — Logarithmic equations
-- [ ] [[Q15]] — Symmetry orbits
-- [ ] [[Q16]] — Intersections of curves
-- [ ] [[Q17]] — Distance to a line
-- [ ] [[Q18]] — Angle bisectors and area
-- [ ] [[Q19]] — Infinite geometric series
-- [ ] [[Q20]] — Cyclic quadrilaterals
-- [ ] [[Q21]] — Comparing polynomial roots
-- [ ] [[Q22]] — Complex square roots
-- [ ] [[Q23]] — Midpoint geometry
-- [ ] [[Q24]] — Continuous probability
-- [ ] [[Q25]] — Repunits and digit equations
+- [ ] [[Q01]] — Percentages and Equations with a fixed numerator
+- [ ] [[Q02]] — Integer optimization and Value density
+- [ ] [[Q03]] — Combinations and Permutations
+- [ ] [[Q04]] — Negation of inequalities and Intersections of intervals
+- [ ] [[Q05]] — Factoring quadratics and Common roots
+- [ ] [[Q06]] — Mean and median and Ordered data
+- [ ] [[Q07]] — Prime exponents and Integer powers
+- [ ] [[Q08]] — Similar triangles and Area scaling
+- [ ] [[Q09]] — Angle addition identities and Sign and range analysis
+- [ ] [[Q10]] — Absolute values and Piecewise linear systems
+- [ ] [[Q11]] — Perpendicular bisectors and Similar right triangles
+- [ ] [[Q12]] — Divisibility chains and Extremal set construction
+- [ ] [[Q13]] — Balanced ternary and Symmetry of finite sets
+- [ ] [[Q14]] — Change of base for logarithms and Exponential equations
+- [ ] [[Q15]] — Group actions and orbits and Symmetry counting
+- [ ] [[Q16]] — Substitution of curves and Counting real roots
+- [ ] [[Q17]] — Distance from a point to a line and Area ratios
+- [ ] [[Q18]] — Similarity and midpoints and Angle Bisector Theorem
+- [ ] [[Q19]] — Unique prime factorization and Infinite geometric series
+- [ ] [[Q20]] — Cyclic quadrilaterals and Law of cosines and Quadratic equations
+- [ ] [[Q21]] — Monotonicity of polynomials and Comparing roots without solving them
+- [ ] [[Q22]] — Complex square roots and Vector cross products
+- [ ] [[Q23]] — Midline theorem and Parallelograms and isosceles triangles
+- [ ] [[Q24]] — Continuous probability and Quadratic optimization
+- [ ] [[Q25]] — Repunit notation and Polynomial identity in $10^n$
 
 ## Answer Key
 

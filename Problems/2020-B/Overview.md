@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Sums of odd integers
-- [ ] [[Q02]] — Difference of squares
-- [ ] [[Q03]] — Chained ratios
-- [ ] [[Q04]] — Prime angles in a right triangle
-- [ ] [[Q05]] — Fractions of game totals
-- [ ] [[Q06]] — Factorials and perfect squares
-- [ ] [[Q07]] — Slopes and angle conditions
-- [ ] [[Q08]] — Completing the square
-- [ ] [[Q09]] — Sector-to-cone geometry
-- [ ] [[Q10]] — Circle and coordinate geometry
-- [ ] [[Q11]] — Regular hexagon and circular segments
-- [ ] [[Q12]] — Chords and coordinates
-- [ ] [[Q13]] — Logarithms and perfect squares
-- [ ] [[Q14]] — Symmetry strategy in a game
-- [ ] [[Q15]] — Perfect matchings
-- [ ] [[Q16]] — Conditional probability
-- [ ] [[Q17]] — Polynomial roots and cube roots of unity
-- [ ] [[Q18]] — Area decomposition and coordinates
-- [ ] [[Q19]] — Symmetries of a square
-- [ ] [[Q20]] — Cube-coloring orbits
-- [ ] [[Q21]] — Floor functions
-- [ ] [[Q22]] — Quadratic optimization
-- [ ] [[Q23]] — Unit vectors and zero sums
-- [ ] [[Q24]] — Ordered multiplicative partitions
-- [ ] [[Q25]] — Trigonometric probability
+- [ ] [[Q01]] — Sum of consecutive odd integers and Simplifying radicals
+- [ ] [[Q02]] — Difference of squares and Algebraic cancellation
+- [ ] [[Q03]] — Chained ratios and Scaling variables
+- [ ] [[Q04]] — Triangle angle sum and Prime-number testing
+- [ ] [[Q05]] — Fractions of totals and Systems of linear equations
+- [ ] [[Q06]] — Factorials and Algebraic factorization
+- [ ] [[Q07]] — Angle between lines and Slopes and quadratic equations
+- [ ] [[Q08]] — Completing the square and Integer constraints
+- [ ] [[Q09]] — Sector arc length and Cone volume and Pythagorean theorem
+- [ ] [[Q10]] — Coordinate geometry and Circle equations and Line-circle intersections
+- [ ] [[Q11]] — Regular hexagon area and Circular-segment and lens area and Inclusion-exclusion
+- [ ] [[Q12]] — Coordinate geometry of a circle and Parametrizing a chord and Vieta's formulas
+- [ ] [[Q13]] — Change of base for logarithms and Perfect-square recognition
+- [ ] [[Q14]] — Symmetry and reflection and Invariant strategy and Game theory
+- [ ] [[Q15]] — Perfect matchings on a cycle and Casework and symmetry and Counting pairings
+- [ ] [[Q16]] — Conditional probability and Counting sequences and Pólya urn process
+- [ ] [[Q17]] — Roots of polynomials and Complex numbers and cube roots of unity and Conjugate roots and Viète's formulas
+- [ ] [[Q18]] — Area decomposition and Coordinate geometry and Distance from a point to a line and Shoelace formula
+- [ ] [[Q19]] — Symmetry group of a square and Recurrence and state counting and Composition of transformations
+- [ ] [[Q20]] — Symmetry and group actions and Orbits under rotations and Counting by cases
+- [ ] [[Q21]] — Floor functions and Quadratic inequalities and Bounding by consecutive squares
+- [ ] [[Q22]] — Algebraic substitution and Quadratic optimization and Completing the square or vertex form
+- [ ] [[Q23]] — Complex numbers as vectors and Unit-circle geometry and Counterexamples
+- [ ] [[Q24]] — Ordered multiplicative partitions and Divisor recurrence and Recursive counting
+- [ ] [[Q25]] — Probability as area or interval length and Trigonometric identities and Piecewise functions and Calculus optimization
 
 ## Answer Key
 

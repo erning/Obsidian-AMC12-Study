@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Ratios and proportions
-- [ ] [[Q02]] — Counterexamples and prime numbers
-- [ ] [[Q03]] — Coordinate transformations
-- [ ] [[Q04]] — Factorials and quadratics
-- [ ] [[Q05]] — Least common multiples
-- [ ] [[Q06]] — Ellipses and triangle area
-- [ ] [[Q07]] — Mean and median
-- [ ] [[Q08]] — Symmetry and alternating sums
-- [ ] [[Q09]] — Logarithms and triangle inequalities
-- [ ] [[Q10]] — Euler trails
-- [ ] [[Q11]] — Spatial geometry and combinations
-- [ ] [[Q12]] — Double-angle identities
-- [ ] [[Q13]] — Infinite geometric series
-- [ ] [[Q14]] — Divisor exponents
-- [ ] [[Q15]] — Circle intersections and area
-- [ ] [[Q16]] — Recurrence probabilities
-- [ ] [[Q17]] — Complex numbers and modulus
-- [ ] [[Q18]] — Three-dimensional coordinates
-- [ ] [[Q19]] — Finite-state probability
-- [ ] [[Q20]] — Tangents and coordinate geometry
-- [ ] [[Q21]] — Vieta's formulas
-- [ ] [[Q22]] — Recurrence bounds
-- [ ] [[Q23]] — Binary strings
-- [ ] [[Q24]] — Complex vectors and zonogons
-- [ ] [[Q25]] — Centroids and trigonometric optimization
+- [ ] [[Q01]] — Ratios and proportions and Conservation of quantity
+- [ ] [[Q02]] — Prime and composite numbers and Counterexamples to conditional statements
+- [ ] [[Q03]] — Coordinate transformations and Rotations about the origin
+- [ ] [[Q04]] — Factorials and Quadratic equations
+- [ ] [[Q05]] — Least common multiples and Divisibility
+- [ ] [[Q06]] — Ellipses and Triangle area
+- [ ] [[Q07]] — Mean and median and Piecewise case analysis
+- [ ] [[Q08]] — Symmetry and Alternating sums
+- [ ] [[Q09]] — Logarithm change of base and Triangle inequalities
+- [ ] [[Q10]] — Graph degree parity and Euler trails
+- [ ] [[Q11]] — Spatial geometry and Combinations
+- [ ] [[Q12]] — Right triangles and Double-angle identities
+- [ ] [[Q13]] — Infinite geometric series and Symmetry and complementary events
+- [ ] [[Q14]] — Prime factorization and Divisor exponents
+- [ ] [[Q15]] — Circle areas and overlaps and Symmetry
+- [ ] [[Q16]] — Recurrence relations and Conditional path counting
+- [ ] [[Q17]] — Complex numbers in polar form and Modulus and equilateral triangles
+- [ ] [[Q18]] — Coordinates in three dimensions and Cross products and triangle area
+- [ ] [[Q19]] — Finite-state probability and Symmetry and state classification
+- [ ] [[Q20]] — Tangent-radius perpendicularity and Coordinate geometry
+- [ ] [[Q21]] — Vieta’s formulas and Case analysis with sets
+- [ ] [[Q22]] — Recurrence transformations and Exponential bounds
+- [ ] [[Q23]] — Binary strings and Stars-and-bars style block counting
+- [ ] [[Q24]] — Complex numbers as vectors and Minkowski sums and cross products
+- [ ] [[Q25]] — Centroids and vectors and Law of cosines and Trigonometric optimization
 
 ## Answer Key
 

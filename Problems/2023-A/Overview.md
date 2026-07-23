@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Rates and meeting time
-- [ ] [[Q02]] — Linear equations and mixed numbers
-- [ ] [[Q03]] — Perfect squares
-- [ ] [[Q04]] — Prime factorization and digits
-- [ ] [[Q05]] — Probability and stopping times
-- [ ] [[Q06]] — Logarithms and midpoint
-- [ ] [[Q07]] — Digit counting
-- [ ] [[Q08]] — Averages
-- [ ] [[Q09]] — Pythagorean theorem and ratios
-- [ ] [[Q10]] — Algebraic equations
-- [ ] [[Q11]] — Angle between lines
-- [ ] [[Q12]] — Telescoping-style summation
-- [ ] [[Q13]] — Tournament counting
-- [ ] [[Q14]] — Complex numbers
-- [ ] [[Q15]] — Trigonometry and distance
-- [ ] [[Q16]] — Complex loci and optimization
-- [ ] [[Q17]] — Recurrence and probability
-- [ ] [[Q18]] — Tangent circles
-- [ ] [[Q19]] — Change of base
-- [ ] [[Q20]] — Recurrence and units digits
-- [ ] [[Q21]] — Graph distance on an icosahedron
-- [ ] [[Q22]] — Divisor sums and multiplicativity
-- [ ] [[Q23]] — AM-GM
-- [ ] [[Q24]] — Nested subsets
-- [ ] [[Q25]] — Tangent multiple-angle identity
+- [ ] [[Q01]] — Rates and Relative motion
+- [ ] [[Q02]] — Linear equations and Mixed numbers and Fractions
+- [ ] [[Q03]] — Perfect squares and Divisibility
+- [ ] [[Q04]] — Prime factorization and Decimal place value
+- [ ] [[Q05]] — Probability and Disjoint cases and Stopping times
+- [ ] [[Q06]] — Logarithms and Midpoints and Coordinate differences
+- [ ] [[Q07]] — Digit parity and Systematic casework
+- [ ] [[Q08]] — Averages and Linear equations
+- [ ] [[Q09]] — Similar figures and Pythagorean theorem and Ratios
+- [ ] [[Q10]] — Algebraic equations and Absolute values and Positivity
+- [ ] [[Q11]] — Slopes and Angle between lines and Tangent
+- [ ] [[Q12]] — Summation and Polynomial identities
+- [ ] [[Q13]] — Combinations and Percentages and Tournament counting
+- [ ] [[Q14]] — Complex numbers and Modulus and Roots of unity
+- [ ] [[Q15]] — Trigonometry and Right triangles and Distance
+- [ ] [[Q16]] — Complex loci and Modulus and Optimization
+- [ ] [[Q17]] — Probability and Recurrence and Geometric series
+- [ ] [[Q18]] — Tangent circles and Coordinate geometry and Symmetry
+- [ ] [[Q19]] — Change of base and Logarithmic domains and Vieta's formulas
+- [ ] [[Q20]] — Recurrence and Triangular arrays and Modular arithmetic
+- [ ] [[Q21]] — Graph distance and Icosahedron symmetry and Counting
+- [ ] [[Q22]] — Divisor sums and Multiplicative functions and Prime powers
+- [ ] [[Q23]] — AM-GM and Equality conditions and Inequalities
+- [ ] [[Q24]] — Nested subsets and Combinatorics and Modular arithmetic
+- [ ] [[Q25]] — Multiple-angle identities and Complex numbers and Binomial theorem
 
 ## Answer Key
 

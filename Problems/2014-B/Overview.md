@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Integer equations
-- [ ] [[Q02]] — Percent discounts
-- [ ] [[Q03]] — Fractions and rates
-- [ ] [[Q04]] — Linear equations
-- [ ] [[Q05]] — Ratios and dimensions
-- [ ] [[Q06]] — Algebraic modeling
-- [ ] [[Q07]] — Divisibility
-- [ ] [[Q08]] — Column addition
-- [ ] [[Q09]] — Pythagorean theorem
-- [ ] [[Q10]] — Digit reversal
-- [ ] [[Q11]] — Mean, median, and mode
-- [ ] [[Q12]] — Triangle similarity
-- [ ] [[Q13]] — Triangle inequalities
-- [ ] [[Q14]] — Box geometry
-- [ ] [[Q15]] — Prime exponents
-- [ ] [[Q16]] — Polynomial symmetry
-- [ ] [[Q17]] — Discriminants
-- [ ] [[Q18]] — Circular arrangements
-- [ ] [[Q19]] — Frustum geometry
-- [ ] [[Q20]] — Logarithmic inequalities
-- [ ] [[Q21]] — Rectangle geometry
-- [ ] [[Q22]] — Markov chains
-- [ ] [[Q23]] — Modular binomial coefficients
-- [ ] [[Q24]] — Ptolemy's theorem
-- [ ] [[Q25]] — Trigonometric equations
+- [ ] [[Q01]] — Linear equations and Counting coins and Place value
+- [ ] [[Q02]] — Fractions and Unit-price comparisons
+- [ ] [[Q03]] — Fractions of a whole and Proportional reasoning
+- [ ] [[Q04]] — Linear equations and Ratios
+- [ ] [[Q05]] — Ratios and Linear equations and Geometric dimensions
+- [ ] [[Q06]] — Percentages and Algebraic modeling and Conservation of quantity
+- [ ] [[Q07]] — Divisibility and Positive-integer constraints
+- [ ] [[Q08]] — Column addition and Carry analysis and Digit constraints
+- [ ] [[Q09]] — Pythagorean theorem and Decomposing quadrilaterals
+- [ ] [[Q10]] — Place value and Digit reversal and Divisibility
+- [ ] [[Q11]] — Mean and median and Mode constraints and Extremal construction
+- [ ] [[Q12]] — Triangle inequalities and Similarity classes and Systematic enumeration
+- [ ] [[Q13]] — Triangle inequality and Optimization and Quadratic equations
+- [ ] [[Q14]] — Surface area and Symmetric identities and Space diagonals
+- [ ] [[Q15]] — Logarithm and exponential identities and Prime exponents
+- [ ] [[Q16]] — Polynomial coefficients and Symmetry of $P(x)+P(-x)$
+- [ ] [[Q17]] — Quadratic discriminants and Vieta's formulas
+- [ ] [[Q18]] — Circular arrangements and Consecutive sums and Symmetry reduction
+- [ ] [[Q19]] — Frustum volume and Tangency geometry and Quadratic equations
+- [ ] [[Q20]] — Logarithmic inequalities and Domain restrictions and Quadratic inequalities
+- [ ] [[Q21]] — Similar triangles and Trigonometric identities and Geometric decomposition
+- [ ] [[Q22]] — Absorbing Markov chains and Recurrences and Boundary conditions
+- [ ] [[Q23]] — Modular arithmetic and Binomial coefficients and Prime moduli
+- [ ] [[Q24]] — Cyclic quadrilaterals and Ptolemy's theorem and Rational simplification
+- [ ] [[Q25]] — Trigonometric identities and Integer phase conditions and Divisor enumeration
 
 ## Answer Key
 

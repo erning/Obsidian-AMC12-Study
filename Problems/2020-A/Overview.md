@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Percentages and remainders
-- [ ] [[Q02]] — Grid geometry
-- [ ] [[Q03]] — Rates and net pay
-- [ ] [[Q04]] — Divisibility and counting
-- [ ] [[Q05]] — Averages and magic squares
-- [ ] [[Q06]] — Symmetry transformations
-- [ ] [[Q07]] — Surface area of cubes
-- [ ] [[Q08]] — Median and duplicate values
-- [ ] [[Q09]] — Trigonometric equations
-- [ ] [[Q10]] — Logarithmic equations
-- [ ] [[Q11]] — Random walks
-- [ ] [[Q12]] — Rotation of a line
-- [ ] [[Q13]] — Nested radicals
-- [ ] [[Q14]] — Regular octagon geometry
-- [ ] [[Q15]] — Complex roots
-- [ ] [[Q16]] — Lattice-point probability
-- [ ] [[Q17]] — Logarithms and area
-- [ ] [[Q18]] — Coordinate geometry and circles
-- [ ] [[Q19]] — Geometric series and binary representation
-- [ ] [[Q20]] — Isometries and finite groups
-- [ ] [[Q21]] — Prime exponents, LCM, and GCD
-- [ ] [[Q22]] — Complex sequences and geometric series
-- [ ] [[Q23]] — Conditional optimization
-- [ ] [[Q24]] — Equilateral-triangle coordinates
-- [ ] [[Q25]] — Floor and fractional-part functions
+- [ ] [[Q01]] — Percentages and Successive operations on a remainder
+- [ ] [[Q02]] — Distance formula and Reading a grid diagram
+- [ ] [[Q03]] — Rate, distance, and time and Unit conversion and net earnings
+- [ ] [[Q04]] — Divisibility rules and Multiplication principle
+- [ ] [[Q05]] — Arithmetic mean of consecutive integers and Magic-square totals
+- [ ] [[Q06]] — Reflection symmetry and Counting orbits under transformations
+- [ ] [[Q07]] — Surface area of cubes and Projection and non-overlapping stacked areas
+- [ ] [[Q08]] — Median of an even-sized list and Counting duplicate values
+- [ ] [[Q09]] — Period and asymptotes of tangent and Intersection counting
+- [ ] [[Q10]] — Change of base for logarithms and Solving logarithmic equations
+- [ ] [[Q11]] — Random walks and Harmonic averaging and symmetry
+- [ ] [[Q12]] — Slope under rotation and Point-slope form of a line
+- [ ] [[Q13]] — Exponents of nested radicals and Rational equations and integer constraints
+- [ ] [[Q14]] — Regular polygon area and Cyclic quadrilaterals and diagonals
+- [ ] [[Q15]] — Roots of unity and Factoring by grouping and Distance in the complex plane
+- [ ] [[Q16]] — Periodicity in lattice problems and Area probability
+- [ ] [[Q17]] — Shoelace formula and Logarithm identities and Consecutive integers
+- [ ] [[Q18]] — Coordinate geometry and Thales' theorem and circle with a diameter and Triangle area
+- [ ] [[Q19]] — Geometric-series factorization and Binary representation
+- [ ] [[Q20]] — Isometries and composition and Finite symmetry groups and Counting ordered choices
+- [ ] [[Q21]] — Prime-exponent comparison and LCM and GCD and Fundamental theorem of arithmetic
+- [ ] [[Q22]] — Complex numbers and real/imaginary parts and Infinite geometric series
+- [ ] [[Q23]] — Conditional optimization and Counting ordered dice outcomes and Comparing expected winning probabilities
+- [ ] [[Q24]] — Coordinate geometry and Equilateral-triangle coordinates and Solving distance equations
+- [ ] [[Q25]] — Floor and fractional-part functions and Piecewise quadratic equations and Rational parameter recovery
 
 ## Answer Key
 

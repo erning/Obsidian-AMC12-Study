@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — Factorials
-- [ ] [[Q02]] — Exponents
-- [ ] [[Q03]] — Remainder function
-- [ ] [[Q04]] — Statistics
-- [ ] [[Q05]] — Logic
-- [ ] [[Q06]] — Triangular numbers
-- [ ] [[Q07]] — Factoring graphs
-- [ ] [[Q08]] — Geometry and area
-- [ ] [[Q09]] — Similar lengths
-- [ ] [[Q10]] — Displacement
-- [ ] [[Q11]] — Counting incidences
-- [ ] [[Q12]] — Angle bisectors
-- [ ] [[Q13]] — Probability
-- [ ] [[Q14]] — Cube symmetries
-- [ ] [[Q15]] — Tangent circles
-- [ ] [[Q16]] — Logarithms
-- [ ] [[Q17]] — Equilateral triangles
-- [ ] [[Q18]] — Divisor counting
-- [ ] [[Q19]] — Random walks
-- [ ] [[Q20]] — Binary operations
-- [ ] [[Q21]] — Chords
-- [ ] [[Q22]] — Least common multiples
-- [ ] [[Q23]] — Geometric probability
-- [ ] [[Q24]] — Vieta and AM-GM
-- [ ] [[Q25]] — Perfect squares
+- [ ] [[Q01]] — Factorials and Algebraic simplification
+- [ ] [[Q02]] — Exponent laws and Converting all quantities to one base
+- [ ] [[Q03]] — Floor function and Remainder with a negative divisor
+- [ ] [[Q04]] — Mean, median, and mode and Linear equations
+- [ ] [[Q05]] — Logical implications and Counterexamples
+- [ ] [[Q06]] — Triangular numbers and Factoring consecutive integers
+- [ ] [[Q07]] — Factoring algebraic curves and Intersections of lines
+- [ ] [[Q08]] — Triangle area and Decomposing a composite region
+- [ ] [[Q09]] — Similar lengths in a diagram and Rationalizing denominators
+- [ ] [[Q10]] — Signed displacement and Conservation of total position
+- [ ] [[Q11]] — Inclusion-exclusion style counting and Counting multiplicities
+- [ ] [[Q12]] — Angle Bisector Theorem and Applying a theorem in a subtriangle
+- [ ] [[Q13]] — Counting positions and Inequalities with rational expressions
+- [ ] [[Q14]] — Invariant counting and Symmetry under rotations
+- [ ] [[Q15]] — Tangent circles and Coordinate area
+- [ ] [[Q16]] — Change of variables in logarithms and Intersection counting
+- [ ] [[Q17]] — Equilateral triangle centers and Area ratios from diagonals
+- [ ] [[Q18]] — Prime factorization and Divisor-count formula
+- [ ] [[Q19]] — Random walks and Counting paths by number of tails
+- [ ] [[Q20]] — Functional identities and Deriving an operation from axioms
+- [ ] [[Q21]] — Chord length and central angles and Triple-angle identity
+- [ ] [[Q22]] — Prime exponents in least common multiples and Independent case counting
+- [ ] [[Q23]] — Geometric probability and Triangle inequality
+- [ ] [[Q24]] — Vieta's formulas and AM-GM inequality
+- [ ] [[Q25]] — Perfect squares and floor functions and Digit-pattern summation
 
 ## Answer Key
 
