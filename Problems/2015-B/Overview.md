@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]]
-- [ ] [[Q02]]
-- [ ] [[Q03]]
-- [ ] [[Q04]]
-- [ ] [[Q05]]
-- [ ] [[Q06]]
-- [ ] [[Q07]]
-- [ ] [[Q08]]
-- [ ] [[Q09]]
-- [ ] [[Q10]]
-- [ ] [[Q11]]
-- [ ] [[Q12]]
-- [ ] [[Q13]]
-- [ ] [[Q14]]
-- [ ] [[Q15]]
-- [ ] [[Q16]]
-- [ ] [[Q17]]
-- [ ] [[Q18]]
-- [ ] [[Q19]]
-- [ ] [[Q20]]
-- [ ] [[Q21]]
-- [ ] [[Q22]]
-- [ ] [[Q23]]
-- [ ] [[Q24]]
-- [ ] [[Q25]]
+- [ ] [[Q01]] — Negative exponents
+- [ ] [[Q02]] — Rates and time
+- [ ] [[Q03]] — Linear Diophantine equations
+- [ ] [[Q04]] — Relative positions
+- [ ] [[Q05]] — Percentages and inequalities
+- [ ] [[Q06]] — Parity
+- [ ] [[Q07]] — Polygon symmetry
+- [ ] [[Q08]] — Logarithms and exponents
+- [ ] [[Q09]] — Probability
+- [ ] [[Q10]] — Triangle enumeration
+- [ ] [[Q11]] — Coordinate geometry
+- [ ] [[Q12]] — Factoring and roots
+- [ ] [[Q13]] — Cyclic quadrilaterals
+- [ ] [[Q14]] — Circle and triangle areas
+- [ ] [[Q15]] — Independent probability
+- [ ] [[Q16]] — Pyramid volume
+- [ ] [[Q17]] — Binomial probability
+- [ ] [[Q18]] — Prime factorization
+- [ ] [[Q19]] — Right-triangle geometry
+- [ ] [[Q20]] — Recursive functions
+- [ ] [[Q21]] — Ceiling functions
+- [ ] [[Q22]] — Permutations
+- [ ] [[Q23]] — Diophantine equations
+- [ ] [[Q24]] — Circle geometry
+- [ ] [[Q25]] — Complex numbers
 
 ## Answer Key
 
