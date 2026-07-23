@@ -63,6 +63,6 @@ status: in-progress
 - [x] [[Problems/2008-A/Overview|2008 AMC 12A]]：已翻译 Q01–Q25，待审核。
 - [x] [[Problems/2007-B/Overview|2007 AMC 12B]]：已翻译 Q01–Q25，待审核。
 - [x] [[Problems/2007-A/Overview|2007 AMC 12A]]：已翻译 Q01–Q25，待审核。
-- [ ] [[Problems/2006-B/Overview|2006 AMC 12B]]
+- [x] [[Problems/2006-B/Overview|2006 AMC 12B]]：已翻译 Q01–Q25，待审核。
 - [ ] [[Problems/2006-A/Overview|2006 AMC 12A]]
 - [ ] [[Problems/2005-A/Overview|2005 AMC 12A]]
