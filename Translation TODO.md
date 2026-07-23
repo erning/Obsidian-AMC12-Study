@@ -18,9 +18,9 @@ status: in-progress
 
 ## 2025 年
 
-- [x] [[Problems/2025-A/Overview|2025 AMC 12A]]：已翻译 Q01–Q24。
+- [x] [[Problems/2025-A/Overview|2025 AMC 12A]]：已翻译 Q01–Q25，待审核。
   - [ ] Q25：待创建中文版本；保留英文笔记中关于题目缺陷的说明。
-- [x] [[Problems/2025-B/Overview|2025 AMC 12B]]：已翻译 Q01–Q10。
+- [x] [[Problems/2025-B/Overview|2025 AMC 12B]]：已翻译 Q01–Q25，待审核。
   - [ ] Q11–Q25：待创建中文版本，审核可后置。
 
 ## 后续试卷
