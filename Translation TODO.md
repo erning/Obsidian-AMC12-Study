@@ -28,7 +28,7 @@ status: in-progress
 以下试卷的英文题解待翻译。按年份由新到旧推进；翻译完成后再逐题审核。
 
 - [x] [[Problems/2024-B/Overview|2024 AMC 12B]]：已翻译 Q01–Q25，待审核。
-- [ ] [[Problems/2024-A/Overview|2024 AMC 12A]]
+- [x] [[Problems/2024-A/Overview|2024 AMC 12A]]：已翻译 Q01–Q25，待审核。
 - [ ] [[Problems/2023-B/Overview|2023 AMC 12B]]
 - [ ] [[Problems/2023-A/Overview|2023 AMC 12A]]
 - [ ] [[Problems/2022-B/Overview|2022 AMC 12B]]
