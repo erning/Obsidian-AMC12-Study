@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]]
-- [ ] [[Q02]]
-- [ ] [[Q03]]
-- [ ] [[Q04]]
-- [ ] [[Q05]]
-- [ ] [[Q06]]
-- [ ] [[Q07]]
-- [ ] [[Q08]]
-- [ ] [[Q09]]
-- [ ] [[Q10]]
-- [ ] [[Q11]]
-- [ ] [[Q12]]
-- [ ] [[Q13]]
-- [ ] [[Q14]]
-- [ ] [[Q15]]
-- [ ] [[Q16]]
-- [ ] [[Q17]]
-- [ ] [[Q18]]
-- [ ] [[Q19]]
-- [ ] [[Q20]]
-- [ ] [[Q21]]
-- [ ] [[Q22]]
-- [ ] [[Q23]]
-- [ ] [[Q24]]
-- [ ] [[Q25]]
+- [ ] [[Q01]] — Circle area and percent increase
+- [ ] [[Q02]] — Percentages and ratios
+- [ ] [[Q03]] — Pigeonhole principle
+- [ ] [[Q04]] — Arithmetic sequences
+- [ ] [[Q05]] — Lines and shoelace formula
+- [ ] [[Q06]] — Symmetry and rigid motions
+- [ ] [[Q07]] — Mean, median, and mode
+- [ ] [[Q08]] — Line intersections
+- [ ] [[Q09]] — Reciprocals and recurrences
+- [ ] [[Q10]] — Tangent circles
+- [ ] [[Q11]] — Repeating representations
+- [ ] [[Q12]] — Logarithms and symmetric expressions
+- [ ] [[Q13]] — Graph coloring
+- [ ] [[Q14]] — Complex roots
+- [ ] [[Q15]] — Logarithmic Diophantine equations
+- [ ] [[Q16]] — Parity and combinatorics
+- [ ] [[Q17]] — Polynomial roots
+- [ ] [[Q18]] — Sphere-plane intersections
+- [ ] [[Q19]] — Law of sines
+- [ ] [[Q20]] — Total probability
+- [ ] [[Q21]] — Roots of unity
+- [ ] [[Q22]] — Equilateral triangle geometry
+- [ ] [[Q23]] — Recursive logarithms
+- [ ] [[Q24]] — Prime valuations
+- [ ] [[Q25]] — Orthic triangles
 
 ## Answer Key
 
