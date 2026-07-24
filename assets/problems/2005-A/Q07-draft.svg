@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 365" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="sqABCD3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="sqEFGH" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="365" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="365" />
+    <line x1="120" y1="0" x2="120" y2="365" />
+    <line x1="200" y1="0" x2="200" y2="365" />
+    <line x1="280" y1="0" x2="280" y2="365" />
+    <line x1="360" y1="0" x2="360" y2="365" />
+    <line x1="440" y1="0" x2="440" y2="365" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, -20)">
+    <!-- Outer Square ABCD: A(140, 270), B(170, 60), C(380, 90), D(350, 300) -->
+    <polygon points="140,270 170,60 380,90 350,300" fill="url(#sqABCD3)" stroke="#0284c7" stroke-width="2.5" />
+
+    <!-- Extensions lines of EFGH to vertices of ABCD (dashed) -->
+    <line x1="170" y1="60" x2="170" y2="270" stroke="#64748b" stroke-dasharray="3,3" stroke-width="1.2" />
+    <line x1="170" y1="90" x2="380" y2="90" stroke="#64748b" stroke-dasharray="3,3" stroke-width="1.2" />
+    <line x1="350" y1="90" x2="350" y2="300" stroke="#64748b" stroke-dasharray="3,3" stroke-width="1.2" />
+    <line x1="140" y1="270" x2="350" y2="270" stroke="#64748b" stroke-dasharray="3,3" stroke-width="1.2" />
+
+    <!-- Inner Square EFGH: E(170, 90), F(350, 90), G(350, 270), H(170, 270) -->
+    <polygon points="170,90 350,90 350,270 170,270" fill="url(#sqEFGH)" stroke="#7c3aed" stroke-width="2" />
+
+    <!-- Vertices labels -->
+    <circle cx="140" cy="270" r="4.5" fill="#0284c7" />
+    <text x="130" y="285" fill="#0284c7" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="170" cy="60" r="4.5" fill="#0284c7" />
+    <text x="170" y="45" fill="#0284c7" font-size="14" font-weight="bold" text-anchor="middle">B</text>
+
+    <circle cx="380" cy="90" r="4.5" fill="#0284c7" />
+    <text x="395" y="95" fill="#0284c7" font-size="14" font-weight="bold">C</text>
+
+    <circle cx="350" cy="300" r="4.5" fill="#0284c7" />
+    <text x="350" y="320" fill="#0284c7" font-size="14" font-weight="bold" text-anchor="middle">D</text>
+
+    <!-- Inner square vertices -->
+    <circle cx="170" cy="90" r="4" fill="#7c3aed" />
+    <text x="185" y="105" fill="#7c3aed" font-size="13" font-weight="bold">E</text>
+
+    <circle cx="350" cy="90" r="4" fill="#7c3aed" />
+    <text x="340" y="105" fill="#7c3aed" font-size="13" font-weight="bold">F</text>
+
+    <circle cx="350" cy="270" r="4" fill="#7c3aed" />
+    <text x="340" y="260" fill="#7c3aed" font-size="13" font-weight="bold">G</text>
+
+    <circle cx="170" cy="270" r="4" fill="#7c3aed" />
+    <text x="185" y="260" fill="#7c3aed" font-size="13" font-weight="bold">H</text>
+
+    <!-- Segment labels -->
+    <text x="180" y="75" fill="#0f172a" font-size="12" font-weight="bold">BE = 1</text>
+    <text x="260" y="260" fill="#7c3aed" font-size="13" font-weight="bold" text-anchor="middle">EH = 6</text>
+    <text x="155" y="180" fill="#0f172a" font-size="12" font-weight="bold" transform="rotate(-90 155 180)">BH = 7</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">BH = √(BC²-BE²) = 7 ➔ EH = BH-BE = 6 ➔ Area = 6² = 36</text>
+  </g>
+</svg>
