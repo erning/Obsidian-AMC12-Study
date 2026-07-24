@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Arithmetic operations and order of operations
+- [ ] [[Q01]] — IGCSE — Arithmetic operations and order of operations
 - [ ] [[Q02]] — P2 — Arithmetic sequences and summation
-- [ ] [[Q03]] — P1 — Area ratios and percentages
-- [ ] [[Q04]] — P1 — Inequalities, exponents, and absolute values
-- [ ] [[Q05]] — P1 — Inequalities and extremal bounds
-- [ ] [[Q06]] — XX — Palindromes, digit constraints, and bounds
-- [ ] [[Q07]] — XX — Three-dimensional scaling and volume
-- [ ] [[Q08]] — P1 — Angle chasing, equilateral triangles, and special triangles
-- [ ] [[Q09]] — XX — Cube volume and inclusion-exclusion
+- [ ] [[Q03]] — IGCSE — Area ratios and percentages
+- [ ] [[Q04]] — P2 — Inequalities, exponents, and absolute values
+- [ ] [[Q05]] — AMC — Inequalities and extremal bounds
+- [ ] [[Q06]] — AMC — Palindromes, digit constraints, and bounds
+- [ ] [[Q07]] — AMC — Three-dimensional scaling and volume
+- [ ] [[Q08]] — IGCSE — Angle chasing, equilateral triangles, and special triangles
+- [ ] [[Q09]] — AMC — Cube volume and inclusion-exclusion
 - [ ] [[Q10]] — P2 — Arithmetic sequences and simultaneous equations
 - [ ] [[Q11]] — P2 — Logarithms and exponents
-- [ ] [[Q12]] — XX — Truth-tellers, liars, and logical deduction
-- [ ] [[Q13]] — XX — Circle-hyperbola intersections and casework
-- [ ] [[Q14]] — P1 — Angle bisectors, triangle inequality, and optimisation
-- [ ] [[Q15]] — S1 / P1 — Binomial probability and quadratic equations
+- [ ] [[Q12]] — AMC — Truth-tellers, liars, and logical deduction
+- [ ] [[Q13]] — AMC — Circle-hyperbola intersections and casework
+- [ ] [[Q14]] — AMC — Angle bisectors, triangle inequality, and optimisation
+- [ ] [[Q15]] — P1 / S1 — Binomial probability and quadratic equations
 - [ ] [[Q16]] — S1 — Probability, symmetry, and casework
-- [ ] [[Q17]] — P1 / P2 — Equiangular polygons, cosine rule, and Vieta's formulas
+- [ ] [[Q17]] — AMC — Equiangular polygons, cosine rule, and Vieta's formulas
 - [ ] [[Q18]] — S1 — Lattice paths, combinations, and symmetry
-- [ ] [[Q19]] — S1 / P2 — Telescoping, probability, and inequalities
-- [ ] [[Q20]] — XX — Arithmetic sequences, divisibility, and greatest common divisors
-- [ ] [[Q21]] — P2 — Polynomials, factorisation, and completing the square
-- [ ] [[Q22]] — P1 — Absolute values, optimisation, and summation
-- [ ] [[Q23]] — XX — Modular arithmetic, Chinese remainders, and trailing zeros
-- [ ] [[Q24]] — P1 — Trigonometry, symmetry, and casework
-- [ ] [[Q25]] — XX — Burnside's lemma, stars and bars, and cyclic quadrilaterals
+- [ ] [[Q19]] — S1 — Telescoping, probability, and inequalities
+- [ ] [[Q20]] — P1 — Arithmetic sequences, divisibility, and greatest common divisors
+- [ ] [[Q21]] — AMC — Polynomials, factorisation, and completing the square
+- [ ] [[Q22]] — P2 — Absolute values, optimisation, and summation
+- [ ] [[Q23]] — AMC — Modular arithmetic, Chinese remainders, and trailing zeros
+- [ ] [[Q24]] — AMC — Trigonometry, symmetry, and casework
+- [ ] [[Q25]] — AMC — Burnside's lemma, stars and bars, and cyclic quadrilaterals
 
 ## Answer Key
 

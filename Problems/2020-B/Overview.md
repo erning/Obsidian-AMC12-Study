@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Consecutive odd-number sums and radical simplification
-- [ ] [[Q02]] — P1 — Difference of squares and algebraic cancellation
-- [ ] [[Q03]] — P1 — Chained ratios and variable scaling
-- [ ] [[Q04]] — XX — Triangle angles and prime-number testing
-- [ ] [[Q05]] — P1 — Fractions of totals and simultaneous linear equations
-- [ ] [[Q06]] — XX — Factorials and algebraic factorisation
+- [ ] [[Q01]] — IGCSE — Consecutive odd-number sums and radical simplification
+- [ ] [[Q02]] — IGCSE — Difference of squares and algebraic cancellation
+- [ ] [[Q03]] — IGCSE — Chained ratios and variable scaling
+- [ ] [[Q04]] — AMC — Triangle angles and prime-number testing
+- [ ] [[Q05]] — IGCSE — Fractions of totals and simultaneous linear equations
+- [ ] [[Q06]] — IGCSE — Factorials and algebraic factorisation
 - [ ] [[Q07]] — P1 — Angles between lines, slopes, and quadratics
-- [ ] [[Q08]] — P2 — Completing the square and integer constraints
-- [ ] [[Q09]] — XX — Arc length, cone volume, and Pythagoras' theorem
-- [ ] [[Q10]] — P2 — Circle equations and line-circle intersections
-- [ ] [[Q11]] — P1 / S1 — Regular-hexagon area, circular segments, and inclusion-exclusion
-- [ ] [[Q12]] — P2 — Circle coordinates, chord parametrisation, and Vieta's formulas
+- [ ] [[Q08]] — AMC — Completing the square and integer constraints
+- [ ] [[Q09]] — P1 — Arc length, cone volume, and Pythagoras' theorem
+- [ ] [[Q10]] — IGCSE — Circle equations and line-circle intersections
+- [ ] [[Q11]] — AMC — Regular-hexagon area, circular segments, and inclusion-exclusion
+- [ ] [[Q12]] — AMC — Circle coordinates, chord parametrisation, and Vieta's formulas
 - [ ] [[Q13]] — P2 — Change of base and perfect-square recognition
-- [ ] [[Q14]] — XX — Symmetry invariants and game theory
-- [ ] [[Q15]] — XX — Perfect matchings, casework, and symmetry
+- [ ] [[Q14]] — AMC — Symmetry invariants and game theory
+- [ ] [[Q15]] — AMC — Perfect matchings, casework, and symmetry
 - [ ] [[Q16]] — S1 — Conditional probability and urn-process sequences
 - [ ] [[Q17]] — P3 — Polynomial roots, complex numbers, and Vieta's formulas
-- [ ] [[Q18]] — XX — Coordinate area, point-to-line distance, and shoelace formula
-- [ ] [[Q19]] — XX — Symmetry groups, recurrences, and state counting
-- [ ] [[Q20]] — XX — Group actions, rotational orbits, and case counting
-- [ ] [[Q21]] — XX — Floor functions and quadratic inequalities
+- [ ] [[Q18]] — IGCSE — Coordinate area, point-to-line distance, and shoelace formula
+- [ ] [[Q19]] — AMC — Symmetry groups, recurrences, and state counting
+- [ ] [[Q20]] — AMC — Group actions, rotational orbits, and case counting
+- [ ] [[Q21]] — P1 — Floor functions and quadratic inequalities
 - [ ] [[Q22]] — P2 — Algebraic substitution and quadratic optimisation
 - [ ] [[Q23]] — P3 — Complex numbers as vectors and unit-circle geometry
-- [ ] [[Q24]] — XX — Multiplicative partitions and divisor recurrences
-- [ ] [[Q25]] — P3 / S1 — Piecewise trigonometric probability and calculus optimisation
+- [ ] [[Q24]] — AMC — Multiplicative partitions and divisor recurrences
+- [ ] [[Q25]] — S1 — Piecewise trigonometric probability and calculus optimisation
 
 ## Answer Key
 

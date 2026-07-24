@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Integer intervals and inequalities
+- [ ] [[Q01]] — AMC — Integer intervals and inequalities
 - [ ] [[Q02]] — P2 — Arithmetic sequences and pattern recognition
-- [ ] [[Q03]] — P1 — Optimisation and extremal bounds
+- [ ] [[Q03]] — AMC — Optimisation and extremal bounds
 - [ ] [[Q04]] — P1 — Sectors, circular measure, and angle sums
-- [ ] [[Q05]] — XX — Diophantine equations and parity
-- [ ] [[Q06]] — XX — Place value, estimation, and unit conversion
-- [ ] [[Q07]] — P1 — Defined operations and algebraic symmetry
-- [ ] [[Q08]] — P1 — Ratios and proportions
-- [ ] [[Q09]] — P1 — Circle chords, perpendicular bisectors, and Pythagoras
-- [ ] [[Q10]] — P1 — Rates and linear equations
-- [ ] [[Q11]] — XX — Cones, similarity, and three-dimensional scaling
-- [ ] [[Q12]] — S1 — Means and summation
+- [ ] [[Q05]] — AMC — Diophantine equations and parity
+- [ ] [[Q06]] — IGCSE — Place value, estimation, and unit conversion
+- [ ] [[Q07]] — AMC — Defined operations and algebraic symmetry
+- [ ] [[Q08]] — IGCSE — Ratios and proportions
+- [ ] [[Q09]] — IGCSE — Circle chords, perpendicular bisectors, and Pythagoras
+- [ ] [[Q10]] — IGCSE — Rates and linear equations
+- [ ] [[Q11]] — AMC — Cones, similarity, and three-dimensional scaling
+- [ ] [[Q12]] — IGCSE — Means and summation
 - [ ] [[Q13]] — P1 — Coordinate geometry, equilateral triangles, and differentiation
 - [ ] [[Q14]] — P2 — Logarithms and circle circumference
-- [ ] [[Q15]] — P1 — Triangle areas, angle chasing, and trigonometry
-- [ ] [[Q16]] — P1 — Area, factorisation, and algebraic identities
-- [ ] [[Q17]] — P1 — Parabolas, gradients, and coordinate areas
-- [ ] [[Q18]] — XX — Pyramids, volume, and Heron's formula
+- [ ] [[Q15]] — IGCSE — Triangle areas, angle chasing, and trigonometry
+- [ ] [[Q16]] — IGCSE — Area, factorisation, and algebraic identities
+- [ ] [[Q17]] — IGCSE — Parabolas, gradients, and coordinate areas
+- [ ] [[Q18]] — AMC — Pyramids, volume, and Heron's formula
 - [ ] [[Q19]] — P3 — Complex numbers and optimisation
-- [ ] [[Q20]] — P1 — Relative speed, distance, rate, and time
-- [ ] [[Q21]] — S1 / P1 — Geometric probability and coordinate distance
+- [ ] [[Q20]] — IGCSE — Relative speed, distance, rate, and time
+- [ ] [[Q21]] — AMC — Geometric probability and coordinate distance
 - [ ] [[Q22]] — S1 — Complementary counting, combinations, and restrictions
 - [ ] [[Q23]] — P2 — Logarithms and factor counting
-- [ ] [[Q24]] — P2 / P1 — Recurrences, equilateral triangles, and summation
-- [ ] [[Q25]] — P1 — Trapezoids, angle bisectors, and cosine rule
+- [ ] [[Q24]] — AMC — Recurrences, equilateral triangles, and summation
+- [ ] [[Q25]] — IGCSE — Trapezoids, angle bisectors, and cosine rule
 
 ## Answer Key
 

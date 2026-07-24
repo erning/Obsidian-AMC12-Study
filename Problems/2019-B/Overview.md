@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Ratios, proportions, and conservation of quantity
-- [ ] [[Q02]] — XX — Prime and composite numbers with counterexamples
-- [ ] [[Q03]] — P1 — Coordinate transformations and rotations about the origin
-- [ ] [[Q04]] — XX — Factorials and quadratic equations
-- [ ] [[Q05]] — XX — LCM and divisibility
-- [ ] [[Q06]] — P1 — Ellipses and triangle area
+- [ ] [[Q01]] — IGCSE — Ratios, proportions, and conservation of quantity
+- [ ] [[Q02]] — AMC — Prime and composite numbers with counterexamples
+- [ ] [[Q03]] — IGCSE — Coordinate transformations and rotations about the origin
+- [ ] [[Q04]] — P1 — Factorials and quadratic equations
+- [ ] [[Q05]] — AMC — LCM and divisibility
+- [ ] [[Q06]] — IGCSE — Ellipses and triangle area
 - [ ] [[Q07]] — S1 — Mean, median, and piecewise case analysis
-- [ ] [[Q08]] — P1 — Symmetry and alternating sums
+- [ ] [[Q08]] — AMC — Symmetry and alternating sums
 - [ ] [[Q09]] — P2 — Change of base and triangle inequalities
-- [ ] [[Q10]] — XX — Graph degree parity and Euler trails
-- [ ] [[Q11]] — XX — Spatial geometry and combinations
-- [ ] [[Q12]] — P1 — Right triangles and double-angle identities
-- [ ] [[Q13]] — P2 / S1 — Infinite geometric series and complementary events
-- [ ] [[Q14]] — XX — Prime factorisation and divisor exponents
-- [ ] [[Q15]] — P1 — Circle areas, overlaps, and symmetry
-- [ ] [[Q16]] — XX — Recurrences and conditional path counting
+- [ ] [[Q10]] — AMC — Graph degree parity and Euler trails
+- [ ] [[Q11]] — S1 — Spatial geometry and combinations
+- [ ] [[Q12]] — IGCSE — Right triangles and double-angle identities
+- [ ] [[Q13]] — P2 — Infinite geometric series and complementary events
+- [ ] [[Q14]] — AMC — Prime factorisation and divisor exponents
+- [ ] [[Q15]] — AMC — Circle areas, overlaps, and symmetry
+- [ ] [[Q16]] — AMC — Recurrences and conditional path counting
 - [ ] [[Q17]] — P3 — Polar complex numbers, modulus, and equilateral triangles
-- [ ] [[Q18]] — XX — Three-dimensional coordinates and cross products
-- [ ] [[Q19]] — XX — Finite-state probability and state classification
+- [ ] [[Q18]] — FP1 — Three-dimensional vectors, cross products, and triangle area
+- [ ] [[Q19]] — AMC — Finite-state probability and state classification
 - [ ] [[Q20]] — P1 — Tangent-radius perpendicularity and coordinate geometry
-- [ ] [[Q21]] — P2 — Vieta's formulas and set casework
-- [ ] [[Q22]] — XX — Recurrence transformations and exponential bounds
-- [ ] [[Q23]] — XX — Binary strings and block counting
-- [ ] [[Q24]] — XX — Complex vectors, Minkowski sums, and cross products
+- [ ] [[Q21]] — AMC — Vieta's formulas and set casework
+- [ ] [[Q22]] — AMC — Recurrence transformations and exponential bounds
+- [ ] [[Q23]] — AMC — Binary strings and block counting
+- [ ] [[Q24]] — FP2 / FP1 — Complex vectors, roots of unity, and cross products
 - [ ] [[Q25]] — P3 — Centroids, vectors, cosine rule, and trigonometric optimisation
 
 ## Answer Key

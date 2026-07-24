@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Area and unit conversion on a grid
-- [ ] [[Q02]] — P1 — Average speed and distance-rate-time
+- [ ] [[Q01]] — IGCSE — Area and unit conversion on a grid
+- [ ] [[Q02]] — S1 — Average speed and distance-rate-time
 - [ ] [[Q03]] — P1 — Point-slope form and intercepts
-- [ ] [[Q04]] — P1 — Chords, perpendicular bisectors, and Pythagoras' theorem
-- [ ] [[Q05]] — S1 — Complementary counting and subsets
-- [ ] [[Q06]] — P1 — Unit conversion, rates, and proportions
+- [ ] [[Q04]] — IGCSE — Chords, perpendicular bisectors, and Pythagoras' theorem
+- [ ] [[Q05]] — AMC — Complementary counting and subsets
+- [ ] [[Q06]] — IGCSE — Unit conversion, rates, and proportions
 - [ ] [[Q07]] — P2 — Change of base and telescoping products
-- [ ] [[Q08]] — P1 — Centroids as affine averages and circle area
-- [ ] [[Q09]] — P2 — Double sums and arithmetic series
-- [ ] [[Q10]] — XX — Pigeonhole principle and extremal counting
-- [ ] [[Q11]] — XX — Net geometry and $45^\circ$ right triangles
-- [ ] [[Q12]] — P1 — Angle bisectors and triangle inequalities
-- [ ] [[Q13]] — P1 — Coordinate centroids and area from diagonals
-- [ ] [[Q14]] — XX — Divisor-count function and age equations
-- [ ] [[Q15]] — XX — Digit divisibility and counting
-- [ ] [[Q16]] — P3 — Roots of unity and regular polygon geometry
-- [ ] [[Q17]] — XX — Rational approximation and Farey inequalities
-- [ ] [[Q18]] — XX — Recurrences and periodic reduction
-- [ ] [[Q19]] — XX — Divisibility, GCD, and factor bounds
-- [ ] [[Q20]] — P1 — Regular-hexagon area, similarity, and midpoint scaling
-- [ ] [[Q21]] — P1 — Right triangles, tangency, and coordinate area
-- [ ] [[Q22]] — XX — Coefficient equations and stars-and-bars counting
-- [ ] [[Q23]] — XX — Spherical coordinates and dot products
-- [ ] [[Q24]] — XX — Floor and fractional-part functions
-- [ ] [[Q25]] — P1 — Tangent circles and exact triangle geometry
+- [ ] [[Q08]] — S1 — Centroids as affine averages and circle area
+- [ ] [[Q09]] — IGCSE — Double sums and arithmetic series
+- [ ] [[Q10]] — AMC — Pigeonhole principle and extremal counting
+- [ ] [[Q11]] — IGCSE — Net geometry and $45^\circ$ right triangles
+- [ ] [[Q12]] — IGCSE — Angle bisectors and triangle inequalities
+- [ ] [[Q13]] — IGCSE — Coordinate centroids and area from diagonals
+- [ ] [[Q14]] — IGCSE — Divisor-count function and age equations
+- [ ] [[Q15]] — AMC — Digit divisibility and counting
+- [ ] [[Q16]] — FP2 — Roots of unity and regular polygon geometry
+- [ ] [[Q17]] — IGCSE — Rational approximation and Farey inequalities
+- [ ] [[Q18]] — AMC — Recurrences and periodic reduction
+- [ ] [[Q19]] — AMC — Divisibility, GCD, and factor bounds
+- [ ] [[Q20]] — IGCSE — Regular-hexagon area, similarity, and midpoint scaling
+- [ ] [[Q21]] — IGCSE — Right triangles, tangency, and coordinate area
+- [ ] [[Q22]] — AMC — Coefficient equations and stars-and-bars counting
+- [ ] [[Q23]] — AMC — Spherical coordinates and dot products
+- [ ] [[Q24]] — AMC — Floor and fractional-part functions
+- [ ] [[Q25]] — AMC — Tangent circles and exact triangle geometry
 
 ## Answer Key
 

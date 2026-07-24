@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — XX — Place value, digit patterns, and averages
-- [ ] [[Q02]] — P1 — Algebraic simplification and factorization
+- [ ] [[Q01]] — S1 — Place value, digit patterns, and averages
+- [ ] [[Q02]] — IGCSE — Algebraic simplification and factorization
 - [ ] [[Q03]] — P2 — Factoring quadratics and prime values
-- [ ] [[Q04]] — XX — Divisibility of fractions and integer constraints
+- [ ] [[Q04]] — AMC — Divisibility of fractions and integer constraints
 - [ ] [[Q05]] — P1 — Polygon angle sums and arithmetic sequences
 - [ ] [[Q06]] — P2 — Quadratic roots and Vieta's formulas
 - [ ] [[Q07]] — P2 — Consecutive integers and quadratic equations
-- [ ] [[Q08]] — XX — Calendar arithmetic and modular cycles
+- [ ] [[Q08]] — AMC — Calendar arithmetic and modular cycles
 - [ ] [[Q09]] — P1 — Arithmetic and geometric sequences
-- [ ] [[Q10]] — S1 — Counting distinct sums from a finite set
-- [ ] [[Q11]] — XX — Prime numbers and parity
-- [ ] [[Q12]] — P1 — Rational equations and perfect squares
+- [ ] [[Q10]] — AMC — Counting distinct sums from a finite set
+- [ ] [[Q11]] — AMC — Prime numbers and parity
+- [ ] [[Q12]] — IGCSE — Rational equations and perfect squares
 - [ ] [[Q13]] — P1 — Arithmetic sequences and square numbers
-- [ ] [[Q14]] — P1 — Circle intersections and maximum counting
-- [ ] [[Q15]] — P1 — Place value and linear equations
+- [ ] [[Q14]] — AMC — Circle intersections and maximum counting
+- [ ] [[Q15]] — IGCSE — Place value and linear equations
 - [ ] [[Q16]] — S1 — Complementary probability with dice
-- [ ] [[Q17]] — P1 — Rates, areas, and proportional reasoning
-- [ ] [[Q18]] — S1 / P1 — Geometric probability and perpendicular bisectors
-- [ ] [[Q19]] — P1 — Symmetric systems of equations
-- [ ] [[Q20]] — P1 — Right triangles, medians, and Pythagoras
-- [ ] [[Q21]] — XX — Divisibility, least common multiples, and weighted sums
+- [ ] [[Q17]] — IGCSE — Rates, areas, and proportional reasoning
+- [ ] [[Q18]] — AMC — Geometric probability and perpendicular bisectors
+- [ ] [[Q19]] — AMC — Symmetric systems of equations
+- [ ] [[Q20]] — IGCSE — Right triangles, medians, and Pythagoras
+- [ ] [[Q21]] — AMC — Divisibility, least common multiples, and weighted sums
 - [ ] [[Q22]] — P2 — Change of base and logarithm laws
-- [ ] [[Q23]] — P1 — Medians and the cosine rule
-- [ ] [[Q24]] — P1 — Quadrilateral area and Pythagorean bounds
-- [ ] [[Q25]] — P1 — Completing the square and regions in the plane
+- [ ] [[Q23]] — IGCSE — Medians and the cosine rule
+- [ ] [[Q24]] — IGCSE — Quadrilateral area and Pythagorean bounds
+- [ ] [[Q25]] — IGCSE — Completing the square and regions in the plane
 
 ## Answer Key
 

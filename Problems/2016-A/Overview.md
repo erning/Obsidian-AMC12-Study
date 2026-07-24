@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — XX — Factorial notation and algebraic simplification
-- [ ] [[Q02]] — P1 — Index laws and powers with a common base
-- [ ] [[Q03]] — XX — Floor functions and negative remainders
-- [ ] [[Q04]] — S1 / P1 — Mean, median, mode, and linear equations
-- [ ] [[Q05]] — P1 — Logical implication and counterexamples
-- [ ] [[Q06]] — XX — Triangular numbers and consecutive-integer factorisation
-- [ ] [[Q07]] — P1 — Algebraic factorisation and intersections of lines
-- [ ] [[Q08]] — P1 — Triangle area and composite regions
-- [ ] [[Q09]] — P1 — Similarity and rationalising surds
-- [ ] [[Q10]] — P1 — Signed displacement and linear conservation equations
-- [ ] [[Q11]] — S1 — Inclusion-exclusion and multiplicity counting
-- [ ] [[Q12]] — P1 — Angle bisectors and subtriangle areas
-- [ ] [[Q13]] — S1 — Position counting and rational inequalities
-- [ ] [[Q14]] — XX — Rotational symmetry and invariant counting
-- [ ] [[Q15]] — P1 — Tangent circles and coordinate area
+- [ ] [[Q01]] — IGCSE — Factorial notation and algebraic simplification
+- [ ] [[Q02]] — AMC — Index laws and powers with a common base
+- [ ] [[Q03]] — AMC — Floor functions and negative remainders
+- [ ] [[Q04]] — S1 — Mean, median, mode, and linear equations
+- [ ] [[Q05]] — AMC — Logical implication and counterexamples
+- [ ] [[Q06]] — AMC — Triangular numbers and consecutive-integer factorisation
+- [ ] [[Q07]] — IGCSE — Algebraic factorisation and intersections of lines
+- [ ] [[Q08]] — IGCSE — Triangle area and composite regions
+- [ ] [[Q09]] — IGCSE — Similarity and rationalising surds
+- [ ] [[Q10]] — IGCSE — Signed displacement and linear conservation equations
+- [ ] [[Q11]] — AMC — Inclusion-exclusion and multiplicity counting
+- [ ] [[Q12]] — IGCSE — Angle bisectors and subtriangle areas
+- [ ] [[Q13]] — AMC — Position counting and rational inequalities
+- [ ] [[Q14]] — AMC — Rotational symmetry and invariant counting
+- [ ] [[Q15]] — AMC — Tangent circles and coordinate area
 - [ ] [[Q16]] — P2 — Logarithmic transformations and curve intersections
-- [ ] [[Q17]] — P1 — Equilateral triangles and area ratios
-- [ ] [[Q18]] — XX — Prime factorisation and divisor-count formula
-- [ ] [[Q19]] — S1 — Random walks and binomial path counting
-- [ ] [[Q20]] — XX — Binary operations and functional identities
+- [ ] [[Q17]] — IGCSE — Equilateral triangles and area ratios
+- [ ] [[Q18]] — AMC — Prime factorisation and divisor-count formula
+- [ ] [[Q19]] — AMC — Random walks and binomial path counting
+- [ ] [[Q20]] — AMC — Binary operations and functional identities
 - [ ] [[Q21]] — P1 — Chords, central angles, and trigonometric identities
-- [ ] [[Q22]] — XX — LCM prime exponents and case counting
-- [ ] [[Q23]] — S1 — Geometric probability and triangle inequalities
-- [ ] [[Q24]] — P2 — Vieta's formulas and AM-GM inequality
-- [ ] [[Q25]] — XX — Floor functions and digit-pattern sums
+- [ ] [[Q22]] — AMC — LCM prime exponents and case counting
+- [ ] [[Q23]] — AMC — Geometric probability and triangle inequalities
+- [ ] [[Q24]] — AMC — Vieta's formulas and AM-GM inequality
+- [ ] [[Q25]] — AMC — Floor functions and digit-pattern sums
 
 ## Answer Key
 

@@ -16,31 +16,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Unit rates and whole-number counts
-- [ ] [[Q02]] — XX — Units digits, periodic patterns, and block summation
+- [ ] [[Q01]] — IGCSE — Unit rates and whole-number counts
+- [ ] [[Q02]] — AMC — Units digits, periodic patterns, and block summation
 - [ ] [[Q03]] — P3 — Complex arithmetic and algebraic factorisation
-- [ ] [[Q04]] — XX — Number bases, place value, and digit equations
-- [ ] [[Q05]] — XX — Linear Diophantine equations, modular inverses, and integer bounds
-- [ ] [[Q06]] — XX — Place value, divisibility, and modular arithmetic
+- [ ] [[Q04]] — AMC — Number bases, place value, and digit equations
+- [ ] [[Q05]] — AMC — Linear Diophantine equations, modular inverses, and integer bounds
+- [ ] [[Q06]] — AMC — Place value, divisibility, and modular arithmetic
 - [ ] [[Q07]] — P2 — Logarithm laws, telescoping sums, and substitution
-- [ ] [[Q08]] — P2 — Conjugate roots, Vieta's formulas, and polynomial factorisation
-- [ ] [[Q09]] — XX — Modular exponentiation, last-digit cycles, and congruences
-- [ ] [[Q10]] — P1 — Special right triangles, coordinates, medians, and ratios
+- [ ] [[Q08]] — P3 — Conjugate roots, Vieta's formulas, and polynomial factorisation
+- [ ] [[Q09]] — AMC — Modular exponentiation, last-digit cycles, and congruences
+- [ ] [[Q10]] — IGCSE — Special right triangles, coordinates, medians, and ratios
 - [ ] [[Q11]] — S1 — Sequential and conditional probability with symmetry
-- [ ] [[Q12]] — XX — Swept areas, trigonometric coordinates, and Cavalieri's principle
-- [ ] [[Q13]] — S1 — Circular arrangements, cycle matchings, and counting
-- [ ] [[Q14]] — P1 — Arithmetic means, partial sums, and integer sequences
+- [ ] [[Q12]] — AMC — Swept areas, trigonometric coordinates, and Cavalieri's principle
+- [ ] [[Q13]] — AMC — Circular arrangements, cycle matchings, and counting
+- [ ] [[Q14]] — AMC — Arithmetic means, partial sums, and integer sequences
 - [ ] [[Q15]] — P3 — Similar solids, cross-sectional volume, and integration
 - [ ] [[Q16]] — P1 — Clock angles and half-angle trigonometric identities
-- [ ] [[Q17]] — XX — Burnside's lemma, grid casework, and symmetry
+- [ ] [[Q17]] — AMC — Burnside's lemma, grid casework, and symmetry
 - [ ] [[Q18]] — S1 — Expected value, geometric distributions, and conditioning
-- [ ] [[Q19]] — XX — Grid indexing, Diophantine equations, and modular arithmetic
-- [ ] [[Q20]] — S1 / P1 — Random-walk probabilities and simultaneous equations
-- [ ] [[Q21]] — P1 — Area with two sides and an angle, cosine rule, and triangle inequalities
+- [ ] [[Q19]] — AMC — Grid indexing, Diophantine equations, and modular arithmetic
+- [ ] [[Q20]] — IGCSE — Random-walk probabilities and simultaneous equations
+- [ ] [[Q21]] — IGCSE — Area with two sides and an angle, cosine rule, and triangle inequalities
 - [ ] [[Q22]] — P3 — Complex-plane geometry, similarity, and circle optimisation
-- [ ] [[Q23]] — XX — Modular powers, divisibility, and divisor sums
-- [ ] [[Q24]] — P3 / P2 — Logarithmic and trigonometric functions and intersection counting
-- [ ] [[Q25]] — XX — Concentric circles, equilateral triangles, and Gram determinants
+- [ ] [[Q23]] — AMC — Modular powers, divisibility, and divisor sums
+- [ ] [[Q24]] — P2 — Logarithmic and trigonometric functions and intersection counting
+- [ ] [[Q25]] — AMC — Concentric circles, equilateral triangles, and rotation geometry
 
 ## Answer Key
 

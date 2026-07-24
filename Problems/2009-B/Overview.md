@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — XX — Parity, money, and casework
-- [ ] [[Q02]] — P1 — Ratios and proportions
-- [ ] [[Q03]] — P1 — Percentages, fractions, and linear equations
-- [ ] [[Q04]] — P1 — Area ratios, triangles, and trapezoids
-- [ ] [[Q05]] — XX — Prime factorisation and powers of two
-- [ ] [[Q06]] — P1 — Arithmetic operations and systematic listing
-- [ ] [[Q07]] — P1 — Percentages
-- [ ] [[Q08]] — P1 — Simultaneous equations and substitution
+- [ ] [[Q01]] — AMC — Parity, money, and casework
+- [ ] [[Q02]] — IGCSE — Ratios and proportions
+- [ ] [[Q03]] — IGCSE — Percentages, fractions, and linear equations
+- [ ] [[Q04]] — IGCSE — Area ratios, triangles, and trapezoids
+- [ ] [[Q05]] — AMC — Prime factorisation and powers of two
+- [ ] [[Q06]] — IGCSE — Arithmetic operations and systematic listing
+- [ ] [[Q07]] — IGCSE — Percentages
+- [ ] [[Q08]] — IGCSE — Simultaneous equations and substitution
 - [ ] [[Q09]] — P1 — Coordinate geometry, triangle areas, and parallel lines
-- [ ] [[Q10]] — XX — Digit constraints, complementary counting, and fractions
+- [ ] [[Q10]] — AMC — Digit constraints, complementary counting, and fractions
 - [ ] [[Q11]] — P2 — Geometric sequences, recurrences, and inequalities
 - [ ] [[Q12]] — P2 — Geometric sequences and factorial expressions
-- [ ] [[Q13]] — P1 — Pythagoras, altitudes, and case analysis
-- [ ] [[Q14]] — P1 — Triangle areas, decomposition, and coordinates
+- [ ] [[Q13]] — IGCSE — Pythagoras, altitudes, and case analysis
+- [ ] [[Q14]] — IGCSE — Triangle areas, decomposition, and coordinates
 - [ ] [[Q15]] — P2 — Logarithms and inequalities
-- [ ] [[Q16]] — P1 — Angle bisectors, trapezoids, and parallel lines
-- [ ] [[Q17]] — XX — Probability on a cube and casework
-- [ ] [[Q18]] — S1 / P1 — Geometric probability and uniform motion
-- [ ] [[Q19]] — XX — Difference of squares and prime factorisation
-- [ ] [[Q20]] — XX — Polyhedra and double counting
-- [ ] [[Q21]] — P2 — Recurrences and Fibonacci sequences
-- [ ] [[Q22]] — XX — Lattice points, stars and bars, and prime factors
-- [ ] [[Q23]] — P3 / S1 — Complex numbers, geometric probability, and area
+- [ ] [[Q16]] — IGCSE — Angle bisectors, trapezoids, and parallel lines
+- [ ] [[Q17]] — S1 — Probability on a cube and casework
+- [ ] [[Q18]] — AMC — Geometric probability and uniform motion
+- [ ] [[Q19]] — AMC — Difference of squares and prime factorisation
+- [ ] [[Q20]] — AMC — Polyhedra and double counting
+- [ ] [[Q21]] — AMC — Recurrences and Fibonacci sequences
+- [ ] [[Q22]] — AMC — Lattice points, stars and bars, and prime factors
+- [ ] [[Q23]] — P3 — Complex numbers, geometric probability, and area
 - [ ] [[Q24]] — P1 — Trigonometric equations and casework
-- [ ] [[Q25]] — XX — Lattice points, bijections, and figure counting
+- [ ] [[Q25]] — AMC — Lattice points, bijections, and figure counting
 
 ## Answer Key
 

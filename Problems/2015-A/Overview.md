@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Index laws and negative powers
-- [ ] [[Q02]] — P1 — Triangle inequalities and bounds
+- [ ] [[Q01]] — IGCSE — Index laws and negative powers
+- [ ] [[Q02]] — IGCSE — Triangle inequalities and bounds
 - [ ] [[Q03]] — S1 — Averages, totals, and linear subtraction
-- [ ] [[Q04]] — P1 — Ratios and linear equations
-- [ ] [[Q05]] — P1 — Fractional inequalities and monotonicity
-- [ ] [[Q06]] — P1 — Age equations and constant differences
-- [ ] [[Q07]] — XX — Cylinder volume and percentage scaling
-- [ ] [[Q08]] — P1 — Pythagorean triples and area scaling
+- [ ] [[Q04]] — IGCSE — Ratios and linear equations
+- [ ] [[Q05]] — IGCSE — Fractional inequalities and monotonicity
+- [ ] [[Q06]] — IGCSE — Age equations and constant differences
+- [ ] [[Q07]] — IGCSE — Cylinder volume and percentage scaling
+- [ ] [[Q08]] — IGCSE — Pythagorean triples and area scaling
 - [ ] [[Q09]] — S1 — Conditional probability and random-sampling symmetry
-- [ ] [[Q10]] — XX — Diophantine equations and divisors
-- [ ] [[Q11]] — P1 — Common tangents to circles and geometric cases
-- [ ] [[Q12]] — P2 — Parabolas, coordinate intercepts, and kite area
-- [ ] [[Q13]] — XX — Tournament invariants and parity
+- [ ] [[Q10]] — AMC — Diophantine equations and divisors
+- [ ] [[Q11]] — AMC — Common tangents to circles and geometric cases
+- [ ] [[Q12]] — IGCSE — Parabolas, coordinate intercepts, and kite area
+- [ ] [[Q13]] — AMC — Tournament invariants and parity
 - [ ] [[Q14]] — P2 — Change of base and logarithm identities
-- [ ] [[Q15]] — XX — Terminating decimals and denominator factors
-- [ ] [[Q16]] — XX — Tetrahedron volume and perpendicular planes
-- [ ] [[Q17]] — S1 — Circular arrangements and independent coin flips
-- [ ] [[Q18]] — P2 — Vieta's formulas and integer factor pairs
-- [ ] [[Q19]] — P1 — Pythagoras' theorem and geometric parametrisation
-- [ ] [[Q20]] — P1 — Isosceles-triangle areas and algebraic factorisation
-- [ ] [[Q21]] — P2 — Ellipse foci and circle intersections
-- [ ] [[Q22]] — XX — Recurrences and modular periodicity
-- [ ] [[Q23]] — S1 — Geometric probability and square-side casework
+- [ ] [[Q15]] — IGCSE — Terminating decimals and denominator factors
+- [ ] [[Q16]] — AMC — Tetrahedron volume and perpendicular planes
+- [ ] [[Q17]] — AMC — Circular arrangements and independent coin flips
+- [ ] [[Q18]] — AMC — Vieta's formulas and integer factor pairs
+- [ ] [[Q19]] — IGCSE — Pythagoras' theorem and geometric parametrisation
+- [ ] [[Q20]] — IGCSE — Isosceles-triangle areas and algebraic factorisation
+- [ ] [[Q21]] — IGCSE — Ellipse foci and circle intersections
+- [ ] [[Q22]] — AMC — Recurrences and modular periodicity
+- [ ] [[Q23]] — AMC — Geometric probability and square-side casework
 - [ ] [[Q24]] — P3 — Complex numbers and rational enumeration
-- [ ] [[Q25]] — XX — Tangent-circle relations and geometric series
+- [ ] [[Q25]] — P1 — Tangent-circle relations and geometric series
 
 ## Answer Key
 

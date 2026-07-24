@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — XX — Prime factorization and extremal product constraints
-- [ ] [[Q02]] — P1 — Laws of indices and exponential notation
-- [ ] [[Q03]] — P1 — Repeated percentages and reverse calculation
-- [ ] [[Q04]] — XX — Fibonacci recurrences and units-digit cycles
-- [ ] [[Q05]] — P1 — Absolute-value equations and linear rearrangement
-- [ ] [[Q06]] — XX — Prime numbers, parity, and factorization
+- [ ] [[Q01]] — AMC — Prime factorization and extremal product constraints
+- [ ] [[Q02]] — IGCSE — Laws of indices and exponential notation
+- [ ] [[Q03]] — IGCSE — Repeated percentages and reverse calculation
+- [ ] [[Q04]] — AMC — Fibonacci recurrences and units-digit cycles
+- [ ] [[Q05]] — P2 — Absolute-value equations and linear rearrangement
+- [ ] [[Q06]] — AMC — Prime numbers, parity, and factorization
 - [ ] [[Q07]] — P2 — Logarithms, prime powers, and integer bases
 - [ ] [[Q08]] — P1 — Quadratic patterns and finite differences
-- [ ] [[Q09]] — S1 — Means, divisibility, and ordering constraints
-- [ ] [[Q10]] — XX — Three-dimensional transformations and coordinates
-- [ ] [[Q11]] — P1 — Algebraic fractions and substitution
-- [ ] [[Q12]] — P1 — Symmetric algebraic optimization and AM–GM
-- [ ] [[Q13]] — P1 — Ratios, mixtures, and linear constraints
+- [ ] [[Q09]] — AMC — Means, divisibility, and ordering constraints
+- [ ] [[Q10]] — AMC — Three-dimensional transformations and coordinates
+- [ ] [[Q11]] — IGCSE — Algebraic fractions and substitution
+- [ ] [[Q12]] — AMC — Symmetric algebraic optimization and AM–GM
+- [ ] [[Q13]] — IGCSE — Ratios, mixtures, and linear constraints
 - [ ] [[Q14]] — S1 — Mean, median, mode, and casework
 - [ ] [[Q15]] — P1 — Composite functions and quadratic equations
-- [ ] [[Q16]] — P1 — Linear Diophantine equations and grid indexing
-- [ ] [[Q17]] — P1 — Tangents, angle bisectors, and trigonometry
-- [ ] [[Q18]] — XX — Calendar arithmetic and modular cycles
-- [ ] [[Q19]] — P1 — Angle bisectors, Heron's formula, and triangle area
-- [ ] [[Q20]] — P1 — Systems of equations and symmetric products
-- [ ] [[Q21]] — P1 — Similar triangles and area ratios
-- [ ] [[Q22]] — P2 / P3 — Polynomial roots, Vieta's formulas, and complex zeros
-- [ ] [[Q23]] — S1 / P2 — Logarithms, products, and probability
-- [ ] [[Q24]] — P1 — Circular arcs, tangent circles, and circumference
-- [ ] [[Q25]] — XX — Rotational symmetry and Burnside's lemma
+- [ ] [[Q16]] — AMC — Linear Diophantine equations and grid indexing
+- [ ] [[Q17]] — AMC — Tangents, angle bisectors, and trigonometry
+- [ ] [[Q18]] — AMC — Calendar arithmetic and modular cycles
+- [ ] [[Q19]] — AMC — Angle bisectors, Heron's formula, and triangle area
+- [ ] [[Q20]] — AMC — Systems of equations and symmetric products
+- [ ] [[Q21]] — IGCSE — Similar triangles and area ratios
+- [ ] [[Q22]] — P3 — Polynomial roots, Vieta's formulas, and complex zeros
+- [ ] [[Q23]] — P2 / S1 — Logarithms, products, and probability
+- [ ] [[Q24]] — AMC — Circular arcs, tangent circles, and circumference
+- [ ] [[Q25]] — AMC — Rotational symmetry and Burnside's lemma
 
 ## Answer Key
 

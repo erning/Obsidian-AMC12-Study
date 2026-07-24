@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Distributive property and algebraic decomposition
-- [ ] [[Q02]] — P1 — Simultaneous linear equations and modelling
-- [ ] [[Q03]] — P1 — Bounds, constructive proof, and optimisation
-- [ ] [[Q04]] — XX — Prime factorisation and factorial divisibility
-- [ ] [[Q05]] — S1 / P1 — Arithmetic mean and linear modelling
-- [ ] [[Q06]] — P1 — Factorisation, sign analysis, and finite casework
-- [ ] [[Q07]] — P1 — Vectors, symmetry, midpoints, and medians
+- [ ] [[Q01]] — IGCSE — Distributive property and algebraic decomposition
+- [ ] [[Q02]] — IGCSE — Simultaneous linear equations and modelling
+- [ ] [[Q03]] — AMC — Bounds, constructive proof, and optimisation
+- [ ] [[Q04]] — AMC — Prime factorisation and factorial divisibility
+- [ ] [[Q05]] — S1 — Arithmetic mean and linear modelling
+- [ ] [[Q06]] — AMC — Factorisation, sign analysis, and finite casework
+- [ ] [[Q07]] — P3 — Vectors, symmetry, midpoints, and medians
 - [ ] [[Q08]] — P2 — Logarithm laws, domains, and trigonometric bounds
-- [ ] [[Q09]] — P1 — Difference of squares, factor pairs, and optimisation
-- [ ] [[Q10]] — P1 — Right-triangle tangent and double-angle identities
-- [ ] [[Q11]] — XX — Number bases, modular arithmetic, and arithmetic-progressions counting
+- [ ] [[Q09]] — AMC — Difference of squares, factor pairs, and optimisation
+- [ ] [[Q10]] — AMC — Right-triangle tangent and double-angle identities
+- [ ] [[Q11]] — AMC — Number bases, modular arithmetic, and arithmetic-progressions counting
 - [ ] [[Q12]] — P2 — Geometric sequences, divisors, and optimisation
-- [ ] [[Q13]] — P1 — Axes of symmetry, exponentials, and reflections
-- [ ] [[Q14]] — P1 — Arithmetic progressions, bilinear expressions, and linear systems
-- [ ] [[Q15]] — P3 / P2 — Polynomial roots, complex conjugates, and factorisation
+- [ ] [[Q13]] — AMC — Axes of symmetry, exponentials, and reflections
+- [ ] [[Q14]] — IGCSE — Arithmetic progressions, bilinear expressions, and linear systems
+- [ ] [[Q15]] — P3 — Polynomial roots, complex conjugates, and factorisation
 - [ ] [[Q16]] — S1 — Multinomial counting, combinations, and probability
-- [ ] [[Q17]] — P2 — Nonlinear equations, factorisation, and integer casework
-- [ ] [[Q18]] — P1 — Special-angle identities, rotations, and circle chords
-- [ ] [[Q19]] — P1 — Cyclic quadrilaterals, the cosine rule, and Ptolemy's theorem
-- [ ] [[Q20]] — S1 / P3 — Geometric probability, area ratios, and integration
-- [ ] [[Q21]] — P2 — Recurrences, induction, sum of squares, and bounds
-- [ ] [[Q22]] — XX — Graph theory, non-intersecting paths, and transfer matrices
-- [ ] [[Q23]] — P1 — Factorisation, tangent identities, and special angles
-- [ ] [[Q24]] — XX — Acute triangles, Heron's formula, and three-dimensional geometry
-- [ ] [[Q25]] — XX — Fractional linear transformations, inverse functions, and symmetry counting
+- [ ] [[Q17]] — AMC — Nonlinear equations, factorisation, and integer casework
+- [ ] [[Q18]] — IGCSE — Special-angle identities, rotations, and circle chords
+- [ ] [[Q19]] — AMC — Cyclic quadrilaterals, the cosine rule, and Ptolemy's theorem
+- [ ] [[Q20]] — P3 — Geometric probability, area ratios, and integration
+- [ ] [[Q21]] — AMC — Recurrences, induction, sum of squares, and bounds
+- [ ] [[Q22]] — AMC — Graph theory, non-intersecting paths, and transfer matrices
+- [ ] [[Q23]] — AMC — Factorisation, tangent identities, and special angles
+- [ ] [[Q24]] — AMC — Acute triangles, Heron's formula, and three-dimensional geometry
+- [ ] [[Q25]] — P1 — Fractional linear transformations, inverse functions, and symmetry counting
 
 ## Answer Key
 

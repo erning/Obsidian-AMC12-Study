@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Percentages and currency units
-- [ ] [[Q02]] — P1 — Scoring inequalities and integer constraints
-- [ ] [[Q03]] — P1 — Linear Diophantine equations and positive pairs
-- [ ] [[Q04]] — S1 — Basic counting and family-tree constraints
+- [ ] [[Q01]] — IGCSE — Percentages and currency units
+- [ ] [[Q02]] — AMC — Scoring inequalities and integer constraints
+- [ ] [[Q03]] — AMC — Linear Diophantine equations and positive pairs
+- [ ] [[Q04]] — AMC — Basic counting and family-tree constraints
 - [ ] [[Q05]] — P1 — Gradients, intercepts, and coordinate geometry
-- [ ] [[Q06]] — P2 — Factorization and laws of indices
-- [ ] [[Q07]] — XX — Process simulation and invariants
-- [ ] [[Q08]] — P1 — Triangle areas and area decomposition
-- [ ] [[Q09]] — XX — Cylinder volume scaling and percentages
-- [ ] [[Q10]] — P1 — Arithmetic sequences and averages
-- [ ] [[Q11]] — P1 — Means and linear equations
+- [ ] [[Q06]] — IGCSE — Factorization and laws of indices
+- [ ] [[Q07]] — AMC — Process simulation and invariants
+- [ ] [[Q08]] — IGCSE — Triangle areas and area decomposition
+- [ ] [[Q09]] — IGCSE — Cylinder volume scaling and percentages
+- [ ] [[Q10]] — P1 / S1 — Arithmetic sequences and averages
+- [ ] [[Q11]] — IGCSE — Means and linear equations
 - [ ] [[Q12]] — P1 — Coordinate geometry and distance formula
-- [ ] [[Q13]] — P1 / S1 — Lattice configurations and counting lines
+- [ ] [[Q13]] — AMC — Lattice configurations and counting lines
 - [ ] [[Q14]] — P1 — Arithmetic and geometric sequences with quadratics
-- [ ] [[Q15]] — P1 — Relative speed on a circular track
+- [ ] [[Q15]] — IGCSE — Relative speed on a circular track
 - [ ] [[Q16]] — P2 — Nested logarithms and domains
-- [ ] [[Q17]] — P2 — Functional recurrences and exponential sums
-- [ ] [[Q18]] — P1 — Tangents, power of a point, and Pythagoras
-- [ ] [[Q19]] — P1 — Tangent circles and systems of equations
-- [ ] [[Q20]] — S1 / P1 — Continuous geometric probability and rounding
-- [ ] [[Q21]] — P1 / P2 — Trigonometric identities and infinite geometric series
-- [ ] [[Q22]] — XX — Tangent spheres and three-dimensional geometry
-- [ ] [[Q23]] — P2 / P3 — Complex roots, conjugates, and polynomial coefficients
-- [ ] [[Q24]] — P1 — Loci, circles, and composite areas
-- [ ] [[Q25]] — XX — Positional bases, recurring expansions, and telescoping products
+- [ ] [[Q17]] — AMC — Functional recurrences and exponential sums
+- [ ] [[Q18]] — AMC — Tangents, power of a point, and Pythagoras
+- [ ] [[Q19]] — AMC — Tangent circles and systems of equations
+- [ ] [[Q20]] — AMC — Continuous geometric probability and rounding
+- [ ] [[Q21]] — P2 — Trigonometric identities and infinite geometric series
+- [ ] [[Q22]] — AMC — Tangent spheres and three-dimensional geometry
+- [ ] [[Q23]] — P3 — Complex roots, conjugates, and polynomial coefficients
+- [ ] [[Q24]] — AMC — Loci, circles, and composite areas
+- [ ] [[Q25]] — AMC — Positional bases, recurring expansions, and telescoping products
 
 ## Answer Key
 

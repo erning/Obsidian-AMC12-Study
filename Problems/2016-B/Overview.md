@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Negative indices and fraction simplification
-- [ ] [[Q02]] — XX — Harmonic mean and estimation
-- [ ] [[Q03]] — P1 — Modulus and order of operations
-- [ ] [[Q04]] — P1 — Complementary angles and ratios
-- [ ] [[Q05]] — XX — Modular arithmetic and periodicity
-- [ ] [[Q06]] — P2 — Parabola symmetry and triangle area
-- [ ] [[Q07]] — XX — Iterative elimination and powers of two
-- [ ] [[Q08]] — P1 — Similar figures and area scaling
+- [ ] [[Q01]] — IGCSE — Negative indices and fraction simplification
+- [ ] [[Q02]] — S1 — Harmonic mean and estimation
+- [ ] [[Q03]] — IGCSE — Modulus and order of operations
+- [ ] [[Q04]] — IGCSE — Complementary angles and ratios
+- [ ] [[Q05]] — AMC — Modular arithmetic and periodicity
+- [ ] [[Q06]] — AMC — Parabola symmetry and triangle area
+- [ ] [[Q07]] — AMC — Iterative elimination and powers of two
+- [ ] [[Q08]] — IGCSE — Similar figures and area scaling
 - [ ] [[Q09]] — P1 — Coordinate geometry and equal spacing
 - [ ] [[Q10]] — P1 — Coordinate geometry and difference of squares
-- [ ] [[Q11]] — XX — Lattice-point counting and geometric inequalities
-- [ ] [[Q12]] — XX — Checkerboard colouring and parity
-- [ ] [[Q13]] — P1 — Right-triangle trigonometry and Pythagoras' theorem
+- [ ] [[Q11]] — AMC — Lattice-point counting and geometric inequalities
+- [ ] [[Q12]] — AMC — Checkerboard colouring and parity
+- [ ] [[Q13]] — IGCSE — Right-triangle trigonometry and Pythagoras' theorem
 - [ ] [[Q14]] — P2 — Infinite geometric series and quadratic optimisation
-- [ ] [[Q15]] — XX — Cube-face pairing and AM-GM inequality
-- [ ] [[Q16]] — XX — Consecutive sums, divisors, and parity
-- [ ] [[Q17]] — P1 — Triangle altitudes and angle bisectors
-- [ ] [[Q18]] — P2 — Modulus symmetry and completing the square
+- [ ] [[Q15]] — IGCSE — Cube-face pairing and AM-GM inequality
+- [ ] [[Q16]] — AMC — Consecutive sums, divisors, and parity
+- [ ] [[Q17]] — IGCSE — Triangle altitudes and angle bisectors
+- [ ] [[Q18]] — AMC — Modulus symmetry and completing the square
 - [ ] [[Q19]] — P2 / S1 — Geometric series and independent events
-- [ ] [[Q20]] — S1 — Tournament counting and complementary cases
+- [ ] [[Q20]] — AMC — Tournament counting and complementary cases
 - [ ] [[Q21]] — P2 — Coordinate geometry and telescoping series
-- [ ] [[Q22]] — XX — Repeating decimals and divisibility
-- [ ] [[Q23]] — XX — Three-dimensional geometry and volume scaling
-- [ ] [[Q24]] — XX — GCD/LCM prime exponents and multiplicative counting
-- [ ] [[Q25]] — XX — Recursive sequences and modular order
+- [ ] [[Q22]] — AMC — Repeating decimals and divisibility
+- [ ] [[Q23]] — AMC — Three-dimensional geometry and volume scaling
+- [ ] [[Q24]] — AMC — GCD/LCM prime exponents and multiplicative counting
+- [ ] [[Q25]] — AMC — Recursive sequences and modular order
 
 ## Answer Key
 

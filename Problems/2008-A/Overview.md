@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Ratios, proportions, and time calculations
-- [ ] [[Q02]] — P1 — Fractions and algebraic simplification
-- [ ] [[Q03]] — P1 — Ratios and proportions
-- [ ] [[Q04]] — P2 — Telescoping sums and algebraic cancellation
-- [ ] [[Q05]] — P1 — Algebraic manipulation and parity
-- [ ] [[Q06]] — P1 — Percentages and linear equations
-- [ ] [[Q07]] — P1 — Rates and unit conversion
-- [ ] [[Q08]] — XX — Cube geometry, surface area, and volume
-- [ ] [[Q09]] — P1 — Pythagoras and proportional lengths
-- [ ] [[Q10]] — P1 — Rates and linear equations
-- [ ] [[Q11]] — XX — Cube geometry and optimisation
-- [ ] [[Q12]] — P1 — Functions and substitution
-- [ ] [[Q13]] — P1 — Tangent circles, special triangles, and area ratios
-- [ ] [[Q14]] — P1 — Absolute values, rhombi, and areas
-- [ ] [[Q15]] — XX — Units digits and modular exponentiation
+- [ ] [[Q01]] — IGCSE — Ratios, proportions, and time calculations
+- [ ] [[Q02]] — IGCSE — Fractions and algebraic simplification
+- [ ] [[Q03]] — IGCSE — Ratios and proportions
+- [ ] [[Q04]] — AMC — Telescoping sums and algebraic cancellation
+- [ ] [[Q05]] — IGCSE — Algebraic manipulation and parity
+- [ ] [[Q06]] — IGCSE — Percentages and linear equations
+- [ ] [[Q07]] — IGCSE — Rates and unit conversion
+- [ ] [[Q08]] — IGCSE — Cube geometry, surface area, and volume
+- [ ] [[Q09]] — IGCSE — Pythagoras and proportional lengths
+- [ ] [[Q10]] — IGCSE — Rates and linear equations
+- [ ] [[Q11]] — AMC — Cube geometry and optimisation
+- [ ] [[Q12]] — IGCSE — Functions and substitution
+- [ ] [[Q13]] — AMC — Tangent circles, special triangles, and area ratios
+- [ ] [[Q14]] — P2 — Absolute values, rhombi, and areas
+- [ ] [[Q15]] — AMC — Units digits and modular exponentiation
 - [ ] [[Q16]] — P2 — Arithmetic sequences and logarithms
-- [ ] [[Q17]] — XX — Recurrences, modular arithmetic, and casework
-- [ ] [[Q18]] — XX — Three-dimensional geometry, equations, and volume
-- [ ] [[Q19]] — XX — Generating functions and integer partitions
-- [ ] [[Q20]] — P1 — Angle bisectors, incircles, and area ratios
+- [ ] [[Q17]] — AMC — Recurrences, modular arithmetic, and casework
+- [ ] [[Q18]] — AMC — Three-dimensional geometry, equations, and volume
+- [ ] [[Q19]] — AMC — Generating functions and integer partitions
+- [ ] [[Q20]] — IGCSE — Angle bisectors, incircles, and area ratios
 - [ ] [[Q21]] — S1 — Permutations, symmetry, and complementary counting
-- [ ] [[Q22]] — P1 — Circles, isosceles triangles, and Pythagoras
-- [ ] [[Q23]] — P3 / P2 — Complex roots of unity and binomial expansions
+- [ ] [[Q22]] — IGCSE — Circles, isosceles triangles, and Pythagoras
+- [ ] [[Q23]] — FP2 — Complex roots of unity and binomial expansions
 - [ ] [[Q24]] — P1 — Coordinate geometry, trigonometric identities, and optimisation
-- [ ] [[Q25]] — P3 — Complex numbers and De Moivre's theorem
+- [ ] [[Q25]] — FP2 — Complex numbers and De Moivre's theorem
 
 ## Answer Key
 

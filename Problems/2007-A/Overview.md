@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Percentages, prices, and money calculations
-- [ ] [[Q02]] — XX — Rectangular-prism volume and spatial reasoning
-- [ ] [[Q03]] — P1 — Linear equations
-- [ ] [[Q04]] — P1 — Uniform motion, distance, rate, and time
-- [ ] [[Q05]] — P1 — Percentages and reverse calculations
-- [ ] [[Q06]] — P1 — Isosceles triangles and angle chasing
+- [ ] [[Q01]] — IGCSE — Percentages, prices, and money calculations
+- [ ] [[Q02]] — IGCSE — Rectangular-prism volume and spatial reasoning
+- [ ] [[Q03]] — IGCSE — Linear equations
+- [ ] [[Q04]] — IGCSE — Uniform motion, distance, rate, and time
+- [ ] [[Q05]] — IGCSE — Percentages and reverse calculations
+- [ ] [[Q06]] — IGCSE — Isosceles triangles and angle chasing
 - [ ] [[Q07]] — P2 — Arithmetic sequences and symmetric terms
-- [ ] [[Q08]] — P1 — Inscribed angles and arcs
-- [ ] [[Q09]] — P1 — Uniform motion, ratios, and proportions
-- [ ] [[Q10]] — P1 — Right triangles, circumcircles, and triangle areas
-- [ ] [[Q11]] — XX — Place value and divisibility
+- [ ] [[Q08]] — IGCSE — Inscribed angles and arcs
+- [ ] [[Q09]] — IGCSE — Uniform motion, ratios, and proportions
+- [ ] [[Q10]] — IGCSE — Right triangles, circumcircles, and triangle areas
+- [ ] [[Q11]] — AMC — Place value and divisibility
 - [ ] [[Q12]] — S1 — Parity and elementary probability
 - [ ] [[Q13]] — P1 — Coordinate geometry and gradients
-- [ ] [[Q14]] — P1 — Factorisation and bounding arguments
+- [ ] [[Q14]] — IGCSE — Factorisation and bounding arguments
 - [ ] [[Q15]] — S1 — Mean, median, and case analysis
-- [ ] [[Q16]] — XX — Digit sequences and casework
+- [ ] [[Q16]] — AMC — Digit sequences and casework
 - [ ] [[Q17]] — P1 — Trigonometric identities and algebraic simplification
 - [ ] [[Q18]] — P3 — Complex numbers and polynomials
 - [ ] [[Q19]] — P1 — Coordinate geometry and triangle area
-- [ ] [[Q20]] — XX — Cube geometry and volume
+- [ ] [[Q20]] — IGCSE — Cube geometry and volume
 - [ ] [[Q21]] — P2 — Quadratics and Vieta's formulas
-- [ ] [[Q22]] — XX — Digits, modular arithmetic, and bounds
-- [ ] [[Q23]] — P2 / P1 — Logarithms, coordinates, and square geometry
-- [ ] [[Q24]] — P1 — Trigonometry, line intersections, and summation
-- [ ] [[Q25]] — XX — Recursive counting and subsets
+- [ ] [[Q22]] — AMC — Digits, modular arithmetic, and bounds
+- [ ] [[Q23]] — P2 — Logarithms, coordinates, and square geometry
+- [ ] [[Q24]] — IGCSE — Trigonometry, line intersections, and summation
+- [ ] [[Q25]] — AMC — Recursive counting and subsets
 
 ## Answer Key
 

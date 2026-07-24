@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Negative indices and order of operations
-- [ ] [[Q02]] — P1 — Rates, time, and unit conversion
-- [ ] [[Q03]] — XX — Linear Diophantine equations and divisibility
-- [ ] [[Q04]] — XX — Relative positions and logical constraints
-- [ ] [[Q05]] — P1 — Percentages, inequalities, and extremal reasoning
-- [ ] [[Q06]] — XX — Parity and complementary counting
-- [ ] [[Q07]] — P1 — Regular polygons, reflection symmetry, and rotations
+- [ ] [[Q01]] — IGCSE — Negative indices and order of operations
+- [ ] [[Q02]] — IGCSE — Rates, time, and unit conversion
+- [ ] [[Q03]] — AMC — Linear Diophantine equations and divisibility
+- [ ] [[Q04]] — AMC — Relative positions and logical constraints
+- [ ] [[Q05]] — AMC — Percentages, inequalities, and extremal reasoning
+- [ ] [[Q06]] — AMC — Parity and complementary counting
+- [ ] [[Q07]] — AMC — Regular polygons, reflection symmetry, and rotations
 - [ ] [[Q08]] — P2 — Logarithm identities and index laws
 - [ ] [[Q09]] — S1 — Infinite probability processes and recurrences
-- [ ] [[Q10]] — P1 — Triangle inequalities, enumeration, and Pythagorean triples
-- [ ] [[Q11]] — P1 — Coordinate intercepts, right triangles, and areas
+- [ ] [[Q10]] — IGCSE — Triangle inequalities, enumeration, and Pythagorean triples
+- [ ] [[Q11]] — IGCSE — Coordinate intercepts, right triangles, and areas
 - [ ] [[Q12]] — P2 — Factorisation, quadratic roots, and optimisation
-- [ ] [[Q13]] — P1 — Inscribed angles, cyclic quadrilaterals, and isosceles triangles
-- [ ] [[Q14]] — P1 — Circle and equilateral-triangle areas and inclusion-exclusion
+- [ ] [[Q13]] — IGCSE — Inscribed angles, cyclic quadrilaterals, and isosceles triangles
+- [ ] [[Q14]] — AMC — Circle and equilateral-triangle areas and inclusion-exclusion
 - [ ] [[Q15]] — S1 — Complementary probability, independent events, and casework
-- [ ] [[Q16]] — XX — Regular hexagons, pyramids, and three-dimensional volume
+- [ ] [[Q16]] — AMC — Regular hexagons, pyramids, and three-dimensional volume
 - [ ] [[Q17]] — S1 — Binomial probability, combinations, and algebraic simplification
-- [ ] [[Q18]] — XX — Prime factorisation, parity, and range construction
+- [ ] [[Q18]] — AMC — Prime factorisation, parity, and range construction
 - [ ] [[Q19]] — P1 — Pythagoras' theorem, circumcentres, and coordinate geometry
-- [ ] [[Q20]] — XX — Recursive definitions and modular stabilisation
-- [ ] [[Q21]] — XX — Ceiling functions, integer inequalities, and case checking
-- [ ] [[Q22]] — S1 — Restricted permutations, circular arrangements, and casework
-- [ ] [[Q23]] — XX — Cuboid dimensions, volume, and Diophantine equations
-- [ ] [[Q24]] — P1 — Chords, right triangles, and ratio equations
+- [ ] [[Q20]] — AMC — Recursive definitions and modular stabilisation
+- [ ] [[Q21]] — AMC — Ceiling functions, integer inequalities, and case checking
+- [ ] [[Q22]] — AMC — Restricted permutations, circular arrangements, and casework
+- [ ] [[Q23]] — AMC — Cuboid dimensions, volume, and Diophantine equations
+- [ ] [[Q24]] — IGCSE — Chords, right triangles, and ratio equations
 - [ ] [[Q25]] — P3 — Complex rotations, geometric series, and exact radicals
 
 ## Answer Key

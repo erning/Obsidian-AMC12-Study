@@ -12,31 +12,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Absolute-value inequalities and consecutive integers
-- [ ] [[Q02]] — S1 — Pairing, complementary counting, and conservation of counts
-- [ ] [[Q03]] — P1 — Nested fractions and rational equations
-- [ ] [[Q04]] — S1 / P1 — Weighted averages and ratios
-- [ ] [[Q05]] — P1 — Coordinate transformations, rotations, and reflections
-- [ ] [[Q06]] — XX — Cone and cylinder volumes and volume conservation
-- [ ] [[Q07]] — XX — Prime factorisation and divisor sums
-- [ ] [[Q08]] — P1 — Chords, centre distances, and circle symmetry
+- [ ] [[Q01]] — P2 — Absolute-value inequalities and consecutive integers
+- [ ] [[Q02]] — AMC — Pairing, complementary counting, and conservation of counts
+- [ ] [[Q03]] — IGCSE — Nested fractions and rational equations
+- [ ] [[Q04]] — S1 — Weighted averages and ratios
+- [ ] [[Q05]] — IGCSE — Coordinate transformations, rotations, and reflections
+- [ ] [[Q06]] — IGCSE — Cone and cylinder volumes and volume conservation
+- [ ] [[Q07]] — AMC — Prime factorisation and divisor sums
+- [ ] [[Q08]] — AMC — Chords, centre distances, and circle symmetry
 - [ ] [[Q09]] — P2 — Change of base and logarithmic simplification
-- [ ] [[Q10]] — P1 — Arithmetic series and symmetric factorisation
+- [ ] [[Q10]] — IGCSE — Arithmetic series and symmetric factorisation
 - [ ] [[Q11]] — P1 — Coordinate geometry, cosine rule, and parallel lines
-- [ ] [[Q12]] — S1 / P1 — Averages and linear equations from removals
-- [ ] [[Q13]] — P3 — Periodic trigonometric functions and calculus-based root counting
-- [ ] [[Q14]] — XX — Three-dimensional Pythagoras and pyramid volume
-- [ ] [[Q15]] — XX — Symmetry, rhombi, and shoelace area
-- [ ] [[Q16]] — P2 — Vieta's formulas, reciprocal roots, and polynomial evaluation
-- [ ] [[Q17]] — P1 — Trapezoid area ratios, symmetry, and algebraic ratios
+- [ ] [[Q12]] — S1 — Averages and linear equations from removals
+- [ ] [[Q13]] — AMC — Periodic trigonometric functions and calculus-based root counting
+- [ ] [[Q14]] — AMC — Three-dimensional Pythagoras and pyramid volume
+- [ ] [[Q15]] — AMC — Symmetry, rhombi, and shoelace area
+- [ ] [[Q16]] — AMC — Vieta's formulas, reciprocal roots, and polynomial evaluation
+- [ ] [[Q17]] — AMC — Trapezoid area ratios, symmetry, and algebraic ratios
 - [ ] [[Q18]] — P3 — Complex modulus, conjugates, and completing the square
-- [ ] [[Q19]] — S1 — Dice probabilities and outcome counting
+- [ ] [[Q19]] — AMC — Dice probabilities and outcome counting
 - [ ] [[Q20]] — P2 — Polynomial division and remainder arithmetic
-- [ ] [[Q21]] — P3 / P2 — Exponential and logarithmic equations with root counting
-- [ ] [[Q22]] — XX — Sprague-Grundy theory and Nim-sums
+- [ ] [[Q21]] — P2 — Exponential and logarithmic equations with root counting
+- [ ] [[Q22]] — AMC — Sprague-Grundy theory and Nim-sums
 - [ ] [[Q23]] — P2 / S1 — Infinite geometric series, permutations, and independent probability
-- [ ] [[Q24]] — P1 — Parallelogram diagonals, projections, and area
-- [ ] [[Q25]] — XX — Lattice points, floor functions, and boundaries
+- [ ] [[Q24]] — IGCSE — Parallelogram diagonals, projections, and area
+- [ ] [[Q25]] — AMC — Lattice points, floor functions, and boundaries
 
 ## Answers
 

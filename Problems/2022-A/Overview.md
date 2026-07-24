@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Nested fractions and fraction arithmetic
-- [ ] [[Q02]] — P1 — Linear equations and translated relationships
-- [ ] [[Q03]] — P1 — Rectangle area, perimeter, and geometric decomposition
-- [ ] [[Q04]] — XX — Prime factors, greatest common divisors, and least common multiples
-- [ ] [[Q05]] — XX — Taxicab distance, lattice points, and arithmetic series
-- [ ] [[Q06]] — S1 / P1 — Averages, linear equations, and casework
-- [ ] [[Q07]] — XX — Graph colouring and counting principles
+- [ ] [[Q01]] — IGCSE — Nested fractions and fraction arithmetic
+- [ ] [[Q02]] — IGCSE — Linear equations and translated relationships
+- [ ] [[Q03]] — IGCSE — Rectangle area, perimeter, and geometric decomposition
+- [ ] [[Q04]] — AMC — Prime factors, greatest common divisors, and least common multiples
+- [ ] [[Q05]] — AMC — Taxicab distance, lattice points, and arithmetic series
+- [ ] [[Q06]] — S1 — Averages, linear equations, and casework
+- [ ] [[Q07]] — AMC — Graph colouring and counting principles
 - [ ] [[Q08]] — P2 — Infinite geometric series, exponents, and products
-- [ ] [[Q09]] — XX — Logic, truth tables, and classification counting
-- [ ] [[Q10]] — XX — Matchings, greedy casework, and counting
+- [ ] [[Q09]] — AMC — Logic, truth tables, and classification counting
+- [ ] [[Q10]] — AMC — Matchings, greedy casework, and counting
 - [ ] [[Q11]] — P2 — Logarithms, absolute value, and distance on a number line
-- [ ] [[Q12]] — XX — Regular tetrahedra, equilateral triangles, and the cosine rule
-- [ ] [[Q13]] — XX — Complex-plane geometry, Minkowski sums, and stadium areas
+- [ ] [[Q12]] — IGCSE — Regular tetrahedra, equilateral triangles, and the cosine rule
+- [ ] [[Q13]] — P3 — Complex-plane geometry, Minkowski sums, and stadium areas
 - [ ] [[Q14]] — P2 — Logarithm laws, cubic identities, and algebraic simplification
-- [ ] [[Q15]] — P2 — Vieta's formulas, symmetric expressions, and polynomial roots
-- [ ] [[Q16]] — XX — Pell equations, triangular numbers, and recurrences
+- [ ] [[Q15]] — FP1 — Cubic polynomial roots and symmetric expressions
+- [ ] [[Q16]] — AMC — Pell equations, triangular numbers, and recurrences
 - [ ] [[Q17]] — P3 — Trigonometric identities, factorisation, and solution counting
-- [ ] [[Q18]] — XX — Composed transformations, rotations, and modular angles
-- [ ] [[Q19]] — XX — Permutations, descents, and Eulerian numbers
+- [ ] [[Q18]] — AMC — Composed transformations, rotations, and modular angles
+- [ ] [[Q19]] — S1 — Permutations, descents, and Eulerian numbers
 - [ ] [[Q20]] — P1 — Coordinate geometry, isosceles trapezoids, and squared distances
-- [ ] [[Q21]] — P3 — Roots of unity, polynomial factors, and modular exponents
-- [ ] [[Q22]] — P3 / P2 — Complex conjugates, Vieta's formulas, and geometric area
-- [ ] [[Q23]] — XX — Harmonic numbers, least common multiples, and prime valuations
-- [ ] [[Q24]] — XX — Sorting, inequalities, and parking functions
-- [ ] [[Q25]] — P1 — Tangent lines, right triangles, and integer solutions
+- [ ] [[Q21]] — FP2 — Roots of unity and polynomial factors
+- [ ] [[Q22]] — P3 — Complex conjugates, Vieta's formulas, and geometric area
+- [ ] [[Q23]] — AMC — Harmonic numbers, least common multiples, and prime valuations
+- [ ] [[Q24]] — IGCSE — Sorting, inequalities, and parking functions
+- [ ] [[Q25]] — AMC — Tangent lines, right triangles, and integer solutions
 
 ## Answer Key
 

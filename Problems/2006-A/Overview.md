@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Ratios, price changes, and proportional reasoning
-- [ ] [[Q02]] — P1 — Defined operations, substitution, and algebraic simplification
-- [ ] [[Q03]] — P1 — Ratios, proportions, and age problems
-- [ ] [[Q04]] — XX — Digit constraints and clock arithmetic
-- [ ] [[Q05]] — P1 — Fractions, prices, and proportional relationships
-- [ ] [[Q06]] — P1 — Square geometry and area comparison
-- [ ] [[Q07]] — P1 — Percentages and linear equations
+- [ ] [[Q01]] — IGCSE — Ratios, price changes, and proportional reasoning
+- [ ] [[Q02]] — IGCSE — Defined operations, substitution, and algebraic simplification
+- [ ] [[Q03]] — IGCSE — Ratios, proportions, and age problems
+- [ ] [[Q04]] — AMC — Digit constraints and clock arithmetic
+- [ ] [[Q05]] — IGCSE — Fractions, prices, and proportional relationships
+- [ ] [[Q06]] — IGCSE — Square geometry and area comparison
+- [ ] [[Q07]] — IGCSE — Percentages and linear equations
 - [ ] [[Q08]] — P2 — Arithmetic sequences and case analysis
-- [ ] [[Q09]] — XX — Diophantine equations and divisibility
-- [ ] [[Q10]] — P1 — Surds, inequalities, and integer intervals
-- [ ] [[Q11]] — P1 — Algebraic manipulation and factorisation
-- [ ] [[Q12]] — P2 — Arithmetic series and summation
-- [ ] [[Q13]] — P1 — Tangent circles, simultaneous equations, and areas
-- [ ] [[Q14]] — XX — Greatest common divisors and Diophantine equations
-- [ ] [[Q15]] — P1 — Trigonometric ratios and identities
-- [ ] [[Q16]] — P1 — Similarity, tangents, and Pythagoras
+- [ ] [[Q09]] — AMC — Diophantine equations and divisibility
+- [ ] [[Q10]] — AMC — Surds, inequalities, and integer intervals
+- [ ] [[Q11]] — IGCSE — Algebraic manipulation and factorisation
+- [ ] [[Q12]] — IGCSE — Arithmetic series and summation
+- [ ] [[Q13]] — AMC — Tangent circles, simultaneous equations, and areas
+- [ ] [[Q14]] — AMC — Greatest common divisors and Diophantine equations
+- [ ] [[Q15]] — IGCSE — Trigonometric ratios and identities
+- [ ] [[Q16]] — AMC — Similarity, tangents, and Pythagoras
 - [ ] [[Q17]] — P1 — Power of a point, tangents, and coordinate geometry
-- [ ] [[Q18]] — XX — Functional equations and strategic substitution
+- [ ] [[Q18]] — AMC — Functional equations and strategic substitution
 - [ ] [[Q19]] — P1 — Tangent lines, trigonometric identities, and coordinates
-- [ ] [[Q20]] — XX — Graph theory, probability, and casework
-- [ ] [[Q21]] — P2 / P1 — Logarithms, completing the square, and circle areas
-- [ ] [[Q22]] — S1 / P1 — Geometric probability, regular polygons, and trigonometry
-- [ ] [[Q23]] — P2 — Binomial expansions and recurrences
-- [ ] [[Q24]] — P2 / S1 — Binomial coefficients, parity, and counting
+- [ ] [[Q20]] — AMC — Graph theory, probability, and casework
+- [ ] [[Q21]] — P2 — Logarithms, completing the square, and circle areas
+- [ ] [[Q22]] — AMC — Geometric probability, regular polygons, and trigonometry
+- [ ] [[Q23]] — AMC — Binomial expansions and recurrences
+- [ ] [[Q24]] — AMC — Binomial coefficients, parity, and counting
 - [ ] [[Q25]] — S1 — Subsets, bijections, and combinations
 
 ## Answer Key

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Circle area, percentage increase, and ratios
-- [ ] [[Q02]] — P1 — Percentages, ratios, and proportional reasoning
-- [ ] [[Q03]] — XX — Pigeonhole principle and worst-case counting
-- [ ] [[Q04]] — P2 — Arithmetic sequences and bounds from averages
-- [ ] [[Q05]] — XX — Linear systems and the shoelace formula
-- [ ] [[Q06]] — XX — Rigid motions and periodic symmetry patterns
+- [ ] [[Q01]] — IGCSE — Circle area, percentage increase, and ratios
+- [ ] [[Q02]] — IGCSE — Percentages, ratios, and proportional reasoning
+- [ ] [[Q03]] — AMC — Pigeonhole principle and worst-case counting
+- [ ] [[Q04]] — P2 / S1 — Arithmetic sequences and bounds from averages
+- [ ] [[Q05]] — IGCSE — Linear systems and the shoelace formula
+- [ ] [[Q06]] — AMC — Rigid motions and periodic symmetry patterns
 - [ ] [[Q07]] — S1 — Mean, median, mode, and frequency data
-- [ ] [[Q08]] — P1 — Line intersections and geometric case analysis
-- [ ] [[Q09]] — XX — Reciprocal substitutions and linear recurrences
-- [ ] [[Q10]] — P1 — Tangent circles, regular hexagons, and area subtraction
+- [ ] [[Q08]] — AMC — Line intersections and geometric case analysis
+- [ ] [[Q09]] — AMC — Reciprocal substitutions and linear recurrences
+- [ ] [[Q10]] — AMC — Tangent circles, regular hexagons, and area subtraction
 - [ ] [[Q11]] — P2 — Geometric series, positional representation, and quadratics
 - [ ] [[Q12]] — P2 — Logarithm identities and change of base
-- [ ] [[Q13]] — XX — Graph colouring and divisibility casework
+- [ ] [[Q13]] — AMC — Graph colouring and divisibility casework
 - [ ] [[Q14]] — P3 — Complex quadratic roots and Vieta's formulas
-- [ ] [[Q15]] — XX — Logarithms with Diophantine constraints
-- [ ] [[Q16]] — XX — Parity and grid combinatorics
-- [ ] [[Q17]] — XX — Polynomial power sums and recurrences
-- [ ] [[Q18]] — XX — Sphere-plane intersections and triangle geometry
+- [ ] [[Q15]] — P2 — Logarithms with Diophantine constraints
+- [ ] [[Q16]] — AMC — Parity and grid combinatorics
+- [ ] [[Q17]] — AMC — Polynomial power sums and recurrences
+- [ ] [[Q18]] — AMC — Sphere-plane intersections and triangle geometry
 - [ ] [[Q19]] — P1 — Trigonometric identities, sine rule, and triangle inequalities
-- [ ] [[Q20]] — S1 — Total probability and uniform geometric probability
-- [ ] [[Q21]] — P3 — Polar complex numbers and roots of unity
-- [ ] [[Q22]] — P1 — Equilateral triangles, coordinates, and point-to-line distance
+- [ ] [[Q20]] — AMC — Total probability and uniform geometric probability
+- [ ] [[Q21]] — FP2 — Polar complex numbers and roots of unity
+- [ ] [[Q22]] — IGCSE — Equilateral triangles, coordinates, and point-to-line distance
 - [ ] [[Q23]] — P2 — Logarithm laws and telescoping products
-- [ ] [[Q24]] — XX — Prime valuations and Legendre's formula
-- [ ] [[Q25]] — P1 / P3 — Orthic triangles, angle chasing, and exponential growth
+- [ ] [[Q24]] — AMC — Prime valuations and Legendre's formula
+- [ ] [[Q25]] — IGCSE — Orthic triangles, angle chasing, and exponential growth
 
 ## Answer Key
 

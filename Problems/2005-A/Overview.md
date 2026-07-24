@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Percentages and linear equations
-- [ ] [[Q02]] — P1 — Linear equations and substitution
-- [ ] [[Q03]] — P1 — Rectangles, Pythagoras, and area
-- [ ] [[Q04]] — P1 — Counting offers and unit-price savings
-- [ ] [[Q05]] — P1 — Weighted means and averages
-- [ ] [[Q06]] — P1 — Uniform motion and proportional reasoning
-- [ ] [[Q07]] — P1 — Similar squares, rotations, and area
-- [ ] [[Q08]] — XX — Digit equations and prime factorization
+- [ ] [[Q01]] — IGCSE — Percentages and linear equations
+- [ ] [[Q02]] — IGCSE — Linear equations and substitution
+- [ ] [[Q03]] — IGCSE — Rectangles, Pythagoras, and area
+- [ ] [[Q04]] — AMC — Counting offers and unit-price savings
+- [ ] [[Q05]] — S1 — Weighted means and averages
+- [ ] [[Q06]] — IGCSE — Uniform motion and proportional reasoning
+- [ ] [[Q07]] — IGCSE — Similar squares, rotations, and area
+- [ ] [[Q08]] — AMC — Digit equations and prime factorization
 - [ ] [[Q09]] — P1 — Quadratic discriminants and repeated roots
-- [ ] [[Q10]] — XX — Painted-cube surface counting
-- [ ] [[Q11]] — P1 — Digit averages and arithmetic sequences
-- [ ] [[Q12]] — P1 — Coordinate lines and lattice points
+- [ ] [[Q10]] — AMC — Painted-cube surface counting
+- [ ] [[Q11]] — P1 / S1 — Digit averages and arithmetic sequences
+- [ ] [[Q12]] — AMC — Coordinate lines and lattice points
 - [ ] [[Q13]] — P1 — Arithmetic sequences and finite casework
 - [ ] [[Q14]] — S1 — Conditional probability and random outcomes
-- [ ] [[Q15]] — P1 — Circle diameters, midpoints, and area ratios
+- [ ] [[Q15]] — IGCSE — Circle diameters, midpoints, and area ratios
 - [ ] [[Q16]] — P1 — Coordinate geometry and tangent circles
-- [ ] [[Q17]] — XX — Three-dimensional dissections and prism volumes
-- [ ] [[Q18]] — XX — Primes, inclusion-exclusion, and counting integers
-- [ ] [[Q19]] — XX — Non-decimal bases and positional systems
-- [ ] [[Q20]] — P1 / P2 — Iterated functions, preimages, and binary branching
+- [ ] [[Q17]] — AMC — Three-dimensional dissections and prism volumes
+- [ ] [[Q18]] — AMC — Primes, inclusion-exclusion, and counting integers
+- [ ] [[Q19]] — AMC — Non-decimal bases and positional systems
+- [ ] [[Q20]] — AMC — Iterated functions, preimages, and binary branching
 - [ ] [[Q21]] — P2 — Logarithms, integer exponents, and Diophantine constraints
-- [ ] [[Q22]] — XX — Rectangular boxes, spheres, and three-dimensional geometry
-- [ ] [[Q23]] — S1 / P2 — Probability, logarithms, and divisibility
-- [ ] [[Q24]] — P2 — Polynomial composition and roots
-- [ ] [[Q25]] — XX — Three-dimensional coordinates and equilateral triangles
+- [ ] [[Q22]] — AMC — Rectangular boxes, spheres, and three-dimensional geometry
+- [ ] [[Q23]] — P2 / S1 — Probability, logarithms, and divisibility
+- [ ] [[Q24]] — AMC — Polynomial composition and roots
+- [ ] [[Q25]] — AMC — Three-dimensional coordinates and equilateral triangles
 
 ## Answer Key
 

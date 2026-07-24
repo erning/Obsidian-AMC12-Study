@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Algebraic manipulation and linear expressions
-- [ ] [[Q02]] — XX — Place value and digit equations
-- [ ] [[Q03]] — P1 — Percentage rates and linear equations
-- [ ] [[Q04]] — S1 / P1 — Mean, median, and linear constraints
-- [ ] [[Q05]] — XX — Factorials and product manipulation
-- [ ] [[Q06]] — XX — Digit constraints and finite casework
-- [ ] [[Q07]] — P1 — Simultaneous linear equations and integer constraints
+- [ ] [[Q01]] — IGCSE — Algebraic manipulation and linear expressions
+- [ ] [[Q02]] — AMC — Place value and digit equations
+- [ ] [[Q03]] — IGCSE — Percentage rates and linear equations
+- [ ] [[Q04]] — S1 — Mean, median, and linear constraints
+- [ ] [[Q05]] — IGCSE — Factorials and product manipulation
+- [ ] [[Q06]] — AMC — Digit constraints and finite casework
+- [ ] [[Q07]] — AMC — Simultaneous linear equations and integer constraints
 - [ ] [[Q08]] — P1 — Circular measure, sector arcs, and cone nets
-- [ ] [[Q09]] — P1 — Functional equations and substitution
-- [ ] [[Q10]] — P1 — Tiling, polygon areas, and percentages
+- [ ] [[Q09]] — AMC — Functional equations and substitution
+- [ ] [[Q10]] — IGCSE — Tiling, polygon areas, and percentages
 - [ ] [[Q11]] — S1 — Sampling without replacement and probability
-- [ ] [[Q12]] — S1 — Inclusion-exclusion and counting multiples
+- [ ] [[Q12]] — AMC — Inclusion-exclusion and counting multiples
 - [ ] [[Q13]] — P1 — Parabola transformations and vertex form
-- [ ] [[Q14]] — P1 / S1 — Regular polygons, equilateral triangles, and counting
-- [ ] [[Q15]] — XX — Tetrahedron nets and shortest surface paths
-- [ ] [[Q16]] — S1 — Restricted permutations and ordering constraints
-- [ ] [[Q17]] — S1 / P1 — Geometric probability, inscribed angles, and area
-- [ ] [[Q18]] — P1 — Tangent circles and Pythagorean geometry
-- [ ] [[Q19]] — P2 — Cubic polynomials and Vieta's formulas
-- [ ] [[Q20]] — P1 — Coordinate geometry, midpoints, and vectors
-- [ ] [[Q21]] — P2 — Algebraic factorization and integer systems
-- [ ] [[Q22]] — P1 — Similar triangles and area ratios
-- [ ] [[Q23]] — P3 / P2 — Complex roots and polynomial coefficients
-- [ ] [[Q24]] — P1 — Angle chasing and exact trigonometry
+- [ ] [[Q14]] — AMC — Regular polygons, equilateral triangles, and counting
+- [ ] [[Q15]] — AMC — Tetrahedron nets and shortest surface paths
+- [ ] [[Q16]] — AMC — Restricted permutations and ordering constraints
+- [ ] [[Q17]] — AMC — Geometric probability, inscribed angles, and area
+- [ ] [[Q18]] — AMC — Tangent circles and Pythagorean geometry
+- [ ] [[Q19]] — FP1 — Cubic polynomial roots and coefficients
+- [ ] [[Q20]] — P3 — Coordinate geometry, midpoints, and vectors
+- [ ] [[Q21]] — AMC — Algebraic factorization and integer systems
+- [ ] [[Q22]] — IGCSE — Similar triangles and area ratios
+- [ ] [[Q23]] — P3 — Complex roots and polynomial coefficients
+- [ ] [[Q24]] — IGCSE — Angle chasing and exact trigonometry
 - [ ] [[Q25]] — P2 — Recursive sequences, quadratic relations, and casework
 
 ## Answer Key

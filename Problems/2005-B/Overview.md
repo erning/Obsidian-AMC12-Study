@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Ratios, unit prices, and profit
+- [ ] [[Q01]] — IGCSE — Ratios, unit prices, and profit
 - [ ] [[Q02]] — P1 — Percentages and quadratic equations
-- [ ] [[Q03]] — P1 — Fractions and proportional spending
-- [ ] [[Q04]] — P1 — Percentages and inequality constraints
-- [ ] [[Q05]] — P1 — Circle sectors and composite areas
-- [ ] [[Q06]] — P1 — Isosceles triangles and Pythagoras
-- [ ] [[Q07]] — P1 — Absolute values, lines, and coordinate geometry
-- [ ] [[Q08]] — P1 — Parabolas, lines, and vertex conditions
+- [ ] [[Q03]] — IGCSE — Fractions and proportional spending
+- [ ] [[Q04]] — IGCSE — Percentages and inequality constraints
+- [ ] [[Q05]] — IGCSE — Circle sectors and composite areas
+- [ ] [[Q06]] — IGCSE — Isosceles triangles and Pythagoras
+- [ ] [[Q07]] — P2 — Absolute values, lines, and coordinate geometry
+- [ ] [[Q08]] — IGCSE — Parabolas, lines, and vertex conditions
 - [ ] [[Q09]] — S1 — Mean, median, and frequency distributions
-- [ ] [[Q10]] — XX — Digit iterations and recurrent cycles
+- [ ] [[Q10]] — AMC — Digit iterations and recurrent cycles
 - [ ] [[Q11]] — S1 — Sampling without replacement and combinations
 - [ ] [[Q12]] — P2 — Quadratics, Vieta's formulas, and root scaling
 - [ ] [[Q13]] — P2 — Logarithms and telescoping products
 - [ ] [[Q14]] — P1 — Coordinate geometry, tangent lines, and circles
-- [ ] [[Q15]] — XX — Digit constraints and finite casework
-- [ ] [[Q16]] — XX — Spheres, octants, and three-dimensional distance
+- [ ] [[Q15]] — AMC — Digit constraints and finite casework
+- [ ] [[Q16]] — AMC — Spheres, octants, and three-dimensional distance
 - [ ] [[Q17]] — P2 — Logarithms and linear relations
 - [ ] [[Q18]] — P1 — Coordinate geometry, acute triangles, and locus areas
-- [ ] [[Q19]] — P1 — Difference of squares and digit reversal
-- [ ] [[Q20]] — P1 — Completing the square and partition optimization
-- [ ] [[Q21]] — XX — Divisor functions and prime exponents
+- [ ] [[Q19]] — AMC — Difference of squares and digit reversal
+- [ ] [[Q20]] — AMC — Completing the square and partition optimization
+- [ ] [[Q21]] — AMC — Divisor functions and prime exponents
 - [ ] [[Q22]] — P3 — Complex conjugates and recurrence
-- [ ] [[Q23]] — P2 — Logarithms and symmetric polynomials
-- [ ] [[Q24]] — P1 — Parabolas, exact trigonometry, and equilateral triangles
+- [ ] [[Q23]] — FP1 — Logarithms and symmetric polynomials
+- [ ] [[Q24]] — IGCSE — Parabolas, exact trigonometry, and equilateral triangles
 - [ ] [[Q25]] — S1 — Restricted arrangements and probability on an octahedron
 
 ## Answer Key

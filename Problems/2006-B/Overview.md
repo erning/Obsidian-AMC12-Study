@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P2 — Exponents, reciprocal terms, and algebraic grouping
-- [ ] [[Q02]] — P1 — Defined operations and difference of squares
-- [ ] [[Q03]] — P1 — Simultaneous linear equations
-- [ ] [[Q04]] — P1 — Estimation, bounds, and percentages
-- [ ] [[Q05]] — P1 — Relative speed and uniform motion
-- [ ] [[Q06]] — P1 — Ratios and proportions
-- [ ] [[Q07]] — S1 — Multiplication principle and restricted arrangements
-- [ ] [[Q08]] — P1 — Simultaneous equations and substitution
+- [ ] [[Q01]] — AMC — Exponents, reciprocal terms, and algebraic grouping
+- [ ] [[Q02]] — IGCSE — Defined operations and difference of squares
+- [ ] [[Q03]] — IGCSE — Simultaneous linear equations
+- [ ] [[Q04]] — IGCSE — Estimation, bounds, and percentages
+- [ ] [[Q05]] — IGCSE — Relative speed and uniform motion
+- [ ] [[Q06]] — IGCSE — Ratios and proportions
+- [ ] [[Q07]] — AMC — Multiplication principle and restricted arrangements
+- [ ] [[Q08]] — IGCSE — Simultaneous equations and substitution
 - [ ] [[Q09]] — S1 — Digit selection, combinations, and casework
-- [ ] [[Q10]] — P1 — Triangle inequality and optimisation
-- [ ] [[Q11]] — P1 — Mixtures, ratios, and proportions
+- [ ] [[Q10]] — AMC — Triangle inequality and optimisation
+- [ ] [[Q11]] — IGCSE — Mixtures, ratios, and proportions
 - [ ] [[Q12]] — P1 — Quadratics, parabolas, and vertex properties
-- [ ] [[Q13]] — P1 — Rhombi, equilateral triangles, and area decomposition
-- [ ] [[Q14]] — XX — Diophantine equations, prime factors, and casework
-- [ ] [[Q15]] — P1 — Tangent circles, trapezoids, and Pythagoras
-- [ ] [[Q16]] — P1 — Regular polygons, coordinate distance, and area
+- [ ] [[Q13]] — IGCSE — Rhombi, equilateral triangles, and area decomposition
+- [ ] [[Q14]] — AMC — Diophantine equations, prime factors, and casework
+- [ ] [[Q15]] — AMC — Tangent circles, trapezoids, and Pythagoras
+- [ ] [[Q16]] — AMC — Regular polygons, coordinate distance, and area
 - [ ] [[Q17]] — S1 — Equally likely dice outcomes and probability
-- [ ] [[Q18]] — XX — Lattice points, parity, and counting
-- [ ] [[Q19]] — XX — Divisibility, digit constraints, and casework
-- [ ] [[Q20]] — XX — Floor and ceiling functions with geometric probability
-- [ ] [[Q21]] — P1 — Ellipses and algebraic manipulation
-- [ ] [[Q22]] — XX — Prime exponents, trailing zeros, and optimisation
-- [ ] [[Q23]] — P1 — Transformations, cosine rule, and Pythagoras
-- [ ] [[Q24]] — P2 / P1 — Trigonometric identities, quadratics, and area
-- [ ] [[Q25]] — XX — Greatest common divisors, parity, and inclusion-exclusion
+- [ ] [[Q18]] — AMC — Lattice points, parity, and counting
+- [ ] [[Q19]] — AMC — Divisibility, digit constraints, and casework
+- [ ] [[Q20]] — AMC — Floor and ceiling functions with geometric probability
+- [ ] [[Q21]] — IGCSE — Ellipses and algebraic manipulation
+- [ ] [[Q22]] — AMC — Prime exponents, trailing zeros, and optimisation
+- [ ] [[Q23]] — IGCSE — Transformations, cosine rule, and Pythagoras
+- [ ] [[Q24]] — P2 — Trigonometric identities, quadratics, and area
+- [ ] [[Q25]] — AMC — Greatest common divisors, parity, and inclusion-exclusion
 
 ## Answer Key
 

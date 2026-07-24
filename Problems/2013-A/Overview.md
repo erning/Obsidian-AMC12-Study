@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Triangle areas, bases, and heights
-- [ ] [[Q02]] — XX — Parity and sums of consecutive integers
-- [ ] [[Q03]] — P1 — Percentages and complementary fractions
-- [ ] [[Q04]] — P1 — Indices, factorisation, and rational simplification
+- [ ] [[Q01]] — AMC — Triangle areas, bases, and heights
+- [ ] [[Q02]] — AMC — Parity and sums of consecutive integers
+- [ ] [[Q03]] — IGCSE — Percentages and complementary fractions
+- [ ] [[Q04]] — IGCSE — Indices, factorisation, and rational simplification
 - [ ] [[Q05]] — S1 — Averages, equal sharing, and linear arithmetic
 - [ ] [[Q06]] — S1 — Percentages, weighted averages, and expected values
-- [ ] [[Q07]] — P2 — Linear recurrences and backward substitution
-- [ ] [[Q08]] — P1 — Algebraic manipulation, factorisation, and non-zero denominators
-- [ ] [[Q09]] — P1 — Similar triangles, parallelograms, and isosceles triangles
-- [ ] [[Q10]] — P1 — Repeating decimals and fraction representations
-- [ ] [[Q11]] — P1 — Equilateral triangles, similarity, and linear equations
+- [ ] [[Q07]] — AMC — Linear recurrences and backward substitution
+- [ ] [[Q08]] — IGCSE — Algebraic manipulation, factorisation, and non-zero denominators
+- [ ] [[Q09]] — IGCSE — Similar triangles, parallelograms, and isosceles triangles
+- [ ] [[Q10]] — IGCSE — Repeating decimals and fraction representations
+- [ ] [[Q11]] — IGCSE — Equilateral triangles, similarity, and linear equations
 - [ ] [[Q12]] — P2 — Arithmetic progressions, the cosine rule, and quadratics
 - [ ] [[Q13]] — P1 — Coordinate geometry and triangle areas
 - [ ] [[Q14]] — P2 — Logarithms, arithmetic progressions, and geometric progressions
-- [ ] [[Q15]] — S1 — Restricted counting, casework, and the multiplication principle
+- [ ] [[Q15]] — AMC — Restricted counting, casework, and the multiplication principle
 - [ ] [[Q16]] — S1 — Weighted averages, integer ratios, and optimisation
-- [ ] [[Q17]] — XX — Divisibility, factorials, and reverse recurrences
-- [ ] [[Q18]] — XX — Sphere tangency and three-dimensional geometry
-- [ ] [[Q19]] — P1 — Power of a point, factorisation, and triangle inequalities
-- [ ] [[Q20]] — XX — Modular arithmetic and bounded compositions
+- [ ] [[Q17]] — AMC — Divisibility, factorials, and reverse recurrences
+- [ ] [[Q18]] — AMC — Sphere tangency and three-dimensional geometry
+- [ ] [[Q19]] — AMC — Power of a point, factorisation, and triangle inequalities
+- [ ] [[Q20]] — AMC — Modular arithmetic and bounded compositions
 - [ ] [[Q21]] — P2 — Nested logarithms, bounds, and monotonicity
-- [ ] [[Q22]] — XX — Palindromes, carries, and digit counting
-- [ ] [[Q23]] — P1 — Rotations, circular sectors, and area decomposition
-- [ ] [[Q24]] — XX — Regular polygon chords and multiplicity counting
+- [ ] [[Q22]] — AMC — Palindromes, carries, and digit counting
+- [ ] [[Q23]] — IGCSE — Rotations, circular sectors, and area decomposition
+- [ ] [[Q24]] — AMC — Regular polygon chords and multiplicity counting
 - [ ] [[Q25]] — P3 — Complex numbers, injective functions, and lattice-point counting
 
 ## Answer Key

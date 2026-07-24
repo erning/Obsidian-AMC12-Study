@@ -15,31 +15,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Linear equations and rate problems
-- [ ] [[Q02]] — P1 — Inequalities and strict bounds
-- [ ] [[Q03]] — P1 — Rational equations and homogeneous expressions
-- [ ] [[Q04]] — P1 — Distance, rate, time, and weighted average speed
-- [ ] [[Q05]] — S1 — Quartiles, interquartile range, and outliers
-- [ ] [[Q06]] — P1 — Circle equations, midpoints, and distances
-- [ ] [[Q07]] — P2 — Periodic functions and even/odd functions
-- [ ] [[Q08]] — P1 — Pythagoras' theorem and ratio equations
-- [ ] [[Q09]] — P2 — Circle equations and radical axes
+- [ ] [[Q01]] — IGCSE — Linear equations and rate problems
+- [ ] [[Q02]] — IGCSE — Inequalities and strict bounds
+- [ ] [[Q03]] — IGCSE — Rational equations and homogeneous expressions
+- [ ] [[Q04]] — S1 — Distance, rate, time, and weighted average speed
+- [ ] [[Q05]] — IGCSE — Quartiles, interquartile range, and outliers
+- [ ] [[Q06]] — IGCSE — Circle equations, midpoints, and distances
+- [ ] [[Q07]] — IGCSE — Periodic functions and even/odd functions
+- [ ] [[Q08]] — IGCSE — Pythagoras' theorem and ratio equations
+- [ ] [[Q09]] — AMC — Circle equations and radical axes
 - [ ] [[Q10]] — S1 — Conditional probability and two-way classification
-- [ ] [[Q11]] — S1 — Subset counting and inclusion-exclusion
+- [ ] [[Q11]] — AMC — Subset counting and inclusion-exclusion
 - [ ] [[Q12]] — P3 — Complex roots, polar form, and conjugates
-- [ ] [[Q13]] — S1 — Symmetry, equivalence classes, and casework
-- [ ] [[Q14]] — XX — Cone and frustum volumes with similarity
-- [ ] [[Q15]] — P1 — Similar-triangle areas and geometric decomposition
-- [ ] [[Q16]] — XX — Factorial prime factors and divisor counting
+- [ ] [[Q13]] — AMC — Symmetry, equivalence classes, and casework
+- [ ] [[Q14]] — IGCSE — Cone and frustum volumes with similarity
+- [ ] [[Q15]] — IGCSE — Similar-triangle areas and geometric decomposition
+- [ ] [[Q16]] — AMC — Factorial prime factors and divisor counting
 - [ ] [[Q17]] — S1 — Independent events and Bernoulli probabilities
-- [ ] [[Q18]] — P1 — Similar triangles, Thales' theorem, and area ratios
-- [ ] [[Q19]] — XX — Modular arithmetic and divisibility tests
+- [ ] [[Q18]] — IGCSE — Similar triangles, Thales' theorem, and area ratios
+- [ ] [[Q19]] — AMC — Modular arithmetic and divisibility tests
 - [ ] [[Q20]] — P2 / S1 — Geometric series and continuous probability
-- [ ] [[Q21]] — XX — Divisibility constraints and integer averages
-- [ ] [[Q22]] — S1 — Ordered outcomes, net flow, and casework
-- [ ] [[Q23]] — P2 — Vieta's formulas, cubic interpolation, and secants
-- [ ] [[Q24]] — P1 — Similar right triangles, coordinates, and area determinants
-- [ ] [[Q25]] — XX — Binomial coefficients and periodic divisibility
+- [ ] [[Q21]] — S1 — Divisibility constraints and integer averages
+- [ ] [[Q22]] — AMC — Ordered outcomes, net flow, and casework
+- [ ] [[Q23]] — AMC — Vieta's formulas, cubic interpolation, and secants
+- [ ] [[Q24]] — IGCSE — Similar right triangles, coordinates, and area determinants
+- [ ] [[Q25]] — AMC — Binomial coefficients and periodic divisibility
 
 ## Answer Key
 

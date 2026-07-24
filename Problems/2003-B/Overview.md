@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Alternating sums and algebraic fractions
-- [ ] [[Q02]] — P1 — Linear equations and unit costs
-- [ ] [[Q03]] — P1 — Areas, unit costs, and optimization
-- [ ] [[Q04]] — P1 — Areas, rates, and unit conversion
-- [ ] [[Q05]] — P1 — Pythagoras and proportional rectangles
+- [ ] [[Q01]] — IGCSE — Alternating sums and algebraic fractions
+- [ ] [[Q02]] — IGCSE — Linear equations and unit costs
+- [ ] [[Q03]] — IGCSE — Areas, unit costs, and optimization
+- [ ] [[Q04]] — IGCSE — Areas, rates, and unit conversion
+- [ ] [[Q05]] — IGCSE — Pythagoras and proportional rectangles
 - [ ] [[Q06]] — P1 — Geometric sequences and surds
-- [ ] [[Q07]] — P1 — Simultaneous linear equations and integer constraints
-- [ ] [[Q08]] — XX — Digit sums and finite casework
-- [ ] [[Q09]] — P1 — Linear functions and gradients
-- [ ] [[Q10]] — S1 — Symmetry and counting non-congruent configurations
-- [ ] [[Q11]] — P1 — Constant rates and proportional reasoning
-- [ ] [[Q12]] — XX — Divisibility and common factors
-- [ ] [[Q13]] — XX — Cone and sphere volume relations
-- [ ] [[Q14]] — P1 — Similar triangles and area ratios
-- [ ] [[Q15]] — P1 — Regular polygons and area decomposition
-- [ ] [[Q16]] — P1 — Semicircles, equilateral triangles, and areas
+- [ ] [[Q07]] — AMC — Simultaneous linear equations and integer constraints
+- [ ] [[Q08]] — AMC — Digit sums and finite casework
+- [ ] [[Q09]] — IGCSE — Linear functions and gradients
+- [ ] [[Q10]] — AMC — Symmetry and counting non-congruent configurations
+- [ ] [[Q11]] — IGCSE — Constant rates and proportional reasoning
+- [ ] [[Q12]] — AMC — Divisibility and common factors
+- [ ] [[Q13]] — AMC — Cone and sphere volume relations
+- [ ] [[Q14]] — IGCSE — Similar triangles and area ratios
+- [ ] [[Q15]] — AMC — Regular polygons and area decomposition
+- [ ] [[Q16]] — IGCSE — Semicircles, equilateral triangles, and areas
 - [ ] [[Q17]] — P2 — Logarithms and simultaneous equations
-- [ ] [[Q18]] — XX — Prime exponents and integer powers
+- [ ] [[Q18]] — AMC — Prime exponents and integer powers
 - [ ] [[Q19]] — S1 — Conditional probability and permutations
-- [ ] [[Q20]] — P2 — Cubic polynomials and graph information
-- [ ] [[Q21]] — S1 / P1 — Geometric probability, radians, and the cosine rule
-- [ ] [[Q22]] — P1 — Rhombi, perpendicular distances, and optimization
-- [ ] [[Q23]] — P2 — Trigonometric graphs and counting zeros
-- [ ] [[Q24]] — P1 — Absolute values and systems of equations
-- [ ] [[Q25]] — S1 / P1 — Geometric probability, arcs, and chords
+- [ ] [[Q20]] — AMC — Cubic polynomials and graph information
+- [ ] [[Q21]] — P1 — Geometric probability, radians, and the cosine rule
+- [ ] [[Q22]] — IGCSE — Rhombi, perpendicular distances, and optimization
+- [ ] [[Q23]] — AMC — Trigonometric graphs and counting zeros
+- [ ] [[Q24]] — P2 — Absolute values and systems of equations
+- [ ] [[Q25]] — AMC — Geometric probability, arcs, and chords
 
 ## Answer Key
 

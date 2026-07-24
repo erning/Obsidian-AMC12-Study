@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Percentages and equations with a fixed numerator
-- [ ] [[Q02]] — P1 — Integer optimisation and value density
+- [ ] [[Q01]] — IGCSE — Percentages and equations with a fixed numerator
+- [ ] [[Q02]] — AMC — Integer optimisation and value density
 - [ ] [[Q03]] — S1 — Combinations and permutations
-- [ ] [[Q04]] — P1 — Negating inequalities and intersecting intervals
+- [ ] [[Q04]] — IGCSE — Negating inequalities and intersecting intervals
 - [ ] [[Q05]] — P1 — Quadratic factorisation and common roots
 - [ ] [[Q06]] — S1 — Mean, median, and ordered data
-- [ ] [[Q07]] — XX — Prime exponents and integer powers
-- [ ] [[Q08]] — P1 — Similar triangles and area scaling
-- [ ] [[Q09]] — P3 — Angle-addition identities and trigonometric ranges
-- [ ] [[Q10]] — P1 — Modulus and piecewise linear systems
-- [ ] [[Q11]] — P1 — Perpendicular bisectors and similar right triangles
-- [ ] [[Q12]] — XX — Divisibility chains and extremal sets
-- [ ] [[Q13]] — XX — Balanced ternary and finite-set symmetry
+- [ ] [[Q07]] — AMC — Prime exponents and integer powers
+- [ ] [[Q08]] — IGCSE — Similar triangles and area scaling
+- [ ] [[Q09]] — IGCSE — Angle-addition identities and trigonometric ranges
+- [ ] [[Q10]] — IGCSE — Modulus and piecewise linear systems
+- [ ] [[Q11]] — IGCSE — Perpendicular bisectors and similar right triangles
+- [ ] [[Q12]] — AMC — Divisibility chains and extremal sets
+- [ ] [[Q13]] — AMC — Balanced ternary and finite-set symmetry
 - [ ] [[Q14]] — P2 — Change of base and exponential equations
-- [ ] [[Q15]] — XX — Group actions, orbits, and symmetry counting
-- [ ] [[Q16]] — P2 — Curve substitution and real-root counting
-- [ ] [[Q17]] — P1 — Point-to-line distance and area ratios
-- [ ] [[Q18]] — P1 — Similarity, midpoints, and angle bisectors
-- [ ] [[Q19]] — XX — Prime factorisation and infinite geometric series
+- [ ] [[Q15]] — AMC — Group actions, orbits, and symmetry counting
+- [ ] [[Q16]] — AMC — Curve substitution and real-root counting
+- [ ] [[Q17]] — IGCSE — Point-to-line distance and area ratios
+- [ ] [[Q18]] — IGCSE — Similarity, midpoints, and angle bisectors
+- [ ] [[Q19]] — P1 — Prime factorisation and infinite geometric series
 - [ ] [[Q20]] — P1 — Cyclic quadrilaterals, cosine rule, and quadratics
-- [ ] [[Q21]] — P2 — Polynomial monotonicity and root comparison
-- [ ] [[Q22]] — XX — Complex square roots and vector cross products
-- [ ] [[Q23]] — P1 — Midlines, parallelograms, and isosceles triangles
-- [ ] [[Q24]] — S1 / P2 — Continuous probability and quadratic optimisation
-- [ ] [[Q25]] — P2 — Repunit expressions and polynomial identities
+- [ ] [[Q21]] — AMC — Polynomial monotonicity and root comparison
+- [ ] [[Q22]] — FP1 — Complex square roots and vector cross products
+- [ ] [[Q23]] — IGCSE — Midlines, parallelograms, and isosceles triangles
+- [ ] [[Q24]] — P2 / S1 — Continuous probability and quadratic optimisation
+- [ ] [[Q25]] — AMC — Repunit expressions and polynomial identities
 
 ## Answer Key
 

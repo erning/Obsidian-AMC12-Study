@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Fractions, reciprocals, and order of operations
-- [ ] [[Q02]] — P1 — Ratios, unit prices, and linear scaling
-- [ ] [[Q03]] — S1 — Restricted permutations, adjacency, and casework
-- [ ] [[Q04]] — P1 — Rates and proportional reasoning
+- [ ] [[Q01]] — IGCSE — Fractions, reciprocals, and order of operations
+- [ ] [[Q02]] — IGCSE — Ratios, unit prices, and linear scaling
+- [ ] [[Q03]] — AMC — Restricted permutations, adjacency, and casework
+- [ ] [[Q04]] — IGCSE — Rates and proportional reasoning
 - [ ] [[Q05]] — S1 — Weighted means and medians
-- [ ] [[Q06]] — XX — Place value, digit equations, and integer constraints
-- [ ] [[Q07]] — P2 — Geometric progressions and index laws
-- [ ] [[Q08]] — P1 — Piecewise linear inequalities and percentage discounts
-- [ ] [[Q09]] — P2 — Arithmetic sequences and averages
-- [ ] [[Q10]] — P1 — Equilateral and isosceles triangles and Pythagoras' theorem
-- [ ] [[Q11]] — P1 — Rates, time, and linear equations
+- [ ] [[Q06]] — AMC — Place value, digit equations, and integer constraints
+- [ ] [[Q07]] — IGCSE — Geometric progressions and index laws
+- [ ] [[Q08]] — IGCSE — Piecewise linear inequalities and percentage discounts
+- [ ] [[Q09]] — P2 / S1 — Arithmetic sequences and averages
+- [ ] [[Q10]] — IGCSE — Equilateral and isosceles triangles and Pythagoras' theorem
+- [ ] [[Q11]] — IGCSE — Rates, time, and linear equations
 - [ ] [[Q12]] — P1 — Chords, central angles, and trigonometric identities
-- [ ] [[Q13]] — S1 — Partitions, group permutations, and casework
-- [ ] [[Q14]] — P2 — Arithmetic progressions, geometric progressions, and parametrisation
-- [ ] [[Q15]] — XX — Place value, digit sums, and counting
-- [ ] [[Q16]] — XX — Carries in multiplication and digit sums
-- [ ] [[Q17]] — XX — Sphere tangency and three-dimensional coordinates
+- [ ] [[Q13]] — AMC — Partitions, group permutations, and casework
+- [ ] [[Q14]] — IGCSE — Arithmetic progressions, geometric progressions, and parametrisation
+- [ ] [[Q15]] — AMC — Place value, digit sums, and counting
+- [ ] [[Q16]] — AMC — Carries in multiplication and digit sums
+- [ ] [[Q17]] — AMC — Sphere tangency and three-dimensional coordinates
 - [ ] [[Q18]] — P2 — Logarithm domains and inequalities for bases below one
-- [ ] [[Q19]] — P2 — Polynomial roots, integer bounds, and injectivity
-- [ ] [[Q20]] — P1 — Reflections, shortest paths, and the cosine rule
+- [ ] [[Q19]] — AMC — Polynomial roots, integer bounds, and injectivity
+- [ ] [[Q20]] — IGCSE — Reflections, shortest paths, and the cosine rule
 - [ ] [[Q21]] — P2 — Floor functions, logarithmic inequalities, and telescoping products
-- [ ] [[Q22]] — P2 — Exponential inequalities and counting powers in intervals
-- [ ] [[Q23]] — XX — Repeating decimals, base 100, and digit sums
-- [ ] [[Q24]] — P1 — Absolute values, piecewise linear functions, and preimages
-- [ ] [[Q25]] — P2 — Parabolas, directrices, and lattice-point parametrisation
+- [ ] [[Q22]] — AMC — Exponential inequalities and counting powers in intervals
+- [ ] [[Q23]] — AMC — Repeating decimals, base 100, and digit sums
+- [ ] [[Q24]] — P2 — Absolute values, piecewise linear functions, and preimages
+- [ ] [[Q25]] — AMC — Parabolas, directrices, and lattice-point parametrisation
 
 ## Answer Key
 

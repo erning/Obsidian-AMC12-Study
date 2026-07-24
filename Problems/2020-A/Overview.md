@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Percentages and successive operations on a remainder
-- [ ] [[Q02]] — P1 — Distance formula and grid coordinates
-- [ ] [[Q03]] — P1 — Rates, unit conversion, and net earnings
-- [ ] [[Q04]] — XX — Divisibility rules and multiplication principle
-- [ ] [[Q05]] — P1 — Arithmetic means of consecutive integers and magic-square totals
-- [ ] [[Q06]] — XX — Reflection symmetry and transformation orbits
-- [ ] [[Q07]] — XX — Cube surface area and projections
+- [ ] [[Q01]] — IGCSE — Percentages and successive operations on a remainder
+- [ ] [[Q02]] — IGCSE — Distance formula and grid coordinates
+- [ ] [[Q03]] — IGCSE — Rates, unit conversion, and net earnings
+- [ ] [[Q04]] — AMC — Divisibility rules and multiplication principle
+- [ ] [[Q05]] — AMC — Arithmetic means of consecutive integers and magic-square totals
+- [ ] [[Q06]] — AMC — Reflection symmetry and transformation orbits
+- [ ] [[Q07]] — IGCSE — Cube surface area and projections
 - [ ] [[Q08]] — S1 — Median of an even-sized data set and duplicates
-- [ ] [[Q09]] — P3 — Tangent period, asymptotes, and intersections
+- [ ] [[Q09]] — AMC — Tangent period, asymptotes, and intersections
 - [ ] [[Q10]] — P2 — Change of base and logarithmic equations
-- [ ] [[Q11]] — S1 — Random walks, harmonic averaging, and symmetry
+- [ ] [[Q11]] — AMC — Random walks, harmonic averaging, and symmetry
 - [ ] [[Q12]] — P1 — Slopes under rotation and point-slope form
-- [ ] [[Q13]] — P1 — Nested radicals, indices, and rational equations
-- [ ] [[Q14]] — P1 — Regular polygons, cyclic quadrilaterals, and diagonals
-- [ ] [[Q15]] — P3 — Roots of unity, factorisation, and complex-plane distance
-- [ ] [[Q16]] — XX — Lattice periodicity and area probability
-- [ ] [[Q17]] — XX — Shoelace formula, logarithms, and consecutive integers
-- [ ] [[Q18]] — P1 — Coordinates, Thales' theorem, and triangle area
-- [ ] [[Q19]] — XX — Geometric-series factorisation and binary representation
-- [ ] [[Q20]] — XX — Isometry groups and ordered-choice counting
-- [ ] [[Q21]] — XX — Prime exponents, LCM, and GCD
-- [ ] [[Q22]] — P3 / P2 — Complex numbers and infinite geometric series
-- [ ] [[Q23]] — S1 — Conditional optimisation and dice probabilities
-- [ ] [[Q24]] — P1 — Equilateral-triangle coordinates and distance equations
-- [ ] [[Q25]] — XX — Floor functions and piecewise quadratics
+- [ ] [[Q13]] — IGCSE — Nested radicals, indices, and rational equations
+- [ ] [[Q14]] — AMC — Regular polygons, cyclic quadrilaterals, and diagonals
+- [ ] [[Q15]] — FP2 — Roots of unity, factorisation, and complex-plane distance
+- [ ] [[Q16]] — S1 — Lattice periodicity and area probability
+- [ ] [[Q17]] — P2 — Shoelace formula, logarithms, and consecutive integers
+- [ ] [[Q18]] — IGCSE — Coordinates, Thales' theorem, and triangle area
+- [ ] [[Q19]] — IGCSE — Geometric-series factorisation and binary representation
+- [ ] [[Q20]] — AMC — Isometry groups and ordered-choice counting
+- [ ] [[Q21]] — AMC — Prime exponents, LCM, and GCD
+- [ ] [[Q22]] — P3 — Complex numbers and infinite geometric series
+- [ ] [[Q23]] — AMC — Conditional optimisation and dice probabilities
+- [ ] [[Q24]] — IGCSE — Equilateral-triangle coordinates and distance equations
+- [ ] [[Q25]] — P1 — Floor functions and piecewise quadratics
 
 ## Answer Key
 

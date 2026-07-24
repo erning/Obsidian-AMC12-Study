@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Fractions and equal sharing
-- [ ] [[Q02]] — P1 — Percentages and reverse calculations
-- [ ] [[Q03]] — P1 — Right triangles, circumcircles, and area ratios
-- [ ] [[Q04]] — P1 — Unit conversion and area
-- [ ] [[Q05]] — XX — Extremal combinatorics, grid graphs, and complementary counting
-- [ ] [[Q06]] — P2 — Polynomial signs, root multiplicity, and parity
+- [ ] [[Q01]] — IGCSE — Fractions and equal sharing
+- [ ] [[Q02]] — IGCSE — Percentages and reverse calculations
+- [ ] [[Q03]] — IGCSE — Right triangles, circumcircles, and area ratios
+- [ ] [[Q04]] — IGCSE — Unit conversion and area
+- [ ] [[Q05]] — AMC — Extremal combinatorics, grid graphs, and complementary counting
+- [ ] [[Q06]] — AMC — Polynomial signs, root multiplicity, and parity
 - [ ] [[Q07]] — P2 — Logarithms, sign analysis, and inequalities
 - [ ] [[Q08]] — S1 — Combinations and least-element casework
-- [ ] [[Q09]] — P1 — Absolute value, coordinate geometry, and symmetry
+- [ ] [[Q09]] — P2 — Absolute value, coordinate geometry, and symmetry
 - [ ] [[Q10]] — P2 — Circle equations, radical axes, and slopes
-- [ ] [[Q11]] — P1 — Isosceles trapezoids, optimisation, and Pythagoras' theorem
+- [ ] [[Q11]] — AMC — Isosceles trapezoids, optimisation, and Pythagoras' theorem
 - [ ] [[Q12]] — P3 — Complex numbers, real and imaginary parts, and simultaneous equations
-- [ ] [[Q13]] — XX — Rectangular prisms, symmetric polynomials, and distance
-- [ ] [[Q14]] — P2 — Vieta's formulas, integer factorisation, and systematic listing
-- [ ] [[Q15]] — XX — Greatest common divisors, modular arithmetic, and logical implications
-- [ ] [[Q16]] — XX — Linear combinations, coin problems, and induction
-- [ ] [[Q17]] — P1 — Arithmetic progressions, the cosine rule, and triangle area
+- [ ] [[Q13]] — FP1 — Rectangular prisms, symmetric polynomials, and distance
+- [ ] [[Q14]] — AMC — Vieta's formulas, integer factorisation, and systematic listing
+- [ ] [[Q15]] — AMC — Greatest common divisors, modular arithmetic, and logical implications
+- [ ] [[Q16]] — S1 — Linear combinations, coin problems, and induction
+- [ ] [[Q17]] — IGCSE — Arithmetic progressions, the cosine rule, and triangle area
 - [ ] [[Q18]] — S1 — Weighted averages, bounds, and logical deduction
 - [ ] [[Q19]] — S1 — Basic probability, parity, and inclusion-exclusion
-- [ ] [[Q20]] — S1 / P1 — Geometric probability, the cosine rule, and uniform angles
-- [ ] [[Q21]] — XX — Cone frustums, developable surfaces, and tangent lengths
-- [ ] [[Q22]] — XX — Functional equations, bounds, and special substitutions
-- [ ] [[Q23]] — XX — Prime factors, exponent vectors, and systematic counting
-- [ ] [[Q24]] — XX — Prime exponents, least common multiples, and greatest common divisors
-- [ ] [[Q25]] — P1 — Regular polygons, apothems, and area ratios
+- [ ] [[Q20]] — AMC — Geometric probability, the cosine rule, and uniform angles
+- [ ] [[Q21]] — AMC — Cone frustums, developable surfaces, and tangent lengths
+- [ ] [[Q22]] — AMC — Functional equations, bounds, and special substitutions
+- [ ] [[Q23]] — P3 — Prime factors, exponent vectors, and systematic counting
+- [ ] [[Q24]] — AMC — Prime exponents, least common multiples, and greatest common divisors
+- [ ] [[Q25]] — AMC — Regular polygons, apothems, and area ratios
 
 ## Answer Key
 

@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — S1 — Means and linear equations
-- [ ] [[Q02]] — P1 — Unit conversion, rectangle areas, and rates
+- [ ] [[Q01]] — IGCSE — Means and linear equations
+- [ ] [[Q02]] — IGCSE — Unit conversion, rectangle areas, and rates
 - [ ] [[Q03]] — P2 — Arithmetic sequences and index counting
-- [ ] [[Q04]] — P1 — Rates, proportions, and average rates
+- [ ] [[Q04]] — S1 — Rates, proportions, and average rates
 - [ ] [[Q05]] — S1 — Weighted averages and totals
-- [ ] [[Q06]] — P1 — Completing the square and non-negative sums
-- [ ] [[Q07]] — P2 — Triangular numbers and sequence indexing
+- [ ] [[Q06]] — IGCSE — Completing the square and non-negative sums
+- [ ] [[Q07]] — IGCSE — Triangular numbers and sequence indexing
 - [ ] [[Q08]] — P1 — Coordinate geometry, gradients, and triangle areas
-- [ ] [[Q09]] — XX — Prime factorisation, factorials, and perfect squares
-- [ ] [[Q10]] — XX — Invariants and integer optimisation
-- [ ] [[Q11]] — XX — Three-dimensional coordinates and periodic motion
-- [ ] [[Q12]] — XX — Euler trails and graph counting
-- [ ] [[Q13]] — P1 — Angle progressions, similar triangles, and casework
-- [ ] [[Q14]] — XX — Fibonacci recurrences and Diophantine equations
-- [ ] [[Q15]] — XX — Factorials, divisibility, and minimality
-- [ ] [[Q16]] — P1 — Equiangular polygons, isosceles triangles, and perimeter invariants
+- [ ] [[Q09]] — AMC — Prime factorisation, factorials, and perfect squares
+- [ ] [[Q10]] — AMC — Invariants and integer optimisation
+- [ ] [[Q11]] — AMC — Three-dimensional coordinates and periodic motion
+- [ ] [[Q12]] — AMC — Euler trails and graph counting
+- [ ] [[Q13]] — AMC — Angle progressions, similar triangles, and casework
+- [ ] [[Q14]] — AMC — Fibonacci recurrences and Diophantine equations
+- [ ] [[Q15]] — AMC — Factorials, divisibility, and minimality
+- [ ] [[Q16]] — AMC — Equiangular polygons, isosceles triangles, and perimeter invariants
 - [ ] [[Q17]] — P2 — Quadratic inequalities, Cauchy-Schwarz, and extremal values
-- [ ] [[Q18]] — XX — Combinatorial games and modular invariants
-- [ ] [[Q19]] — P1 — Similar triangles and cyclic quadrilaterals
+- [ ] [[Q18]] — AMC — Combinatorial games and modular invariants
+- [ ] [[Q19]] — IGCSE — Similar triangles and cyclic quadrilaterals
 - [ ] [[Q20]] — P2 — Parabolas, trigonometric identities, and parallel lines
-- [ ] [[Q21]] — P2 / S1 — Parabola geometry, combinations, and complementary counting
+- [ ] [[Q21]] — S1 — Parabola geometry, combinations, and complementary counting
 - [ ] [[Q22]] — P2 — Logarithms, Vieta's formulas, and exponent minimisation
-- [ ] [[Q23]] — XX — Number bases and modular arithmetic
-- [ ] [[Q24]] — P1 — Angle bisectors, similar triangles, and the cosine rule
-- [ ] [[Q25]] — XX — Complex polynomial factors and lattice points
+- [ ] [[Q23]] — AMC — Number bases and modular arithmetic
+- [ ] [[Q24]] — IGCSE — Angle bisectors, similar triangles, and the cosine rule
+- [ ] [[Q25]] — P3 — Complex polynomial factors and lattice points
 
 ## Answer Key
 

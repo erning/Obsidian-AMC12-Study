@@ -16,31 +16,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Uniform motion, distance, and linear equations
-- [ ] [[Q02]] — P1 — Percentages, mixtures, and linear equations
-- [ ] [[Q03]] — P1 — Averages and systems of linear equations
-- [ ] [[Q04]] — P1 — Inequalities, logic, and casework
-- [ ] [[Q05]] — P1 / P2 — Similarity, area ratios, and geometric series
-- [ ] [[Q06]] — S1 — Combinations, circular adjacency, and probability
+- [ ] [[Q01]] — IGCSE — Uniform motion, distance, and linear equations
+- [ ] [[Q02]] — IGCSE — Percentages, mixtures, and linear equations
+- [ ] [[Q03]] — S1 — Averages and systems of linear equations
+- [ ] [[Q04]] — AMC — Inequalities, logic, and casework
+- [ ] [[Q05]] — P2 — Similarity, area ratios, and geometric series
+- [ ] [[Q06]] — AMC — Combinations, circular adjacency, and probability
 - [ ] [[Q07]] — P2 — Logarithms, exponential models, and coefficient matching
-- [ ] [[Q08]] — P1 — Inscribed angles, the cosine rule, and angle bisectors
+- [ ] [[Q08]] — IGCSE — Inscribed angles, the cosine rule, and angle bisectors
 - [ ] [[Q09]] — P3 — Complex plane and complex arithmetic
 - [ ] [[Q10]] — P1 — Arc length, central angles, and circle geometry
 - [ ] [[Q11]] — P1 — Slopes, perpendicular lines, and coordinate geometry
-- [ ] [[Q12]] — P2 — Vieta's formulas and reciprocal sums of roots
+- [ ] [[Q12]] — AMC — Vieta's formulas and reciprocal sums of roots
 - [ ] [[Q13]] — S1 — Combinations, complementary counting, and probability
-- [ ] [[Q14]] — P1 — Ellipses, eccentricity, and similar scaling
-- [ ] [[Q15]] — S1 — Extremal combinatorics and sum-free sets
-- [ ] [[Q16]] — P1 — Cosine rule, half-angle identities, and projection
+- [ ] [[Q14]] — IGCSE — Ellipses, eccentricity, and similar scaling
+- [ ] [[Q15]] — AMC — Extremal combinatorics and sum-free sets
+- [ ] [[Q16]] — IGCSE — Cosine rule, half-angle identities, and projection
 - [ ] [[Q17]] — P3 — Complex roots, polynomials, and area
 - [ ] [[Q18]] — S1 — Symmetry, combinations, and permutations
-- [ ] [[Q19]] — P2 / P3 — Vieta's formulas and symmetric polynomials
-- [ ] [[Q20]] — XX — 3D geometry and prismatoid volume
+- [ ] [[Q19]] — FP1 — Cubic roots and symmetric polynomials
+- [ ] [[Q20]] — AMC — 3D geometry and prismatoid volume
 - [ ] [[Q21]] — P2 — Finite geometric series and exponential factorization
-- [ ] [[Q22]] — S1 / P3 — Geometric probability, symmetry, and triple integrals
-- [ ] [[Q23]] — S1 — Restricted permutations and the binomial theorem
-- [ ] [[Q24]] — P1 — Regular polygons, chords, and exact trigonometric values
-- [ ] [[Q25]] — P2 — Polynomial roots, rational functions, and sign analysis
+- [ ] [[Q22]] — AMC — Geometric probability, symmetry, and triple integrals
+- [ ] [[Q23]] — P1 — Restricted permutations and the binomial theorem
+- [ ] [[Q24]] — AMC — Regular polygons, chords, and exact trigonometric values
+- [ ] [[Q25]] — AMC — Polynomial roots, rational functions, and sign analysis
 
 ## Answer Key
 

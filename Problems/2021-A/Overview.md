@@ -14,31 +14,31 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Exponent rules and order of operations
-- [ ] [[Q02]] — P1 — Square roots, equations, and equivalence
-- [ ] [[Q03]] — P1 — Place value and linear equations
-- [ ] [[Q04]] — XX — Logical implications, negation, and disjoint sets
-- [ ] [[Q05]] — P1 — Repeating decimals, place value, and linear equations
-- [ ] [[Q06]] — S1 / P1 — Basic probability and simultaneous equations
-- [ ] [[Q07]] — P1 — Algebraic identities and non-negative expressions
-- [ ] [[Q08]] — XX — Recurrences, modular arithmetic, and periodicity
-- [ ] [[Q09]] — P1 — Difference of squares and telescoping products
-- [ ] [[Q10]] — XX — Similarity, cone volume, and scaling laws
-- [ ] [[Q11]] — P1 — Reflection and the distance formula
-- [ ] [[Q12]] — P2 — Vieta's formulas, factorisation, and polynomial roots
+- [ ] [[Q01]] — IGCSE — Exponent rules and order of operations
+- [ ] [[Q02]] — AMC — Square roots, equations, and equivalence
+- [ ] [[Q03]] — IGCSE — Place value and linear equations
+- [ ] [[Q04]] — AMC — Logical implications, negation, and disjoint sets
+- [ ] [[Q05]] — IGCSE — Repeating decimals, place value, and linear equations
+- [ ] [[Q06]] — S1 — Basic probability and simultaneous equations
+- [ ] [[Q07]] — IGCSE — Algebraic identities and non-negative expressions
+- [ ] [[Q08]] — AMC — Recurrences, modular arithmetic, and periodicity
+- [ ] [[Q09]] — AMC — Difference of squares and telescoping products
+- [ ] [[Q10]] — IGCSE — Similarity, cone volume, and scaling laws
+- [ ] [[Q11]] — IGCSE — Reflection and the distance formula
+- [ ] [[Q12]] — AMC — Vieta's formulas, factorisation, and polynomial roots
 - [ ] [[Q13]] — P3 — Polar complex numbers, arguments, and powers
 - [ ] [[Q14]] — P2 — Logarithm laws, change of base, and arithmetic series
-- [ ] [[Q15]] — P3 / S1 — Roots of unity, binomial counting, and congruence classes
-- [ ] [[Q16]] — S1 / P1 — Median and triangular-number sequences
-- [ ] [[Q17]] — P1 — Similar triangles, trapezoids, and Pythagoras' theorem
-- [ ] [[Q18]] — XX — Additive functions, prime factorisation, and rational exponents
-- [ ] [[Q19]] — P3 — Trigonometric ranges, identities, and periodic equations
+- [ ] [[Q15]] — FP2 — Roots-of-unity filter and binomial counting
+- [ ] [[Q16]] — S1 — Median and triangular-number sequences
+- [ ] [[Q17]] — IGCSE — Similar triangles, trapezoids, and Pythagoras' theorem
+- [ ] [[Q18]] — AMC — Additive functions, prime factorisation, and rational exponents
+- [ ] [[Q19]] — AMC — Trigonometric ranges, identities, and periodic equations
 - [ ] [[Q20]] — P2 — Parabolas, coordinate geometry, and Vieta's formulas
-- [ ] [[Q21]] — P3 / P2 — Complex roots, conics, and ellipse eccentricity
-- [ ] [[Q22]] — P3 — Multiple-angle identities, polynomial roots, and coefficients
+- [ ] [[Q21]] — P3 — Complex roots, conics, and ellipse eccentricity
+- [ ] [[Q22]] — FP2 — Roots of unity and cubic coefficients
 - [ ] [[Q23]] — S1 — Conditional probability and random-walk recurrences
-- [ ] [[Q24]] — P1 — Chords, circle geometry, and triangle area
-- [ ] [[Q25]] — XX — Divisor functions, prime factors, and multiplicative optimisation
+- [ ] [[Q24]] — IGCSE — Chords, circle geometry, and triangle area
+- [ ] [[Q25]] — AMC — Divisor functions, prime factors, and multiplicative optimisation
 
 ## Answer Key
 

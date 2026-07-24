@@ -14,30 +14,30 @@ status: completed
 
 ## Problems
 
-- [ ] [[Q01]] — P1 — Linear equations, coin counting, and place value
-- [ ] [[Q02]] — P1 — Fractions and unit-price comparisons
-- [ ] [[Q03]] — P1 — Fractions of a whole and proportional reasoning
-- [ ] [[Q04]] — P1 — Linear equations and ratios
-- [ ] [[Q05]] — P1 — Ratios, linear equations, and geometric dimensions
-- [ ] [[Q06]] — P1 — Percentages, algebraic modelling, and conservation
-- [ ] [[Q07]] — XX — Divisibility and positive-integer constraints
-- [ ] [[Q08]] — XX — Column addition, carries, and digit constraints
-- [ ] [[Q09]] — P1 — Pythagoras' theorem and decomposing quadrilaterals
-- [ ] [[Q10]] — XX — Place value, digit reversal, and divisibility
+- [ ] [[Q01]] — AMC — Linear equations, coin counting, and place value
+- [ ] [[Q02]] — IGCSE — Fractions and unit-price comparisons
+- [ ] [[Q03]] — IGCSE — Fractions of a whole and proportional reasoning
+- [ ] [[Q04]] — IGCSE — Linear equations and ratios
+- [ ] [[Q05]] — IGCSE — Ratios, linear equations, and geometric dimensions
+- [ ] [[Q06]] — IGCSE — Percentages, algebraic modelling, and conservation
+- [ ] [[Q07]] — AMC — Divisibility and positive-integer constraints
+- [ ] [[Q08]] — AMC — Column addition, carries, and digit constraints
+- [ ] [[Q09]] — IGCSE — Pythagoras' theorem and decomposing quadrilaterals
+- [ ] [[Q10]] — AMC — Place value, digit reversal, and divisibility
 - [ ] [[Q11]] — S1 — Mean, median, mode, and extremal data sets
-- [ ] [[Q12]] — P1 — Triangle inequalities, similarity, and enumeration
+- [ ] [[Q12]] — IGCSE — Triangle inequalities, similarity, and enumeration
 - [ ] [[Q13]] — P1 — Triangle inequalities, optimisation, and quadratics
-- [ ] [[Q14]] — XX — Surface area, space diagonals, and symmetric identities
+- [ ] [[Q14]] — IGCSE — Surface area, space diagonals, and symmetric identities
 - [ ] [[Q15]] — P2 — Logarithmic and exponential identities and prime exponents
-- [ ] [[Q16]] — P2 — Polynomial coefficients and even-odd symmetry
+- [ ] [[Q16]] — AMC — Polynomial coefficients and even-odd symmetry
 - [ ] [[Q17]] — P2 — Quadratic discriminants and Vieta's formulas
-- [ ] [[Q18]] — S1 — Circular arrangements, consecutive sums, and symmetry
-- [ ] [[Q19]] — XX — Frustum volume, tangency geometry, and quadratics
+- [ ] [[Q18]] — AMC — Circular arrangements, consecutive sums, and symmetry
+- [ ] [[Q19]] — P1 — Frustum volume, tangency geometry, and quadratics
 - [ ] [[Q20]] — P2 — Logarithmic domains and quadratic inequalities
-- [ ] [[Q21]] — P1 — Similar triangles, trigonometry, and geometric decomposition
-- [ ] [[Q22]] — XX — Absorbing Markov chains and recurrences
-- [ ] [[Q23]] — XX — Modular arithmetic and binomial coefficients modulo primes
-- [ ] [[Q24]] — P1 — Cyclic quadrilaterals, Ptolemy's theorem, and simplification
+- [ ] [[Q21]] — IGCSE — Similar triangles, trigonometry, and geometric decomposition
+- [ ] [[Q22]] — AMC — Absorbing Markov chains and recurrences
+- [ ] [[Q23]] — AMC — Modular arithmetic and binomial coefficients modulo primes
+- [ ] [[Q24]] — AMC — Cyclic quadrilaterals, Ptolemy's theorem, and simplification
 - [ ] [[Q25]] — P2 — Trigonometric identities and integer phase conditions
 
 ## Answer Key
