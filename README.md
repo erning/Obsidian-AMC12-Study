@@ -1,24 +1,21 @@
-# AMC12 Study Notes
+# AMC 12 Study Notes
 
-An Obsidian vault for studying AMC12 through past contests, problem-by-problem
-solutions, and topic-based review.
+这是一个用于学习 AMC 12 的 Obsidian 知识库，收录了 2000—2025 年历次考试的题目、答案和解法，适合按试卷练习，也适合按题目复习。
 
-## What Is Included
+## 内容概览
 
-- `.obsidian/`: Obsidian app, appearance, plugin, graph, hotkey, and theme
-  configuration.
-- `.agents/skills/`: Local skill sources for working with Obsidian Markdown,
-  Bases, Canvas files, the Obsidian CLI, and web page extraction.
-- `.claude/skills/` and `.pi/skills/`: Symlinks to the shared skills in
-  `.agents/skills/`.
-- `skills-lock.json`: Lockfile for the installed Obsidian skills.
-- `Problems/`: Exam overviews and individual problem notes.
-- `assets/`: Downloaded PDFs and cropped problem or solution images.
+- `Problems/`：按年份和试卷整理的考试资料。
+- `assets/`：题目图片、解答图片和原始 PDF 等素材。
+- 每套试卷包含一份 `Overview.md` 和 25 道题目的独立笔记。
+- 题目笔记提供题目、答案、解法、知识点、关键思路、常见错误、相关题目和来源链接；部分题目提供中英文版本。
 
-## Usage
+目前收录 2000 年至 2025 年的全部试卷，包括 2002 年起的 A、B 卷。
 
-Open this directory as an Obsidian vault. Each exam is organized as
-`Problems/<year>-<part>/`, for example:
+## 如何使用
+
+用 Obsidian 打开本目录作为知识库。建议先从对应试卷的 `Overview.md` 开始：其中包含试卷来源、题目清单和答案表，可通过题目链接进入详细笔记。
+
+目录示例：
 
 ```text
 Problems/
@@ -33,13 +30,10 @@ assets/
       2025-AMC12A.pdf
 ```
 
-`Overview.md` provides the exam source links, a checklist of problems, and an
-answer key. Each `Q<number>.md` note contains the problem image, problem
-statement, answer, solution, knowledge points, key idea, and common mistakes.
+题目笔记中的数学表达式使用 Obsidian 兼容的 LaTeX：行内公式使用 `$...$`，独立公式使用 `$$...$$`。题目图片和其他素材会从 `assets/` 中嵌入。
 
-## Notes
+## 适合的复习方式
 
-Use English filenames and Obsidian Flavored Markdown. For mathematical
-notation, use `$...$` for inline LaTeX and `$$...$$` for display LaTeX.
-Keep downloaded materials and generated images under `assets/`, using paths
-that mirror the related problem notes.
+- 按试卷完成整套练习，再在 `Overview.md` 中核对答案。
+- 打开单题笔记，复盘解法与关键思路。
+- 根据知识点、常见错误和相关题目，针对薄弱环节进行练习。
