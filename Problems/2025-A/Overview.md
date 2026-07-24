@@ -37,7 +37,7 @@ status: completed
 - [ ] [[Q19]] — FP1 — Cubic roots and symmetric polynomials
 - [ ] [[Q20]] — AMC — 3D geometry and prismatoid volume
 - [ ] [[Q21]] — P2 — Finite geometric series and exponential factorization
-- [ ] [[Q22]] — AMC — Geometric probability, symmetry, and triple integrals
+- [ ] [[Q22]] — AMC — Geometric probability, symmetry, and triple integrals (题图有误，按官方条件 $a>2b$ 求解)
 - [ ] [[Q23]] — P1 — Restricted permutations and the binomial theorem
 - [ ] [[Q24]] — AMC — Regular polygons, chords, and exact trigonometric values
 - [ ] [[Q25]] — AMC — Polynomial roots, rational functions, and sign analysis
