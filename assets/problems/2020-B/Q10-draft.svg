@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 375" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="sqGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="375" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="375" />
+    <line x1="120" y1="0" x2="120" y2="375" />
+    <line x1="200" y1="0" x2="200" y2="375" />
+    <line x1="280" y1="0" x2="280" y2="375" />
+    <line x1="360" y1="0" x2="360" y2="375" />
+    <line x1="440" y1="0" x2="440" y2="375" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, -10)">
+    <!-- Square ABCD -->
+    <rect x="140" y="50" width="240" height="240" fill="url(#sqGrad)" stroke="#0284c7" stroke-width="2.5" />
+
+    <!-- Inscribed Circle omega (Center (260, 170), Radius 120) -->
+    <circle cx="260" cy="170" r="120" fill="none" stroke="#d97706" stroke-width="2" />
+
+    <!-- Line segment AM from A(140, 290) to M(260, 50) -->
+    <line x1="140" y1="290" x2="260" y2="50" stroke="#7c3aed" stroke-width="2" />
+
+    <!-- Vertices labels -->
+    <circle cx="140" cy="290" r="4.5" fill="#0f172a" />
+    <text x="125" y="305" fill="#0f172a" font-size="14" font-weight="bold">A(0,0)</text>
+
+    <circle cx="380" cy="290" r="4.5" fill="#0f172a" />
+    <text x="385" y="305" fill="#0f172a" font-size="14" font-weight="bold">B(1,0)</text>
+
+    <circle cx="380" cy="50" r="4.5" fill="#0f172a" />
+    <text x="385" y="45" fill="#0f172a" font-size="14" font-weight="bold">C(1,1)</text>
+
+    <circle cx="140" cy="50" r="4.5" fill="#0f172a" />
+    <text x="125" y="45" fill="#0f172a" font-size="14" font-weight="bold">D(0,1)</text>
+
+    <!-- Point M and P -->
+    <circle cx="260" cy="50" r="4.5" fill="#d97706" />
+    <text x="260" y="35" fill="#d97706" font-size="14" font-weight="bold" text-anchor="middle">M(1/2,1)</text>
+
+    <circle cx="164" cy="242" r="4.5" fill="#e11d48" />
+    <text x="175" y="247" fill="#e11d48" font-size="14" font-weight="bold">P(1/10, 1/5)</text>
+
+    <!-- Labels -->
+    <text x="320" y="175" fill="#d97706" font-size="14" font-weight="bold">ω</text>
+    <text x="185" y="280" fill="#7c3aed" font-size="13" font-weight="bold">AP = √5/10</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">y = 2x ➔ (x-1/2)² + (2x-1/2)² = 1/4 ➔ x = 1/10 ➔ AP = √5 / 10</text>
+  </g>
+</svg>
