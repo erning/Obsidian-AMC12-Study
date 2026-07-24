@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="centerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#d97706" stop-opacity="0.15" />
+    </linearGradient>
+
+    <linearGradient id="outerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Title -->
+  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-A Q24 Circle Packing &amp; 12-Gon Geometry</text>
+  <text x="30" y="60" fill="#475569" font-size="12">12 unit circle centers form regular 12-gon of radius r+1 &amp; side 2</text>
+
+  <!-- 12-Gon Circle Packing Diagram -->
+  <!-- 
+       Center O = (260, 230)
+       R_center_circle = 62 px (radius r)
+       R_unit_circle = 42 px (radius 1)
+       R_centers = 104 px (radius r+1)
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Central Circle (Radius r) -->
+    <circle cx="260" cy="230" r="62" fill="url(#centerGrad)" stroke="#d97706" stroke-width="2.5" />
+    <text x="260" y="235" fill="#b45309" font-size="14" font-weight="800" text-anchor="middle">Central Circle (r)</text>
+
+    <!-- 12 Unit Circles (Centers at R=104) -->
+    <!-- Angles 0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330 deg -->
+    <!-- 0 deg: (364, 230) -->
+    <!-- 30 deg: (350, 282) -->
+    <!-- 60 deg: (312, 320) -->
+    <!-- 90 deg: (260, 334) -->
+    <!-- 120 deg: (208, 320) -->
+    <!-- 150 deg: (170, 282) -->
+    <!-- 180 deg: (156, 230) -->
+    <!-- 210 deg: (170, 178) -->
+    <!-- 240 deg: (208, 140) -->
+    <!-- 270 deg: (260, 126) -->
+    <!-- 300 deg: (312, 140) -->
+    <!-- 330 deg: (350, 178) -->
+
+    <!-- Regular 12-gon connecting centers -->
+    <polygon points="364,230 350,282 312,320 260,334 208,320 170,282 156,230 170,178 208,140 260,126 312,140 350,178"
+             fill="none" stroke="#7c3aed" stroke-width="1.8" stroke-dasharray="4,3" />
+
+    <!-- Outer Unit Circles -->
+    <circle cx="364" cy="230" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="350" cy="282" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="312" cy="320" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="260" cy="334" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="208" cy="320" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="170" cy="282" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="156" cy="230" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="170" cy="178" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="208" cy="140" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="260" cy="126" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="312" cy="140" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+    <circle cx="350" cy="178" r="42" fill="url(#outerGrad)" stroke="#0284c7" stroke-width="1.2" />
+
+    <!-- Center Points -->
+    <circle cx="260" cy="230" r="4" fill="#d97706" />
+    <circle cx="364" cy="230" r="3.5" fill="#7c3aed" />
+    <circle cx="350" cy="178" r="3.5" fill="#7c3aed" />
+
+    <!-- Radial Triangle for 30 deg sector (between 0 deg and 30 deg centers) -->
+    <line x1="260" y1="230" x2="364" y2="230" stroke="#7c3aed" stroke-width="2" />
+    <line x1="260" y1="230" x2="350" y2="178" stroke="#7c3aed" stroke-width="2" />
+    <line x1="364" y1="230" x2="350" y2="178" stroke="#0284c7" stroke-width="2.5" />
+
+    <text x="368" y="208" fill="#0284c7" font-size="12" font-weight="bold">Dist = 2</text>
+    <text x="300" y="218" fill="#7c3aed" font-size="11" font-weight="bold">r+1</text>
+
+    <!-- Angle 30 deg arc -->
+    <path d="M 285 230 A 25 25 0 0 0 282 217" fill="none" stroke="#7c3aed" stroke-width="1.8" />
+    <text x="290" y="222" fill="#7c3aed" font-size="11" font-weight="bold">30°</text>
+
+    <!-- Formula Box -->
+    <rect x="40" y="370" width="440" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="55" y="395" fill="#15803d" font-size="13" font-weight="800">sin 15° = 1 / (r+1) ➔ r = √6 + √2 - 1 ➔ a+b+c = 6 + 2 - 1 = 7</text>
+  </g>
+</svg>

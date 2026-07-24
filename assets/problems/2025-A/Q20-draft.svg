@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="baseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.08" />
+    </linearGradient>
+
+    <linearGradient id="midGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.08" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Title -->
+  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-A Q20 Polyhedron Volume</text>
+  <text x="30" y="60" fill="#475569" font-size="12">Height h = 12 from 3-4-12 right triangle; Prismatoid V = h/6 (A₀ + 4A₆ + A₁₂)</text>
+
+  <!-- 3D Polyhedron Diagram -->
+  <!-- 
+       Base (z=0): 13 x 8 rectangle -> (100, 360), (360, 360), (430, 290), (170, 290)
+       Midsection (z=6): 10 x 4 rectangle -> (140, 270), (320, 270), (365, 230), (185, 230)
+       Top Ridge (z=12): Length 7 segment -> (195, 170) to (305, 170)
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Base Rectangle 13x8 -->
+    <polygon points="100,350 340,350 420,270 180,270" fill="url(#baseGrad)" stroke="#0284c7" stroke-width="2" />
+    <text x="210" y="340" fill="#0284c7" font-size="13" font-weight="800">Base A₀ = 13 × 8 = 104</text>
+
+    <!-- Midsection Rectangle 10x4 -->
+    <polygon points="150,265 310,265 365,215 205,215" fill="url(#midGrad)" stroke="#7c3aed" stroke-width="1.8" stroke-dasharray="4,3" />
+    <text x="220" y="255" fill="#7c3aed" font-size="12" font-weight="bold">Mid A₆ = 10 × 4 = 40</text>
+
+    <!-- Top Ridge Segment (Length 7) -->
+    <line x1="200" y1="160" x2="280" y2="160" stroke="#16a34a" stroke-width="3.5" />
+    <circle cx="200" cy="160" r="4" fill="#16a34a" />
+    <circle cx="280" cy="160" r="4" fill="#16a34a" />
+    <text x="240" y="148" fill="#16a34a" font-size="14" font-weight="800" text-anchor="middle">Top Ridge = 7 (A₁₂ = 0)</text>
+
+    <!-- Slanted Edges (Base to Top) -->
+    <line x1="100" y1="350" x2="200" y2="160" stroke="#64748b" stroke-width="1.5" />
+    <line x1="340" y1="350" x2="280" y2="160" stroke="#64748b" stroke-width="1.5" />
+    <line x1="420" y1="270" x2="280" y2="160" stroke="#64748b" stroke-width="1.5" />
+    <line x1="180" y1="270" x2="200" y2="160" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,3" />
+
+    <!-- Height Vertical Line -->
+    <line x1="240" y1="160" x2="240" y2="310" stroke="#d97706" stroke-width="2" stroke-dasharray="4,4" />
+    <text x="248" y="200" fill="#b45309" font-size="13" font-weight="bold">h = 12</text>
+    <text x="248" y="218" fill="#b45309" font-size="11">(3² + 4² + h² = 13²)</text>
+
+    <!-- Formula Result Box -->
+    <rect x="50" y="370" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="395" fill="#15803d" font-size="14" font-weight="800">Prismatoid Volume V = (12 / 6) × (104 + 4×40 + 0) = 528</text>
+  </g>
+</svg>
