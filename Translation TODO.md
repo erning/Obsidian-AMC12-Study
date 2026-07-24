@@ -67,7 +67,7 @@ status: in-progress
 - [x] [[Problems/2004-B/Overview|2004 AMC 12B]]：已翻译 Q01–Q25，待审核。
 - [x] [[Problems/2004-A/Overview|2004 AMC 12A]]：已翻译 Q01–Q25，待审核。
 - [x] [[Problems/2003-B/Overview|2003 AMC 12B]]：已翻译 Q01–Q25，待审核。
-- [ ] [[Problems/2003-A/Overview|2003 AMC 12A]]
+- [x] [[Problems/2003-A/Overview|2003 AMC 12A]]：已翻译 Q01–Q25，待审核。
 - [ ] [[Problems/2002-B/Overview|2002 AMC 12B]]
 - [ ] [[Problems/2002-A/Overview|2002 AMC 12A]]
 
