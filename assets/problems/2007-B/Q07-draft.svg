@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 390" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="sqGrad2007" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="triGradCDE" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="390" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="390" />
+    <line x1="120" y1="0" x2="120" y2="390" />
+    <line x1="200" y1="0" x2="200" y2="390" />
+    <line x1="280" y1="0" x2="280" y2="390" />
+    <line x1="360" y1="0" x2="360" y2="390" />
+    <line x1="440" y1="0" x2="440" y2="390" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, 5)">
+    <!-- Square ABCE: A(180, 30), B(330, 30), C(330, 180), E(180, 180) -->
+    <rect x="180" y="30" width="150" height="150" fill="url(#sqGrad2007)" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Equilateral Triangle CDE: C(330, 180), E(180, 180), D(255, 310) -->
+    <polygon points="330,180 180,180 255,310" fill="url(#triGradCDE)" stroke="#7c3aed" stroke-width="2" />
+
+    <!-- Right angle indicators at A and B -->
+    <path d="M 180 45 L 195 45 L 195 30" fill="none" stroke="#0284c7" stroke-width="1.5" />
+    <path d="M 330 45 L 315 45 L 315 30" fill="none" stroke="#0284c7" stroke-width="1.5" />
+
+    <!-- Vertices labels -->
+    <circle cx="180" cy="30" r="4.5" fill="#0f172a" />
+    <text x="170" y="25" fill="#0f172a" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="330" cy="30" r="4.5" fill="#0f172a" />
+    <text x="340" y="25" fill="#0f172a" font-size="14" font-weight="bold">B</text>
+
+    <circle cx="330" cy="180" r="4.5" fill="#0f172a" />
+    <text x="345" y="185" fill="#0f172a" font-size="14" font-weight="bold">C</text>
+
+    <circle cx="255" cy="310" r="4.5" fill="#7c3aed" />
+    <text x="255" y="330" fill="#7c3aed" font-size="14" font-weight="bold" text-anchor="middle">D</text>
+
+    <circle cx="180" cy="180" r="4.5" fill="#0f172a" />
+    <text x="165" y="185" fill="#0f172a" font-size="14" font-weight="bold">E</text>
+
+    <!-- Diagonal EC (dashed) -->
+    <line x1="180" y1="180" x2="330" y2="180" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,2" />
+
+    <!-- Angles indicators -->
+    <text x="195" y="170" fill="#0284c7" font-size="12" font-weight="bold">90°</text>
+    <text x="200" y="200" fill="#7c3aed" font-size="12" font-weight="bold">60°</text>
+
+    <!-- Side labels -->
+    <text x="255" y="20" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">1</text>
+    <text x="165" y="110" fill="#0284c7" font-size="12" font-weight="bold">1</text>
+    <text x="205" y="255" fill="#7c3aed" font-size="12" font-weight="bold">1</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">∠E = ∠AEC + ∠CED = 90° + 60° = 150°</text>
+  </g>
+</svg>
