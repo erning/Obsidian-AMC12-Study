@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="largeCirc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="innerCirc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="330" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="330" />
+    <line x1="120" y1="0" x2="120" y2="330" />
+    <line x1="200" y1="0" x2="200" y2="330" />
+    <line x1="280" y1="0" x2="280" y2="330" />
+    <line x1="360" y1="0" x2="360" y2="330" />
+    <line x1="440" y1="0" x2="440" y2="330" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, -55)">
+    <!-- Outer Circle (Center (260, 200), Radius 120) -->
+    <circle cx="260" cy="200" r="120" fill="url(#largeCirc)" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Diameter AB -->
+    <line x1="140" y1="200" x2="380" y2="200" stroke="#64748b" stroke-width="2" />
+
+    <!-- Centroid Path: Circle of radius 40 (excluding (140,200) and (380,200)) -->
+    <circle cx="260" cy="200" r="40" fill="url(#innerCirc)" stroke="#7c3aed" stroke-width="2.5" stroke-dasharray="4,2" />
+
+    <!-- Triangle ABC with C at (320, 96.1) -->
+    <polygon points="140,200 380,200 320,96.1" fill="none" stroke="#0284c7" stroke-width="1.5" stroke-opacity="0.6" />
+
+    <!-- Median CO from C to O(260,200) -->
+    <line x1="320" y1="96.1" x2="260" y2="200" stroke="#d97706" stroke-width="1.5" stroke-dasharray="3,2" />
+
+    <!-- Vertices labels -->
+    <circle cx="140" cy="200" r="4" fill="#0f172a" />
+    <text x="125" y="205" fill="#0f172a" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="380" cy="200" r="4" fill="#0f172a" />
+    <text x="390" y="205" fill="#0f172a" font-size="14" font-weight="bold">B</text>
+
+    <circle cx="260" cy="200" r="4.5" fill="#0f172a" />
+    <text x="250" y="220" fill="#0f172a" font-size="14" font-weight="bold">O</text>
+
+    <circle cx="320" cy="96.1" r="4.5" fill="#0284c7" />
+    <text x="325" y="85" fill="#0284c7" font-size="14" font-weight="bold">C</text>
+
+    <!-- Centroid G at (280, 165.4) -->
+    <circle cx="280" cy="165.4" r="5" fill="#7c3aed" />
+    <text x="290" y="170" fill="#7c3aed" font-size="14" font-weight="bold">G</text>
+
+    <!-- Labels -->
+    <text x="370" y="110" fill="#0284c7" font-size="13" font-weight="bold">Radius = 12</text>
+    <text x="320" y="180" fill="#7c3aed" font-size="13" font-weight="bold">Radius = 4</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">G = O + 1/3 OC ➔ Traces circle with radius r = 12/3 = 4 ➔ Area = 16π ≈ 50</text>
+  </g>
+</svg>
