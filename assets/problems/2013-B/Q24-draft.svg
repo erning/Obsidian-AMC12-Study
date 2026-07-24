@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="triGradABC4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="triGradBXN" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="360" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="360" />
+    <line x1="120" y1="0" x2="120" y2="360" />
+    <line x1="200" y1="0" x2="200" y2="360" />
+    <line x1="280" y1="0" x2="280" y2="360" />
+    <line x1="360" y1="0" x2="360" y2="360" />
+    <line x1="440" y1="0" x2="440" y2="360" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, -25)">
+    <!-- Triangle ABC: A(420, 200), B(149.3, 77.5), C(220, 200) -->
+    <polygon points="420,200 149.3,77.5 220,200" fill="url(#triGradABC4)" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Median BM from B(149.3, 77.5) to M(320, 200) -->
+    <line x1="149.3" y1="77.5" x2="320" y2="200" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,2" />
+
+    <!-- Angle Bisector CN at 60 deg: from C(220, 200) to N(302.8, 56.6) -->
+    <line x1="220" y1="200" x2="302.8" y2="56.6" stroke="#d97706" stroke-width="1.5" />
+
+    <!-- Equilateral Triangle BXN: B(149.3, 77.5), X(266.9, 118.8), N(302.8, 56.6) -->
+    <!-- (Coordinates computed so BX = BN = XN = 118.3 px) -->
+    <polygon points="149.3,77.5 266.9,118.8 302.8,56.6" fill="url(#triGradBXN)" stroke="#7c3aed" stroke-width="2" />
+
+    <!-- Points and Vertices labels -->
+    <circle cx="420" cy="200" r="4.5" fill="#0f172a" />
+    <text x="430" y="205" fill="#0f172a" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="149.3" cy="77.5" r="4.5" fill="#0f172a" />
+    <text x="135" y="75" fill="#0f172a" font-size="14" font-weight="bold" text-anchor="end">B</text>
+
+    <circle cx="220" cy="200" r="4.5" fill="#0f172a" />
+    <text x="210" y="215" fill="#0f172a" font-size="14" font-weight="bold">C</text>
+
+    <circle cx="320" cy="200" r="4.5" fill="#0f172a" />
+    <text x="320" y="220" fill="#0f172a" font-size="14" font-weight="bold" text-anchor="middle">M</text>
+
+    <circle cx="302.8" cy="56.6" r="4" fill="#7c3aed" />
+    <text x="310" y="50" fill="#7c3aed" font-size="13" font-weight="bold">N</text>
+
+    <circle cx="266.9" cy="118.8" r="4" fill="#7c3aed" />
+    <text x="272.9" y="135" fill="#7c3aed" font-size="13" font-weight="bold">X</text>
+
+    <!-- Dimension labels -->
+    <text x="175" y="145" fill="#0284c7" font-size="12" font-weight="bold">BC = √2</text>
+    <text x="270" y="215" fill="#0284c7" font-size="12" font-weight="bold">AC = 2</text>
+    <text x="210" y="90" fill="#7c3aed" font-size="12" font-weight="bold">BXN Equilateral</text>
+
+    <!-- Angle indicator at C -->
+    <path d="M 235 200 A 15 15 0 0 0 227.5 187" fill="none" stroke="#d97706" stroke-width="1.5" />
+    <text x="240" y="185" fill="#d97706" font-size="11" font-weight="bold">60°/60°</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">BC = √2, CX = (√2+1)x ➔ Law of Cosines on BCX ➔ BN² = (10-6√2)/7</text>
+  </g>
+</svg>

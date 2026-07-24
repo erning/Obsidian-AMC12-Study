@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 305" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="rGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.1" />
+    </linearGradient>
+    <linearGradient id="rhomGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.02" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="305" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="305" />
+    <line x1="120" y1="0" x2="120" y2="305" />
+    <line x1="200" y1="0" x2="200" y2="305" />
+    <line x1="280" y1="0" x2="280" y2="305" />
+    <line x1="360" y1="0" x2="360" y2="305" />
+    <line x1="440" y1="0" x2="440" y2="305" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, -80)">
+    <!-- Rhombus ABCD -->
+    <!-- A(86.8, 220), B(260, 120), C(433.2, 220), D(260, 320) -->
+    <polygon points="86.8,220 260,120 433.2,220 260,320" fill="url(#rhomGrad)" stroke="#0284c7" stroke-width="2" stroke-linejoin="round" />
+
+    <!-- Diagonals AC and BD (dashed) -->
+    <line x1="86.8" y1="220" x2="433.2" y2="220" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,2" />
+    <line x1="260" y1="120" x2="260" y2="320" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,2" />
+
+    <!-- Region R (Five-sided polygon BEFGH) -->
+    <!-- B(260, 120), E(173.4, 170), F(202.3, 220), G(317.7, 220), H(346.6, 170) -->
+    <polygon points="260,120 173.4,170 202.3,220 317.7,220 346.6,170" fill="url(#rGrad)" stroke="#7c3aed" stroke-width="2.5" />
+
+    <!-- Points and Vertices labels -->
+    <circle cx="86.8" cy="220" r="4.5" fill="#0284c7" />
+    <text x="70" y="225" fill="#0284c7" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="260" cy="120" r="4.5" fill="#0f172a" />
+    <text x="260" y="105" fill="#0f172a" font-size="14" font-weight="bold" text-anchor="middle">B</text>
+
+    <circle cx="433.2" cy="220" r="4.5" fill="#0284c7" />
+    <text x="445" y="225" fill="#0284c7" font-size="14" font-weight="bold">C</text>
+
+    <circle cx="260" cy="320" r="4.5" fill="#0284c7" />
+    <text x="260" y="335" fill="#0284c7" font-size="14" font-weight="bold" text-anchor="middle">D</text>
+
+    <!-- Midpoints E, H -->
+    <circle cx="173.4" cy="170" r="4" fill="#7c3aed" />
+    <text x="160" y="165" fill="#7c3aed" font-size="12" font-weight="bold">E</text>
+
+    <circle cx="346.6" cy="170" r="4" fill="#7c3aed" />
+    <text x="360" y="165" fill="#7c3aed" font-size="12" font-weight="bold">H</text>
+
+    <!-- Points F, G -->
+    <circle cx="202.3" cy="220" r="4" fill="#7c3aed" />
+    <text x="195" y="240" fill="#7c3aed" font-size="12" font-weight="bold">F</text>
+
+    <circle cx="317.7" cy="220" r="4" fill="#7c3aed" />
+    <text x="325" y="240" fill="#7c3aed" font-size="12" font-weight="bold">G</text>
+
+    <!-- Angle Indicator at B -->
+    <text x="260" y="145" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">120°</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">Area(R) = 4 × Area(ΔAFE) = 4 × (√3/6) = 2√3/3</text>
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 450" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="sqABCD2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="450" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="450" />
+    <line x1="120" y1="0" x2="120" y2="450" />
+    <line x1="200" y1="0" x2="200" y2="450" />
+    <line x1="280" y1="0" x2="280" y2="450" />
+    <line x1="360" y1="0" x2="360" y2="450" />
+    <line x1="440" y1="0" x2="440" y2="450" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, 25)">
+    <!-- Axes centered at (260, 200), scale 100 px/unit -->
+    <line x1="40" y1="200" x2="480" y2="200" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="465" y="190" fill="#94a3b8" font-size="13" font-weight="bold">x</text>
+    <line x1="260" y1="330" x2="260" y2="10" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="270" y="25" fill="#94a3b8" font-size="13" font-weight="bold">y</text>
+
+    <!-- Outer Circle C2: x² + y² = 4 (Radius 200) -->
+    <circle cx="260" cy="200" r="200" fill="none" stroke="#0284c7" stroke-width="2.5" />
+    <!-- Inner Circle C1: x² + y² = 1 (Radius 100) -->
+    <circle cx="260" cy="200" r="100" fill="none" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Square ABCD: A(307.2, 5.6), B(212.8, 5.6), C(212.8, 100), D(307.2, 100) -->
+    <polygon points="307.2,5.6 212.8,5.6 212.8,100 307.2,100" fill="url(#sqABCD2)" stroke="#7c3aed" stroke-width="2.5" />
+
+    <!-- Intersection points (A, B) -->
+    <circle cx="307.2" cy="5.6" r="4.5" fill="#7c3aed" />
+    <text x="317.2" y="5" fill="#7c3aed" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="212.8" cy="5.6" r="4.5" fill="#7c3aed" />
+    <text x="202.8" y="5" fill="#7c3aed" font-size="14" font-weight="bold" text-anchor="end">B</text>
+
+    <!-- Tangent Point (0,1) -> (260, 100) -->
+    <circle cx="260" cy="100" r="4" fill="#0f172a" />
+    <text x="260" y="120" fill="#0f172a" font-size="13" font-weight="bold" text-anchor="middle">(0,1)</text>
+
+    <!-- Labels -->
+    <text x="70" y="220" fill="#0284c7" font-size="13" font-weight="bold">x² + y² = 4</text>
+    <text x="180" y="220" fill="#0284c7" font-size="13" font-weight="bold">x² + y² = 1</text>
+    <text x="325" y="65" fill="#7c3aed" font-size="13" font-weight="bold">Square Side = 2a</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">b = 2a+1, a² + b² = 4 ➔ 5a² + 4a - 3 = 0 ➔ Side = (2√19 - 4)/5</text>
+  </g>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 275" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="triGradABC2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="triGradCFE" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="275" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="275" />
+    <line x1="120" y1="0" x2="120" y2="275" />
+    <line x1="200" y1="0" x2="200" y2="275" />
+    <line x1="280" y1="0" x2="280" y2="275" />
+    <line x1="360" y1="0" x2="360" y2="275" />
+    <line x1="440" y1="0" x2="440" y2="275" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, -110)">
+    <!-- Triangle ABC: A(140, 140), B(400, 290), C(140, 290) -->
+    <polygon points="140,140 400,290 140,290" fill="url(#triGradABC2)" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Equilateral Triangle CFE: C(140, 290), F(183.3, 215), E(226.6, 290) -->
+    <polygon points="140,290 183.3,215 226.6,290" fill="url(#triGradCFE)" stroke="#7c3aed" stroke-width="2" />
+
+    <!-- Line segment AE: A(140, 140) to E(226.6, 290) -->
+    <line x1="140" y1="140" x2="226.6" y2="290" stroke="#d97706" stroke-width="1.5" />
+
+    <!-- Line segment CD: C(140, 290) to D(205, 177.5) -->
+    <line x1="140" y1="290" x2="205" y2="177.5" stroke="#d97706" stroke-width="1.5" />
+
+    <!-- Right angle at C -->
+    <path d="M 140 275 L 155 275 L 155 290" fill="none" stroke="#0284c7" stroke-width="1.5" />
+
+    <!-- Points and Vertices labels -->
+    <circle cx="140" cy="140" r="4.5" fill="#0f172a" />
+    <text x="125" y="135" fill="#0f172a" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="400" cy="290" r="4.5" fill="#0f172a" />
+    <text x="410" y="295" fill="#0f172a" font-size="14" font-weight="bold">B</text>
+
+    <circle cx="140" cy="290" r="4.5" fill="#0f172a" />
+    <text x="125" y="305" fill="#0f172a" font-size="14" font-weight="bold">C</text>
+
+    <circle cx="205" cy="177.5" r="4" fill="#0f172a" />
+    <text x="215" y="175" fill="#0f172a" font-size="13" font-weight="bold">D</text>
+
+    <circle cx="226.6" cy="290" r="4" fill="#7c3aed" />
+    <text x="226.6" y="305" fill="#7c3aed" font-size="13" font-weight="bold" text-anchor="middle">E</text>
+
+    <circle cx="183.3" cy="215" r="4" fill="#7c3aed" />
+    <text x="175" y="210" fill="#7c3aed" font-size="13" font-weight="bold" text-anchor="end">F</text>
+
+    <!-- Angles indicators -->
+    <text x="155" y="165" fill="#d97706" font-size="11" font-weight="bold">x</text>
+    <text x="150" y="275" fill="#d97706" font-size="11" font-weight="bold">x</text>
+    <text x="183.3" y="240" fill="#7c3aed" font-size="11" font-weight="bold">60°</text>
+
+    <!-- Side ratios info -->
+    <text x="260" y="195" fill="#0284c7" font-size="13" font-weight="bold">AB = 2, AC = 1</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">∠BAC = x + (60°-x) = 60° ➔ AB = 2AC ➔ ΔABC is 30-60-90 ➔ ∠ACB = 90°</text>
+  </g>
+</svg>
