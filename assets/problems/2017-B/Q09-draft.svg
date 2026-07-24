@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 561" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="c1Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.02" />
+    </linearGradient>
+    <linearGradient id="c2Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d97706" stop-opacity="0.1" />
+      <stop offset="100%" stop-color="#b45309" stop-opacity="0.02" />
+    </linearGradient>
+  </defs>
+  <rect width="520" height="561" fill="#ffffff" rx="12" />
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="561" />
+    <line x1="120" y1="0" x2="120" y2="561" />
+    <line x1="200" y1="0" x2="200" y2="561" />
+    <line x1="280" y1="0" x2="280" y2="561" />
+    <line x1="360" y1="0" x2="360" y2="561" />
+    <line x1="440" y1="0" x2="440" y2="561" />
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+  <g transform="translate(0, 81)">
+    <!-- Axes centered at (260, 200) -->
+    <line x1="40" y1="200" x2="480" y2="200" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="465" y="190" fill="#94a3b8" font-size="13" font-weight="bold">x</text>
+
+    <line x1="260" y1="350" x2="260" y2="40" stroke="#94a3b8" stroke-width="1.5" />
+    <text x="270" y="55" fill="#94a3b8" font-size="13" font-weight="bold">y</text>
+
+    <!-- Circle 1: Center (110, 260), Radius 195 -->
+    <circle cx="110" cy="260" r="195" fill="url(#c1Grad)" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Circle 2: Center (305, 65), Radius 121 -->
+    <circle cx="305" cy="65" r="121" fill="url(#c2Grad)" stroke="#d97706" stroke-width="2" />
+
+    <!-- Common Chord Line: x+y=3 -> passes through (290, 185) and (185, 80) -->
+    <line x1="125" y1="20" x2="350" y2="245" stroke="#7c3aed" stroke-width="2.5" />
+    <text x="360" y="240" fill="#7c3aed" font-size="14" font-weight="bold">x + y = 3</text>
+
+    <!-- Center points and labels -->
+    <circle cx="110" cy="260" r="4.5" fill="#0284c7" />
+    <text x="95" y="275" fill="#0284c7" font-size="14" font-weight="bold">O₁(-10,-4)</text>
+
+    <circle cx="305" cy="65" r="4.5" fill="#d97706" />
+    <text x="315" y="60" fill="#d97706" font-size="14" font-weight="bold">O₂(3,9)</text>
+
+    <!-- Intersection points (Chord endpoints) -->
+    <circle cx="290" cy="185" r="5" fill="#7c3aed" />
+    <text x="300" y="195" fill="#7c3aed" font-size="13" font-weight="bold">(2,1)</text>
+
+    <circle cx="185" cy="80" r="5" fill="#7c3aed" />
+    <text x="175" y="70" fill="#7c3aed" font-size="13" font-weight="bold" text-anchor="end">(-5,8)</text>
+
+    <!-- Connecting line between centers (line of centers) -->
+    <line x1="110" y1="260" x2="305" y2="65" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,2" />
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">C₁ - C₂ ➔ 26x + 26y = 78 ➔ x + y = 3 ➔ c = 3</text>
+  </g>
+</svg>
