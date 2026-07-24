@@ -87,7 +87,7 @@ $$
 N(x+y\sqrt D)=x^2-Dy^2.
 $$
 
-范数满足乘法性：
+范数满足可乘性：
 
 $$
 N(\alpha\beta)=N(\alpha)N(\beta).
