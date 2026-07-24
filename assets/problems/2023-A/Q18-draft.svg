@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="c3Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="c4Grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e11d48" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#be123c" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="360" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="360" />
+    <line x1="120" y1="0" x2="120" y2="360" />
+    <line x1="200" y1="0" x2="200" y2="360" />
+    <line x1="280" y1="0" x2="280" y2="360" />
+    <line x1="360" y1="0" x2="360" y2="360" />
+    <line x1="440" y1="0" x2="440" y2="360" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -25)">
+    <!-- Axes: Origin (260, 210), Scale 140 px/unit -->
+    <line x1="40" y1="210" x2="480" y2="210" stroke="#64748b" stroke-width="1.5" />
+    <text x="465" y="200" fill="#64748b" font-size="13" font-weight="bold">x</text>
+
+    <line x1="260" y1="340" x2="260" y2="50" stroke="#64748b" stroke-width="1.5" />
+    <text x="270" y="65" fill="#64748b" font-size="13" font-weight="bold">y</text>
+
+    <!-- Circle C1: Center (-1/4, 0) = (225, 210), Radius R=1 -> 140 px -->
+    <circle cx="225" cy="210" r="140" fill="none" stroke="#0284c7" stroke-width="1.8" stroke-dasharray="5,4" />
+    <text x="90" y="200" fill="#0284c7" font-size="13" font-weight="bold">C₁ (r=1)</text>
+
+    <!-- Circle C2: Center (1/4, 0) = (295, 210), Radius R=1 -> 140 px -->
+    <circle cx="295" cy="210" r="140" fill="none" stroke="#7c3aed" stroke-width="1.8" stroke-dasharray="5,4" />
+    <text x="405" y="200" fill="#7c3aed" font-size="13" font-weight="bold">C₂ (r=1)</text>
+
+    <!-- Circle C3: Center (0,0) = (260, 210), Radius = 3/4 -> 105 px -->
+    <circle cx="260" cy="210" r="105" fill="url(#c3Grad)" stroke="#0284c7" stroke-width="2.5" />
+    <text x="260" y="235" fill="#0284c7" font-size="14" font-weight="bold" text-anchor="middle">C₃ (r₃ = 3/4)</text>
+
+    <!-- Circle C4: Center (0, k) = (260, 210 - 105 - 15) = (260, 90), Radius r = 3/28 -> 15 px -->
+    <circle cx="260" cy="90" r="15" fill="url(#c4Grad)" stroke="#e11d48" stroke-width="2" />
+    <circle cx="260" cy="90" r="3" fill="#e11d48" />
+    <text x="280" y="95" fill="#e11d48" font-size="14" font-weight="bold">C₄ (r₄ = 3/28)</text>
+
+    <!-- Center Points -->
+    <circle cx="260" cy="210" r="4" fill="#0f172a" />
+    <text x="245" y="225" fill="#0f172a" font-size="13" font-weight="bold">O</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">k = 3/4+r, (1/4)²+k² = (1-r)² ➔ 7/2 r = 3/8 ➔ C₄ radius r = 3/28</text>
+  </g>
+</svg>

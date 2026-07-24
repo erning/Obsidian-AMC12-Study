@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 370" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <!-- Background -->
+  <rect width="520" height="370" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="370" />
+    <line x1="120" y1="0" x2="120" y2="370" />
+    <line x1="200" y1="0" x2="200" y2="370" />
+    <line x1="280" y1="0" x2="280" y2="370" />
+    <line x1="360" y1="0" x2="360" y2="370" />
+    <line x1="440" y1="0" x2="440" y2="370" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -25)">
+    <!-- Coordinate Axes: Origin O = (120, 290) -->
+    <line x1="40" y1="290" x2="480" y2="290" stroke="#64748b" stroke-width="1.5" />
+    <text x="465" y="280" fill="#64748b" font-size="13" font-weight="bold">x</text>
+
+    <line x1="120" y1="340" x2="120" y2="50" stroke="#64748b" stroke-width="1.5" />
+    <text x="130" y="65" fill="#64748b" font-size="13" font-weight="bold">y</text>
+
+    <!-- Line 1: y = 2x -> (120, 290) to (240, 50) -->
+    <line x1="80" y1="370" x2="240" y2="50" stroke="#0284c7" stroke-width="2.5" />
+    <text x="248" y="70" fill="#0284c7" font-size="14" font-weight="bold">y = 2x (m₁ = 2)</text>
+
+    <!-- Line 2: y = 1/3 x -> (120, 290) to (440, 183.3) -->
+    <line x1="40" y1="316.7" x2="440" y2="183.3" stroke="#7c3aed" stroke-width="2.5" />
+    <text x="410" y="170" fill="#7c3aed" font-size="14" font-weight="bold">y = 1/3 x (m₂ = 1/3)</text>
+
+    <!-- Origin point -->
+    <circle cx="120" cy="290" r="5" fill="#0f172a" />
+    <text x="105" y="310" fill="#0f172a" font-size="14" font-weight="bold">O</text>
+
+    <!-- Angle Arc between the two lines -->
+    <!-- From 18.43 deg to 63.43 deg at radius 70 px -->
+    <path d="M 186 268 A 70 70 0 0 0 151 227" fill="none" stroke="#d97706" stroke-width="2.5" />
+    <text x="180" y="240" fill="#b45309" font-size="14" font-weight="bold">θ = 45°</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">tan θ = |(2 - 1/3) / (1 + 2·1/3)| = (5/3)/(5/3) = 1 ➔ Acute Angle = 45°</text>
+  </g>
+</svg>

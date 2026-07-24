@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="curveGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="360" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="360" />
+    <line x1="120" y1="0" x2="120" y2="360" />
+    <line x1="200" y1="0" x2="200" y2="360" />
+    <line x1="280" y1="0" x2="280" y2="360" />
+    <line x1="360" y1="0" x2="360" y2="360" />
+    <line x1="440" y1="0" x2="440" y2="360" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -25)">
+    <!-- Axes: Origin O = (280, 270), Scale 60 px/unit -->
+    <line x1="40" y1="270" x2="480" y2="270" stroke="#64748b" stroke-width="1.5" />
+    <text x="465" y="260" fill="#64748b" font-size="13" font-weight="bold">Re(z)</text>
+
+    <line x1="280" y1="340" x2="280" y2="50" stroke="#64748b" stroke-width="1.5" />
+    <text x="290" y="65" fill="#64748b" font-size="13" font-weight="bold">Im(z)</text>
+
+    <!-- Curve |1+z+z^2| = 4 (Symmetric loop/oval around x = -1/2 -> x = 250) -->
+    <!-- Max Im(z) = sqrt(19)/2 = 2.179 units -> 130.7 px above Re axis -> y = 270 - 131 = 139 -->
+    <!-- Curve shape path -->
+    <path d="M 140 270 Q 150 140 250 139 Q 350 140 380 270 Q 350 340 250 340 Q 150 340 140 270 Z" fill="url(#curveGrad)" stroke="#0284c7" stroke-width="2.5" />
+
+    <!-- Peak Point P = (-1/2, sqrt(19)/2) -> (250, 139) -->
+    <circle cx="250" cy="139" r="6" fill="#e11d48" />
+    <text x="260" y="130" fill="#e11d48" font-size="15" font-weight="bold">P(-1/2, √19/2)</text>
+
+    <!-- Vertical Symmetry Line x = -1/2 -->
+    <line x1="250" y1="50" x2="250" y2="340" stroke="#7c3aed" stroke-width="1.8" stroke-dasharray="4,3" />
+    <text x="200" y="80" fill="#7c3aed" font-size="12" font-weight="bold">x = -1/2</text>
+
+    <!-- Horizontal Tangent Line at Peak -->
+    <line x1="160" y1="139" x2="340" y2="139" stroke="#e11d48" stroke-width="1.5" stroke-dasharray="3,3" />
+    <text x="350" y="144" fill="#e11d48" font-size="12" font-weight="bold">Max Im(z)</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">Peak at x = -1/2 ➔ y² = 19/4 ➔ Im(z) = √19 / 2 ➔ m+n = 19+2 = 21</text>
+  </g>
+</svg>

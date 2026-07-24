@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 482" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="cGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="cGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="482" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="482" />
+    <line x1="120" y1="0" x2="120" y2="482" />
+    <line x1="200" y1="0" x2="200" y2="482" />
+    <line x1="280" y1="0" x2="280" y2="482" />
+    <line x1="360" y1="0" x2="360" y2="482" />
+    <line x1="440" y1="0" x2="440" y2="482" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+    <line x1="0" y1="410" x2="520" y2="410" />
+    <line x1="0" y1="470" x2="520" y2="470" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, 95)">
+    <!-- Axes: Origin (120, 290), Scale 18 px/unit -->
+    <line x1="40" y1="290" x2="480" y2="290" stroke="#64748b" stroke-width="1.5" />
+    <text x="465" y="280" fill="#64748b" font-size="13" font-weight="bold">x</text>
+
+    <line x1="120" y1="340" x2="120" y2="50" stroke="#64748b" stroke-width="1.5" />
+    <text x="130" y="65" fill="#64748b" font-size="13" font-weight="bold">y</text>
+
+    <!-- Circle 1: (x-4)^2 + y^2 = 16 -> Center (4,0) = (192, 290), r = 72 px -->
+    <circle cx="192" cy="290" r="72" fill="url(#cGrad1)" stroke="#0284c7" stroke-width="2" />
+    <text x="210" y="310" fill="#0284c7" font-size="12" font-weight="bold">Circle 1 (r=4)</text>
+
+    <!-- Circle 2: x^2 + (y-10)^2 = 100 -> Center (0,10) = (120, 110), r = 180 px -->
+    <circle cx="120" cy="110" r="180" fill="url(#cGrad2)" stroke="#7c3aed" stroke-width="2" />
+    <text x="140" y="100" fill="#7c3aed" font-size="12" font-weight="bold">Circle 2 (r=10)</text>
+
+    <!-- Common Chord Line y = 2/5 x -> (120, 290) to (440, 162) -->
+    <line x1="80" y1="306" x2="440" y2="162" stroke="#e11d48" stroke-width="2.5" />
+
+    <!-- Origin point (120, 290) -->
+    <circle cx="120" cy="290" r="5" fill="#e11d48" />
+    <text x="100" y="310" fill="#e11d48" font-size="14" font-weight="bold">(0,0)</text>
+
+    <!-- Second Intersection Point P = (40/29, 100/29) -> (145, 228) -->
+    <circle cx="145" cy="228" r="5" fill="#e11d48" />
+    <text x="155" y="225" fill="#e11d48" font-size="14" font-weight="bold">P</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">x² + y² = 8x = 20y ➔ Line y = 2/5 x ➔ Slope = 2/5</text>
+  </g>
+</svg>
