@@ -19,9 +19,7 @@ status: in-progress
 ## 2025 年
 
 - [x] [[Problems/2025-A/Overview|2025 AMC 12A]]：已翻译 Q01–Q25，待审核。
-  - [ ] Q25：待创建中文版本；保留英文笔记中关于题目缺陷的说明。
 - [x] [[Problems/2025-B/Overview|2025 AMC 12B]]：已翻译 Q01–Q25，待审核。
-  - [ ] Q11–Q25：待创建中文版本，审核可后置。
 
 ## 后续试卷
 
@@ -66,3 +64,12 @@ status: in-progress
 - [x] [[Problems/2006-B/Overview|2006 AMC 12B]]：已翻译 Q01–Q25，待审核。
 - [x] [[Problems/2006-A/Overview|2006 AMC 12A]]：已翻译 Q01–Q25，待审核。
 - [x] [[Problems/2005-A/Overview|2005 AMC 12A]]：已翻译 Q01–Q25，待审核。
+- [x] [[Problems/2004-B/Overview|2004 AMC 12B]]：已翻译 Q01–Q25，待审核。
+- [ ] [[Problems/2004-A/Overview|2004 AMC 12A]]
+- [ ] [[Problems/2003-B/Overview|2003 AMC 12B]]
+- [ ] [[Problems/2003-A/Overview|2003 AMC 12A]]
+- [ ] [[Problems/2002-B/Overview|2002 AMC 12B]]
+- [ ] [[Problems/2002-A/Overview|2002 AMC 12A]]
+
+> [!note]
+> 当前仓库没有 2000 年和 2001 年的试卷目录或英文题解；补充源文件后，再将其加入本清单。
