@@ -13,3 +13,4 @@ tags:
 - [[Problems/2025-A/Q01.zh-CN.md|2025-A-Q01]]
 - [[Problems/2025-B/Q01.zh-CN.md|2025-B-Q01]]
 - [[Problems/2023-A/Q01.zh-CN.md|2023-A-Q01]]
+- [[Problems/2020-A/Q03.zh-CN.md|2020-A-Q03]]
