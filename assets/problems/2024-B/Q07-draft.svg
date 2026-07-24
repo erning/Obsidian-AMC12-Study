@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 270" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="rectGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="270" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="270" />
+    <line x1="120" y1="0" x2="120" y2="270" />
+    <line x1="200" y1="0" x2="200" y2="270" />
+    <line x1="280" y1="0" x2="280" y2="270" />
+    <line x1="360" y1="0" x2="360" y2="270" />
+    <line x1="440" y1="0" x2="440" y2="270" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -115)">
+    <!-- Rectangle WXYZ: 4x8 -> 160 px x 320 px (scale 40 px/unit) -->
+    <!-- X(100, 310), W(100, 150), Y(420, 310), Z(420, 150) -->
+    <rect x="100" y="150" width="320" height="160" fill="url(#rectGrad)" stroke="#0284c7" stroke-width="2.5" />
+
+    <!-- M on XY (m=2 -> 100 + 80 = 180, 310) -->
+    <!-- A on YZ (a=3 -> 420, 310 - 120 = 190) -->
+    <!-- Polygon WMA -->
+    <polygon points="100,150 180,310 420,190" fill="#fef3c7" fill-opacity="0.5" stroke="#7c3aed" stroke-width="2.5" />
+
+    <!-- Right Angle Symbol at M -->
+    <path d="M 168 300 L 178 290 L 190 300" fill="none" stroke="#7c3aed" stroke-width="1.8" />
+
+    <!-- Segments WM, MA, WA -->
+    <line x1="100" y1="150" x2="180" y2="310" stroke="#7c3aed" stroke-width="2.5" />
+    <line x1="180" y1="310" x2="420" y2="190" stroke="#7c3aed" stroke-width="2.5" />
+    <line x1="100" y1="150" x2="420" y2="190" stroke="#d97706" stroke-width="2" stroke-dasharray="5,3" />
+
+    <!-- Labels & Vertices -->
+    <circle cx="100" cy="150" r="4.5" fill="#0f172a" />
+    <text x="85" y="145" fill="#0f172a" font-size="15" font-weight="bold">W</text>
+
+    <circle cx="100" cy="310" r="4.5" fill="#0f172a" />
+    <text x="85" y="325" fill="#0f172a" font-size="15" font-weight="bold">X</text>
+
+    <circle cx="420" cy="310" r="4.5" fill="#0f172a" />
+    <text x="430" y="325" fill="#0f172a" font-size="15" font-weight="bold">Y</text>
+
+    <circle cx="420" cy="150" r="4.5" fill="#0f172a" />
+    <text x="430" y="145" fill="#0f172a" font-size="15" font-weight="bold">Z</text>
+
+    <circle cx="180" cy="310" r="5" fill="#e11d48" />
+    <text x="175" y="330" fill="#e11d48" font-size="14" font-weight="bold">M(m=2)</text>
+
+    <circle cx="420" cy="190" r="5" fill="#e11d48" />
+    <text x="430" y="195" fill="#e11d48" font-size="14" font-weight="bold">A(a=3)</text>
+
+    <!-- Side Length Labels -->
+    <text x="60" y="235" fill="#0284c7" font-size="13" font-weight="bold">WX = 4</text>
+    <text x="260" y="140" fill="#0284c7" font-size="13" font-weight="bold" text-anchor="middle">WZ = 8</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">WM = √20, MA = √45 ➔ Area(WMA) = 1/2 · √20 · √45 = 15</text>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 342" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="quadGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0.08" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="342" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="342" />
+    <line x1="120" y1="0" x2="120" y2="342" />
+    <line x1="200" y1="0" x2="200" y2="342" />
+    <line x1="280" y1="0" x2="280" y2="342" />
+    <line x1="360" y1="0" x2="360" y2="342" />
+    <line x1="440" y1="0" x2="440" y2="342" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -43)">
+    <!-- Axes: Origin O = (180, 260), Scale S = 60 px/unit -->
+    <line x1="40" y1="260" x2="480" y2="260" stroke="#64748b" stroke-width="1.5" />
+    <text x="465" y="250" fill="#64748b" font-size="13" font-weight="bold">Re</text>
+
+    <line x1="180" y1="340" x2="180" y2="70" stroke="#64748b" stroke-width="1.5" />
+    <text x="190" y="85" fill="#64748b" font-size="13" font-weight="bold">Im</text>
+
+    <!-- Points:
+         O = (180, 260)
+         z = sqrt(7/4) + 1.5i = (1.32, 1.5) -> (180 + 79, 260 - 90) = (259, 170)
+         z^2 = (-0.5, 3.97) -> (180 - 30, 260 - 238) = (150, 22) -> scaled slightly
+         z^3 = (-6.6, 3.7)
+    -->
+    <polygon points="180,260 275,170 150,80 70,220" fill="url(#quadGrad)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+
+    <!-- Vertices -->
+    <circle cx="180" cy="260" r="5" fill="#0f172a" />
+    <text x="165" y="278" fill="#0f172a" font-size="15" font-weight="bold">0</text>
+
+    <circle cx="275" cy="170" r="5" fill="#0284c7" />
+    <text x="285" y="175" fill="#0284c7" font-size="15" font-weight="bold">z</text>
+
+    <circle cx="150" cy="80" r="5" fill="#7c3aed" />
+    <text x="150" y="68" fill="#7c3aed" font-size="15" font-weight="bold">z²</text>
+
+    <circle cx="70" cy="220" r="5" fill="#e11d48" />
+    <text x="50" y="235" fill="#e11d48" font-size="15" font-weight="bold">z³</text>
+
+    <!-- Im(z) Line -->
+    <line x1="275" y1="170" x2="275" y2="260" stroke="#d97706" stroke-width="2" stroke-dasharray="4,3" />
+    <text x="282" y="220" fill="#b45309" font-size="13" font-weight="bold">Im(z) = 3/2</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">Shoelace Area = 1/2(|z|² + |z|⁴) Im(z) = 10 Im(z) = 15 ➔ Im(z) = 3/2</text>
+  </g>
+</svg>

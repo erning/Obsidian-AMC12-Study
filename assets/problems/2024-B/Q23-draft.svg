@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 350" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="pyrGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="350" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="350" />
+    <line x1="120" y1="0" x2="120" y2="350" />
+    <line x1="200" y1="0" x2="200" y2="350" />
+    <line x1="280" y1="0" x2="280" y2="350" />
+    <line x1="360" y1="0" x2="360" y2="350" />
+    <line x1="440" y1="0" x2="440" y2="350" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -35)">
+    <!-- Octagon Base ABCDEFGH isometric:
+         Center O = (260, 270)
+         Vertices:
+         A=(160, 240), B=(220, 210), C=(300, 210), D=(360, 240)
+         E=(380, 290), F=(320, 320), G=(200, 320), H=(140, 290)
+         Apex V = (260, 90)
+    -->
+    <!-- Base Octagon -->
+    <polygon points="160,240 220,210 300,210 360,240 380,290 320,320 200,320 140,290" fill="url(#pyrGrad)" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Pyramid Slant Edges -->
+    <line x1="260" y1="90" x2="160" y2="240" stroke="#7c3aed" stroke-width="2.5" />
+    <line x1="260" y1="90" x2="360" y2="240" stroke="#7c3aed" stroke-width="2.5" />
+    <line x1="260" y1="90" x2="380" y2="290" stroke="#64748b" stroke-width="1.5" />
+    <line x1="260" y1="90" x2="320" y2="320" stroke="#64748b" stroke-width="1.5" />
+    <line x1="260" y1="90" x2="200" y2="320" stroke="#64748b" stroke-width="1.5" />
+    <line x1="260" y1="90" x2="140" y2="290" stroke="#64748b" stroke-width="1.5" />
+
+    <!-- Height Line VO -->
+    <line x1="260" y1="90" x2="260" y2="270" stroke="#d97706" stroke-width="2" stroke-dasharray="4,4" />
+    <text x="268" y="180" fill="#b45309" font-size="13" font-weight="bold">Height h</text>
+
+    <!-- Base Chord AD -->
+    <line x1="160" y1="240" x2="360" y2="240" stroke="#0284c7" stroke-width="2" stroke-dasharray="4,3" />
+
+    <!-- Right Angle Symbol at V for AV and DV -->
+    <path d="M 248 108 L 260 118 L 272 108" fill="none" stroke="#7c3aed" stroke-width="1.8" />
+    <text x="260" y="75" fill="#7c3aed" font-size="13" font-weight="bold" text-anchor="middle">AV ⊥ DV (90°)</text>
+
+    <!-- Vertices Labels -->
+    <circle cx="260" cy="90" r="5" fill="#7c3aed" />
+    <text x="260" y="60" fill="#7c3aed" font-size="15" font-weight="bold" text-anchor="middle">V</text>
+
+    <circle cx="160" cy="240" r="4.5" fill="#0f172a" />
+    <text x="145" y="240" fill="#0f172a" font-size="14" font-weight="bold">A</text>
+
+    <circle cx="360" cy="240" r="4.5" fill="#0f172a" />
+    <text x="370" y="240" fill="#0f172a" font-size="14" font-weight="bold">D</text>
+
+    <circle cx="260" cy="270" r="4" fill="#d97706" />
+    <text x="260" y="288" fill="#d97706" font-size="13" font-weight="bold" text-anchor="middle">O</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">AD² = 2L² = R²(2+√2) ➔ 2h² = √2 R² ➔ h² = (1 + √2) / 2</text>
+  </g>
+</svg>

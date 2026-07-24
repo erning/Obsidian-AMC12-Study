@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="areaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.08" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="330" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="330" />
+    <line x1="120" y1="0" x2="120" y2="330" />
+    <line x1="200" y1="0" x2="200" y2="330" />
+    <line x1="280" y1="0" x2="280" y2="330" />
+    <line x1="360" y1="0" x2="360" y2="330" />
+    <line x1="440" y1="0" x2="440" y2="330" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -55)">
+    <!-- Square Domain [0,1]^2: Origin at (140, 310), Scale 200 px -->
+    <!-- Axes -->
+    <line x1="100" y1="310" x2="370" y2="310" stroke="#64748b" stroke-width="1.5" />
+    <text x="360" y="300" fill="#64748b" font-size="13" font-weight="bold">x</text>
+
+    <line x1="140" y1="330" x2="140" y2="80" stroke="#64748b" stroke-width="1.5" />
+    <text x="148" y="90" fill="#64748b" font-size="13" font-weight="bold">y</text>
+
+    <!-- Unit Square [0,1]^2 -->
+    <rect x="140" y="110" width="200" height="200" fill="#ffffff" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Valid Region xy < 1/2 Shaded -->
+    <!-- Path under curve y = 1/(2x) from x=1/2 (240 px) to x=1 (340 px) -->
+    <path d="M 140 110 L 240 110 Q 275 160 340 210 L 340 310 L 140 310 Z" fill="url(#areaGrad)" />
+
+    <!-- Hyperbola Curve y = 1/(2x) -->
+    <path d="M 240 110 Q 275 160 340 210" fill="none" stroke="#e11d48" stroke-width="2.5" />
+    <text x="270" y="145" fill="#e11d48" font-size="13" font-weight="bold">y = 1/(2x)</text>
+
+    <!-- Shaded Area Region Text -->
+    <text x="190" y="230" fill="#0284c7" font-size="14" font-weight="bold">Valid Region: xy &lt; 1/2</text>
+    <text x="280" y="125" fill="#64748b" font-size="12">Complement: xy ≥ 1/2</text>
+
+    <!-- Tick Marks -->
+    <text x="130" y="325" fill="#0f172a" font-size="12" font-weight="bold">0</text>
+    <text x="240" y="325" fill="#0f172a" font-size="12">1/2</text>
+    <text x="340" y="325" fill="#0f172a" font-size="12" font-weight="bold">1</text>
+    <text x="120" y="115" fill="#0f172a" font-size="12" font-weight="bold">1</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">Pr(xy &lt; 1/2) = 1/2 + 1/2 ln 2 ≈ 0.8466 ∈ (3/4, 7/8]</text>
+  </g>
+</svg>

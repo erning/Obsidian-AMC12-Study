@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 365" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="triGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="triGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="365" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="365" />
+    <line x1="120" y1="0" x2="120" y2="365" />
+    <line x1="200" y1="0" x2="200" y2="365" />
+    <line x1="280" y1="0" x2="280" y2="365" />
+    <line x1="360" y1="0" x2="360" y2="365" />
+    <line x1="440" y1="0" x2="440" y2="365" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+
+  <!-- Content Group (top pad 25px) -->
+  <g transform="translate(0, -5)">
+    <!-- Left: 3-4-5 Triangle -->
+    <g transform="translate(0, -5)">
+      <polygon points="0,150 160,150 160,30" fill="url(#triGrad1)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+      <path d="M 160 135 L 145 135 L 145 150" fill="none" stroke="#0284c7" stroke-width="1.5" />
+      <path d="M 40 150 A 40 40 0 0 0 32 126" fill="none" stroke="#0284c7" stroke-width="2" />
+      <text x="45" y="140" fill="#0284c7" font-size="14" font-weight="bold">α</text>
+      <text x="80" y="170" fill="#0f172a" font-size="14" font-weight="bold">4</text>
+      <text x="175" y="95" fill="#0f172a" font-size="14" font-weight="bold">3</text>
+      <text x="70" y="80" fill="#0284c7" font-size="14" font-weight="bold">5</text>
+      <text x="80" y="195" fill="#0284c7" font-size="13" font-weight="bold" text-anchor="middle">tan α = 3/4</text>
+    </g>
+
+    <!-- Right: 7-24-25 Triangle (Double angle comparison) -->
+    <g transform="translate(0, -5)">
+      <polygon points="0,150 180,150 180,97.5" fill="url(#triGrad2)" stroke="#7c3aed" stroke-width="2.5" stroke-linejoin="round" />
+      <path d="M 180 135 L 165 135 L 165 150" fill="none" stroke="#7c3aed" stroke-width="1.5" />
+      <path d="M 35 150 A 35 35 0 0 0 32 140" fill="none" stroke="#7c3aed" stroke-width="2" />
+      <text x="40" y="146" fill="#7c3aed" font-size="14" font-weight="bold">β</text>
+      <text x="90" y="170" fill="#0f172a" font-size="14" font-weight="bold">24</text>
+      <text x="192" y="125" fill="#0f172a" font-size="14" font-weight="bold">7</text>
+      <text x="80" y="115" fill="#7c3aed" font-size="14" font-weight="bold">25</text>
+      <text x="90" y="195" fill="#7c3aed" font-size="13" font-weight="bold" text-anchor="middle">tan β = 7/24</text>
+    </g>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="320" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="345" fill="#15803d" font-size="14" font-weight="bold">tan(2α) = 24/7 = cot β ➔ 2α + β = π/2 ➔ β = π/2 - 2α</text>
+  </g>
+</svg>
