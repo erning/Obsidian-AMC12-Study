@@ -1,78 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
-  <defs>
-    <linearGradient id="triGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="520" height="360" fill="#ffffff" rx="12" />
-  <!-- Grid Pattern -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" width="100%" height="100%" style="background-color:#fff;font-family:'Latin Modern Math','Computer Modern','STIX Two Text','Times New Roman',Cambria,serif">
+  <rect width="520" height="420" fill="#fff" rx="12"/>
+  <!-- Equal scale in both directions: 9 px per coordinate unit. -->
   <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
-    <line x1="40" y1="0" x2="40" y2="360" />
-    <line x1="120" y1="0" x2="120" y2="360" />
-    <line x1="200" y1="0" x2="200" y2="360" />
-    <line x1="280" y1="0" x2="280" y2="360" />
-    <line x1="360" y1="0" x2="360" y2="360" />
-    <line x1="440" y1="0" x2="440" y2="360" />
-    
-    <line x1="0" y1="50" x2="520" y2="50" />
-    <line x1="0" y1="110" x2="520" y2="110" />
-    <line x1="0" y1="170" x2="520" y2="170" />
-    <line x1="0" y1="230" x2="520" y2="230" />
-    <line x1="0" y1="290" x2="520" y2="290" />
-    <line x1="0" y1="350" x2="520" y2="350" />
+    <path d="M70 0V420M160 0V420M250 0V420M340 0V420M430 0V420"/>
+    <path d="M0 10H520M0 100H520M0 190H520M0 280H520M0 370H520"/>
   </g>
+  <!-- Map (x,y) to (70+9x, 370-9y). -->
+  <g>
+    <path d="M45 370H400M70 395V45" fill="none" stroke="#64748b" stroke-width="1.5"/>
+    <text x="388" y="360" fill="#64748b" font-size="12" font-weight="700">x</text>
+    <text x="80" y="58" fill="#64748b" font-size="12" font-weight="700">y</text>
 
-  <!-- Coordinate Geometry Diagram -->
-  <!-- 
-       Mapping:
-       Origin O = (60, 380)
-       Scale S_x = 22 px/unit, S_y = 9 px/unit
-       A(2, 31) -> (60 + 44, 380 - 279) = (104, 101)
-       B(8, 27) -> (60 + 176, 380 - 243) = (236, 137)
-       C(18, 27) -> (60 + 396, 380 - 243) = (456, 137)
-       H(2, 3) -> (104, 380 - 27) = (104, 353)
-  -->
-  <g transform="translate(0, -45)">
-    <!-- Axes -->
-    <line x1="40" y1="360" x2="480" y2="360" stroke="#64748b" stroke-width="1.5" />
-    <text x="465" y="350" fill="#64748b" font-size="12" font-weight="700">x</text>
+    <polygon points="88,91 142,127 232,127" fill="#0284c7" fill-opacity=".12" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round"/>
 
-    <line x1="60" y1="380" x2="60" y2="70" stroke="#64748b" stroke-width="1.5" />
-    <text x="70" y="85" fill="#64748b" font-size="12" font-weight="700">y</text>
+    <!-- Altitudes: x=2 and y-27=4(x-8). Equal scaling makes them visibly perpendicular to AC. -->
+    <line x1="88" y1="45" x2="88" y2="395" stroke="#7c3aed" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="97" y="190" fill="#7c3aed" font-size="12" font-weight="bold">Altitude x = 2</text>
+    <line x1="76" y1="391" x2="166" y2="31" stroke="#d97706" stroke-width="2" stroke-dasharray="5,3"/>
+    <text x="177" y="235" fill="#b45309" font-size="12" font-weight="bold">slope 4</text>
 
-    <!-- Triangle ABC -->
-    <polygon points="104,101 236,137 456,137" fill="url(#triGrad)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+    <circle cx="88" cy="343" r="6" fill="#e11d48"/>
+    <text x="100" y="348" fill="#e11d48" font-size="15" font-weight="800">H(2, 3)</text>
 
-    <!-- Horizontal Side BC (y = 27) -->
-    <line x1="236" y1="137" x2="456" y2="137" stroke="#0284c7" stroke-width="3" />
-
-    <!-- Altitude from A: Vertical Line x = 2 -->
-    <line x1="104" y1="70" x2="104" y2="370" stroke="#7c3aed" stroke-width="2" stroke-dasharray="5,3" />
-    <text x="112" y="180" fill="#7c3aed" font-size="12" font-weight="bold">Altitude x = 2</text>
-
-    <!-- Altitude from B: Line y - 27 = 4(x - 8) (Slope = 4) -->
-    <line x1="80" y1="377" x2="260" y2="113" stroke="#d97706" stroke-width="2" stroke-dasharray="5,3" />
-    <text x="170" y="270" fill="#b45309" font-size="12" font-weight="bold">Slope m = 4</text>
-
-    <!-- Orthocenter H = (2, 3) -->
-    <circle cx="104" cy="353" r="6" fill="#e11d48" />
-    <text x="116" y="358" fill="#e11d48" font-size="15" font-weight="800">H(2, 3)</text>
-
-    <!-- Vertices Labels -->
-    <circle cx="104" cy="101" r="4.5" fill="#0284c7" />
-    <text x="104" y="90" fill="#0284c7" font-size="14" font-weight="800" text-anchor="middle">A(2, 31)</text>
-
-    <circle cx="236" cy="137" r="4.5" fill="#0284c7" />
-    <text x="236" y="125" fill="#0284c7" font-size="14" font-weight="800" text-anchor="middle">B(8, 27)</text>
-
-    <circle cx="456" cy="137" r="4.5" fill="#0284c7" />
-    <text x="456" y="125" fill="#0284c7" font-size="14" font-weight="800" text-anchor="middle">C(18, 27)</text>
-
-    <!-- Result Box -->
-    <rect x="260" y="330" width="200" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
-    <text x="275" y="355" fill="#15803d" font-size="14" font-weight="800">Orthocenter x + y = 2 + 3 = 5</text>
+    <g fill="#0284c7" font-size="14" font-weight="800" text-anchor="middle">
+      <circle cx="88" cy="91" r="4.5"/><text x="88" y="78">A(2, 31)</text>
+      <circle cx="142" cy="127" r="4.5"/><text x="142" y="116">B(8, 27)</text>
+      <circle cx="232" cy="127" r="4.5"/><text x="232" y="116">C(18, 27)</text>
+    </g>
+    <rect x="285" y="325" width="205" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1"/>
+    <text x="297" y="350" fill="#15803d" font-size="14" font-weight="800">x + y = 2 + 3 = 5</text>
   </g>
 </svg>
