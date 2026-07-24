@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="shadeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Concentric Squares Diagram -->
+  <!-- Center = (260, 230)
+       Square 0 (Outer, side = 280): x:[120, 400], y:[90, 370]
+       Square 1 (side = 210, k=0.75): x:[155, 365], y:[125, 335] -> Shaded ring 1
+       Square 2 (side = 157.5): x:[181, 339], y:[151, 309] -> White
+       Square 3 (side = 118): x:[201, 319], y:[171, 289] -> Shaded ring 2
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Outer Square 0 -->
+    <rect x="120" y="90" width="280" height="280" fill="url(#shadeGrad)" stroke="#0284c7" stroke-width="2.5" />
+
+    <!-- Square 1 (k = 3/4) -->
+    <rect x="155" y="125" width="210" height="210" fill="#ffffff" stroke="#0284c7" stroke-width="2" />
+
+    <!-- Square 2 (k^2) -->
+    <rect x="181" y="151" width="158" height="158" fill="url(#shadeGrad)" stroke="#0284c7" stroke-width="1.8" />
+
+    <!-- Square 3 (k^3) -->
+    <rect x="201" y="171" width="118" height="118" fill="#ffffff" stroke="#0284c7" stroke-width="1.5" />
+
+    <!-- Square 4 (k^4) -->
+    <rect x="216" y="186" width="88" height="88" fill="url(#shadeGrad)" stroke="#0284c7" stroke-width="1.2" />
+
+    <!-- Dimension Labels -->
+    <!-- Outer Side = 1 -->
+    <line x1="120" y1="75" x2="400" y2="75" stroke="#0f172a" stroke-width="1.5" />
+    <text x="260" y="68" fill="#0f172a" font-size="13" font-weight="bold" text-anchor="middle">Outer Side = 1 (Area = 1)</text>
+
+    <!-- Inner Side = k -->
+    <line x1="155" y1="385" x2="365" y2="385" stroke="#7c3aed" stroke-width="1.5" />
+    <text x="260" y="402" fill="#7c3aed" font-size="12" font-weight="bold" text-anchor="middle">Inner Side = k (Area = k²)</text>
+
+    <!-- Ring Shading Annotations -->
+    <text x="138" y="110" fill="#0369a1" font-size="11" font-weight="bold">Ring 1: 1 - k²</text>
+
+    <!-- Result Box -->
+    <rect x="300" y="320" width="180" height="50" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="310" y="342" fill="#0f172a" font-size="12" font-weight="700">Total Area = 1/(1+k²)</text>
+    <text x="310" y="360" fill="#15803d" font-size="13" font-weight="800">1/(1+k²) = 0.64 ➔ k = 3/4</text>
+  </g>
+</svg>

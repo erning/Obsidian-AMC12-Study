@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="arcGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Arcs Diagram -->
+  <!-- Center O = (260, 230)
+       R_inner = 70 px (radius R = OA)
+       R_outer = 150 px (radius S = OB = R + 2pi)
+       Angle theta = 70 deg
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Center O -->
+    <circle cx="260" cy="230" r="5" fill="#0f172a" />
+    <text x="245" y="235" fill="#0f172a" font-size="15" font-weight="800">O</text>
+
+    <!-- Outer Minor Arc BC (radius S) -->
+    <!-- Arc from 55 deg to 125 deg -->
+    <path d="M 346 313 A 150 150 0 0 1 174 313" fill="none" stroke="#0284c7" stroke-width="3" />
+    <text x="260" y="360" fill="#0284c7" font-size="13" font-weight="800" text-anchor="middle">Minor Arc BC = 2π</text>
+
+    <!-- Inner Major Arc AD (radius R) -->
+    <!-- Major Arc from 55 deg around to 125 deg -->
+    <path d="M 300 287 A 70 70 0 1 0 220 287" fill="none" stroke="#7c3aed" stroke-width="3" />
+    <text x="260" y="140" fill="#7c3aed" font-size="13" font-weight="800" text-anchor="middle">Major Arc AD = 2π</text>
+
+    <!-- Radial Rays O-A-B and O-D-C -->
+    <line x1="260" y1="230" x2="346" y2="313" stroke="#64748b" stroke-width="1.8" />
+    <line x1="260" y1="230" x2="174" y2="313" stroke="#64748b" stroke-width="1.8" />
+
+    <!-- Straight Segments AB and CD -->
+    <line x1="300" y1="287" x2="346" y2="313" stroke="#e11d48" stroke-width="3" />
+    <text x="335" y="295" fill="#e11d48" font-size="12" font-weight="bold">AB = 2π</text>
+
+    <line x1="220" y1="287" x2="174" y2="313" stroke="#e11d48" stroke-width="3" />
+    <text x="175" y="295" fill="#e11d48" font-size="12" font-weight="bold">CD = 2π</text>
+
+    <!-- Vertices A, B, C, D -->
+    <circle cx="300" cy="287" r="4.5" fill="#7c3aed" />
+    <text x="308" y="282" fill="#7c3aed" font-size="14" font-weight="800">A</text>
+
+    <circle cx="346" cy="313" r="4.5" fill="#0284c7" />
+    <text x="358" y="322" fill="#0284c7" font-size="14" font-weight="800">B</text>
+
+    <circle cx="174" cy="313" r="4.5" fill="#0284c7" />
+    <text x="155" y="322" fill="#0284c7" font-size="14" font-weight="800">C</text>
+
+    <circle cx="220" cy="287" r="4.5" fill="#7c3aed" />
+    <text x="205" y="282" fill="#7c3aed" font-size="14" font-weight="800">D</text>
+
+    <!-- Angle Arc theta -->
+    <path d="M 277 246 A 20 20 0 0 1 243 246" fill="none" stroke="#d97706" stroke-width="2" />
+    <text x="260" y="260" fill="#b45309" font-size="12" font-weight="bold" text-anchor="middle">θ</text>
+
+    <!-- Quadratic Result Box -->
+    <rect x="50" y="375" width="420" height="35" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="398" fill="#15803d" font-size="13" font-weight="800">R² + (2π-2)R - 2π = 0 ➔ OA = R = 1 - π + √(π² + 1)</text>
+  </g>
+</svg>

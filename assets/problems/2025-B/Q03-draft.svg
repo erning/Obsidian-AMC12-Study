@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0284c7" />
+    </marker>
+    <marker id="arrowPurple" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7c3aed" />
+    </marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#e11d48" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Complex Plane Axes & Vectors -->
+  <!-- Origin O = (320, 230), Scale S = 22 px / unit -->
+  <g transform="translate(0, 10)">
+    <!-- Axes -->
+    <line x1="40" y1="230" x2="480" y2="230" stroke="#64748b" stroke-width="1.5" />
+    <text x="465" y="220" fill="#64748b" font-size="12" font-weight="700">Re</text>
+
+    <line x1="320" y1="400" x2="320" y2="70" stroke="#64748b" stroke-width="1.5" />
+    <text x="330" y="85" fill="#64748b" font-size="12" font-weight="700">Im</text>
+
+    <!-- Origin point -->
+    <circle cx="320" cy="230" r="4" fill="#0f172a" />
+    <text x="325" y="245" fill="#0f172a" font-size="13" font-weight="bold">O</text>
+
+    <!-- Vector z1 = -1-i -> (320 - 22, 230 + 22) = (298, 252) -->
+    <line x1="320" y1="230" x2="298" y2="252" stroke="#0284c7" stroke-width="2.5" marker-end="url(#arrow)" />
+    <text x="250" y="270" fill="#0284c7" font-size="12" font-weight="bold">z₁ = -1 - i (225°)</text>
+
+    <!-- Vector z2 = 5-5i -> (320 + 110, 230 + 110) = (430, 340) -->
+    <line x1="320" y1="230" x2="430" y2="340" stroke="#7c3aed" stroke-width="2.5" marker-end="url(#arrowPurple)" />
+    <text x="410" y="360" fill="#7c3aed" font-size="12" font-weight="bold">z₂ = 5 - 5i (-45°)</text>
+
+    <!-- Product Vector P = -10 -> (320 - 220, 230) = (100, 230) -->
+    <line x1="320" y1="230" x2="100" y2="230" stroke="#e11d48" stroke-width="3.5" marker-end="url(#arrowRed)" />
+    <circle cx="100" cy="230" r="6" fill="#e11d48" />
+    <text x="60" y="215" fill="#e11d48" font-size="15" font-weight="800">P = -10 (180°)</text>
+
+    <!-- Angle Addition Arc (225 + (-45) = 180) -->
+    <path d="M 298 252 A 30 30 0 0 1 100 230" fill="none" stroke="#d97706" stroke-width="1.8" stroke-dasharray="3,3" />
+    <text x="180" y="275" fill="#b45309" font-size="12" font-weight="bold">Angles Add: 225° - 45° = 180°</text>
+
+    <!-- Result Box -->
+    <rect x="50" y="350" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="375" fill="#15803d" font-size="14" font-weight="800">Product: (-1 - i)(5 - 5i) = -5 + 5i - 5i + 5i² = -10</text>
+  </g>
+</svg>

@@ -30,10 +30,6 @@
     <line x1="0" y1="380" x2="520" y2="380" />
   </g>
 
-  <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q15 Frustum Cross-Section</text>
-  <text x="30" y="60" fill="#475569" font-size="12">Side length s(t) = 1 + 2t &amp; volume slice proportions</text>
-
   <!-- Centered Diagram: 2D Cross-Section of Container -->
   <!-- 
        Center X = 260

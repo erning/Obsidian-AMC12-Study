@@ -25,10 +25,6 @@
     <line x1="0" y1="380" x2="520" y2="380" />
   </g>
 
-  <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q25 Concentric Circles &amp; 60° Rotation</text>
-  <text x="30" y="60" fill="#475569" font-size="12">Rotating △POQ by 60° gives collinearity O-O'-R (OO'=1, O'R=2, OR=3)</text>
-
   <!-- Concentric Circles & Rotation Geometry -->
   <!-- 
        Origin O = (240, 240)

@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="triGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Right Triangle Diagram -->
+  <!-- 
+       C = (80, 330)  [Right angle]
+       A = (426, 330) [Long leg = sqrt(3) -> 346 px]
+       B = (80, 130)  [Short leg = 1 -> 200 px]
+       H on AB = (166.5, 180) [Altitude CH]
+       M on BC = (80, 230)   [Midpoint of short leg BC]
+       P = CH intersect AM = (129.4, 244.3)
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Right Triangle ABC -->
+    <polygon points="80,330 426,330 80,130" fill="url(#triGrad)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+
+    <!-- Right Angle Symbol at C -->
+    <path d="M 80 315 L 95 315 L 95 330" fill="none" stroke="#0284c7" stroke-width="1.5" />
+
+    <!-- Altitude CH -->
+    <line x1="80" y1="330" x2="167" y2="180" stroke="#7c3aed" stroke-width="2.5" />
+    <text x="175" y="175" fill="#7c3aed" font-size="13" font-weight="bold">Altitude CH</text>
+
+    <!-- Midpoint M of BC -->
+    <circle cx="80" cy="230" r="4.5" fill="#d97706" />
+    <text x="50" y="235" fill="#b45309" font-size="14" font-weight="800">M</text>
+
+    <!-- Median AM -->
+    <line x1="426" y1="330" x2="80" y2="230" stroke="#d97706" stroke-width="2.5" stroke-dasharray="5,3" />
+    <text x="270" y="270" fill="#b45309" font-size="12" font-weight="bold">Median AM</text>
+
+    <!-- Intersection P -->
+    <circle cx="129" cy="244" r="5.5" fill="#e11d48" />
+    <text x="138" y="240" fill="#e11d48" font-size="15" font-weight="800">P</text>
+
+    <!-- Altitude Segment Labels x and y -->
+    <text x="100" y="295" fill="#e11d48" font-size="13" font-weight="bold">y = CP (4/7)</text>
+    <text x="150" y="215" fill="#e11d48" font-size="13" font-weight="bold">x = PH (3/7)</text>
+
+    <!-- Vertices Labels -->
+    <circle cx="80" cy="330" r="4.5" fill="#0f172a" />
+    <text x="65" y="350" fill="#0f172a" font-size="15" font-weight="800">C(90°)</text>
+
+    <circle cx="426" cy="330" r="4.5" fill="#0f172a" />
+    <text x="435" y="340" fill="#0f172a" font-size="15" font-weight="800">A(30°)</text>
+
+    <circle cx="80" cy="130" r="4.5" fill="#0f172a" />
+    <text x="65" y="125" fill="#0f172a" font-size="15" font-weight="800">B(60°)</text>
+
+    <circle cx="167" cy="180" r="4.5" fill="#7c3aed" />
+    <text x="175" y="195" fill="#7c3aed" font-size="13" font-weight="800">H</text>
+
+    <!-- Result Box -->
+    <rect x="230" y="360" width="240" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="245" y="385" fill="#15803d" font-size="14" font-weight="800">Ratio x / (x + y) = PH / CH = 3/7</text>
+  </g>
+</svg>

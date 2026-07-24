@@ -30,10 +30,6 @@
     <line x1="0" y1="380" x2="520" y2="380" />
   </g>
 
-  <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-A Q14 Tangent Ellipses &amp; Eccentricity</text>
-  <text x="30" y="60" fill="#475569" font-size="12">Area ratio 2025 ➔ a₁/a₂ = 45; Internal tangency at V</text>
-
   <!-- Ellipses Diagram -->
   <!-- 
        Major Axis along y = 230

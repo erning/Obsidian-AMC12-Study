@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="triGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
+    
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
+  </g>
+
+  <!-- Triangle ABC Diagram -->
+  <!-- 
+       Vertices:
+       B = (80, 320)
+       A = (440, 320) [AB = 360 px, scale S = 4.5 px/unit]
+       C = (158.75, 122.5) -> BH = 78.75 px (17.5 units), CH = 197.5 px
+       H = (158.75, 320)
+       P on CH: BP is bisector of B (angle B/2 = 33.56 deg)
+       P = (158.75, 320 - 52.2) = (158.75, 267.8)
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Triangle Polygon -->
+    <polygon points="80,320 440,320 159,122" fill="url(#triGrad)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+
+    <!-- Altitude CH -->
+    <line x1="159" y1="122" x2="159" y2="320" stroke="#7c3aed" stroke-width="2.5" stroke-dasharray="5,3" />
+    <text x="168" y="180" fill="#7c3aed" font-size="12" font-weight="bold">Altitude CH</text>
+
+    <!-- Right Angle Symbol at H -->
+    <path d="M 159 308 L 171 308 L 171 320" fill="none" stroke="#7c3aed" stroke-width="1.5" />
+
+    <!-- Angle Bisector BP -->
+    <line x1="80" y1="320" x2="240" y2="215" stroke="#d97706" stroke-width="2.5" />
+    <text x="105" y="275" fill="#b45309" font-size="13" font-weight="800">Bisector BP = 21</text>
+
+    <!-- Point P (Intersection of BP and CH) -->
+    <circle cx="159" cy="268" r="5.5" fill="#e11d48" />
+    <text x="170" y="272" fill="#e11d48" font-size="15" font-weight="800">P</text>
+
+    <!-- Projection Length BH -->
+    <line x1="80" y1="335" x2="159" y2="335" stroke="#0284c7" stroke-width="2" />
+    <text x="120" y="352" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">BH = 17.5</text>
+
+    <!-- Vertices Labels & Side Lengths -->
+    <circle cx="80" cy="320" r="4.5" fill="#0f172a" />
+    <text x="65" y="325" fill="#0f172a" font-size="15" font-weight="800">B</text>
+
+    <circle cx="440" cy="320" r="4.5" fill="#0f172a" />
+    <text x="450" y="325" fill="#0f172a" font-size="15" font-weight="800">A</text>
+
+    <circle cx="159" cy="122" r="4.5" fill="#0f172a" />
+    <text x="159" y="110" fill="#0f172a" font-size="15" font-weight="800" text-anchor="middle">C</text>
+
+    <circle cx="159" cy="320" r="4" fill="#7c3aed" />
+    <text x="159" y="338" fill="#7c3aed" font-size="12" font-weight="bold" text-anchor="middle">H</text>
+
+    <text x="260" y="340" fill="#475569" font-size="13" font-weight="bold">AB = 80</text>
+    <text x="105" y="200" fill="#475569" font-size="13" font-weight="bold">BC = 45</text>
+    <text x="310" y="210" fill="#475569" font-size="13" font-weight="bold">AC = 75</text>
+
+    <!-- Half-Angle Arc at B -->
+    <path d="M 105 320 A 25 25 0 0 0 100 307" fill="none" stroke="#d97706" stroke-width="1.8" />
+    <text x="110" y="310" fill="#b45309" font-size="11" font-weight="bold">B/2</text>
+
+    <!-- Calculation Box -->
+    <rect x="250" y="360" width="220" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="265" y="385" fill="#15803d" font-size="13" font-weight="800">BP = BH / cos(B/2) = 17.5 / (5/6) = 21</text>
+  </g>
+</svg>

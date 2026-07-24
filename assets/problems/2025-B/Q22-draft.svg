@@ -30,10 +30,6 @@
     <line x1="0" y1="380" x2="500" y2="380" />
   </g>
 
-  <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q22 Complex Plane Optimization</text>
-  <text x="30" y="60" fill="#475569" font-size="12">Base triangle area scaled by |z|² on circle |z - 1/2| = 1/4</text>
-
   <!-- Complex Plane Axes -->
   <!-- Origin O = (100, 240), Scale S = 160 px / unit -->
   <g transform="translate(0, 10)">
