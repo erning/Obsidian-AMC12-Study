@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="startGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient id="goalGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#16a34a" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient id="vanishGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#e11d48" stop-opacity="0.08" />
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1" />
+    </filter>
+
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b" />
+    </marker>
+    <marker id="arrowBlue" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#0284c7" />
+    </marker>
+    <marker id="arrowRed" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#e11d48" />
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="760" height="520" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="520" />
+    <line x1="120" y1="0" x2="120" y2="520" />
+    <line x1="200" y1="0" x2="200" y2="520" />
+    <line x1="280" y1="0" x2="280" y2="520" />
+    <line x1="360" y1="0" x2="360" y2="520" />
+    <line x1="440" y1="0" x2="440" y2="520" />
+    <line x1="520" y1="0" x2="520" y2="520" />
+    <line x1="600" y1="0" x2="600" y2="520" />
+    <line x1="680" y1="0" x2="680" y2="520" />
+    
+    <line x1="0" y1="60" x2="760" y2="60" />
+    <line x1="0" y1="140" x2="760" y2="140" />
+    <line x1="0" y1="220" x2="760" y2="220" />
+    <line x1="0" y1="300" x2="760" y2="300" />
+    <line x1="0" y1="380" x2="760" y2="380" />
+    <line x1="0" y1="460" x2="760" y2="460" />
+  </g>
+
+  <!-- Title -->
+  <text x="30" y="40" fill="#0f172a" font-size="20" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q20 Solution Diagram (Random Walk Graph)</text>
+  <text x="30" y="62" fill="#475569" font-size="13">State transition probabilities with absorbing vanishing state</text>
+
+  <!-- Left Panel: Markov Chain State Diagram -->
+  <!-- Nodes along horizontal y = 180:
+       Node 0: x = 60
+       Node 1: x = 145
+       Node 2: x = 230
+       Node 3: x = 315
+       Node 4: x = 400
+       Vanish Node: y = 370, x = 230 (width = 320)
+  -->
+  <g transform="translate(0, 10)">
+    <!-- Vanish Box at bottom -->
+    <rect x="50" y="340" width="360" height="60" fill="url(#vanishGrad)" rx="8" stroke="#f43f5e" stroke-width="1.5" stroke-dasharray="4,3" />
+    <text x="230" y="375" fill="#e11d48" font-size="14" font-weight="800" text-anchor="middle">❌ Vanish / Absorb (Contribution = 0)</text>
+
+    <!-- Node 0 -->
+    <circle cx="60" cy="170" r="24" fill="url(#startGrad)" stroke="#0284c7" stroke-width="2.5" />
+    <text x="60" y="175" fill="#0f172a" font-size="16" font-weight="800" text-anchor="middle">0</text>
+    <text x="60" y="135" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">Start</text>
+    <text x="60" y="210" fill="#0284c7" font-size="11" font-weight="bold" text-anchor="middle">f(0)=1/97</text>
+
+    <!-- Node 1 -->
+    <circle cx="145" cy="170" r="24" fill="#ffffff" stroke="#64748b" stroke-width="2" />
+    <text x="145" y="175" fill="#0f172a" font-size="16" font-weight="800" text-anchor="middle">1</text>
+    <text x="145" y="210" fill="#475569" font-size="11" font-weight="bold" text-anchor="middle">f(1)=2/97</text>
+
+    <!-- Node 2 -->
+    <circle cx="230" cy="170" r="24" fill="#ffffff" stroke="#64748b" stroke-width="2" />
+    <text x="230" y="175" fill="#0f172a" font-size="16" font-weight="800" text-anchor="middle">2</text>
+    <text x="230" y="210" fill="#475569" font-size="11" font-weight="bold" text-anchor="middle">7/2 f(1)</text>
+
+    <!-- Node 3 -->
+    <circle cx="315" cy="170" r="24" fill="#ffffff" stroke="#64748b" stroke-width="2" />
+    <text x="315" y="175" fill="#0f172a" font-size="16" font-weight="800" text-anchor="middle">3</text>
+    <text x="315" y="210" fill="#475569" font-size="11" font-weight="bold" text-anchor="middle">13 f(1)</text>
+
+    <!-- Node 4 -->
+    <circle cx="400" cy="170" r="24" fill="url(#goalGrad)" stroke="#16a34a" stroke-width="2.5" />
+    <text x="400" y="175" fill="#0f172a" font-size="16" font-weight="800" text-anchor="middle">4</text>
+    <text x="400" y="135" fill="#16a34a" font-size="12" font-weight="bold" text-anchor="middle">Goal</text>
+    <text x="400" y="210" fill="#16a34a" font-size="11" font-weight="bold" text-anchor="middle">f(4)=1</text>
+
+    <!-- Forward Arrows (Top Curvature) -->
+    <!-- 0 -> 1 (1/2) -->
+    <path d="M 82 160 Q 102 145 122 160" fill="none" stroke="#0284c7" stroke-width="2" marker-end="url(#arrowBlue)" />
+    <text x="102" y="142" fill="#0284c7" font-size="11" font-weight="bold" text-anchor="middle">1/2</text>
+
+    <!-- 1 -> 2 (1/4) -->
+    <path d="M 167 160 Q 187 145 207 160" fill="none" stroke="#64748b" stroke-width="1.8" marker-end="url(#arrow)" />
+    <text x="187" y="142" fill="#475569" font-size="11" font-weight="bold" text-anchor="middle">1/4</text>
+
+    <!-- 2 -> 3 (1/4) -->
+    <path d="M 252 160 Q 272 145 292 160" fill="none" stroke="#64748b" stroke-width="1.8" marker-end="url(#arrow)" />
+    <text x="272" y="142" fill="#475569" font-size="11" font-weight="bold" text-anchor="middle">1/4</text>
+
+    <!-- 3 -> 4 (1/4) -->
+    <path d="M 337 160 Q 357 145 377 160" fill="none" stroke="#16a34a" stroke-width="2" marker-end="url(#arrow)" />
+    <text x="357" y="142" fill="#16a34a" font-size="11" font-weight="bold" text-anchor="middle">1/4</text>
+
+    <!-- Backward Arrows (Bottom Curvature) -->
+    <!-- 2 -> 1 (1/4) -->
+    <path d="M 208 180 Q 187 195 167 180" fill="none" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,3" marker-end="url(#arrow)" />
+    <!-- 3 -> 2 (1/4) -->
+    <path d="M 293 180 Q 272 195 252 180" fill="none" stroke="#64748b" stroke-width="1.5" stroke-dasharray="3,3" marker-end="url(#arrow)" />
+
+    <!-- Vanish Drop Arrows -->
+    <!-- From Node 0 -->
+    <line x1="60" y1="194" x2="60" y2="340" stroke="#f43f5e" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowRed)" />
+    <text x="72" y="270" fill="#e11d48" font-size="11" font-weight="bold">1/2</text>
+
+    <!-- From Node 1 -->
+    <line x1="145" y1="194" x2="145" y2="340" stroke="#f43f5e" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowRed)" />
+    <text x="157" y="270" fill="#e11d48" font-size="11" font-weight="bold">1/2</text>
+
+    <!-- From Node 2 -->
+    <line x1="230" y1="194" x2="230" y2="340" stroke="#f43f5e" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowRed)" />
+    <text x="242" y="270" fill="#e11d48" font-size="11" font-weight="bold">1/2</text>
+
+    <!-- From Node 3 -->
+    <line x1="315" y1="194" x2="315" y2="340" stroke="#f43f5e" stroke-width="1.5" stroke-dasharray="4,3" marker-end="url(#arrowRed)" />
+    <text x="327" y="270" fill="#e11d48" font-size="11" font-weight="bold">1/2</text>
+  </g>
+
+  <!-- Right Panel: Step-by-Step Card -->
+  <g transform="translate(480, 80)">
+    <rect x="0" y="0" width="250" height="400" fill="#f8fafc" rx="10" stroke="#cbd5e1" stroke-width="1" filter="url(#shadow)" />
+    
+    <text x="16" y="32" fill="#0f172a" font-size="15" font-weight="700">✍️ Derivation Steps</text>
+
+    <!-- Step 1 -->
+    <g transform="translate(16, 50)">
+      <circle cx="10" cy="10" r="10" fill="#0284c7" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">1</text>
+      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Setup Probabilities</text>
+      <text x="28" y="32" fill="#475569" font-size="11">Let f(n) = Prob(reach 4 from n).</text>
+      <text x="28" y="46" fill="#16a34a" font-size="12" font-weight="bold">Boundary: f(4) = 1</text>
+    </g>
+
+    <!-- Step 2 -->
+    <g transform="translate(16, 120)">
+      <circle cx="10" cy="10" r="10" fill="#0284c7" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">2</text>
+      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Node 0 Boundary</text>
+      <text x="28" y="32" fill="#475569" font-size="11">f(0) = 1/2 f(1) + 1/2(0)</text>
+      <text x="28" y="48" fill="#0284c7" font-size="12" font-weight="bold">➔ f(0) = 1/2 f(1)</text>
+    </g>
+
+    <!-- Step 3 -->
+    <g transform="translate(16, 205)">
+      <circle cx="10" cy="10" r="10" fill="#0284c7" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">3</text>
+      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Forward Substitutions</text>
+      <text x="28" y="32" fill="#475569" font-size="11">At 1: f(1) = 1/4 f(0) + 1/4 f(2)</text>
+      <text x="28" y="48" fill="#7c3aed" font-size="12" font-weight="bold">➔ f(2) = 7/2 f(1), f(3) = 13 f(1)</text>
+    </g>
+
+    <!-- Step 4 -->
+    <g transform="translate(16, 275)">
+      <circle cx="10" cy="10" r="10" fill="#16a34a" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">4</text>
+      <text x="28" y="14" fill="#15803d" font-size="13" font-weight="700">Solve at Node 3</text>
+      <text x="28" y="32" fill="#475569" font-size="11">13 f(1) = 7/8 f(1) + 1/4</text>
+      <text x="28" y="52" fill="#15803d" font-size="14" font-weight="800">f(1) = 2/97 ➔ f(0) = 1/97</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+  <defs>
+    <linearGradient id="triGradBase" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#94a3b8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#64748b" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient id="triGradMax" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.15" />
+    </linearGradient>
+
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="760" height="520" fill="#ffffff" rx="12" />
+
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="520" />
+    <line x1="120" y1="0" x2="120" y2="520" />
+    <line x1="200" y1="0" x2="200" y2="520" />
+    <line x1="280" y1="0" x2="280" y2="520" />
+    <line x1="360" y1="0" x2="360" y2="520" />
+    <line x1="440" y1="0" x2="440" y2="520" />
+    <line x1="520" y1="0" x2="520" y2="520" />
+    <line x1="600" y1="0" x2="600" y2="520" />
+    <line x1="680" y1="0" x2="680" y2="520" />
+    
+    <line x1="0" y1="60" x2="760" y2="60" />
+    <line x1="0" y1="140" x2="760" y2="140" />
+    <line x1="0" y1="220" x2="760" y2="220" />
+    <line x1="0" y1="300" x2="760" y2="300" />
+    <line x1="0" y1="380" x2="760" y2="380" />
+    <line x1="0" y1="460" x2="760" y2="460" />
+  </g>
+
+  <!-- Title -->
+  <text x="30" y="40" fill="#0f172a" font-size="20" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q22 Solution Diagram (Complex Plane Optimization)</text>
+  <text x="30" y="62" fill="#475569" font-size="13">Base triangle area scaled by |z|² on circle |z - 1/2| = 1/4</text>
+
+  <!-- Complex Plane Axes -->
+  <!-- Origin O = (100, 260), Scale S = 160 px / unit -->
+  <g transform="translate(0, 10)">
+    <!-- Axes -->
+    <line x1="40" y1="260" x2="440" y2="260" stroke="#64748b" stroke-width="1.5" />
+    <text x="425" y="250" fill="#64748b" font-size="12" font-weight="700">Re</text>
+
+    <line x1="100" y1="440" x2="100" y2="80" stroke="#64748b" stroke-width="1.5" />
+    <text x="110" y="95" fill="#64748b" font-size="12" font-weight="700">Im</text>
+
+    <!-- Origin point -->
+    <circle cx="100" cy="260" r="4" fill="#0f172a" />
+    <text x="85" y="278" fill="#0f172a" font-size="13" font-weight="bold">O(0)</text>
+
+    <!-- Circle |z - 1/2| = 1/4 -->
+    <!-- Center = (100 + 0.5*160, 260) = (180, 260) -->
+    <!-- Radius = 0.25 * 160 = 40 px -->
+    <circle cx="180" cy="260" r="40" fill="#e0f2fe" fill-opacity="0.3" stroke="#0284c7" stroke-width="2" stroke-dasharray="4,3" />
+    <circle cx="180" cy="260" r="3" fill="#0284c7" />
+    <text x="175" y="280" fill="#0284c7" font-size="11" font-weight="bold">1/2</text>
+
+    <!-- Vector to Farthest point z_max = 3/4 -->
+    <!-- Point z_max = (100 + 0.75*160, 260) = (220, 260) -->
+    <line x1="100" y1="260" x2="220" y2="260" stroke="#d97706" stroke-width="3" />
+    <circle cx="220" cy="260" r="5" fill="#d97706" />
+    <text x="210" y="288" fill="#b45309" font-size="12" font-weight="800">z_max = 3/4</text>
+    <text x="140" y="250" fill="#b45309" font-size="12" font-weight="bold">|z| = 3/4</text>
+
+    <!-- Base Triangle (for z=1) -->
+    <!-- Vertices: 2 => (420, 260), 1+i => (260, 100), 1-i => (260, 420) -->
+    <polygon points="420,260 260,100 260,420" fill="url(#triGradBase)" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="4,4" />
+    <text x="425" y="260" fill="#64748b" font-size="11">2</text>
+    <text x="265" y="95" fill="#64748b" font-size="11">1+i</text>
+    <text x="265" y="435" fill="#64748b" font-size="11">1-i</text>
+    <text x="330" y="160" fill="#64748b" font-size="12" font-weight="bold">Base Area = 1</text>
+
+    <!-- Scaled Triangle for z = 3/4 -->
+    <!-- Vertices: 2z => (340, 260), (1+i)z => (220, 140), (1-i)z => (220, 380) -->
+    <polygon points="340,260 220,140 220,380" fill="url(#triGradMax)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+    <circle cx="340" cy="260" r="4" fill="#0284c7" />
+    <circle cx="220" cy="140" r="4" fill="#0284c7" />
+    <circle cx="220" cy="380" r="4" fill="#0284c7" />
+    
+    <text x="345" y="260" fill="#0284c7" font-size="12" font-weight="bold">2z</text>
+    <text x="215" y="130" fill="#0284c7" font-size="12" font-weight="bold">(1+i)z</text>
+    <text x="215" y="398" fill="#0284c7" font-size="12" font-weight="bold">(1-i)z</text>
+
+    <text x="235" y="210" fill="#0284c7" font-size="13" font-weight="800">Max Area = 9/16</text>
+  </g>
+
+  <!-- Right Panel: Step-by-Step Card -->
+  <g transform="translate(480, 80)">
+    <rect x="0" y="0" width="250" height="400" fill="#f8fafc" rx="10" stroke="#cbd5e1" stroke-width="1" filter="url(#shadow)" />
+    
+    <text x="16" y="32" fill="#0f172a" font-size="15" font-weight="700">✍️ Derivation Steps</text>
+
+    <!-- Step 1 -->
+    <g transform="translate(16, 50)">
+      <circle cx="10" cy="10" r="10" fill="#0284c7" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">1</text>
+      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Fixed Base Triangle</text>
+      <text x="28" y="32" fill="#475569" font-size="11">Vertices: 2, 1+i, 1-i</text>
+      <text x="28" y="46" fill="#475569" font-size="11">Base = 2, Height = 1 ➔ Area = 1</text>
+    </g>
+
+    <!-- Step 2 -->
+    <g transform="translate(16, 120)">
+      <circle cx="10" cy="10" r="10" fill="#0284c7" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">2</text>
+      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Scaling by |z|²</text>
+      <text x="28" y="32" fill="#475569" font-size="11">Multiplying vertices by z</text>
+      <text x="28" y="48" fill="#0284c7" font-size="12" font-weight="bold">➔ Area(z) = 1 × |z|² = |z|²</text>
+    </g>
+
+    <!-- Step 3 -->
+    <g transform="translate(16, 205)">
+      <circle cx="10" cy="10" r="10" fill="#0284c7" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">3</text>
+      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Circle Constraint</text>
+      <text x="28" y="32" fill="#b45309" font-size="11" font-weight="bold">|4z - 2| = 1 ➔ |z - 1/2| = 1/4</text>
+      <text x="28" y="48" fill="#475569" font-size="11">Circle center = 1/2, radius = 1/4</text>
+    </g>
+
+    <!-- Step 4 -->
+    <g transform="translate(16, 275)">
+      <circle cx="10" cy="10" r="10" fill="#16a34a" />
+      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">4</text>
+      <text x="28" y="14" fill="#15803d" font-size="13" font-weight="700">Max Area Calculation</text>
+      <text x="28" y="32" fill="#b45309" font-size="11" font-weight="bold">|z|_max = 1/2 + 1/4 = 3/4</text>
+      <text x="28" y="52" fill="#15803d" font-size="14" font-weight="800">Max Area = (3/4)² = 9/16</text>
+    </g>
+  </g>
+</svg>
