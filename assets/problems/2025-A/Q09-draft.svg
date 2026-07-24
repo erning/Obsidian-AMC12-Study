@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 370" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 460" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
   <!-- Background -->
-  <rect width="520" height="370" fill="#ffffff" rx="12" />
+  <rect width="520" height="460" fill="#ffffff" rx="12" />
   <!-- Grid Pattern -->
   <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
-    <line x1="40" y1="0" x2="40" y2="370" />
-    <line x1="120" y1="0" x2="120" y2="370" />
-    <line x1="200" y1="0" x2="200" y2="370" />
-    <line x1="280" y1="0" x2="280" y2="370" />
-    <line x1="360" y1="0" x2="360" y2="370" />
-    <line x1="440" y1="0" x2="440" y2="370" />
+    <line x1="40" y1="0" x2="40" y2="460" />
+    <line x1="120" y1="0" x2="120" y2="460" />
+    <line x1="200" y1="0" x2="200" y2="460" />
+    <line x1="280" y1="0" x2="280" y2="460" />
+    <line x1="360" y1="0" x2="360" y2="460" />
+    <line x1="440" y1="0" x2="440" y2="460" />
     
     <line x1="0" y1="50" x2="520" y2="50" />
     <line x1="0" y1="110" x2="520" y2="110" />
@@ -16,11 +16,12 @@
     <line x1="0" y1="230" x2="520" y2="230" />
     <line x1="0" y1="290" x2="520" y2="290" />
     <line x1="0" y1="350" x2="520" y2="350" />
+    <line x1="0" y1="410" x2="520" y2="410" />
   </g>
 
   <!-- Complex Plane Axes -->
   <!-- Origin O = (100, 320), Scale S = 80 px / unit -->
-  <g transform="translate(0, -45)">
+  <g transform="translate(0, 15)">
     <!-- Axes -->
     <line x1="40" y1="320" x2="460" y2="320" stroke="#64748b" stroke-width="1.5" />
     <text x="445" y="310" fill="#64748b" font-size="12" font-weight="700">Re</text>
