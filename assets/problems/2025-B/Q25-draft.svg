@@ -1,162 +1,113 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
   <defs>
     <linearGradient id="triGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
       <stop offset="100%" stop-color="#6366f1" stop-opacity="0.08" />
     </linearGradient>
-
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1" />
-    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="760" height="520" fill="#ffffff" rx="12" />
+  <rect width="520" height="440" fill="#ffffff" rx="12" />
 
-  <!-- Grid Pattern (subtle draft paper look) -->
+  <!-- Grid Pattern -->
   <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
-    <line x1="40" y1="0" x2="40" y2="520" />
-    <line x1="120" y1="0" x2="120" y2="520" />
-    <line x1="200" y1="0" x2="200" y2="520" />
-    <line x1="280" y1="0" x2="280" y2="520" />
-    <line x1="360" y1="0" x2="360" y2="520" />
-    <line x1="440" y1="0" x2="440" y2="520" />
-    <line x1="520" y1="0" x2="520" y2="520" />
-    <line x1="600" y1="0" x2="600" y2="520" />
-    <line x1="680" y1="0" x2="680" y2="520" />
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
     
-    <line x1="0" y1="60" x2="760" y2="60" />
-    <line x1="0" y1="140" x2="760" y2="140" />
-    <line x1="0" y1="220" x2="760" y2="220" />
-    <line x1="0" y1="300" x2="760" y2="300" />
-    <line x1="0" y1="380" x2="760" y2="380" />
-    <line x1="0" y1="460" x2="760" y2="460" />
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
   </g>
 
   <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="20" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q25 Solution Diagram (60° Rotation)</text>
-  <text x="30" y="62" fill="#475569" font-size="13">Concentric circles r = 1, 2, 3 with auxiliary point O' rotated by 60°</text>
+  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q25 Concentric Circles &amp; 60° Rotation</text>
+  <text x="30" y="60" fill="#475569" font-size="12">Rotating △POQ by 60° gives collinearity O-O'-R (OO'=1, O'R=2, OR=3)</text>
 
-  <!-- Coordinate Origin O = (240, 260), Scale S = 65 px/unit -->
+  <!-- Concentric Circles & Rotation Geometry -->
   <!-- 
-       O  = (240, 260)
-       P  = (240 + 65*0.5, 260 - 65*0.866) = (272.5, 203.7)
-       Q  = (240 + 65*1.0, 260 + 65*1.732) = (305, 372.6)
-       R  = (240 + 65*3.0, 260)             = (435, 260)
-       O' = (240 + 65*1.0, 260)             = (305, 260)
+       Origin O = (240, 240)
+       Scale S = 60 px / unit
+
+       Circles: r1 = 60, r2 = 120, r3 = 180
+       Points:
+       O  = (240, 240)
+       P  = (240 + 30, 240 - 51.96) = (270, 188)
+       Q  = (240 + 60, 240 + 103.92) = (300, 344)
+       R  = (240 + 180, 240)        = (420, 240)
+       O' = (240 + 60, 240)         = (300, 240)
   -->
 
   <g transform="translate(0, 10)">
     <!-- Concentric Circles -->
-    <!-- Circle 1: r = 65 -->
-    <circle cx="240" cy="260" r="65" fill="none" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="5,4" />
-    <text x="172" y="255" fill="#0284c7" font-size="11" font-weight="600">r₁ = 1</text>
+    <!-- Circle 1: r = 60 -->
+    <circle cx="240" cy="240" r="60" fill="none" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="5,4" />
+    <text x="178" y="235" fill="#0284c7" font-size="11" font-weight="600">r₁ = 1</text>
 
-    <!-- Circle 2: r = 130 -->
-    <circle cx="240" cy="260" r="130" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-dasharray="5,4" />
-    <text x="107" y="255" fill="#4f46e5" font-size="11" font-weight="600">r₂ = 2</text>
+    <!-- Circle 2: r = 120 -->
+    <circle cx="240" cy="240" r="120" fill="none" stroke="#4f46e5" stroke-width="1.5" stroke-dasharray="5,4" />
+    <text x="118" y="235" fill="#4f46e5" font-size="11" font-weight="600">r₂ = 2</text>
 
-    <!-- Circle 3: r = 195 -->
-    <circle cx="240" cy="260" r="195" fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="5,4" />
-    <text x="42" y="255" fill="#7c3aed" font-size="11" font-weight="600">r₃ = 3</text>
+    <!-- Circle 3: r = 180 -->
+    <circle cx="240" cy="240" r="180" fill="none" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="5,4" />
+    <text x="58" y="235" fill="#7c3aed" font-size="11" font-weight="600">r₃ = 3</text>
 
     <!-- Collinear Line O - O' - R -->
-    <line x1="240" y1="260" x2="435" y2="260" stroke="#d97706" stroke-width="3" stroke-dasharray="6,3" />
-    <text x="260" y="278" fill="#b45309" font-size="12" font-weight="700">OO' = 1</text>
-    <text x="355" y="278" fill="#b45309" font-size="12" font-weight="700">O'R = 2</text>
+    <line x1="240" y1="240" x2="420" y2="240" stroke="#d97706" stroke-width="3" stroke-dasharray="6,3" />
+    <text x="255" y="258" fill="#b45309" font-size="11" font-weight="700">OO' = 1</text>
+    <text x="340" y="258" fill="#b45309" font-size="11" font-weight="700">O'R = 2</text>
 
-    <!-- Original Triangle PQR -->
-    <polygon points="272.5,203.7 305,372.6 435,260" fill="url(#triGrad)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+    <!-- Original Equilateral Triangle PQR -->
+    <polygon points="270,188 300,344 420,240" fill="url(#triGrad)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
     
     <!-- Rotated Triangle side PO' and O'R (Rotated △POQ -> △PO'R) -->
     <!-- △POO' is equilateral (side 1) -->
-    <polygon points="272.5,203.7 240,260 305,260" fill="#fef3c7" fill-opacity="0.5" stroke="#d97706" stroke-width="2" stroke-dasharray="4,3" />
+    <polygon points="270,188 240,240 300,240" fill="#fef3c7" fill-opacity="0.5" stroke="#d97706" stroke-width="2" stroke-dasharray="4,3" />
     
     <!-- Line PO' -->
-    <line x1="272.5" y1="203.7" x2="305" y2="260" stroke="#d97706" stroke-width="2" />
+    <line x1="270" y1="188" x2="300" y2="240" stroke="#d97706" stroke-width="2" />
     <!-- Line O'R -->
-    <line x1="305" y1="260" x2="435" y2="260" stroke="#d97706" stroke-width="2" />
+    <line x1="300" y1="240" x2="420" y2="240" stroke="#d97706" stroke-width="2" />
 
     <!-- Angle Arcs -->
-    <!-- Angle PO'O = 60 deg arc at O' (305, 260) pointing up-left -->
-    <path d="M 285 260 A 20 20 0 0 1 292.5 244" fill="none" stroke="#d97706" stroke-width="2" />
-    <text x="268" y="248" fill="#b45309" font-size="11" font-weight="bold">60°</text>
+    <!-- Angle PO'O = 60 deg arc at O' (300, 240) pointing up-left -->
+    <path d="M 282 240 A 18 18 0 0 1 289 225" fill="none" stroke="#d97706" stroke-width="2" />
+    <text x="266" y="228" fill="#b45309" font-size="11" font-weight="bold">60°</text>
 
     <!-- Angle PO'R = 120 deg arc at O' pointing up-right -->
-    <path d="M 292.5 244 A 20 20 0 0 1 325 260" fill="none" stroke="#e11d48" stroke-width="2" />
-    <text x="312" y="244" fill="#e11d48" font-size="12" font-weight="bold">120°</text>
+    <path d="M 289 225 A 18 18 0 0 1 318 240" fill="none" stroke="#e11d48" stroke-width="2" />
+    <text x="306" y="225" fill="#e11d48" font-size="12" font-weight="bold">120°</text>
 
     <!-- Vertices and Points -->
     <!-- Point O (Center) -->
-    <circle cx="240" cy="260" r="5" fill="#d97706" stroke="#ffffff" stroke-width="1.5" />
-    <text x="222" y="265" fill="#0f172a" font-size="15" font-weight="800">O</text>
+    <circle cx="240" cy="240" r="5" fill="#d97706" stroke="#ffffff" stroke-width="1.5" />
+    <text x="222" y="245" fill="#0f172a" font-size="15" font-weight="800">O</text>
 
     <!-- Point P (on Circle 1) -->
-    <circle cx="272.5" cy="203.7" r="5" fill="#0284c7" stroke="#ffffff" stroke-width="1.5" />
-    <text x="265" y="190" fill="#0284c7" font-size="15" font-weight="800">P (on r₁)</text>
+    <circle cx="270" cy="188" r="5" fill="#0284c7" stroke="#ffffff" stroke-width="1.5" />
+    <text x="262" y="175" fill="#0284c7" font-size="15" font-weight="800">P (on r₁)</text>
 
     <!-- Point Q (on Circle 2) -->
-    <circle cx="305" cy="372.6" r="5" fill="#4f46e5" stroke="#ffffff" stroke-width="1.5" />
-    <text x="313" y="388" fill="#4f46e5" font-size="15" font-weight="800">Q (on r₂)</text>
+    <circle cx="300" cy="344" r="5" fill="#4f46e5" stroke="#ffffff" stroke-width="1.5" />
+    <text x="308" y="360" fill="#4f46e5" font-size="15" font-weight="800">Q (on r₂)</text>
 
     <!-- Point R (on Circle 3) -->
-    <circle cx="435" cy="260" r="5" fill="#7c3aed" stroke="#ffffff" stroke-width="1.5" />
-    <text x="445" y="265" fill="#7c3aed" font-size="15" font-weight="800">R (on r₃)</text>
+    <circle cx="420" cy="240" r="5" fill="#7c3aed" stroke="#ffffff" stroke-width="1.5" />
+    <text x="430" y="245" fill="#7c3aed" font-size="15" font-weight="800">R (on r₃)</text>
 
     <!-- Auxiliary Point O' -->
-    <circle cx="305" cy="260" r="5" fill="#d97706" stroke="#ffffff" stroke-width="1.5" />
-    <text x="302" y="292" fill="#b45309" font-size="15" font-weight="800">O'</text>
+    <circle cx="300" cy="240" r="5" fill="#d97706" stroke="#ffffff" stroke-width="1.5" />
+    <text x="296" y="272" fill="#b45309" font-size="15" font-weight="800">O'</text>
 
     <!-- Labels for sides -->
     <!-- PR (side s) -->
-    <text x="365" y="222" fill="#0284c7" font-size="14" font-weight="bold">s</text>
+    <text x="355" y="205" fill="#0284c7" font-size="14" font-weight="bold">s</text>
     <!-- PO' (length 1) -->
-    <text x="296" y="224" fill="#b45309" font-size="12" font-weight="bold">1</text>
-  </g>
-
-  <!-- Right Panel: Step-by-Step Draft Card -->
-  <g transform="translate(480, 80)">
-    <rect x="0" y="0" width="250" height="400" fill="#f8fafc" rx="10" stroke="#cbd5e1" stroke-width="1" filter="url(#shadow)" />
-    
-    <text x="16" y="32" fill="#0f172a" font-size="15" font-weight="700">✍️ Derivation Steps</text>
-
-    <!-- Step 1 -->
-    <g transform="translate(16, 50)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">1</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">60° Rotation</text>
-      <text x="28" y="32" fill="#475569" font-size="11">Rotate △POQ counterclockwise</text>
-      <text x="28" y="46" fill="#475569" font-size="11">by 60° around P to get △PO'R.</text>
-    </g>
-
-    <!-- Step 2 -->
-    <g transform="translate(16, 120)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">2</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Segment Lengths</text>
-      <text x="28" y="32" fill="#0284c7" font-size="12" font-weight="bold">PO' = PO = 1</text>
-      <text x="28" y="48" fill="#4f46e5" font-size="12" font-weight="bold">O'R = OQ = 2</text>
-      <text x="28" y="64" fill="#7c3aed" font-size="12" font-weight="bold">OR = 3</text>
-    </g>
-
-    <!-- Step 3 -->
-    <g transform="translate(16, 205)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">3</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Collinearity Proof</text>
-      <text x="28" y="32" fill="#b45309" font-size="11" font-weight="bold">OO' + O'R = 1 + 2 = 3 = OR</text>
-      <text x="28" y="48" fill="#e11d48" font-size="11" font-weight="bold">➔ O, O', R are strictly collinear!</text>
-    </g>
-
-    <!-- Step 4 -->
-    <g transform="translate(16, 275)">
-      <circle cx="10" cy="10" r="10" fill="#16a34a" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">4</text>
-      <text x="28" y="14" fill="#15803d" font-size="13" font-weight="700">Law of Cosines for s²</text>
-      <text x="28" y="32" fill="#475569" font-size="11">∠PO'O = 60° ➔ ∠PO'R = 120°</text>
-      <text x="28" y="50" fill="#0f172a" font-size="11">In △PO'R, apply Law of Cosines:</text>
-      <text x="28" y="68" fill="#15803d" font-size="13" font-weight="800">s² = 1² + 2² - 2(1)(2)cos 120°</text>
-      <text x="28" y="86" fill="#15803d" font-size="14" font-weight="800">   = 1 + 4 - 4(-1/2) = 7</text>
-    </g>
+    <text x="292" y="208" fill="#b45309" font-size="12" font-weight="bold">1</text>
   </g>
 </svg>

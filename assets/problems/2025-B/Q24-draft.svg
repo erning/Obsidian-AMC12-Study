@@ -1,140 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
-  <defs>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1" />
-    </filter>
-  </defs>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 440" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
   <!-- Background -->
-  <rect width="760" height="520" fill="#ffffff" rx="12" />
+  <rect width="500" height="440" fill="#ffffff" rx="12" />
 
   <!-- Grid Pattern -->
   <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
-    <line x1="40" y1="0" x2="40" y2="520" />
-    <line x1="120" y1="0" x2="120" y2="520" />
-    <line x1="200" y1="0" x2="200" y2="520" />
-    <line x1="280" y1="0" x2="280" y2="520" />
-    <line x1="360" y1="0" x2="360" y2="520" />
-    <line x1="440" y1="0" x2="440" y2="520" />
-    <line x1="520" y1="0" x2="520" y2="520" />
-    <line x1="600" y1="0" x2="600" y2="520" />
-    <line x1="680" y1="0" x2="680" y2="520" />
+    <line x1="40" y1="0" x2="40" y2="440" />
+    <line x1="120" y1="0" x2="120" y2="440" />
+    <line x1="200" y1="0" x2="200" y2="440" />
+    <line x1="280" y1="0" x2="280" y2="440" />
+    <line x1="360" y1="0" x2="360" y2="440" />
+    <line x1="440" y1="0" x2="440" y2="440" />
     
-    <line x1="0" y1="60" x2="760" y2="60" />
-    <line x1="0" y1="140" x2="760" y2="140" />
-    <line x1="0" y1="220" x2="760" y2="220" />
-    <line x1="0" y1="300" x2="760" y2="300" />
-    <line x1="0" y1="380" x2="760" y2="380" />
-    <line x1="0" y1="460" x2="760" y2="460" />
+    <line x1="0" y1="60" x2="500" y2="60" />
+    <line x1="0" y1="140" x2="500" y2="140" />
+    <line x1="0" y1="220" x2="500" y2="220" />
+    <line x1="0" y1="300" x2="500" y2="300" />
+    <line x1="0" y1="380" x2="500" y2="380" />
   </g>
 
   <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="20" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q24 Solution Diagram (Trig &amp; Log Intersections)</text>
-  <text x="30" y="62" fill="#475569" font-size="13">sin(20πx) = log₂₀(x) on bounded domain x ∈ [1/20, 20]</text>
+  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q24 Trig &amp; Log Intersections</text>
+  <text x="30" y="60" fill="#475569" font-size="12">sin(20πx) = log₂₀(x) on bounded domain x ∈ [1/20, 20]</text>
 
   <!-- Left Diagram: Function Graph & Branch Counting -->
   <g transform="translate(0, 10)">
     <!-- Y-axis bounds y = +1 and y = -1 -->
-    <line x1="50" y1="130" x2="440" y2="130" stroke="#e11d48" stroke-width="1.5" stroke-dasharray="4,4" />
-    <text x="40" y="125" fill="#e11d48" font-size="11" font-weight="bold">y = +1</text>
+    <line x1="50" y1="120" x2="450" y2="120" stroke="#e11d48" stroke-width="1.5" stroke-dasharray="4,4" />
+    <text x="40" y="115" fill="#e11d48" font-size="11" font-weight="bold">y = +1</text>
 
-    <line x1="50" y1="390" x2="440" y2="390" stroke="#e11d48" stroke-width="1.5" stroke-dasharray="4,4" />
-    <text x="40" y="405" fill="#e11d48" font-size="11" font-weight="bold">y = -1</text>
+    <line x1="50" y1="360" x2="450" y2="360" stroke="#e11d48" stroke-width="1.5" stroke-dasharray="4,4" />
+    <text x="40" y="375" fill="#e11d48" font-size="11" font-weight="bold">y = -1</text>
 
     <!-- Axes -->
-    <line x1="50" y1="260" x2="440" y2="260" stroke="#64748b" stroke-width="1.5" />
-    <text x="425" y="250" fill="#64748b" font-size="12" font-weight="700">x</text>
+    <line x1="50" y1="240" x2="450" y2="240" stroke="#64748b" stroke-width="1.5" />
+    <text x="435" y="230" fill="#64748b" font-size="12" font-weight="700">x</text>
 
     <!-- Boundary points on X-axis -->
     <!-- x = 1/20 = 0.05 => x_pixel = 80 -->
-    <line x1="80" y1="120" x2="80" y2="400" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="3,3" />
-    <text x="65" y="420" fill="#0284c7" font-size="12" font-weight="bold">x = 1/20</text>
+    <line x1="80" y1="110" x2="80" y2="370" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="3,3" />
+    <text x="65" y="390" fill="#0284c7" font-size="12" font-weight="bold">x = 1/20</text>
 
     <!-- x = 1 => x_pixel = 180 -->
-    <line x1="180" y1="250" x2="180" y2="270" stroke="#64748b" stroke-width="1.5" />
-    <text x="175" y="280" fill="#64748b" font-size="12" font-weight="bold">x = 1</text>
+    <line x1="180" y1="230" x2="180" y2="250" stroke="#64748b" stroke-width="1.5" />
+    <text x="175" y="260" fill="#64748b" font-size="12" font-weight="bold">x = 1</text>
 
-    <!-- x = 20 => x_pixel = 410 -->
-    <line x1="410" y1="120" x2="410" y2="400" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="3,3" />
-    <text x="395" y="420" fill="#0284c7" font-size="12" font-weight="bold">x = 20</text>
+    <!-- x = 20 => x_pixel = 420 -->
+    <line x1="420" y1="110" x2="420" y2="370" stroke="#0284c7" stroke-width="1.5" stroke-dasharray="3,3" />
+    <text x="405" y="390" fill="#0284c7" font-size="12" font-weight="bold">x = 20</text>
 
     <!-- Logarithm Curve y = log_20(x) -->
-    <!-- (80, 390) -> (180, 260) -> (410, 130) -->
-    <path d="M 80 390 Q 130 300 180 260 T 410 130" fill="none" stroke="#0284c7" stroke-width="3" />
-    <text x="320" y="165" fill="#0284c7" font-size="13" font-weight="800">y = log₂₀(x)</text>
+    <path d="M 80 360 Q 130 280 180 240 T 420 120" fill="none" stroke="#0284c7" stroke-width="3" />
+    <text x="330" y="155" fill="#0284c7" font-size="13" font-weight="800">y = log₂₀(x)</text>
 
     <!-- Oscillating Sine Wave y = sin(20pi x) -->
-    <path d="M 80 390 
-             C 85 260, 90 130, 95 130 
-             C 100 130, 105 390, 110 390
-             C 115 390, 120 130, 125 130
-             C 130 130, 135 390, 140 390
-             C 145 390, 150 130, 155 130
-             C 160 130, 165 390, 170 390
-             C 175 390, 180 130, 185 130
-             S 200 390, 205 390
-             M 370 390
-             C 375 390, 380 130, 385 130
-             C 390 130, 395 390, 400 390
-             C 405 390, 410 130, 410 130" 
+    <path d="M 80 360 
+             C 85 240, 90 120, 95 120 
+             C 100 120, 105 360, 110 360
+             C 115 360, 120 120, 125 120
+             C 130 120, 135 360, 140 360
+             C 145 360, 150 120, 155 120
+             C 160 120, 165 360, 170 360
+             C 175 360, 180 120, 185 120
+             S 200 360, 205 360
+             M 380 360
+             C 385 360, 390 120, 395 120
+             C 400 120, 405 360, 410 360
+             C 415 360, 420 120, 420 120" 
           fill="none" stroke="#7c3aed" stroke-width="1.8" />
-    <text x="215" y="320" fill="#7c3aed" font-size="13" font-weight="800">y = sin(20πx)</text>
+    <text x="220" y="300" fill="#7c3aed" font-size="13" font-weight="800">y = sin(20πx)</text>
 
     <!-- Dots for Intersections -->
-    <circle cx="80" cy="390" r="4" fill="#e11d48" />
-    <circle cx="92" cy="210" r="4" fill="#e11d48" />
-    <circle cx="107" cy="340" r="4" fill="#e11d48" />
-    <circle cx="123" cy="225" r="4" fill="#e11d48" />
-    <circle cx="138" cy="350" r="4" fill="#e11d48" />
+    <circle cx="80" cy="360" r="4" fill="#e11d48" />
+    <circle cx="92" cy="190" r="4" fill="#e11d48" />
+    <circle cx="107" cy="310" r="4" fill="#e11d48" />
+    <circle cx="123" cy="205" r="4" fill="#e11d48" />
+    <circle cx="138" cy="320" r="4" fill="#e11d48" />
 
     <!-- Half-wave Zoom Callout Box -->
-    <rect x="230" y="320" width="160" height="90" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
-    <text x="240" y="340" fill="#0f172a" font-size="11" font-weight="700">🔎 Single Half-Wave</text>
-    <text x="240" y="360" fill="#475569" font-size="11">Length Δx = 1/20 = 0.05</text>
-    <text x="240" y="380" fill="#15803d" font-size="11" font-weight="bold">➔ Exactly 1 Intersection!</text>
-    <text x="240" y="398" fill="#e11d48" font-size="11" font-weight="bold">Total = 399 Branches</text>
-  </g>
-
-  <!-- Right Panel: Step-by-Step Card -->
-  <g transform="translate(480, 80)">
-    <rect x="0" y="0" width="250" height="400" fill="#f8fafc" rx="10" stroke="#cbd5e1" stroke-width="1" filter="url(#shadow)" />
-    
-    <text x="16" y="32" fill="#0f172a" font-size="15" font-weight="700">✍️ Derivation Steps</text>
-
-    <!-- Step 1 -->
-    <g transform="translate(16, 50)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">1</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Domain &amp; Range Bounds</text>
-      <text x="28" y="32" fill="#475569" font-size="11">-1 ≤ sin(20πx) ≤ 1</text>
-      <text x="28" y="46" fill="#0284c7" font-size="12" font-weight="bold">➔ -1 ≤ log₂₀(x) ≤ 1 ➔ x ∈ [1/20, 20]</text>
-    </g>
-
-    <!-- Step 2 -->
-    <g transform="translate(16, 120)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">2</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Period &amp; Half-Wave</text>
-      <text x="28" y="32" fill="#475569" font-size="11">Sine period T = 2π / 20π = 1/10.</text>
-      <text x="28" y="48" fill="#7c3aed" font-size="12" font-weight="bold">Monotonic half-wave Δx = 1/20</text>
-    </g>
-
-    <!-- Step 3 -->
-    <g transform="translate(16, 205)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">3</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Branch Counting</text>
-      <text x="28" y="32" fill="#b45309" font-size="11" font-weight="bold">Total length = 20 - 1/20 = 399 / 20</text>
-      <text x="28" y="48" fill="#475569" font-size="11">Number of half-waves = 399</text>
-    </g>
-
-    <!-- Step 4 -->
-    <g transform="translate(16, 275)">
-      <circle cx="10" cy="10" r="10" fill="#16a34a" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">4</text>
-      <text x="28" y="14" fill="#15803d" font-size="13" font-weight="700">Intersection Total</text>
-      <text x="28" y="32" fill="#475569" font-size="11">Each branch has 1 intersection.</text>
-      <text x="28" y="52" fill="#15803d" font-size="14" font-weight="800">Total Solutions = 399</text>
-    </g>
+    <rect x="240" y="305" width="180" height="85" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="250" y="325" fill="#0f172a" font-size="11" font-weight="700">🔎 Single Monotonic Branch</text>
+    <text x="250" y="343" fill="#475569" font-size="11">Half-wave length Δx = 1/20 = 0.05</text>
+    <text x="250" y="361" fill="#15803d" font-size="11" font-weight="bold">➔ 1 Intersection per branch</text>
+    <text x="250" y="378" fill="#e11d48" font-size="12" font-weight="bold">Total Intersections = 399</text>
   </g>
 </svg>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 520" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 460" width="100%" height="100%" style="background-color: #ffffff; font-family: system-ui, -apple-system, sans-serif;">
   <defs>
     <linearGradient id="waterGrad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.5" />
@@ -9,126 +9,76 @@
       <stop offset="0%" stop-color="#f1f5f9" stop-opacity="0.4" />
       <stop offset="100%" stop-color="#e2e8f0" stop-opacity="0.2" />
     </linearGradient>
-
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1" />
-    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="760" height="520" fill="#ffffff" rx="12" />
+  <rect width="520" height="460" fill="#ffffff" rx="12" />
 
   <!-- Grid Pattern -->
   <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
-    <line x1="40" y1="0" x2="40" y2="520" />
-    <line x1="120" y1="0" x2="120" y2="520" />
-    <line x1="200" y1="0" x2="200" y2="520" />
-    <line x1="280" y1="0" x2="280" y2="520" />
-    <line x1="360" y1="0" x2="360" y2="520" />
-    <line x1="440" y1="0" x2="440" y2="520" />
-    <line x1="520" y1="0" x2="520" y2="520" />
-    <line x1="600" y1="0" x2="600" y2="520" />
-    <line x1="680" y1="0" x2="680" y2="520" />
+    <line x1="40" y1="0" x2="40" y2="460" />
+    <line x1="120" y1="0" x2="120" y2="460" />
+    <line x1="200" y1="0" x2="200" y2="460" />
+    <line x1="280" y1="0" x2="280" y2="460" />
+    <line x1="360" y1="0" x2="360" y2="460" />
+    <line x1="440" y1="0" x2="440" y2="460" />
     
-    <line x1="0" y1="60" x2="760" y2="60" />
-    <line x1="0" y1="140" x2="760" y2="140" />
-    <line x1="0" y1="220" x2="760" y2="220" />
-    <line x1="0" y1="300" x2="760" y2="300" />
-    <line x1="0" y1="380" x2="760" y2="380" />
-    <line x1="0" y1="460" x2="760" y2="460" />
+    <line x1="0" y1="60" x2="520" y2="60" />
+    <line x1="0" y1="140" x2="520" y2="140" />
+    <line x1="0" y1="220" x2="520" y2="220" />
+    <line x1="0" y1="300" x2="520" y2="300" />
+    <line x1="0" y1="380" x2="520" y2="380" />
   </g>
 
   <!-- Title -->
-  <text x="30" y="40" fill="#0f172a" font-size="20" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q15 Solution Diagram (Frustum Volume Integration)</text>
-  <text x="30" y="62" fill="#475569" font-size="13">Cross-sectional area A(t) = (1+2t)² from bottom t=0 to top t=1</text>
+  <text x="30" y="40" fill="#0f172a" font-size="18" font-weight="700" letter-spacing="0.5">AMC12 2025-B Q15 Frustum Cross-Section</text>
+  <text x="30" y="60" fill="#475569" font-size="12">Side length s(t) = 1 + 2t &amp; volume slice proportions</text>
 
-  <!-- Left Diagram: 2D Cross-Section of Container -->
+  <!-- Centered Diagram: 2D Cross-Section of Container -->
   <!-- 
-       Coordinates:
-       Height = 320 px (from y=420 at t=0 to y=100 at t=1)
-       Midline at y=260 (t=1/2)
+       Center X = 260
+       Height = 300 px (from y=400 at t=0 to y=100 at t=1)
+       Midline at y=250 (t=1/2)
 
-       Bottom (t=0): width = 90 px => x: [195, 285], y=420
-       Midline (t=1/2): width = 180 px => x: [150, 330], y=260
-       Top (t=1): width = 270 px => x: [105, 375], y=100
+       Bottom (t=0): width = 100 px => x: [210, 310], y=400
+       Midline (t=1/2): width = 200 px => x: [160, 360], y=250
+       Top (t=1): width = 300 px => x: [110, 410], y=100
   -->
   <g transform="translate(0, 10)">
     <!-- Height Axis on Left -->
-    <line x1="65" y1="420" x2="65" y2="100" stroke="#64748b" stroke-width="1.5" stroke-dasharray="4,4" />
+    <line x1="60" y1="400" x2="60" y2="100" stroke="#64748b" stroke-width="1.5" stroke-dasharray="4,4" />
+    
     <!-- Ticks & Text -->
-    <line x1="60" y1="420" x2="70" y2="420" stroke="#64748b" stroke-width="2" />
-    <text x="30" y="424" fill="#0f172a" font-size="12" font-weight="bold">t = 0</text>
+    <line x1="55" y1="400" x2="65" y2="400" stroke="#64748b" stroke-width="2" />
+    <text x="25" y="404" fill="#0f172a" font-size="12" font-weight="bold">t = 0</text>
 
-    <line x1="60" y1="260" x2="70" y2="260" stroke="#64748b" stroke-width="2" />
-    <text x="20" y="264" fill="#0284c7" font-size="12" font-weight="bold">t = 1/2</text>
+    <line x1="55" y1="250" x2="65" y2="250" stroke="#64748b" stroke-width="2" />
+    <text x="15" y="254" fill="#0284c7" font-size="12" font-weight="bold">t = 1/2</text>
 
-    <line x1="60" y1="100" x2="70" y2="100" stroke="#64748b" stroke-width="2" />
-    <text x="30" y="104" fill="#0f172a" font-size="12" font-weight="bold">t = 1</text>
+    <line x1="55" y1="100" x2="65" y2="100" stroke="#64748b" stroke-width="2" />
+    <text x="25" y="104" fill="#0f172a" font-size="12" font-weight="bold">t = 1</text>
 
     <!-- Lower Half (Filled Water) -->
-    <polygon points="195,420 285,420 330,260 150,260" fill="url(#waterGrad)" stroke="#0284c7" stroke-width="2" />
-    <text x="240" y="345" fill="#0369a1" font-size="14" font-weight="800" text-anchor="middle">V_lower = 7/6</text>
-    <text x="240" y="365" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">(Time = 35 min)</text>
+    <polygon points="210,400 310,400 360,250 160,250" fill="url(#waterGrad)" stroke="#0284c7" stroke-width="2.5" />
+    <text x="260" y="330" fill="#0369a1" font-size="15" font-weight="800" text-anchor="middle">V_lower = 7/6</text>
+    <text x="260" y="352" fill="#0284c7" font-size="13" font-weight="bold" text-anchor="middle">(Time = 35 min)</text>
 
     <!-- Upper Half (Empty Remaining Volume) -->
-    <polygon points="150,260 330,260 375,100 105,100" fill="url(#emptyGrad)" stroke="#64748b" stroke-width="2" stroke-dasharray="5,4" />
-    <text x="240" y="180" fill="#475569" font-size="14" font-weight="800" text-anchor="middle">V_upper = 19/6</text>
-    <text x="240" y="200" fill="#15803d" font-size="13" font-weight="bold" text-anchor="middle">(Time = ? 95 min)</text>
+    <polygon points="160,250 360,250 410,100 110,100" fill="url(#emptyGrad)" stroke="#64748b" stroke-width="2" stroke-dasharray="5,4" />
+    <text x="260" y="170" fill="#475569" font-size="15" font-weight="800" text-anchor="middle">V_upper = 19/6</text>
+    <text x="260" y="192" fill="#15803d" font-size="13" font-weight="bold" text-anchor="middle">(Time = 95 min)</text>
 
     <!-- Width Labels -->
     <!-- Bottom 1x1 -->
-    <line x1="195" y1="435" x2="285" y2="435" stroke="#0f172a" stroke-width="1.5" />
-    <text x="240" y="450" fill="#0f172a" font-size="12" font-weight="bold" text-anchor="middle">Side s(0) = 1</text>
+    <line x1="210" y1="415" x2="310" y2="415" stroke="#0f172a" stroke-width="1.5" />
+    <text x="260" y="432" fill="#0f172a" font-size="12" font-weight="bold" text-anchor="middle">Bottom s(0) = 1</text>
 
     <!-- Midline 2x2 -->
-    <line x1="150" y1="260" x2="330" y2="260" stroke="#0284c7" stroke-width="2" stroke-dasharray="3,3" />
-    <text x="240" y="252" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">Midline s(1/2) = 2</text>
+    <line x1="160" y1="250" x2="360" y2="250" stroke="#0284c7" stroke-width="2" stroke-dasharray="3,3" />
+    <text x="260" y="242" fill="#0284c7" font-size="12" font-weight="bold" text-anchor="middle">Midline s(1/2) = 2</text>
 
     <!-- Top 3x3 -->
-    <line x1="105" y1="85" x2="375" y2="85" stroke="#0f172a" stroke-width="1.5" />
-    <text x="240" y="75" fill="#0f172a" font-size="12" font-weight="bold" text-anchor="middle">Top Side s(1) = 3</text>
-  </g>
-
-  <!-- Right Panel: Step-by-Step Card -->
-  <g transform="translate(480, 80)">
-    <rect x="0" y="0" width="250" height="400" fill="#f8fafc" rx="10" stroke="#cbd5e1" stroke-width="1" filter="url(#shadow)" />
-    
-    <text x="16" y="32" fill="#0f172a" font-size="15" font-weight="700">✍️ Derivation Steps</text>
-
-    <!-- Step 1 -->
-    <g transform="translate(16, 50)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">1</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Linear Side Length</text>
-      <text x="28" y="32" fill="#475569" font-size="11">Height t ∈ [0, 1]</text>
-      <text x="28" y="46" fill="#0284c7" font-size="12" font-weight="bold">Side s(t) = 1 + 2t</text>
-    </g>
-
-    <!-- Step 2 -->
-    <g transform="translate(16, 120)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">2</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Cross-Sectional Area</text>
-      <text x="28" y="32" fill="#475569" font-size="11">Square area at height t:</text>
-      <text x="28" y="48" fill="#0284c7" font-size="12" font-weight="bold">A(t) = (1 + 2t)²</text>
-    </g>
-
-    <!-- Step 3 -->
-    <g transform="translate(16, 205)">
-      <circle cx="10" cy="10" r="10" fill="#0284c7" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">3</text>
-      <text x="28" y="14" fill="#0f172a" font-size="13" font-weight="600">Volume Integration</text>
-      <text x="28" y="32" fill="#0369a1" font-size="11" font-weight="bold">V_lower (0 ➔ 1/2) = 7/6</text>
-      <text x="28" y="48" fill="#475569" font-size="11" font-weight="bold">V_upper (1/2 ➔ 1) = 19/6</text>
-    </g>
-
-    <!-- Step 4 -->
-    <g transform="translate(16, 275)">
-      <circle cx="10" cy="10" r="10" fill="#16a34a" />
-      <text x="10" y="14" fill="#ffffff" font-size="11" font-weight="bold" text-anchor="middle">4</text>
-      <text x="28" y="14" fill="#15803d" font-size="13" font-weight="700">Remaining Time</text>
-      <text x="28" y="32" fill="#b45309" font-size="11" font-weight="bold">V_upper / V_lower = 19 / 7</text>
-      <text x="28" y="52" fill="#15803d" font-size="14" font-weight="800">Time = 35 × (19/7) = 95 min</text>
-    </g>
+    <line x1="110" y1="85" x2="410" y2="85" stroke="#0f172a" stroke-width="1.5" />
+    <text x="260" y="75" fill="#0f172a" font-size="12" font-weight="bold" text-anchor="middle">Top s(1) = 3</text>
   </g>
 </svg>
