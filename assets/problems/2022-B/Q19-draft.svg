@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 340" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="triGradABC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="triGradAGE" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="340" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="340" />
+    <line x1="120" y1="0" x2="120" y2="340" />
+    <line x1="200" y1="0" x2="200" y2="340" />
+    <line x1="280" y1="0" x2="280" y2="340" />
+    <line x1="360" y1="0" x2="360" y2="340" />
+    <line x1="440" y1="0" x2="440" y2="340" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -45)">
+    <!-- Triangle ABC Vertices:
+         A = (120, 80)
+         B = (60, 310)
+         C = (440, 310)
+         E (Midpoint AC) = (280, 195)
+         D (Midpoint BC) = (250, 310)
+         Centroid G = (206.7, 233.3)
+    -->
+    <polygon points="120,80 60,310 440,310" fill="url(#triGradABC)" stroke="#0284c7" stroke-width="2.5" stroke-linejoin="round" />
+
+    <!-- Medians AD and BE -->
+    <line x1="120" y1="80" x2="250" y2="310" stroke="#d97706" stroke-width="2" />
+    <line x1="60" y1="310" x2="280" y2="195" stroke="#d97706" stroke-width="2" />
+
+    <!-- Equilateral Triangle AGE: Vertices A(120,80), G(207,233), E(280,195) -->
+    <polygon points="120,80 207,233 280,195" fill="url(#triGradAGE)" stroke="#7c3aed" stroke-width="2.5" stroke-linejoin="round" />
+
+    <!-- Vertices -->
+    <circle cx="120" cy="80" r="5" fill="#0f172a" />
+    <text x="110" y="70" fill="#0f172a" font-size="15" font-weight="bold">A</text>
+
+    <circle cx="60" cy="310" r="5" fill="#0f172a" />
+    <text x="45" y="325" fill="#0f172a" font-size="15" font-weight="bold">B</text>
+
+    <circle cx="440" cy="310" r="5" fill="#0f172a" />
+    <text x="450" y="325" fill="#0f172a" font-size="15" font-weight="bold">C</text>
+
+    <circle cx="280" cy="195" r="4.5" fill="#7c3aed" />
+    <text x="295" y="195" fill="#7c3aed" font-size="14" font-weight="bold">E (b/2)</text>
+
+    <circle cx="250" cy="310" r="4.5" fill="#d97706" />
+    <text x="250" y="330" fill="#d97706" font-size="14" font-weight="bold" text-anchor="middle">D</text>
+
+    <circle cx="207" cy="233" r="5" fill="#7c3aed" />
+    <text x="180" y="245" fill="#7c3aed" font-size="14" font-weight="bold">G (Centroid)</text>
+
+    <!-- Labels -->
+    <text x="200" y="145" fill="#7c3aed" font-size="13" font-weight="bold">Equilateral ΔAGE</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">AG=GE=AE=b/2 ➔ AD=3b/4, BE=3b/2 ➔ cos C = m√n / p ➔ m+n+p = 44</text>
+  </g>
+</svg>

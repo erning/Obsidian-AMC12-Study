@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 355" width="100%" height="100%" style="background-color: #ffffff; font-family: 'Latin Modern Math', 'Computer Modern', 'STIX Two Text', 'Times New Roman', Cambria, serif;">
+  <defs>
+    <linearGradient id="sqGrad8" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0369a1" stop-opacity="0.05" />
+    </linearGradient>
+    <linearGradient id="shdGradB" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#6d28d9" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="520" height="355" fill="#ffffff" rx="12" />
+  <!-- Grid Pattern -->
+  <g stroke="#e2e8f0" stroke-width="0.8" stroke-dasharray="4,4">
+    <line x1="40" y1="0" x2="40" y2="355" />
+    <line x1="120" y1="0" x2="120" y2="355" />
+    <line x1="200" y1="0" x2="200" y2="355" />
+    <line x1="280" y1="0" x2="280" y2="355" />
+    <line x1="360" y1="0" x2="360" y2="355" />
+    <line x1="440" y1="0" x2="440" y2="355" />
+    
+    <line x1="0" y1="50" x2="520" y2="50" />
+    <line x1="0" y1="110" x2="520" y2="110" />
+    <line x1="0" y1="170" x2="520" y2="170" />
+    <line x1="0" y1="230" x2="520" y2="230" />
+    <line x1="0" y1="290" x2="520" y2="290" />
+    <line x1="0" y1="350" x2="520" y2="350" />
+  </g>
+
+  <!-- Content Group -->
+  <g transform="translate(0, -30)">
+    <!-- Outer Square 8x8 (Scale 30 px/unit): (140, 70) to (380, 310) -->
+    <rect x="140" y="70" width="240" height="240" fill="url(#sqGrad8)" stroke="#0284c7" stroke-width="2.5" />
+
+    <!-- Rectangle A (1x6 at Top Left): (140, 70), W=180, H=30 -->
+    <rect x="140" y="70" width="180" height="30" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5" />
+    <text x="230" y="90" fill="#0369a1" font-size="13" font-weight="bold" text-anchor="middle">A (1 × 6)</text>
+
+    <!-- Rectangle D (2x7 at Bottom): (170, 250), W=210, H=60 -->
+    <rect x="170" y="250" width="210" height="60" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5" />
+    <text x="275" y="285" fill="#0369a1" font-size="13" font-weight="bold" text-anchor="middle">D (2 × 7)</text>
+
+    <!-- Rectangle E (2x3 at Left Bottom): (140, 100), W=60, H=90 -->
+    <rect x="140" y="100" width="60" height="90" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5" />
+    <text x="170" y="150" fill="#0369a1" font-size="13" font-weight="bold" text-anchor="middle">E (2 × 3)</text>
+
+    <!-- Rectangle C (5x6 at Right): (230, 70), W=150, H=180 -->
+    <rect x="230" y="70" width="150" height="180" fill="#e0f2fe" stroke="#0284c7" stroke-width="1.5" />
+    <text x="305" y="160" fill="#0369a1" font-size="13" font-weight="bold" text-anchor="middle">C (5 × 6)</text>
+
+    <!-- Center Shaded Rectangle B (2x4): (170, 130), W=60, H=120 -->
+    <rect x="170" y="130" width="60" height="120" fill="url(#shdGradB)" stroke="#7c3aed" stroke-width="2.5" />
+    <text x="200" y="195" fill="#7c3aed" font-size="15" font-weight="bold" text-anchor="middle">B (2 × 4)</text>
+
+    <!-- Labels -->
+    <text x="260" y="55" fill="#0284c7" font-size="14" font-weight="bold" text-anchor="middle">Outer Square Side = 8 (Total Area = 64)</text>
+
+    <!-- Result Formula Box -->
+    <rect x="50" y="335" width="420" height="40" fill="#f8fafc" rx="6" stroke="#cbd5e1" stroke-width="1" />
+    <text x="65" y="360" fill="#15803d" font-size="14" font-weight="bold">Center Gap Perimeter = 12 ➔ Only Rectangle B (2×4) has Perimeter 12</text>
+  </g>
+</svg>
